@@ -1,5 +1,6 @@
 ## Довідник 
-# 5th Edition System Reference Document
+# 5th Edition System Reference Document, v.65.1
+ [Ліцензія на поширення Open Game License](./license.md) 
 
 ## Пригоди
 
