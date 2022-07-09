@@ -74,8 +74,8 @@
 
 ## Чаротворення
 
-|------------------------------------------------|----------------------------------------|-------------------------------------------|
 | Чаротворення                                   | Списки чарів                           | Списки чарів за класами                   |
+|------------------------------------------------|----------------------------------------|-------------------------------------------|
 | [Створення чарів](./spellcasting/casting_a_spell.md)| [Чари за рівнями](./spellcasting/spell_indexes/spells_by_level.md) | [Бард](./spellcasting/spell_lists/bard_spells.md)         |
 | [Що таке чари?](./spellcasting/what_is_a_spell.md) | [Чари за назвами](./spellcasting/spell_indexes/spells_by_name.md)   | [Клірик](./spellcasting/spell_lists/cleric_spells.md)     |
 |                                                | [Чари за школами](./spellcasting/spell_indexes/spells_by_school.md) | [Друїд](./spellcasting/spell_lists/druid_spells.md)       |
