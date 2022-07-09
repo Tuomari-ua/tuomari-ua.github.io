@@ -60,8 +60,8 @@
 
 | Правила Майстра                                | Списки предметів                       | Списки монстрів                                   |
 |------------------------------------------------|----------------------------------------|---------------------------------------------------|
-| [Хвороби](./gamemaster_rules/diseases.md)      | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/items_by_name.md) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
-| [Легендарні істоти](./gamemaster_rules/legendary_creatures.md)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/items_by_type.md) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
+| [Хвороби](./gamemaster_rules/diseases.md)      | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
+| [Легендарні істоти](./gamemaster_rules/legendary_creatures.md)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
 | [Безумство](./gamemaster_rules/madness.md)     |                                        | [Монстри за РН](./gamemaster_rules/monster_indexes/monsters_by_cr.md)     |
 | [Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
 | [Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
