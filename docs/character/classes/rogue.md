@@ -1,128 +1,128 @@
-description: Rules and information for the Rogue class from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для класу Пройдисвіт із 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# The Rogue
+# Пройдисвіт
 
-| Level | Proficiency Bonus | Sneak Attack  | Features                               |
-|-------|------------------ |---------------|----------------------------------------|
-| 1st   | +2                | 1d6           | Expertise, Sneak Attack, Thieves' Cant |
-| 2nd   | +2                | 1d6           | Cunning Action                         |
-| 3rd   | +2                | 2d6           | Roguish Archetype                      |
-| 4th   | +2                | 2d6           | Ability Score Improvement              |
-| 5th   | +3                | 3d6           | Uncanny Dodge                          |
-| 6th   | +3                | 3d6           | Expertise                              |
-| 7th   | +3                | 4d6           | Evasion                                |
-| 8th   | +3                | 4d6           | Ability Score Improvement              |
-| 9th   | +4                | 5d6           | Roguish Archetype feature              |
-| 10th  | +4                | 5d6           | Ability Score Improvement              |
-| 11th  | +4                | 6d6           | Reliable Talent                        |
-| 12th  | +4                | 6d6           | Ability Score Improvement              |
-| 13th  | +5                | 7d6           | Roguish Archetype Feature              |
-| 14th  | +5                | 7d6           | Blindsense                             |
-| 15th  | +5                | 8d6           | Slippery Mind                          |
-| 16th  | +5                | 8d6           | Ability Score Improvement              |
-| 17th  | +6                | 9d6           | Roguish Archetype feature              |
-| 18th  | +6                | 9d6           | Elusive                                |
-| 19th  | +6                | 10d6          | Ability Score Improvement              |
-| 20th  | +6                | 10d6          | Stroke of Luck                         |
+| Рівень | Бонус досвіду | Прихована атака | Особливості                                     |
+| ------ | ------------- | --------------- | ----------------------------------------------- |
+| 1-й    | +2            | 1к6             | Експертиза, Прихована атака, Злодійський жаргон |
+| 2-й    | +2            | 1к6             | Підступна дія                                   |
+| 3-й    | +2            | 2к6             | Архетип пройдисвіта                             |
+| 4-й    | +2            | 2к6             | Покращення здібностей                           |
+| 5-й    | +3            | 3к6             | Неймовірне ухилення                             |
+| 6-й    | +3            | 3к6             | Експертиза                                      |
+| 7-й    | +3            | 4к6             | Ухилення                                        |
+| 8-й    | +3            | 4к6             | Покращення здібностей                           |
+| 9-й    | +4            | 5к6             | Особливість архетипу пройдисвіта                |
+| 10-й   | +4            | 5к6             | Покращення здібностей                           |
+| 11-й   | +4            | 6к6             | Надійний талант                                 |
+| 12-й   | +4            | 6к6             | Покращення здібностей                           |
+| 13-й   | +5            | 7к6             | Особливість архетипу пройдисвіта                |
+| 14-й   | +5            | 7к6             | Чуття наосліп                                   |
+| 15-й   | +5            | 8к6             | Слизький розум                                  |
+| 16-й   | +5            | 8к6             | Покращення здібностей                           |
+| 17-й   | +6            | 9к6             | Особливість архетипу пройдисвіта                |
+| 18-й   | +6            | 9к6             | Невловимий                                      |
+| 19-й   | +6            | 10к6            | Покращення здібностей                           |
+| 20-й   | +6            | 10к6            | Примха удачі                                    |
 
-## Class Features
-As a rogue, you gain the following class features.
+## Класові особливості
+Як пройдисвіт ви здобуваєте наступні класові особливості.
 
-### Hit Points
-**Hit Dice:** 1d8 per rogue level  
-**Hit Points at 1st Level:** 8 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per rogue level after 1st  
+### Пункти здоров'я
+**Кістки здоров'я:** 1к8 за рівень пройдисвіта  
+**Пункти здоров'я на 1-му рівні:** 8 + ваш модифікатор Статури  
+**Пункти здоров'я на вищих рівнях:** 1к8 (або 5) + ваш модифікатор Статури за кожен рівень пройдисвіта після першого
 
-### Proficiencies
-**Armor:** Light armor  
-**Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords  
-**Tools:** Thieves' tools    
-**Saving Throws:** Dexterity, Intelligence   
-**Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth  
+### Досвід
+**Броня:** Легка броня  
+**Зброя:** Проста зброя, ручні арбалети, довгі мечі, рапіри, короткі мечі  
+**Інструменти:** Злодійські інструменти    
+**Рятівні кидки:** Спритність, Інтелект   
+**Навички:** Виберіть чотири навички з-поміж наступних: Акробатика, Атлетика, Обман, Інтуїція, Залякування, Розслідування, Сприйняття, Артистичність, Переконливість, Спритність рук та Непомітність
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Спорядження
+Ви починаєте з наступним спорядженням, на додачу до спорядження, яке надає ваша передісторія:
 
-* (a) a rapier or (b) a shortsword 
-* (a) a shortbow and quiver of 20 arrows or (b) a shortsword
-* (a) a burglar's pack, (b) a dungeoneer's pack, or (c) an explorer's pack
-* (a) Leather armor, two daggers, and thieves' tools
+* (a) рапіра або (b) короткий меч
+* (а) короткий меч і сагайдак із 20 стрілами або (b) короткий меч
+* (a) набір зломника, (b) набір дослідника підземель, або (c) набір дослідника
+* (a) Шкіряний обладунок, два кинджали та злодійські інструменти
 
-### Expertise 
+### Експертиза
 - - -
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves' tools. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.   
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves' tools) to gain this benefit. 
+На 1-му рівні оберіть дві навички, які ви опанували, або одну навичку та злодійські інструменти. Ваш бонус досвіду подвоюється для будь-яких перевірок обраних таким чином навичок чи інструментів.   
+На 6-му рівні ви можете опанувати ще дві навички (або навичку та злодійські інструменти), щоб отримати цей привілей.
 
-### Sneak Attack 
+### Прихована атака
 - - -
-Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.    
-You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and you don't have disadvantage on the attack roll.    
-The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table. 
+Починаючи з 1-го рівня, ви знаєте, як завдавати ударів непомітно та використовувати розгубленість ворога. Один раз на хід ви можете завдати додаткові 1к6 пошкоджень одній істоті, яку атакуєте, якщо ви маєте перевагу на цей кидок атаки. Атака має бути здійснена фехтувальною або далекобійною зброєю.    
+Вам не потрібна перевага для атаки, якщо інший ворог цілі перебуває на відстані до 5 футів від неї, цей ворог не недієдатний і ви не маєте перешкоди на кидок атаки.    
+Кількість додаткових пошкоджень збільшується, коли ви отримуєте рівні в цьому класі, як показано в колонці "Прихована атака" таблиці класу Пройдисвіт.
 
-### Thieves' Cant 
+### Злодійський жаргон
 - - -
-During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.    
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run. 
+Під час своїх пригод ви навчилися злодійського жаргону - таємного поєднання діалекту, жаргону та шифрів, який дозволяє вам приховати своє повідомлення під час нібито звичайної розмови. Тільки інша істота, яка знає злодійський жаргон, може зрозуміти таке повідомлення. Передача такого повідомлення потребує учетверо більше часу, ніж якби ви сказали його напряму.    
+На додачу ви розумієте набори таємних знаків та символів, які використовуються для передачі коротких простих повідомлень, на зразок тих, що повідомляють про небезпеку в цій місцевості або належність території до злодійської гільдії, чи є поблизу здобич, чи легко обманути місцеве населення, та чи може злодій у бігах знайти тут безпечних прихисток.
 
-### Cunning Action 
+### Підступна дія
 - - -
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly. You can take a bonus action on each of your turns in combat. This action can be used only to take the Dash, Disengage, or Hide action. 
+Починаючи з 2-го рівня, ваше швидке мислення та гнучкість дозволяють вам рухатися та діяти швидко. Ви можете виконувати додаткові дії в бою під час кожного свого ходу. Цю особливість можна використовувати лише для того, щоб здійснити дію Ривок, Відступити або Сховатися.
 
-### Roguish Archetype
+### Архетип пройдисвіта
 - - -
-At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities: Thief, Assassin, or Arcane Trickster, all detailed at the end of the class description. Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level. 
+На 3-му рівні ви вибираєте архетип, який ви наслідуєте, вдосконалюючи свої здібності: Крадій, Убивця чи Магічний штукар, деталі яких перелічено в кінці опису класу. Ваш архетип надає вам особливості на 3-му рівні й знову на 9-му, 13-му та 17-му рівнях.
 
-### Ability Score Improvement 
+### Покращення здібностей
 - - -
-When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+Коли ви досягнете 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівні, ви можете збільшити одну зі своїх здібностей на 2 або дві здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
 
-### Uncanny Dodge 
+### Неймовірне ухилення
 - - -
-Starting at 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you. 
+Починаючи з 5-го рівня, коли нападник, якого ви можете бачити, влучає по вам атакою, ви можете застосувати свою реакцію, щоб удвічі зменшити завдані цією атакою пошкодження.
 
-### Evasion 
+### Ухилення
 - - -
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an **_ice storm_** spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. 
+Починаючи з 7-го рівня, ви можете спритно ухилятися від впливу зональних ефектів, таких як вогняне дихання червоного дракона або чари **_крижана буря_**. Якщо ви зазнаєте ефекту, який дозволяє зробити ряткидок Спритності для отримання половини пошкоджень, ви натомість не отримуєте жодного пошкодження за умови успішного ряткидка, і тільки половину пошкоджень у випадку невдачі.
 
-### Reliable Talent 
+### Надійний талант
 - - -
-By 11th level, you have refined your chosen skills until they approach perfection. Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10. 
+На 11-му рівні ви відточили свої навички так, що вони не стали досконалими. Щоразу коли ви робите перевірку навички, до якої додаєте бонус досвіду, ви можете вважати всі кидки к20 з результатом 9 або нижче як результат 10.
 
-### Blindsense 
+### Відчуття наосліп
 - - -
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you. 
+Починаючи з 14-го рівня, якщо ви здатні чути, ви усвідомлюєте розташування усіх прихованих або невидимих істот на відстані до 10 футів навколо себе.
 
-### Slippery Mind 
+### Слизький розум
 - - -
-By 15th level, you have acquired greater mental strength. You gain proficiency in Wisdom saving throws. 
+До 15-го рівня ви здобуваєте більшу силу мислення. Ви опановуєте рятівний кидок Мудрості.
 
-### Elusive 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you. No attack roll has advantage against you while you aren't incapacitated. 
+### Невловимий
+Починаючи з 18-го рівня, ви настільки спритні, що зловмисники рідко можуть взяти над вами гору. Жоден кидок атаки проти вас не має переваги, якщо ви не недієздатні.
 
-### Stroke of Luck 
+### Примха удачі
 - - -
-At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.   
-Once you use this feature, you can't use it again until you finish a short or long rest. 
+На 20-му рівні ви маєте неймовірний дар досягати успіху, коли це найбільше потрібно. Якщо ви не влучаєте атакою по цілі в межах досяжності, ви можете перетворити промах на влучання. Крім того, якщо ви провалюєте перевірку навички, ви можете вважати результат кидка к20 за результат 20.   
+Щойно ви застосуєте цю особливість, ви не можете скористатися нею, доки не завершите короткий або тривалий відпочинок.
 
-## Roguish Archetypes 
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus - not necessarily an indication of your chosen profession, but a description of your preferred techniques. 
+## Архетип пройдисвіта
+Пройдисвіти мають багато спільного, включаючи прагнення до вдосконалення навичок, їхній точний і смертоносний підхід до бою, а також неймовірно швидкі рефлекси. Але різні пройдисвіти спрямовують ці таланти у різних напрямках, що втілюються у різних архетипах. Ваш вибір архетипу - це відображення вашої цілеспрямованості, не обов'язково обрана професія, але опис технік, яким ви надаєте перевагу.
 
-### Thief 
+### Крадій
 - - -
-You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and other criminals typically follow this archetype, but so do rogues who prefer to think of themselves as professional treasure seekers, explorers, delvers, and investigators. In addition to improving your agility and stealth, you learn skills useful for delving into ancient ruins, reading unfamiliar languages, and using magic items you normally couldn't employ. 
+Ви вдосконалили своє мистецтво крадіжки. Грабіжники, бандити, кишенькові злодії та інші злочинці, як правило, обирають цей архетип, але його ж обирають і пройдисвіти, які вважають себе професійними шукачами скарбів, дослідниками, копачами і мандрівниками. На додаток до поліпшення спритності та хитрості, ви навчаєтеся технік, які стануть у нагоді під час розкопок давніх руїн, читання незнайомих мов і використання магічних предметів, з якими ви зазвичай не стикаєтеся.
 
-#### Fast Hands 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action. 
+#### Швидкі руки
+Починаючи з 3-го рівня, ви можете використовувати бонусні дії від особливості "Підступна дія", щоб зробити перевірку Спритності (Спритність рук), застосувати свої злодійські інструменти, щоб знешкодити пастку, відімкнути замок, або на дію Використання предмета.
 
-#### Second-Story Work 
-When you choose this archetype at 3rd level, you gain the ability to climb faster than normal; climbing no longer costs you extra movement.    
-In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Dexterity modifier. 
+#### Верхолаз
+Коли ви обираєте цей архетип на 3-му рівні, ви набуваєте здатності лазити швидше, ніж звичайно; лазіння більше не коштує вам додаткового руху.    
+Крім того, коли ви робите стрибок із розбігу, дистанція стрибка зростає на кількість футів, що дорівнює вашому модифікатору Спритності.
 
-#### Supreme Sneak 
-Starting at 9th level, you have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn. 
+#### Неперевершений підступ
+Починаючи з 9-го рівня, ви маєте перевагу на перевірки Спритності (Непомітність), якщо рухаєтеся в цей хід не більш як на половину своєї швидкості.
 
-#### Use Magic Device 
-By 13th level, you have learned enough about the workings of magic that you can improvise the use of items even when they are not intended for you. You ignore all class, race, and level requirements on the use of magic items. 
+#### Користування магічними пристроями
+На 13-му рівні ви вже знаєте достатньо про те, як працює магія, щоб імпровізувати використання предметів, які ніколи вам не призначалися. Ви ігноруєте всі класові та расові вимоги, а також вимоги до рівня, що стосуються використання магічних предметів.
 
-#### Thief's Reflexes 
-When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
+#### Рефлекси крадія
+Коли ви досягаєте 17-го рівня, то маєте досвід влаштування засідок та швидкого відступу на випадок загрози. Ви можете зробити два ходи під час першого раунду будь-якої битви. Перший хід ви робите за своєю нормальною ініціативою, а другий хід - коли настає ініціатива, на 10 менша за вашу. Ви не можете використовувати цю особливість, коли захоплені зненацька.
