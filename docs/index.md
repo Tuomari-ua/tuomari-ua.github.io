@@ -39,7 +39,7 @@
 |-----------------------------------------------------|-----------------------------------------------------------|
 | [Дії в бою](./combat/actions_in_combat.md)   | [Верховий бій](./combat/mounted_combat.md)               |
 | [Укриття](./combat/cover.md)                           | [Рух і положення](./combat/movement_and_position.md) |
-| [Пошкодження та зціленняDamage and Healing](./combat/damage_and_healing.md) | [Порядок битви](./combat/order_of_combat.md)             |
+| [Пошкодження та зцілення](./combat/damage_and_healing.md) | [Порядок битви](./combat/order_of_combat.md)             |
 | [Здійснення атаки](./combat/making_an_attack.md)     | [Підводна битва](./combat/underwater_combat.md)         |
 
 ## Правила
@@ -69,7 +69,7 @@
 | [Неігрові персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
 | [Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
 | [Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
-| [Sentient Magical Items](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
+| [Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
 | [Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
 
 ## Чаротворення
