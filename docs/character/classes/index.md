@@ -2,9 +2,9 @@
 
 # Класи
 
-* [Варвар](/character/classes/barbarian/)
-* [Бард](/character/classes/bard/)
-* [Клірик](/character/classes/cleric/)
+* [Варвар](/character/classes/barbarian.md)
+* [Бард](/character/classes/bard.md)
+* [Клірик](/character/classes/cleric.md)
 * [Друїд](/character/classes/druid/)
 * [Боєць](/character/classes/fighter/)
 * [Монах](/character/classes/monk/)
