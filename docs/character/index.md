@@ -1,34 +1,34 @@
-# Character
+# Персонаж
 
-## General Character
-* [Alignment](/character/alignment/)
-* [Backgrounds](/character/backgrounds/)
-* [Fantasy-Historical Pantheons](/character/fantasy-historical_pantheons/)
-* [Languages](/character/languages)
+## Загальні відомості
+* [Світогляд](/character/alignment/)
+* [Передісторія](/character/backgrounds/)
+* [Фантастично-історичні пантеони](/character/fantasy-historical_pantheons/)
+* [Мови](/character/languages)
 
-## Classes
+## Класи
 
-* [Barbarian](/character/classes/barbarian/)
-* [Bard](/character/classes/bard/)
-* [Cleric](/character/classes/cleric/)
-* [Druid](/character/classes/druid/)
-* [Fighter](/character/classes/fighter/)
-* [Monk](/character/classes/monk/)
-* [Paladin](/character/classes/paladin/)
-* [Ranger](/character/classes/ranger/)
-* [Rogue](/character/classes/rogue/)
-* [Sorcerer](/character/classes/sorcerer/)
-* [Warlock](/character/classes/warlock/)
-* [Wizard](/character/classes/wizard/)
+* [Варвар](/character/classes/barbarian/)
+* [Бард](/character/classes/bard/)
+* [Клірик](/character/classes/cleric/)
+* [Друїд](/character/classes/druid/)
+* [Боєць](/character/classes/fighter/)
+* [Монах](/character/classes/monk/)
+* [Паладин](/character/classes/paladin/)
+* [Рейнджер](/character/classes/ranger/)
+* [Пройдисвіт](/character/classes/rogue/)
+* [Чародій](/character/classes/sorcerer/)
+* [Відьмак](/character/classes/warlock/)
+* [Чарівник](/character/classes/wizard/)
 
-## Races
+## Раси
 
-* [Dragonborn](/character/races/dragonborn/)
-* [Dwarf](/character/races/dwarf/)
-* [Elf](/character/races/elf/)
-* [Gnome](/character/races/gnome/)
-* [Half-Elf](/character/races/half-elf/)
-* [Half-Orc](/character/races/half-orc/)
-* [Halfling](/character/races/halfling/)
-* [Human](/character/races/human/)
-* [Tiefling](/character/races/tiefling/)
+* [Драконороджений](/character/races/dragonborn/)
+* [Дворф](/character/races/dwarf/)
+* [Ельф](/character/races/elf/)
+* [Гном](/character/races/gnome/)
+* [Напівельф](/character/races/half-elf/)
+* [Напіворк](/character/races/half-orc/)
+* [Напіврослик](/character/races/halfling/)
+* [Людина](/character/races/human/)
+* [Тифлінґ](/character/races/tiefling/)
