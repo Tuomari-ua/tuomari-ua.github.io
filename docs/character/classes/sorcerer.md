@@ -1,181 +1,181 @@
-description: Rules and information for the Sorcerer class from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для класу Чародій із 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# The Sorcerer
+# Чародій
 
-| Level | Proficiency Bonus | Sorcery Points | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                           |
-|-------|-------------------|----------------|----------------|--------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------------------------------------|
-| 1st   | +2                | -              | 4              | 2            | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Spellcasting, Sorcerous Origin     |
-| 2nd   | +2                | 2              | 4              | 3            | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Font of Magic                      |
-| 3rd   | +2                | 3              | 4              | 4            | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | Metamagic                          |
-| 4th   | +2                | 4              | 5              | 5            | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Ability Score Improvement          |
-| 5th   | +3                | 5              | 5              | 6            | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                                  |
-| 6th   | +3                | 6              | 5              | 7            | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Sorcerous Origin feature           |
-| 7th   | +3                | 7              | 5              | 8            | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                  |
-| 8th   | +3                | 8              | 5              | 9            | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Ability Score Improvement          |
-| 9th   | +4                | 9              | 5              | 10           | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                  |
-| 10th  | +4                | 10             | 6              | 11           | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Metamagic                          |
-| 11th  | +4                | 11             | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                  |
-| 12th  | +4                | 12             | 6              | 12           | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Ability Score Improvement          |
-| 13th  | +5                | 13             | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                  |
-| 14th  | +5                | 14             | 6              | 13           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Sorcerous Origin feature           |
-| 15th  | +5                | 15             | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                  |
-| 16th  | +5                | 16             | 6              | 14           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Ability Score Improvement          |
-| 17th  | +6                | 17             | 6              | 15           | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Metamagic                          |
-| 18th  | +6                | 18             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Sorcerous Origin feature           |
-| 19th  | +6                | 19             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Ability Score Improvement          |
-| 20th  | +6                | 20             | 6              | 15           | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Sorcerous Restoration              |
-                
-## Class Features
-As a sorcerer, you gain the following class features.
+| Рівень | Бонус досвіду | Чародійні частки | Вивчені заклини | Відомі чари | 1-й | 2-й | 3-й | 4-й | 5-й | 6-й | 7-й | 8-й | 9-й | Особливості                    |
+| ------ | ------------- | ---------------- | --------------- | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------ |
+| 1-й    | +2            | -                | 4               | 2           | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Створення чарів, Джерело чарів |
+| 2-й    | +2            | 2                | 4               | 3           | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Купіль магії                   |
+| 3-й    | +2            | 3                | 4               | 4           | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | Метамагія                      |
+| 4-й    | +2            | 4                | 5               | 5           | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Покращення здібностей          |
+| 5-й    | +3            | 5                | 5               | 6           | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                              |
+| 6-й    | +3            | 6                | 5               | 7           | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Особливість джерела чарів      |
+| 7-й    | +3            | 7                | 5               | 8           | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                              |
+| 8-й    | +3            | 8                | 5               | 9           | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Покращення здібностей          |
+| 9-й    | +4            | 9                | 5               | 10          | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                              |
+| 10-й   | +4            | 10               | 6               | 11          | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Метамагія                      |
+| 11-й   | +4            | 11               | 6               | 12          | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                              |
+| 12-й   | +4            | 12               | 6               | 12          | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Покращення здібностей          |
+| 13-й   | +5            | 13               | 6               | 13          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                              |
+| 14-й   | +5            | 14               | 6               | 13          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Особливість джерела чарів      |
+| 15-й   | +5            | 15               | 6               | 14          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                              |
+| 16-й   | +5            | 16               | 6               | 14          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Покращення здібностей          |
+| 17-й   | +6            | 17               | 6               | 15          | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | Метамагія                      |
+| 18-й   | +6            | 18               | 6               | 15          | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Особливість джерела чарів      |
+| 19-й   | +6            | 19               | 6               | 15          | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Покращення здібностей          |
+| 20-й   | +6            | 20               | 6               | 15          | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Відновлення чарів              |
 
-### Hit Points
-**Hit Dice:** 1d6 per sorcerer level  
-**Hit Points at 1st Level:** 6 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per sorcerer level after 1st  
+## Класові особливості
+Як чародій ви здобуваєте наступні класові особливості.
 
-### Proficiencies
-**Armor:** None    
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows    
-**Tools:** None   
-**Saving Throws:** Constitution, Charisma     
-**Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion   
+### Пункти здоров'я
+**Кістки здоров'я:** 1к6 за рівень чародія  
+**Пункти здоров'я на 1-му рівні:** 6 + ваш модифікатор Статури  
+**Пункти здоров'я на вищих рівнях:** 1к6 (або 4) + ваш модифікатор Статури за кожен рівень чародія після першого
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
+### Досвід
+**Броня:** Жодної    
+**Зброя:** Кинджали, дротики, пращі, бойові посохи, легкі арбалети    
+**Інструменти:** Жодних   
+**Рятівні кидки:** Статура, Харизма     
+**Навички:** Виберіть дві навички з-поміж наступних: Аркана, Обман, Інтуїція, Залякування, Переконливість та Релігія
 
-* (a) a light crossbow and 20 bolts or (b) any simple weapon
-* (a) a component pouch or (b) an arcane focus
-* (a) a dungeoneer's pack or (b) an explorer's pack
-* Two daggers
+### Спорядження
+Ви починаєте з наступним спорядженням, на додачу до спорядження, яке надає ваша передісторія:
 
-### Spellcasting 
+* (a) легкий арбалет та 20 болтів або (b) будь-яка проста зброя
+* (a) мішечок для компонентів або (b) осередок магії
+* (a) набір дослідника підземель або (b) набір мандрівника
+* Два кинджали
+
+### Створення чарів
 - - -
-An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. This font of magic, whatever its origin, fuels your spells. 
+Подія в вашому минулому або в житті ваших батьків чи пращурів залишила на вас незнищенний відбиток і пов'язала вас із арканною магією. Ця купіль магії, якого походження б вона не була, підживлює ваші чари.
 
-#### Cantrips 
-At 1st level, you know four cantrips of your choice from the sorcerer spell list. You learn additional sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Sorcerer table. 
+#### Заклини
+На першому рівні ви знаєте чотири заклини зі списку чародія за власним вибором. Ви вивчаєте додаткові заклини чародія за власним вибором на вищих рівнях, як наведено у колонці "Відомі заклини" таблиці класу Чародій.
 
-#### Spell Slots 
-The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.     
-For example, if you know the 1st-level spell **_burning hands_** and have a 1st-level and a 2nd-level spell slot available, you can cast **_burning hands_** using either slot. 
+#### Слоти чарів
+Таблиця Чародія показує, скільки слотів ви маєте для створення чарів першого та вищих рівнів. Щоб створити одні з цих чарів, ви повинні витратити слот рівня чарів або вищий. Ви відновлюєте всі витрачені слоти, коли завершуєте тривалий відпочинок.     
+Наприклад, якщо ви знаєте чари першого рівня **_вогняні долоні_** і маєте слоти 1-го та 2-го рівнів, ви можете створити **_вогняні долоні_**, використовуючи будь-який із цих слотів.
 
-#### Spells Known of 1st Level and Higher 
-You know two 1st-level spells of your choice from the sorcerer spell list.    
-The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.     
-Additionally, when you gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots. 
+#### Відомі чари 1-го та вищих рівнів
+Ви знаєте двоє чарів 1-го рівня за власним вибором зі списку рейнджера.    
+Колонка "Відомі чари" у таблиці класу Чародій показує, коли ви вивчите більше чарів за власним вибором. Кожні з цих чарів мають відповідати рівням ваших слотів для чарів. Наприклад, коли ви досягаєте 3-го рівня в цьому класі, ви можете вивчити нові чари 1-го або 2-го рівня.     
+Додатково, коли ви отримуєте рівень у цьому класі, ви можете вибрати одні чари й замінити їх іншими чарами зі свого списку; нові чари так само повинні відповідати рівню слотів, які ви маєте.
 
-#### Spellcasting Ability 
-Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one. 
+#### Чаротворча здібність
+Вашою здібністю для створення чарів є Харизма, оскільки сила вашої магії покладається на вашу здатність проєктувати свої бажання у зовнішній світ. Ви застосовуєте свою Харизму щоразу, коли в чарах згадується ваша чаротворча здібність. Крім того, ви застосовуєте свій модифікатор Харизми, коли визначаєте Клас Складності рятівних кидків від своїх чарів, та коли ваші чари вимагають кидка атаки.
 
-> **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier 
+> **КС ряткидків від чарів** = 8 + бонус досвіду + ваш модифікатор Харизми
 
-> **Spell attack modifier** = your proficiency bonus + your Charisma modifier 
+> **Модифікатор атаки чарами** = ваш бонус досвіду + ваш модифікатор Харизми
 
-#### Spellcasting Focus 
-You can use an arcane focus as a spellcasting focus for your sorcerer spells. 
+#### Осередок магії
+Ви можете використовувати осередок магії як чаротворчий фокус для своїх чарів.
 
-### Sorcerous Origin
+### Джерело чарів
 - - -
-Choose a sorcerous origin, which describes the source of your innate magical power: Draconic Bloodline or Wild Magic, both detailed at the end of the class description.    
-Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level. 
+Оберіть джерело чарів, яке описує вашу вроджену магічну силу: Родовід дракона чи Дика магія, які детально перелічено в кінці опису класу.    
+Ваш вибір дає вам можливість вибрати особливість на 1-му рівні й потім знову на 6-му, 14-му та 18-му рівнях.
 
-### Font of Magic 
+### Купіль магії
 - - -
-At 2nd level, you tap into a deep wellspring of magic within yourself. This wellspring is represented by sorcery points, which allow you to create a variety of magical effects. 
+На 2-му рівні ви пробуджуєте глибоке внутрішнє джерело магії. Це внутрішнє джерело відображається у чародійних частках, які дозволяють вам створювати різні магічні ефекти.
 
-#### Sorcery Points 
-You have 2 sorcery points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer table. You can never have more sorcery points than shown on the table for your level. You regain all spent sorcery points when you finish a long rest. 
+#### Чародійні частки
+У вас є 2 чародійні частки, і їх стає більше, коли ви отримуєте нові рівні у цьому класі, як показано в колонці "Чародійні частки" таблиці класу Чародій. У вас не може бути більше чародійних часток, ніж вказано у таблиці для вашого рівня. Ви відновлюєте всі використані чародійні частки, коли завершуєте тривалий відпочинок.
 
-#### Flexible Casting 
-You can use your sorcery points to gain additional spell slots, or sacrifice spell slots to gain additional sorcery points. You learn other ways to use your sorcery points as you reach higher levels.    
-**Creating Spell Slots.** You can transform unexpended sorcery points into one spell slot as a bonus action on your turn. The Creating Spell Slots table shows the cost of creating a spell slot of a given level. You can create spell slots no higher in level than 5th.    
-Any spell slot you create with this feature vanishes when you finish a long rest.
+#### Гнучке чародійство
+Ви можете витрачати чародійні частки, щоб створювати додаткові слоти чарів, або навпаки, пожертвувати слот чарів, щоб здобути чародійні частки. Ви дізнаєтеся інші способи використовувати чародійні частки, коли отримуєте нові рівні.    
+**Створення слоту чарів.** Бонусною дією у свій хід ви можете перетворити невикористані чародійні частки на один слот чарів. Таблиця "Створення слоту чарів" показує вартість створення слоту чарів вказаного рівня. Створений слот чарів не може бути вище 5-го рівня.    
+Будь-який слот, який ви створюєте таким чином, зникає після завершення тривалого відпочинку.
 
-| Spell Slot Level | Sorcery Point Cost |
-|------------------|--------------------|
-| 1st              | 2                  |
-| 2nd              | 3                  |
-| 3rd              | 5                  |
-| 4th              | 6                  |
-| 5th              | 7                  |
+| Рівень слота чарів | Вартість чародійних часток |
+| ------------------ | -------------------------- |
+| 1-й                | 2                          |
+| 2-й                | 3                          |
+| 3-й                | 5                          |
+| 4-й                | 6                          |
+| 5-й                | 7                          |
 
-**Converting a Spell Slot to Sorcery Points.** As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level. 
+**Перетворення слотів на чародійні частки.** Бонусною дією у свій хід ви можете витратити один слот чарів та відновити кількість чародійних часток, що відповідає рівню витраченого слота.
 
-### Metamagic 
+### Метамагія
 - - -
-At 3rd level, you gain the ability to twist your spells to suit your needs. You gain two of the following Metamagic options of your choice. You gain another one at 10th and 17th level.    
-You can use only one Metamagic option on a spell when you cast it, unless otherwise noted. 
+На 3-му рівні ви здатні підлаштовувати чари до своїх потреб. Ви вивчаєте дві з наступних можливостей метамагії за своїм вибором. Ви отримуєте ще по одній на 10-му та 17-му рівнях.    
+Ви можете застосувати одну можливість метамагії під час створення чарів, якщо не зазначено інше.
 
-#### Careful Spell 
-When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell. 
+#### Обережні чари
+Коли ви створюєте чари, які вимагають від іншої істоти рятівного кидка, ви можете захистити деяких істот від повної сили своїх чарів. Щоб зробити це, ви витрачаєте 1 чародійну частку та обираєте кількість захищених істот, яка відповідає вашому модифікатору Харизми (мінімум одну істоту). Рятівний кидок обраної істоти автоматично є успішним проти цих чарів.
 
-#### Distant Spell 
-When you cast a spell that has a range of 5 feet or greater, you can spend 1 sorcery point to double the range of the spell.   
-When you cast a spell that has a range of touch, you can spend 1 sorcery point to make the range of the spell 30 feet. 
+#### Дальні чари
+Коли ви створюєте чари, які мають дистанцію 5 футів або більше, ви можете витратити 1 чародійну частку, щоб подвоїти дистанцію чарів.   
+Коли ви створюєте чари, які мають дистанцію дотику, ви можете витратити 1 чародійну частку, щоб збільшити дистанцію чарів до 30 футів.
 
-#### Empowered Spell 
-When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls.   
-You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell. 
+#### Посилені чари
+Коли ви робите кидок пошкоджень від чарів, ви можете витратити 1 чародійну частку, щоб перекинути кількість кісток пошкоджень, яка дорівнює вашому модифікатору Харизми (мінімум одну кістку). Ви повинні застосувати нові кидки.   
+Ви можете використати Посилені чари, навіть якщо ви вже застосували іншу можливість метамагії під час створення цих чарів.
 
-#### Extended Spell 
-When you cast a spell that has a duration of 1 minute or longer, you can spend 1 sorcery point to double its duration, to a maximum duration of 24 hours. 
+#### Подовжені чари
+Коли ви створюєте чари з тривалістю дії 1 хвилина або довше, ви можете витратити 1 чародійну частку та подвоїти тривалість дії, до 24 годин щонайбільше.
 
-#### Heightened Spell 
-When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell. 
+#### Непоборні чари
+Коли ви створюєте чари, які змушують істоту зробити рятівний кидок, щоб протистояти створеному ефекту, ви можете витратити 3 чародійні частки, щоб надати одній істоті перешкоду на її перший ряткидок проти цих чарів.
 
-#### Quickened Spell 
-When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting. 
+#### Прискорені чари
+Коли створення чарів потребує 1 дії, ви можете витратити 2 чародійні частки, щоб натомість створити ці чари за 1 бонусну дію.
 
-#### Subtle Spell 
-When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components. 
+#### Приховані чари
+Коли ви створюєте чари, ви можете витратити 1 чародійну частку, щоб створити їх без жодного словесного чи тілесного компонента.
 
-#### Twinned Spell 
-When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).    
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, **_magic missile_** and **_scorching ray_** aren't eligible, but **_ray of frost_** and **_chromatic orb_** are. 
+#### Подвоєні чари
+Коли ви створюєте чари, які націлюються тільки на одну істоту та не мають дистанції "для себе", ви можете витратити кількість чародійних часток, що дорівнює рівню чарів, аби націлитися на ще одну істоту в межах дистанції чарів (1 чародійна частка, якщо це заклин).    
+Для цього ефекту ваші чари не повинні націлюватися більш як на одну істоту на своєму поточному рівні. Наприклад, **_магічна стріла_** і **_палючий промінь_** так не працюють, тоді як **_морозний промінь_** та **_хроматична сфера_** задовольняють вимогам ефекту.
 
-### Ability Score Improvement 
+### Покращення здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+Коли ви досягаєте 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівнях ви можете збільшити одну зі своїх здібностей на 2 або дві здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
 
-### Sorcerous Restoration 
+### Відновлення чарів
 - - -
-At 20th level, you regain 4 expended sorcery points whenever you finish a short rest. 
+На 20-му рівні ви відновлюєте 4 чародійні частки, коли завершуєте короткий відпочинок.
 
-## Sorcerous Origins 
-Different sorcerers claim different origins for their innate magic. Although many variations exist, most of these origins fall into two categories: a draconic bloodline and wild magic. 
+## Джерело чарів
+Різні чародії називають різні джерела своєї внутрішньої магії. Хоча існує багато варіацій, більшість цих джерел належать до двох категорій: Родовід драконів та Дика магія.
 
-### Draconic Bloodline
+### Родовід драконів
 - - -
-Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+Ваша вроджена магія походить від магії драконів, яка була змішана з вашою кров'ю чи кров'ю ваших предків. Найчастіше чародії цього походження простежують свій родовід до могутнього чародія давніх часів, який уклав угоду з драконом, або навіть заявляють, що дракон був одним із їхніх предків. Деякі з цих родоводів добре представлені в світі, але більшість із них приховані. Будь-який чародій може бути першим у новому родоводі внаслідок угоди або через інші надзвичайні обставини.
 
-#### Dragon Ancestor 
-At 1st level, you choose one type of dragon as your ancestor. The damage type associated with each dragon is used by features you gain later.
+#### Дракон-предок
+На 1-му рівні ви вибираєте один тип дракона як свого пращура. Тип пошкодження, пов'язаний з кожним драконом, впливає на особливості, які ви здобудете пізніше.
 
-| Dragon | Damage Type |
-|--------|-------------|
-| Black  | Acid        |
-| Blue   | Lightning   |
-| Brass  | Fire        |
-| Bronze | Lightning   |
-| Copper | Acid        |
-| Gold   | Fire        |
-| Green  | Poison      |
-| Red    | Fire        |
-| Silver | Cold        |
-| White  | Cold        |
+| Дракон    | Тип пошкоджень |
+| --------- | -------------- |
+| Чорний    | Кислота        |
+| Синій     | Блискавка      |
+| Латунний  | Вогонь         |
+| Бронзовий | Блискавка      |
+| Мідний    | Кислота        |
+| Золотий   | Вогонь         |
+| Зелений   | Отрута         |
+| Червоний  | Вогонь         |
+| Срібний   | Холод          |
+| Білий     | Холод          |
 
-You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check. 
+Ви можете говорити, читати й писати драконівською мовою. Крім того, коли ви робите перевірку Харизми при взаємодії з драконами, ваш бонус досвіду подвоюється, якщо його взагалі можна застосувати до вказаної перевірки.
 
-#### Draconic Resilience 
-As magic flows through your body, it causes physical traits of your dragon ancestors to emerge. At 1st level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.    
-Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier. 
+#### Присутність дракона
+Оскільки магія тече у вашому тілі, вона спричиняє прояв фізичних рис вашого драконівського предка. На першому рівні ваші пункти здоров'я збільшуються на 1 та знову зростають на 1, коли ви отримуєте рівень у цьому класі.    
+Крім того, ваша шкіра де-не-де вкривається тонкою лускою, схожою на драконячу. Коли ви не носите броню, ваш КЗ дорівнює 13 + ваш модифікатор Спритності.
 
-#### Elemental Affinity 
-Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell. At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour. 
+#### Споріднена стихія
+Починаючи з 6-го рівня, коли ви створюєте чари, які завдають пошкоджень того ж типу, що й дракон вашого родоводу, ви можете додати свій модифікатор Харизми до одного кидка пошкоджень цими чарами. Разом з тим, ви можете витратити 1 чародійну частку, щоб отримати стійкість до цього типу пошкоджень упродовж 1 години.
 
-#### Dragon Wings
-At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn.    
-You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them. 
+#### Крила Дракона
+На 14-му рівні ви здатні відростити на спині пару драконячих крил, отримуючи швидкість польоту, яка дорівнює вашій поточній швидкості. Ви можете створити ці крила бонусною дією у свій хід. Вони залишаються, поки ви не відкинете їх також бонусною дією у свій хід.    
+Ви не можете проявити крила, поки носите броню, якщо тільки обладунок не передбачає носіння крил; одяг, не зшитий для крилатої істоти, може зруйнуватися, коли ви відрощуєте крила.
 
-#### Draconic Presence 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+#### Присутність дракона
+Починаючи з 18-го рівня, ви можете спрямовувати моторошну присутність свого дракона-предка, приголомшуючи та лякаючи усіх навколо себе. Дією ви можете витратити 5 чародійних часток, щоб наповнитися древньою силою та огорнути себе аурою поклоніння або жаху (на ваш вибір) на відстані до 60 футів навколо вас. Протягом 1 хвилини або доки ви не втрачаєте концентрацію (так, як би це було для концентрації на створених чарах), кожна ворожа істота, що починає хід у цій аурі, повинна зробити успішний ряткидок Мудрості, або буде зачарована (якщо ви обрали поклоніння) або налякана (якщо ви обрали жах), поки триває аура. Істота, яка робить успішний ряткидок, здобуває імунітет до аури на 24 години.
