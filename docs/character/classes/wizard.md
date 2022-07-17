@@ -1,137 +1,135 @@
-description: Rules and information for the Wizard class from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для класу Чарівник із 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# The Wizard
+# Чарівник
 
-| Level | Proficiency Bonus | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                         |
-|-------|-------------------|----------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|----------------------------------|
-| 1st   | +2                | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Spellcasting, Arcane Recovery    |
-| 2nd   | +2                | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Arcane Tradition                 |
-| 3nd   | +2                | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                |
-| 4th   | +2                | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Ability Score Improvement        |
-| 5th   | +3                | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                                |
-| 6th   | +3                | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Arcane Tradition feature         |
-| 7th   | +3                | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                |
-| 8th   | +3                | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Ability Score Improvement        |
-| 9th   | +4                | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                |
-| 10th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Arcane Tradition feature         |
-| 11th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                |
-| 12th  | +4                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Ability Score Improvement        |
-| 13th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                |
-| 14th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Arcane Tradition feature         |
-| 15th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                |
-| 16th  | +5                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Ability Score Improvement        |
-| 17th  | +6                | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | -                                |
-| 18th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Spell Mastery                    |
-| 19th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Ability Score Improvement        |
-| 20th  | +6                | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Signature Spell                  |
+| Рівень | Бонус досвіду | Відомі заклини | 1-й | 2-й | 3-й | 4-й | 5-й | 6-й | 7-й | 8-й | 9-й | Особливості                          |
+| ------ | ------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ------------------------------------ |
+| 1-й    | +2            | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   | Створення чарів, Магічне відновлення |
+| 2-й    | +2            | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   | Магічна традиція                     |
+| 3-й    | +2            | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                    |
+| 4-й    | +2            | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   | Покращення здібностей                |
+| 5-й    | +3            | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                                    |
+| 6-й    | +3            | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Особливість магічної традиції        |
+| 7-й    | +3            | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                    |
+| 8-й    | +3            | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Покращення здібностей                |
+| 9-й    | +4            | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                    |
+| 10-й   | +4            | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Особливість магічної традиції        |
+| 11-й   | +4            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                    |
+| 12-й   | +4            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Покращення здібностей                |
+| 13-й   | +5            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                    |
+| 14-й   | +5            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Особливість магічної традиції        |
+| 15-й   | +5            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                    |
+| 16-й   | +5            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Покращення здібностей                |
+| 17-й   | +6            | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | -                                    |
+| 18-й   | +6            | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Майстерні чари                       |
+| 19-й   | +6            | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Покращення здібностей                |
+| 20-й   | +6            | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Власноручні чари                     |
 
-## Class Features
-As a wizard, you gain the following class features.
+## Класові особливості
+Як чарівник ви здобуваєте наступні класові особливості.
 
-### Hit Points
-**Hit Dice:** 1d6 per wizard level  
-**Hit Points at 1st Level:** 6 + your Constitution modifier  
-**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per wizard level after 1st  
+### Пункти здоров'я
+**Кістки здоров'я:** 1к6 за рівень чарівника  
+**Пункти здоров'я на 1-му рівні:** 8 + ваш модифікатор Статури  
+**Пункти здоров'я на вищих рівнях:** 1к6 (або 4) + ваш модифікатор Статури за кожен рівень чарівника після першого
 
-### Proficiencies
-**Armor:** None  
-**Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows   
-**Tools:** None   
-**Saving Throws:** Intelligence, Wisdom    
-**Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion  
+### Досвід
+**Броня:** Жодної  
+**Зброя:** Кинджали, дротики, пращі, бойові посохи, легкі арбалети   
+**Інструменти:** Жодних   
+**Рятівні кидки:** Інтелект, Мудрість    
+**Навички:** Виберіть дві навички з-поміж наступних: Аркана, Історія, Інтуїція, Розслідування, Медицина та Релігія
 
-### Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-* (a) a quarterstaff or (b) a dagger
-* (a) a component pouch or (b) an arcane focus
-* (a) a scholar's pack or (b) an explorer's pack
-* A spellbook
+### Спорядження
+Ви починаєте з наступним спорядженням, на додачу до спорядження, яке надає ваша передісторія:
+* (а) бойовий посох або (b) кинджал
+* (a) мішечок для компонентів або (b) осередок магії
+* (a) набір науковця або (b) набір мандрівника
+* Книга чарів
 
-### Spellcasting 
+### Створення чарів
 - - -
-As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. 
+Як учень арканної магії, ви маєте книгу чарів, куди записуєте усі чарі, які показують перші прояви вашої істинної сили.
 
-#### Cantrips 
-At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table. 
+#### Заклини
+На першому рівні ви знаєте три заклини зі списку чарівника за власним вибором. Ви вивчаєте додаткові заклини чарівника за власним вибором на вищих рівнях, як наведено у колонці "Відомі заклини" таблиці класу Чарівник.
 
-#### Spellbook 
-At 1st level, you have a spellbook containing six 1st- level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+#### Книга чарів
+На 1-му рівні ви маєте книгу чарів, яка містить шість чарів 1-го рівня зі списку чарівника за вашим вибором. Ваша книга чарів - це сховище чарів, які ви знаєте, окрім ваших заклинів, які ви вивчили напам'ять.
 
-#### Preparing and Casting Spells 
-The Wizard table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.    
-You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.     
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.     
-You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. 
+#### Підготовка та створення чарів
+Таблиця Чарівника показує, скільки слотів ви маєте для створення чарів першого та вищих рівнів. Щоб створити одні з цих чарів, ви повинні витратити слот рівня чарів або вищий. Ви відновлюєте всі витрачені слоти чарів, коли завершуєте тривалий відпочинок.    
+Ви готуєте список чарів, обираючи ті, що доступні вам для створення. Щоб зробити це, виберіть зі своєї книги кількість чарів, що дорівнює вашому модифікатору Інтелекту + ваш рівень чарівника (мінімум 1 чари). Чари мають відповідати рівням ваших слотів.     
+Наприклад, якщо ви чарівник 3-го рівня, ви маєте слоти для чотирьох чарів 1-го рівня та двох чарів 2-го рівня. З Інтелектом 16 ви можете підготувати список із шести чарів 1-го або 2-го рівня в будь-якій комбінації, вибравши їх зі своєї книги. Якщо ви підготуєте чари 1-го рівня магічна стріла, ви можете витратити на їх створення слот 1-го або 2-го рівня. Створення чарів не видаляє їх зі списку підготовлених.     
+Ви можете змінити цей список після завершення тривалого відпочинку. Підготовка нового списку чарів вимагає від вас часу на вивчення своєї книги чарів та запам'ятовування формул та жестів, які потрібно зробити для створення чарів: принаймні 1 хвилина на рівень чарів для кожних чарів у вашому списку.
 
-#### Spellcasting Ability 
-Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one. 
+#### Чаротворча здібність
+Вашою здібністю для створення чарів є Інтелект, оскільки ви опановуєте чари шляхом самовідданого навчання та запам'ятовування. Ви застосовуєте Інтелект щоразу, коли в чарах згадується ваша чаротворча здібність. Крім того, ви застосовуєте свій модифікатор Інтелекту, коли визначаєте Клас Складності рятівних кидків від своїх чарів, та коли ваші чари вимагають кидка атаки.
+> **КС ряткидків від чарів** = 8 + бонус досвіду + ваш модифікатор Інтелект
+> **Модифікатор атаки чарами** = ваш бонус досвіду + ваш модифікатор Інтелект
 
->**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier 
+#### Ритуальне чарування
+Ви можете створювати свої чари за допомогою ритуалу, якщо вони мають позначку "ритуал" та якщо вони є у вашій книзі. Ці чари не обов'язково повинні бути підготовлені.
 
->**Spell attack modifier** = your proficiency bonus + your Intelligence modifier 
+#### Осередок магії
+Ви можете використовувати осередок магії як чаротворчий фокус для своїх чарів.
 
-#### Ritual Casting 
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared. 
+#### Вивчення заклинань 1-го та вищих рівнів
 
-#### Spellcasting Focus 
-You can use an arcane focus as a spellcasting focus for your wizard spells. 
+Щоразу, коли ви здобуваєте рівень чарівника, ви можете безкоштовно додати до своєї книги двоє чарів за власним вибором. Кожні з цих чарів мають відповідати рівням ваших слотів для чарів, як показано в таблиці Чарівника. Під час пригод ви можете знаходити інші чари, які можна додати до своєї книги.
 
-#### Learning Spells of 1st Level and Higher 
-
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook for free. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook. 
-
-### Arcane Recovery
+### Магічне відновлення
 - - -
-You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher.     
-For example, if you're a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots. 
+Ви навчилися частково відновлювати свою магічну енергію шляхом вивчення своєї книги чарів. Раз на день, коли ви завершуєте короткий відпочинок, ви можете обрати витрачені слоти для відновлення. Сумарний рівень відновлюваних цим способом слотів не повинен перевищувати половину вашого рівня чарівника (округлену вгору), і жоден зі слотів не може бути 6-го рівня чи вище.     
+Наприклад, якщо ви чарівник 4-го рівня, ви можете відновити слоти чарів, сума рівнів яких складає 2. Ви можете відновити або один слот 2-го рівня, або два слоти 1-го рівня.
 
-### Arcane Tradition 
+### Магічна традиція
 - - -
-When you reach 2nd level, you choose an arcane tradition, shaping your practice of magic through one of eight schools: Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, or Transmutation, all detailed at the end of the class description.     
-Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level. 
+Коли ви досягаєте 2-го рівня, ви обираєте магічну традицію, обираючи для магічної практики одну з восьми шкіл: Перешкоджання, Прикликання, Віщування, Зачарування, Втілення, Ілюзії, Некромантії чи Перетворення, деталі яких наведено в кінці опису класу.     
+Ваш вибір дає вам нові можливості на 2-му рівні й на 6-му, 10-му та 14-му рівнях.
 
-### Ability Score Improvement 
+### Покращення здібностей
 - - -
-When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature. 
+Коли ви досягаєте 4-го рівня, а також на 8-му, 12-му, 16-тому та 19-му рівнях ви можете збільшити одну зі своїх здібностей на 2 або дві здібності за власним вибором на 1. Як і звичайно, ви не можете збільшити значення здібності вище 20 за допомогою цієї особливості.
 
-### Spell Mastery 
+### Майстерні чари
 - - -
-At 18th level, you have achieved such mastery over certain spells that you can cast them at will. Choose a 1st-level wizard spell and a 2nd-level wizard spell that are in your spellbook. You can cast those spells at their lowest level without expending a spell slot when you have them prepared. If you want to cast either spell at a higher level, you must expend a spell slot as normal.    
-By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels. 
+На 18-му рівні ви досягли такої майстерності у певних чарах, що можете створювати їх за бажанням. Оберіть одні чари 1-го рівня та одні чари 2-го рівня, що записані до вашої книги. Ви можете створювати ці чари на їх найнижчому рівні, не витрачаючи слотів, за умови, що ви їх підготували. Якщо ви хочете створити ці чари зі слотом вищого рівня, такий слот витрачається, як звичайно.    
+Витративши 8 годин на вивчення, ви можете змінити одні або обоє чарів на інші тих самих рівнів за власним вибором.
 
-### Signature Spells 
+### Власноручні чари
 - - -
-When you reach 20th level, you gain mastery over two powerful spells and can cast them with little effort. Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, they don't count against the number of spells you have prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you can't do so again until you finish a short or long rest.    
-If you want to cast either spell at a higher level, you must expend a spell slot as normal. 
+На 20-му рівні ви досягаєте майстерності у створенні двох потужних чарів, і можете створювати їх з найменшими зусиллями. Виберіть двоє чарів 3-го рівня зі своєї книги як власноручні чари. Ці чари для вас завжди підготовлені, і вони не враховуються до підсумку чарів, які ви можете підготувати на день. Ви можете створювати кожні з цих чарів на 3-му рівні, не витрачаючи слотів. Ви не можете знову зробити це, поки не завершите короткий або тривалий відпочинок    
+Якщо ви хочете створити якісь із цих чарів на вищому рівні, ви повинні витратити слот, як звичайно.
 
-## Arcane Traditions 
-The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. It is firmly established in fantasy gaming worlds, with various traditions dedicated to its complex study.    
-The most common arcane traditions in the multiverse revolve around the schools of magic. Wizards through the ages have cataloged thousands of spells, grouping them into eight categories called schools. In some places, these traditions are literally schools; a wizard might study at the School of Illusion while another studies across town at the School of Enchantment. In other institutions, the schools are more like academic departments, with rival faculties competing for students and funding. Even wizards who train apprentices in the solitude of their own towers use the division of magic into schools as a learning device, since the spells of each school require mastery of different techniques. 
+## Магічна традиція
+Дослідження чарівництва є давніми, і сягають найраніших часів, коли смертні відкрили для себе магію. Ці дослідження міцно закріпилися у фентезійних ігрових світах із різними традиціями, присвяченими його комплексному вивченню.    
+Найбільш поширені магічні традиції у мультиверсі обертаються навколо шкіл магії. Чарівники упродовж віків каталогізували тисячі чарів, групуючи їх по вісьмох категоріях, які називають школами магії. У деяких місцях ці традиції буквально є школами; чарівник може навчатися у Школі Ілюзії, поки інший проходить навчання у Школі Зачарування на іншому краю міста. В інших місцях ці школи більше схожі на академічні кафедри, причому факультети конкурують між собою за учнів та фінансування. Навіть чарівники, які працюють із учнями на самоті у власних вежах, використовують поділ магії на школи як частину навчального процесу, оскільки чари кожної школи потребують майстерності в різних техніках.
 
-### School of Evocation 
+### Школа втілення
 - - -
-You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants. 
+Ви зосереджуєте своє дослідження на магії, що створює потужні стихійні ефекти, такі як крижаний холод, нищівний вогонь, гуркіт грому, розряди блискавок та пекуча кислота. Деякі втілювачі знаходять роботу в військових силах, виконуючи роль "артилерії", яка знищує ворожу армію здалеку. Інші використовують свою виняткову силу для захисту слабких, а треті шукають власного прибутку як бандити, пригодники або тирани-початківці.
 
-#### Evocation Savant 
-Beginning when you select this school at 2nd level, the gold and time you must spend to copy an evocation spell into your spellbook is halved. 
+#### Знавець втілення
+Вибравши цю школу на 2-му рівні, ви витрачаєте вдвічі менше часу й золота на копіювання чарів втілення до своєї книги чарів.
 
-#### Sculpt Spells 
-Beginning at 2nd level, you can create pockets of relative safety within the effects of your evocation spells. When you cast an evocation spell that affects other creatures that you can see, you can choose a number of them equal to 1 + the spell's level. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. 
+#### Побудова чарів
+Починаючи з 2-го рівня, ви можете створювати "кишені" відносної безпеки в межах ефектів ваших чарів втілення. Коли ви створюєте чари втілення на інших істот, яких ви бачите, ви можете вибрати кількість істот, що дорівнює 1 + рівень чарів. Вибрані істоти автоматично досягають успіху в ряткидках проти цих чарів, і вони не отримують жодних пошкоджень за умови, що звичайно успіх ряткидка від ваших чарів знижує пошкодження вдвічі.
 
-#### Potent Cantrip 
-Starting at 6th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against your cantrip, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip. 
+#### Потужний заклин
+На 6-му рівні ваші заклини, які завдають пошкоджень, впливають навіть на тих істот, які можуть уникнути основного ефекту. Коли істота зробила успішний ряткидок проти вашого заклину, така істота натомість отримує половину пошкоджень (якщо такі є), але не страждає від додаткових ефектів цього заклину.
 
-#### Empowered Evocation 
-Beginning at 10th level, you can add your Intelligence modifier to one damage roll of any wizard evocation spell you cast. 
+#### Посилене втілення
+На 10-му рівні ви можете додати свій модифікатор Інтелекту до одного кидка пошкоджень будь-яких чарів втілення, які ви створюєте.
 
-#### Overchannel 
-Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th level that deals damage, you can deal maximum damage with that spell.    
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take 2d12 necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by 1d12. This damage ignores resistance and immunity. 
+#### Перенавантаження
+Починаючи з 14-го рівня, ви можете збільшити силу своїх простіших чарів. Коли ви створюєте чари з 1-го до 5-го рівнів, які завдають пошкоджень, ви можете завдати цими чарами максимальної шкоди.    
+Коли ви робите це вперше, то не відчуваєте побічної дії. Якщо ви користуєтеся цією особливістю знову, перш ніж завершите тривалий відпочинок, ви отримуєте 2к12 некротичних пошкоджень за кожен рівень створених чарів, одразу після їх створення. Щоразу, коли ви користуєтеся цією особливістю знову до завершення тривалого відпочинку, некротичні пошкодження за рівень чарів збільшуються на 1к12. Ці пошкодження ігнорують стійкість та імунітет.
 
-> ### Your Spellbook 
-> The spells that you add to your spellbook as you gain levels reflect the arcane research you conduct on your own, as well as intellectual breakthroughs you have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.    
-> **Copying a Spell into the Book.** When you find a wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it. Copying that spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.    
->For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.    
-> **Replacing the Book.** You can copy a spell from your own spellbook into another book - for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.    
-> If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place. 
-> **The Book's Appearance.** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+> ### Ваша книга чарів 
+> 
+> Чари, які ви додаєте до своєї книги зі здобуттям нових рівнів, відображають арканні дослідження, які ви проводите власним коштом, так само як інтелектуальні відкриття, які ви зробили щодо природи мультисвіту. Ви можете знайти інші чари під час своїх пригод. Ви можете виявити сувій із записаними чарами у скрині злого чарівника, наприклад, або в запиленому томі в стародавній бібліотеці.    
+> **Копіювання чарів до своєї книги.** Коли ви знаходите чари 1-го або вищих рівнів зі списку чарівника, ви можете записати їх до своєї книги, якщо ці чари відповідають рівню, який ви можете підготувати, і якщо ви маєте час, щоб розшифрувати та записати їх. Копіювання чарів включає відтворення основної форми чарів, а потім розшифрування унікальної системи записів чарівника, який написав ці чари. Ви повинні практикувати чари, доки знайдете необхідні звуки та жести, і потім записати їх до своєї книги, використовуючи власні нотатки.    
+> Для кожного рівня чарів цей процес триває 2 години та коштує 50 зм. Вартість відображає матеріальні компоненти, які ви витрачаєте під час опанування чарів, а також якісне чорнило, необхідне для запису. Щойно ви витратили час і гроші, ви можете підготувати ці чари, як і будь-які інші з записаних до книги.    
+> **Заміна книги.** Ви можете скопіювати чари зі своєї книги до іншої - наприклад, якщо хочете зробити запасну копію своєї книги чарів. Це робиться так само, як і звичайне копіювання чарів, але швидше й простіше, оскільки ви розумієте власні нотатки та вже знаєте, як створювати ці чари. Вам потрібно тільки 1 годину та 10 зм за кожен рівень скопійованих чарів.    
+> Якщо ви втратите свою Книгу чарів, то можете провести цю ж процедуру для запису чарів, які у вас підготовлені, до нової книги. Для заповнення решти книги вам необхідно знайти нові чари та скопіювати їх, як звичайно. З цієї причини багато чарівників зберігають запасні книги чарів у надійному місці. **Зовнішній вигляд книги.** Ваша книга чарів - це унікальний збірник чарів, з вашими власними декоративними прикрасами та нотатками на полях. Це може бути звичайний обтягнутий шкірою записник, який ви отримали в подарунок від свого наставника, чи якісно обплетений том із золотими куточками, що ви знайшли в стародавній бібліотеці, або навіть зшитий докупи збірник нотаток, що вцілів після нещасного випадку з вашою попередньою книгою.
