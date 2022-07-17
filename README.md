@@ -1,2 +1,1 @@
-# tuomari-ua.github.io
-5eSRD ukrainian translation
+# 5eSRD - ІНРІУМ
