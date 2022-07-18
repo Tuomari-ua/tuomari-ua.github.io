@@ -1,3 +1,7 @@
+---
+layout:default
+---
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YDX4S83WP"></script>
 <script>
