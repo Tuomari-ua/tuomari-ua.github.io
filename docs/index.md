@@ -11,4 +11,4 @@
 
 ## Раси
 
-| [Драконороджений] (./character/races/dragonborn.md) |[Дворф] (./character/racees/dwarf.md) 
+| [Драконороджений](./character/races/dragonborn.md) |[Дворф](./character/racees/dwarf.md) 
