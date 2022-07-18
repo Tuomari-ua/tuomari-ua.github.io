@@ -1,5 +1,5 @@
 ## Довідник з правил 5e
- [Ліцензія на поширення Open Game License  1.0a ](./license.html) 
+ [Ліцензія на поширення Open Game License  1.0a ](./license.md) 
 
 
 ## Персонаж: Класи
