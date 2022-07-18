@@ -1,36 +1,36 @@
-description: Rules and information for the Dwarf race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Дворфів 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Dwarf
-## Dwarf Traits
+# Дворф
+## Риси дворфів
 - - -
-Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature. 
+Ваш дворфійський персонаж має набір вроджених здібностей, які є невіддільною частиною природи дворфів.
 
-**Ability Score Increase.** Your Constitution score increases by 2. 
+**Покращення здібностей.** Значення вашої Статури зростає на 2.
 
-**Age.** Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years. 
+**Вік.** Дворфи дорослішають так само швидко, як і люди, але вважаються молодими, доки не досягнуть 50-річного віку. В середньому вони живуть близько 350 років.
 
-**Alignment.** Most dwarves are lawful, believing firmly in the benefits of a well-­‐‑ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order. 
+**Світогляд.** Більшість дворфів законослухняні, вони твердо вірять у переваги добре організованого суспільства. Вони також схильні до добра, мають розвинене почуття справедливості та переконані, що кожен заслуговує частку привілеїв справедливого порядку.
 
-**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. 
+**Розмір.** Дворфи мають зріст 4-5 футів та в середньому важать близько 150 фунтів. Ваш розмір - середній.
 
-**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor. 
+**Швидкість.** Ваша базова швидкість ходьби становить 25 футів. Ваша швидкість не зменшується через важку броню.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Темний зір.** Пристосовані до життя під землею, ви маєте кращий зір у темряві та у тьмяному світлі. Ви можете бачити в тьмяному світлі на відстань до 60 футів так, ніби в умовах яскравого світла, а в темряві - так, ніби в умовах тьмяного світла. У темряві ви не розрізняєте кольори, лише відтінки сірого.
 
-**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage.
+**Дворфійська стійкість**. Ви робите з перевагою рятівні кидки проти отрути, і ви маєте стійкість до пошкоджень отрутою.
 
-**Dwarven Combat Training.** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
+**Бойове тренування дворфів.** Ви опанували наступну зброю: бойова сокира, ручна сокира, легкий молот та бойовий молот.
 
-**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools. 
+**Опановані інструменти.** Ви маєте досвід у користуванні ремісничими інструментами за власним вибором: інструменти коваля, припаси пивовара або інструменти муляра.
 
-**Stonecunning.** Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. 
+**Розпізнання каменю.** Щоразу, коли ви робите перевірку Інтелекту (Історія), пов'язану з походженням витворів із каменю, навичка Історії для вас вважається опанованою, і ви додаєте до перевірки подвійний бонус досвіду замість вашого звичайного бонусу.
 
-**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+**Мови.** Можете говорити, читати і писати спільною та дворфійською мовами. Дворфійська мова сповнена приголосних та гортанних звуків, і ці характеристики зберігаються у будь-якій іншій мові, якою може говорити дворф.
 
-## Hill Dwarf 
+## Пагорбний дворф
 
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
- 
-**Ability Score Increase.** Your Wisdom score increases by 1. 
+Як пагорбний дворф ви маєте загострені відчуття, глибоку інтуїцію та видатну стійкість.
 
-**Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+**Покращення здібностей.** Значення вашої Мудрості зростає на 1.
+
+**Дворфійська міцність.** Максимум ваших пунктів здоров'я зростає на 1, і збільшується ще на 1 кожного разу, коли ви отримуєте новий рівень.

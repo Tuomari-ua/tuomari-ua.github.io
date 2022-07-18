@@ -1,37 +1,37 @@
-description: Rules and information for the Elf race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Ельфів 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Elf 
-## Elf Traits 
+# Ельф
+## Риси ельфів
 - - -
-Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement. 
+Ваш персонаж ельф має різноманітні природні здібності - результат тисяч років ельфійського вдосконалення.
 
-**Ability Score Increase.** Your Dexterity score increases by 2. 
+**Покращення здібностей.** Значення вашої Спритності зростає на 2.
 
-**Age.** Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old. 
+**Вік.** Хоча ельфи досягають фізичної зрілості приблизно в той же вік, що і люди, їхнє розуміння дорослішання виходить за рамки фізичного зростання, щоб охопити світовий досвід. Ельфи, як правило, стають дорослим та беруть доросле ім'я у віці 100 років, та можуть жити до 750 років.
 
-**Alignment.** Elves love freedom, variety, and self-expression, so they lean strongly toward the gentler aspects of chaos. They value and protect others’ freedom as well as their own, and they are more often good than not. The drow are an exception; their exile has made them vicious and dangerous. Drow are more often evil than not. 
+**Світогляд.** Ельфи люблять свободу, різноманіття та самовираження, тому вони віддають перевагу м'якшим аспектам хаосу. Вони цінують і захищають свободу інших, як і власну, і вони частіше добрі, ніж ні. The drow are an exception; their exile has made them vicious and dangerous. Drow are more often evil than not.
 
-**Size.** Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium. 
+**Розмір.** Зріст ельфів коливається від заледве 5 до більш як 6 футів, і вони мають струнку тілобудову. Ваш розмір - середній.
 
-**Speed.** Your base walking speed is 30 feet. 
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+**Темний зір.** Пристосовані до сутінкових лісів і нічного неба, ви маєте добрий зір у темряві та у тьмяному освітленні. Ви можете бачити в тьмяному світлі на відстань до 60 футів так, ніби в умовах яскравого світла, а в темряві - так, ніби в умовах тьмяного світла. У темряві ви не розрізняєте кольори, лише відтінки сірого.
 
-**Keen Senses.** You have proficiency in the Perception skill. 
+**Загострені чуття.** Ви опанували навичку Сприйняття.
 
-**Fey Ancestry.** You have advantage on saving throws against being charmed, and magic can’t put you to sleep. 
+**Нащадок фей.** Ви робите з перевагою рятівні кидки проти зачарування, і вас неможливо приспати магією.
 
-**Trance.** Elves don’t need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is "trance.") While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep. 
+**Транс.** Ельфи не потребують сну. Натомість вони проводять по 4 години на день у глибокій медитації, залишаючись напів притомними. (Слово спільною мовою для такої медитації - "транс"). Під час медитації ви можете мати щось на зразок снів; такі видіння насправді є ментальними вправами, виробленими роками практики. Після такого відпочинку ви здобуваєте ті самі привілеї, що й люди після 8-годинного сну.
 
-**Languages.** You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires. 
+**Мови.** Можете говорити, читати й писати спільною та ельфійською мовами. Ельфійська мова плавна, з тонкими інтонаціями і складною граматикою. Ельфійська література багата й різноманітна, а їхні пісні та вірші відомі серед інших рас. Багато бардів вивчають ельфійську мову, щоб додати балади ельфів до свого репертуару.
 
-## High Elf 
-As a high elf, you have a keen mind and a mastery of at least the basics of magic. In many fantasy gaming worlds, there are two kinds of high elves. One type is haughty and reclusive, believing themselves to be superior to non-elves and even other elves. The other type is more common and more friendly, and often encountered among humans and other races. 
+## Вищий ельф
+Як вищий ельф ви маєте гострий розум та досвід принаймні з основами магії. У багатьох ігрових світах існують два різновиди вищих ельфів. Один тип є гордовитим і непокірним, вважаючи себе кращими за неельфів і навіть за інших ельфів. Інший тип більш поширений і більш дружній, а також зустрічається серед людей та інших рас.
 
-**Ability Score Increase.** Your Intelligence score increases by 1. 
+**Покращення здібностей.** Значення вашого Інтелекту зростає на 1.
 
-**Elf Weapon Training.** You have proficiency with the longsword, shortsword, shortbow, and longbow. 
+**Опанування зброї ельфів.** Ви досвідчені у користування довгими та короткими мечами, а також довгими та короткими луками.
 
-**Cantrip.** You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it. 
+**Заклин.** Ви знаєте один заклин за власним вибором зі списку чарівника. Ваша чаротворча здібність - Інтелект.
 
-**Extra Language.** You can speak, read, and write one extra language of your choice.
+**Додаткова мова.** Ви можете говорити, читати й писати однією додатковою мовою за власним вибором.
