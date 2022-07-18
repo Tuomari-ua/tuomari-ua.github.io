@@ -16,7 +16,6 @@ layout: default
 - Palant
 - xattttta
 - Himerio
-- Bobbert
 - Ariedov
 - nyurch
 
