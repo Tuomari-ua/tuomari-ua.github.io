@@ -16,7 +16,7 @@ layout: default
 
 ## Раси
 
-| [Драконороджений](./character/races/dragonborn.md) |[Дворф](./character/racees/dwarf.md) 
+| [Драконороджений](./character/races/dragonborn.md) |[Дворф](./character/racees/dwarf.md) | [Ельф](./character/racees/elf.md) 
 
 - - -
 > [Дізнатися, хто це наробив](./credits.md)
