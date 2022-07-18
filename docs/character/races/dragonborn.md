@@ -1,40 +1,38 @@
-description: Rules and information for the Dragonborn race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Драконороджених 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Dragonborn 
-## Dragonborn Traits 
+# Драконороджений
+## Риси драконороджених
 - - -
-Your draconic heritage manifests in a variety of traits you share with other dragonborn. 
+Ваш спадок драконів проявляється у різних рисах, які об'єднують вас із іншими драконородженими.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Charisma score increases by 1.  
+**Покращення здібностей.** Значення вашої Сили збільшується на 2, а значення вашої Харизми збільшується на 1.
 
-**Age.** Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80.  
+**Вік.** Юні драконороджені швидко дорослішають. Вони ходять за кілька годин після того, як вилупилися, досягають розміру та розвитку 10-річної людської дитини у віці 3 років і стають повністю дорослими уже в 15. Вони доживають приблизно до 80 років.
 
-**Alignment.** Dragonborn tend to extremes, making a conscious choice for one side or the other in the cosmic war between good and evil. Most dragonborn are good, but those who side with evil can be terrible villains.  
+**Світогляд.** Драконороджені схильні до крайнощів, свідомо вибираючи ту чи іншу сторону вічної війни добра та зла. Більшість драконороджених добрі, але ті, хто став на бік зла, можуть бути жахливими негідниками.
 
-**Size.** Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.  
+**Розмір.** Драконороджені вищі й важчі за людей, їхній середній зріст перевищує 6 футів, а середня вага сягає 250 фунтів. Ваш розмір - середній.
 
-**Speed.** Your base walking speed is 30 feet.  
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-#### Draconic Ancestry
-| Dragon | Damage Type | Breath Weapon               |
-|--------|-------------|-----------------------------|
-| Black  | Acid        | 5 by 30 ft. line (Dex. save)|
-| Blue   | Lightning   | 5 by 30 ft. line (Dex. save)|
-| Brass  | Fire        | 5 by 30 ft. line (Dex. save)|
-| Bronze | Lightning   | 5 by 30 ft. line (Dex. save)|
-| Copper | Acid        | 5 by 30 ft. line (Dex. save)|
-| Gold   | Fire        | 15 ft. cone (Dex. save)     |
-| Green  | Poison      | 15 ft. cone (Con. save)     |
-| Red    | Fire        | 15 ft. cone (Dex. save)     |
-| Silver | Cold        | 15 ft. cone (Con. save)     |
-| White  | Cold        | 15 ft. cone (Con. save)     |
+#### Спадщина драконів
+| Дракон    | Тип пошкоджень | Зброя подиху                             |
+| --------- | -------------- | ---------------------------------------- |
+| Чорний    | Кислота        | лінія 5 на 30 футів (рятунок Спритності) |
+| Синій     | Блискавка      | лінія 5 на 30 футів (рятунок Спритності) |
+| Латунний  | Вогонь         | лінія 5 на 30 футів (рятунок Спритності) |
+| Бронзовий | Блискавка      | лінія 5 на 30 футів (рятунок Спритності) |
+| Мідний    | Кислота        | лінія 5 на 30 футів (рятунок Спритності) |
+| Золотий   | Вогонь         | Конус 15 футів (рятунок Спритності)      |
+| Зелений   | Отрута         | Конус 15 футів (рятунок Статури)         |
+| Червоний  | Вогонь         | Конус 15 футів (рятунок Спритності)      |
+| Срібний   | Холод          | Конус 15 футів (рятунок Статури)         |
+| Білий     | Холод          | Конус 15 футів (рятунок Статури)         |
 
-**Draconic Ancestry.** You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.  
+**Спадщина драконів.** Ви є нащадком драконів. Виберіть один тип дракона з таблиці «Спадщина драконів». Ваша зброя подиху та стійкість до пошкоджень визначається типом дракона, як показано в таблиці.
 
-**Breath Weapon.** You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals **_8 + your Constitution modifier + your proficiency bonus._** A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. 
-After you use your breath weapon, you can’t use it again until you complete a short or long rest.  
+**Зброя подиху.** Ви можете використати свою дію, щоб видихнути руйнівну енергію. Ваш драконічний предок визначає розмір, форму та тип пошкоджень від видиху. При використанні зброї подиху кожна істота в області впливу повинна зробити рятувальний кидок, тип якого визначено спадщиною драконів. КС для цього ряткидка дорівнює **_8 + ваш модифікатор Статури + ваш бонус досвіду._** Істота отримує 2к6 пошкоджень у випадку невдачі та половину цих пошкоджень - у випадку успішного ряткидка. Пошкодження зростають до 3к6 на 6-му рівні, 4к6 на 11-му рівні та 5к6 на 16-му рівні. Щойно ви застосуєте зброю подиху, ви не можете скористатися нею знову, доки не завершите короткий або тривалий відпочинок.
 
-**Damage Resistance.** You have resistance to the damage type associated with your draconic ancestry.  
+**Стійкість до пошкоджень.** Ви маєте стійкість до пошкоджень, які пов'язані з вашою спадщиною дракона.
 
-**Languages.** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.  
+**Мови.** Ви можете говорити, читати та писати спільною та драконівською мовами. Драконівська мова вважається однією з найстаріших і часто використовується у вивченні магії. Мова звучить грубо для більшості інших істот і містить значну кількість твердих приголосних і шиплячих.  
