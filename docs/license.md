@@ -1,3 +1,5 @@
+layout: default
+
 # Legal Information
 
 Permission to copy,  modify  and  distribute  the  files  collectively known as 5thsrd.org is  granted  solely  through  the  use of the  Open  Gaming  License,  Version  1.0a.
