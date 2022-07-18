@@ -11,7 +11,7 @@ layout: default
 Над перекладом та публікацією працювали:
 - Tuomari
 - movnyydoshch
-- KERNOR
+- Андрій Михайлів (KERNOR)
 - Raelysk
 - Palant
 - xattttta
