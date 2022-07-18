@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# Legal Information
-
-Permission to copy,  modify  and  distribute  the  files  collectively known as 5thsrd.org is  granted  solely  through  the  use of the  Open  Gaming  License,  Version  1.0a.
-
 This material is  being  released  using  the  Open  Gaming License Version  1.0a  and  you  should  read  and understand the  terms  of  that  license  before  using this material.     
 
 The text of  the  Open  Gaming  License  itself  is  not  Open Game Content.  Instructions  on  using  the  License are provided  within  the  License  itself.     
