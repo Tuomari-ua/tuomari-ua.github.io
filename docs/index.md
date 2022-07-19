@@ -17,8 +17,8 @@ layout: default
 ## Раси
 
 | [Драконороджений](./character/races/dragonborn.md) |[Дворф](./character/races/dwarf.md) | [Ельф](./character/races/elf.md) 
-| [Гном](./character/races/gnome.md)                 |[Напіврослик]()                                 |[Напівельф](./character/races/halfelf.md)
-|[Напіворк](./character/races/halforc.md) |[Людина]() |[Тифлінґ]()
+| [Гном](./character/races/gnome.md)                 |[Напіврослик]()                                 |[Напівельф](./character/races/half-elf.md)
+|[Напіворк](./character/races/half-orc.md) |[Людина]() |[Тифлінґ]()
 
 - - -
 > [Дізнатися, хто це наробив](./credits.md)
