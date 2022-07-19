@@ -1,37 +1,34 @@
-description: Rules and information for the Gnome race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Гномів 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Gnome 
-## Gnome Traits 
+# Гном
+## Риси гномів
 - - -
-Your gnome character has certain characteristics in common with all other gnomes. 
+Ваш персонаж гном має певні здібності, спільні для всіх інших гномів.
 
-**Ability Score Increase.** Your Intelligence score increases by 2. 
+**Покращення здібностей.** Значення вашого Інтелекту зростає на 2.
 
-**Age.** Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years. 
+**Вік.** Гноми дорослішають так само, як і люди, і більшість із них облаштовує доросле життя у віці близько 40 років. Вони можуть прожити від 350 до майже 500 років.
 
-**Alignment.** Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious. 
+**Світогляд.** Гноми найчастіше добрі. Ті, хто більш схильний до законослухняності, стають мудрецями, інженерами, дослідниками, науковцями, розслідувачами або винахідниками. Ті, хто схильний до хаосу, стають менестрелями, хитрунами, мандрівниками чи вигадливими ювелірами. Гноми добросердні, і навіть шахраї серед них скоріше грайливі, ніж злостиві.
 
-**Size.** Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+**Розмір.** Гноми мають зріст від 3 до 4 футів та важать у середньому близько 40 фунтів. Ваш розмір - маленький.
 
-**Speed.** Your base walking speed is 25 feet. 
+**Швидкість.** Ваша базова швидкість ходьби становить 25 футів.
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Темний зір.** Пристосовані до життя під землею, ви маєте кращий зір у темряві та у тьмяному світлі. Ви можете бачити в тьмяному світлі на відстань до 60 футів так, ніби в умовах яскравого світла, а в темряві - так, ніби в умовах тьмяного світла. У темряві ви не розрізняєте кольори, лише відтінки сірого.
 
-**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. 
+**Гномська хитрість.** Ви маєте перевагу на ряткидки Інтелекту, Мудрості та Харизми проти магії.
 
-**Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world. 
+**Мови.** Ви можете говорити, читати і писати спільною та гномською мовами. Гномська мова, яка використовує дворфійське письмо, відома своїми технічними трактатами та каталогами знань про світ природи.
 
-## Rock Gnome 
-As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. 
+## Скельний гном
+Як скельний гном ви маєте природжену винахідливість і стійкість, що перевершує інших гномів.
 
-**Ability Score Increase.** Your Constitution score increases by 1.
+**Покращення здібностей.** Значення вашої Статури зростає на 1.
 
-**Artificer’s Lore.** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply. 
+**Знання винахідників.** Щоразу, коли ви робите перевірку Інтелекту (Історія), пов'язану з магічними предметами, алхімічними об'єктами чи технологічними пристроями, ви можете додати до результату подвійний бонус досвіду замість вашого звичайного бонусу.
 
-**Tinker.** You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. 
-When you create a device, choose one of the following options: 
->**Clockwork Toy.** This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents. 
-
->**Fire Starter.** The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action. 
-
->**Music Box.** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+**Жерстяник.** Ви опанували ремісничі інструменти - інструменти жерстяника. Використовуючи ці інструменти, ви можете витратити 1 годину часу та виробничі матеріали вартістю 10 зм, щоб створити крихітний механічний пристрій (КЗ 5, 1 ПЗ). Пристрій перестає працювати через 24 години (хіба що ви витратите 1 годину на ремонт, щоб пристрій продовжив працювати), або коли ви демонтуєте його дією; у цьому випадку ви можете повернути матеріали, використані на його створення. Ви можете одночасно мати до трьох таких пристроїв. Коли ви створюєте пристрій, оберіть один з наступних параметрів:
+> **Механічна іграшка.** Ця іграшка - механічна тваринка, монстр або особа, така як жабка, миша, пташка, дракон або солдат. Встановлена на землі, ця іграшка у ваш хід рухається на 5 футів у випадковому напрямку. Вона видає звуки, які відповідають уособленій істоті.
+> **Запальничка.** Цей пристрій виробляє мініатюрне полум'я, яким можна запалити свічку, факел або багаття. Використання пристрою потребує вашої дії.
+> **Музична скринька.** Відкрита скринька відтворює одну пісню на помірній гучності. Скринька припиняє грати, коли досягає кінця пісні або коли її закривають.
