@@ -1,26 +1,26 @@
-description: Rules and information for the Half-Orc race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Напіворків 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Half-Orc 
-## Half-Orc Traits 
+# Напіворк
+## Риси напіворків
 - - -
-Your half-orc character has certain traits deriving from your orc ancestry. 
+Завдяки оркському родоводу, ваш персонаж напіворк має наступні риси.
 
-**Ability Score Increase.** Your Strength score increases by 2, and your Constitution score increases by 1. 
+**Покращення здібностей.** Значення вашої Сили збільшується на 2, і значення вашої Статури збільшується на 1.
 
-**Age.** Half-orcs mature a little faster than humans, reaching adulthood around age 14. They age noticeably faster and rarely live longer than 75 years. 
+**Вік.** Напіворки дорослішають трохи швидше за людей, досягаючи зрілості в 14 років. Вони старіють швидше і рідко живуть довше 75 років.
 
-**Alignment.** Half-orcs inherit a tendency toward chaos from their orc parents and are not strongly inclined toward good. Half-orcs raised among orcs and willing to live out their lives among them are usually evil. 
+**Світогляд.** Напіворки успадкували схильність до хаосу від своїх оркських батьків, і вони не надто схильні до добра. Напіворки, які виросли серед орків і планують жити серед них все життя, зазвичай злі.
 
-**Size.** Half-orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium. 
+**Розмір.** Напіворки трохи більші та масивніші, ніж люди, і вони досягають від 5 до більш як 6 футів заввишки. Ваш розмір - середній.
 
-**Speed.** Your base walking speed is 30 feet. 
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Темний зір.** Завдяки вашій оркській крові, ви маєте кращий зір у темряві та у тьмяному світлі. Ви можете бачити в тьмяному світлі на відстань до 60 футів так, ніби в умовах яскравого світла, а в темряві - так, ніби в умовах тьмяного світла. У темряві ви не розрізняєте кольори, лише відтінки сірого.
 
-**Menacing.** You gain proficiency in the Intimidation skill. 
+**Погрозливий.** Ви опанували навичку залякування.
 
-**Relentless Endurance.** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest. 
+**Непохитна витривалість.** Коли ваші пункти здоров'я опускаються до нуля, але ви не вбиті на місці, ви можете натомість залишитися з 1 ПЗ. Ви не можете використовувати цю особливість знову, доки не завершите тривалий відпочинок.
 
-**Savage Attacks.** When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.
- 
-**Languages.** You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+**Дикі атаки.** Коли ви здійснюєте критичне влучання зброєю ближнього бою, ви можете один раз кинути одну кістку пошкоджень своєї зброї і додати її до пошкоджень від критичного влучання.
+
+**Мови** Ви можете говорити, читати й писати спільною та оркською мовами. Оркська - це груба, різка мова з твердими приголосними. Вона не має власної писемності, але використовує дворфійський алфавіт.
