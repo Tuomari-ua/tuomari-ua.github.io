@@ -8,8 +8,8 @@
 
 ## Класи
 
-* [Варвар](/character/classes/barbarian/)
-* [Бард](/character/classes/bard/)
+* [Варвар](/character/classes/barbarian.md)
+* [Бард](/character/classes/bard.md)
 * [Клірик](/character/classes/cleric/)
 * [Друїд](/character/classes/druid/)
 * [Боєць](/character/classes/fighter/)
