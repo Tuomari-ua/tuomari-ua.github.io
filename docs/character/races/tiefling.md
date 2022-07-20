@@ -1,24 +1,24 @@
-description: Rules and information for the Tiefling race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Тифлінґів 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Tiefling 
-## Tiefling Traits 
+# Тифлінґ
+## Риси тифлінґів
 - - -
-Tieflings share certain racial traits as a result of their infernal descent. 
+Тифлінґи мають певні спільні риси внаслідок свого пекельного походження.
 
-**Ability Score Increase.** Your Intelligence score increases by 1, and your Charisma score increases by 2. 
+**Покращення здібностей.** Значення вашого Інтелекту збільшується на 1, а значення вашої Харизми збільшується на 2.
 
-**Age.** Tieflings mature at the same rate as humans but live a few years longer. 
+**Вік.** Тифлінґи дорослішають з тією ж швидкістю, що і люди, але живуть на кілька років довше.
 
-**Alignment.** Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment. 
+**Світогляд.** Тифлінґи можуть не мати внутрішньої схильності до зла, але багато з них зрештою завершують шлях саме там. Злі чи ні, незалежна природа визначає хаотичний світогляд більшості тифлінґів.
 
-**Size.** Tieflings are about the same size and build as humans. Your size is Medium. 
+**Розмір.** Тифлінґи приблизно такого ж розміру й тілобудови, як і люди. Ваш розмір - середній.
 
-**Speed.** Your base walking speed is 30 feet. 
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Darkvision.** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Темний зір.** Завдяки вашому пекельному походженню, ви маєте кращий зір у темряві та у тьмяному світлі. Ви можете бачити в тьмяному світлі 60 футів від вас, як у яскравому світлі, а в пітьмі - як у тьмяному світлі. У темряві ви не розрізняєте кольори, лише відтінки сірого.
 
-**Hellish Resistance.** You have resistance to fire damage. 
+**Пекельна стійкість.** Ви маєте стійкість до пошкоджень вогнем.
 
-**Infernal Legacy.** You know the **_thaumaturgy_** cantrip. When you reach 3rd level, you can cast the **_hellish rebuke_** spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the **_darkness_** spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells. 
+**Диявольська спадщина.** Ви знаєте заклин **_чудотворство_**. Коли ви досягаєте 3-го рівня, за допомогою цієї риси ви можете один раз створити чари **_пекельна відплата_** як чари 2-го рівня, і ця здатність відновлюється, коли ви завершуєте тривалий відпочинок. Коли ви досягаєте 5-го рівня, за допомогою цієї риси ви можете один раз створити чари **_пітьма_**, ця здатність відновлюється, коли ви завершуєте тривалий відпочинок. Вашою здібністю для створення чарів є Харизма.
 
-**Languages.** You can speak, read, and write Common and Infernal.
+**Мови.** Ви можете говорити, читати й писати спільною та інфернальною мовами.

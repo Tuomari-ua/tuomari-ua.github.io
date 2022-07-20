@@ -1,18 +1,18 @@
-description: Rules and information for the Human race from the 5th Edition (5e) SRD (System Reference Document).
+Опис: Правила та інформація для раси Людей 5-ї версії (5e) SRD (Довідник із документації системи).
 
-# Human 
-## Human Traits 
+# Людина
+## Риси людей
 - - -
-It’s hard to make generalizations about humans, but your human character has these traits. 
+Важко описати кількома словами усіх людей, але людські характери мають спільні риси.
 
-**Ability Score Increase.** Your ability scores each increase by 1. 
+**Покращення здібностей.** Значення усіх ваших здібностей зростають на 1.
 
-**Age.** Humans reach adulthood in their late teens and live less than a century. 
+**Вік.** Люди стають дорослими ближче до 20 років, і живуть менше століття.
 
-**Alignment.** Humans tend toward no particular alignment. The best and the worst are found among them. 
+**Світогляд.** Люди не схильні до певного світогляду. Серед них можна знайти і найкращих, і найгірших.
 
-**Size.** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium. 
+**Розмір.** Люди сильно відрізняються зростом та тілобудовою, від заледве 5 футів до більш як 6 футів заввишки. Незалежно від вашої позиції в цьому діапазоні, ваш розмір - середній.
 
-**Speed.** Your base walking speed is 30 feet. 
+**Швидкість.** Ваша базова швидкість ходьби становить 30 футів.
 
-**Languages.** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elvish musical expressions, Dwarvish military phrases, and so on.
+**Мови.** Ви можете говорити, читати й писати спільною та ще однією мовою за власним вибором. Люди зазвичай вивчають мови інших людей, з якими вони мають справу, включаючи рідкісні діалекти. Вони люблять прикрашати свої промови словами й висловами, запозиченими з інших мов: оркськими лайками, ельфійськими музичними висловлюваннями та військовими наказами дворфів.
