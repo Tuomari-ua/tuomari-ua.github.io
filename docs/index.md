@@ -10,9 +10,9 @@ layout: default
 ## Персонаж: Класи
 
 | [Бард](./character/classes/bard.md)        | [Боєць](./character/classes/fighter.md)  | [Варвар](./character/classes/barbarian.md) 
-| [Відьмак](./character/classes/warlock.md)  | [Друїд](./character/classes/druid.md)    | [Монах](./character/classes/monk.md)  
-| [Клірик](./character/classes/cleric.md)    | [Паладин](./character/classes/paladin.md)| [Пройдисвіт](./character/classes/rogue.md)  
-| [Рейнджер](./character/classes/ranger.md)  | [Чарівник](./character/classes/wizard.md)| [Чародій](./character/classes/sorcerer.md) 
+| [Відьмак](./character/classes/warlock.md)  | [Друїд](./character/classes/druid.md)    | [Заклинач](./character/classes/sorcerer.md) 
+| [Маг](./character/classes/wizard.md)       | [Монах](./character/classes/monk.md)     | [Клірик](./character/classes/cleric.md)    
+| [Паладин](./character/classes/paladin.md)  | [Пройдисвіт](./character/classes/rogue.md)| [Рейнджер](./character/classes/ranger.md)
 
 ## Раси
 
