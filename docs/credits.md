@@ -6,7 +6,7 @@ layout: default
 
 [Наш дискорд](https://discord.gg/nQVxdUsGrH)
 
-[Наш телеграм](https://t.me/dnd_ukraine)
+[Наш телеграм](https://t.me/inrium)
 
 Над перекладом та публікацією працювали:
 - Tuomari
