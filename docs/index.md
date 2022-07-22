@@ -12,7 +12,7 @@ layout: default
 | [Бард](./character/classes/bard.md)        | [Боєць](./character/classes/fighter.md)     | [Варвар](./character/classes/barbarian.md) 
 | [Друїд](./character/classes/druid.md)      | [Заклинач](./character/classes/sorcerer.md) | [Клірик](./character/classes/cleric.md)
 | [Маг](./character/classes/wizard.md)       | [Монах](./character/classes/monk.md)        | [Паладин](./character/classes/paladin.md)  
-| [Пройдисвіт](./character/classes/rogue.md) | [Рейнджер](./character/classes/ranger.md)    [Чаклун](./character/classes/warlock.md) 
+| [Пройдисвіт](./character/classes/rogue.md) | [Рейнджер](./character/classes/ranger.md)   | [Чаклун](./character/classes/warlock.md) 
 
 ## Раси
 
