@@ -8,7 +8,7 @@
         <p>{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
+<!--    <nav class="sidebar-nav">
         <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}"
             href="{{ '/' | absolute_url }}">Home</a>
 
@@ -26,8 +26,18 @@
         {% endif %}
         {% endif %}
         {% endfor %}
-    </nav>
+    </nav> -->
 
+      <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Домашня сторінка</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/combat/index_all.html"">Бій</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/character/index_all.html"">Персонаж</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/rules/index_all.html"">Правила</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/gamemaster_rules/index_all.html"">Правила майстра</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/adventuring/index_all.html"">Пригоди</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/docs/spellcasting/index_all.html"">Чаротворення</a>
+  </nav>
+     
     <div class="sidebar-item">
         <!-- <p>
             &copy; {{ site.time | date: '%Y' }}
