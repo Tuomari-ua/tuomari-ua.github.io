@@ -1,107 +1,107 @@
-description: Rules for creating a multiclass character from the 5th Edition (5e) SRD (System Reference Document).
+Правила створення персонажа з кількома класами (мультикласом)
 
-# Multiclassing 
-Multiclassing allows you to gain levels in multiple classes. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in one of the standard class options.
+# Мультиклас
+Мультиклас дозволяє вам отримувати рівні у різних класах. Такий розвиток дозволяє вам змішувати здібності цих класів та реалізувати концепт персонажа, який не вдається уособити можливостями стандартних класів.
 
-With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character.
+За цими правилами ви можете отримати рівень у новому класі замість свого поточного класу щоразу, коли піднімаєте рівень персонажа. Сума ваших рівнів у кожному класі визначає загальний рівень вашого персонажа. Наприклад, якщо у вас є три рівні чарівника та два рівні бійця, то ви є персонажем 5-го рівня.
 
-As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely, never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility. 
+Ви можете зберігати первинну участь у своєму початковому класі з кількома включеннями в інші, або ж ви можете повністю змінити напрямок розвитку, більше не озираючись на початкові класи, залишені позаду. Ви навіть можете почати розвиток у третьому й четвертому класах. У порівнянні з персонажем того ж рівня, але в одному класі, ви пожертвували фокусуванням на певних уміннях в обмін на універсальність.
 
-## Prerequisites
-To qualify for a new class, you must meet the ability score prerequisites for both your current class and your new one, as shown in the Multiclassing Prerequisites table. For example, a barbarian who decides to multiclass into the druid class must have both Strength and Wisdom scores of 13 or higher. Without the full training that a beginning character receives, you must be a quick study in your new class, having a natural aptitude that is reflected by higher-than-average ability scores.
+## Передумови
+Щоб претендувати на новий клас, ви мусите виконати передумови щодо значень здібностей для свого поточного та свого нового класів, як показно у таблиці "Передумови мультикласу". Наприклад, варвари, які прагнуть мультикласу з друїдом, повинні мати значення Сили та Мудрості 13 або більше. Без детального навчання, як це робить персонаж першого рівня, ви маєте пройти "прискорений курс" у новому класі, тому ваші природні здібності мають бути вищими за посередні.
 
-| Class     | Ability Score Minimum       |
-|-----------|-----------------------------|
-| Barbarian | Strength 13                 |
-| Bard      | Charisma 13                 |
-| Cleric    | Wisdom 13                   |
-| Druid     | Wisdom 13                   |
-| Fighter   | Strength 13 or Dexterity 13 |
-| Monk      | Dexterity 13 and Wisdom 13  |
-| Paladin   | Strength 13 and Charisma 13 |
-| Ranger    | Dexterity 13 and Wisdom 13  |
-| Rogue     | Dexterity 13                |
-| Sorcerer  | Charisma 13                 |
-| Warlock   | Charisma 13                 |
-| Wizard    | Intelligence 13             |
+| Клас       | Мінімум здібностей          |
+| ---------- | --------------------------- |
+| Варвар     | Сила 13                     |
+| Бард       | Харизма 13                  |
+| Клірик     | Мудрість 13                 |
+| Друїд      | Мудрість 13                 |
+| Боєць      | Сила 13 або Спритність 13   |
+| Монк       | Спритність 13 і Мудрість 13 |
+| Паладин    | Сила 13 і Харизма 13        |
+| Рейнджер   | Спритність 13 і Мудрість 13 |
+| Пройдисвіт | Спритність 13               |
+| Заклинач   | Харизма 13                  |
+| Чаклун     | Харизма 13                  |
+| Маг        | Інтелект 13                 |
 
-## Experience Points 
-The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class. So, if you are a cleric 6/fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a fighter or your seventh level as a cleric. 
+## Пункти досвіду
+Пункти досвіду, потрібні для отримання рівня, завжди ґрунтуються на загальному рівні персонажа, як показано в таблиці розвитку персонажа, а не на рівні персонажа у певному класі. Якщо ви клірик 6/боєць 1, ви повинні отримати достатньо досвіду, щоб досягти 8-го рівня, перш ніж зможете взяти свій другий рівень бійця чи сьомий рівень клірика.
 
-## Hit Points and Hit Dice 
-You gain the hit points from your new class as described for levels after 1st. You gain the 1st-level hit points for a class only when you are a 1st-level character.
+## Пункти здоров'я і Кістки здоров'я
+Ви отримуєте пункти здоров'я від свого нового класу, як описано для рівнів після 1-го. Ви отримуєте пункти здоров'я 1-го рівня тільки для того класу, який ви берете на 1-му рівні персонажа.
 
-You add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If the Hit Dice are the same die type, you can simply pool them together. For example, both the fighter and the paladin have a d10, so if you are a paladin 5/fighter 5, you have ten d10 Hit Dice. If your classes give you Hit Dice of different types, keep track of them separately. If you are a paladin 5/cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice. 
+Ви додаєте кістки здоров'я від усіх своїх класів, щоб сформувати свій фонд кісток здоров'я. Якщо кістки здоров'я одного типу, ви можете просто об'єднати їх. Наприклад, і боєць, і паладин мають к10, тож якщо ви паладин 5/боєць 5, то ви маєте 10 кісток к10. Якщо ваші класи дають вам різні кістки здоров'я, відстежуйте їх окремо. Якщо ви, наприклад, паладин 5/клірик 5, то ви маєте п'ять кісток к10 і п'ять кісток к8.
 
-## Proficiency Bonus 
-Your proficiency bonus is always based on your total character level, not your level in a particular class. For example, if you are a fighter 3/rogue 2, you have the proficiency bonus of a 5th-level character, which is +3. 
+## Бонус досвіду
+Ваш бонус досвіду завжди ґрунтується на загальному рівні вашого персонажа, а не рівні у конкретному класі. Наприклад, якщо ви боєць 3/пройдисвіт 2, у вас є бонус досвіду 5-го рівня, який складає +3.
 
-## Proficiencies 
-When you gain your first level in a class other than your initial class, you gain only some of new class's starting proficiencies, as shown in the Multiclassing Proficiencies table.
+## Досвід
+Коли ви отримуєте перший рівень в іншому класі, крім початкового, ви здобуваєте лише деякий вихідний досвід нового класу, як показано в таблиці Досвід мультикласу.
 
-#### Multiclassing Proficiencies
-| Class     | Proficiencies Gained |
-|-----------|----------------------|
-| Barbarian | Shields, simple weapons, martial weapons |
-| Bard      | Light armor, one skill of your choice, one musical instrument of your choice |
-| Cleric    | Light armor, medium armor, shields |
-| Druid     | Light armor, medium armor, shields (druids will not wear armor or use shields made of metal) |
-| Fighter   | Light armor, medium armor, shields, simple weapons, martial weapons |
-| Monk      | Simple weapons, shortswords |
-| Paladin   | Light armor, medium armor, shields, simple weapons, martial weapons |
-| Ranger    | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
-| Rogue     | Light armor, one skill from the class's skill list, thieves' tools |
-| Sorcerer  | - |
-| Warlock   | Light armor, simple weapons |
-| Wizard    | - |
+#### Досвід мультикласу
+| Клас       | Здобутий досвід                                                                                       |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| Варвар     | Щит, проста зброя, бойова зброя                                                                       |
+| Бард       | Легка броня, одна навичка за вашим вибором, один музичний інструмент за вашим вибором                 |
+| Клірик     | Легка броня, середня броня, щити                                                                      |
+| Друїд      | Легка броня, середня броня, щити (друїди не носитимуть броню та не користуватимуться щитами з металу) |
+| Боєць      | Легка броня, середня броня, щити, проста зброя, бойова зброя                                          |
+| Монах      | Проста зброя, короткі мечі                                                                            |
+| Паладин    | Легка броня, середня броня, щити, проста зброя, бойова зброя                                          |
+| Рейнджер   | Легка броня, середня броня, щити, проста зброя, бойова зброя, одна навичка зі списку навичок класу    |
+| Пройдисвіт | Легка броня, одне навичка зі списку навичок класу, злодійські інструменти                             |
+| Заклинач   | -                                                                                                     |
+| Чаклун     | Легка броня, проста зброя                                                                             |
+| Маг        | -                                                                                                     |
 
-## Class Features 
-When you gain a new level in a class, you get its features for that level. You don't, however, receive the class's starting equipment, and a few features have additional rules when you're multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting. 
+## Класові особливості
+Коли ви здобуваєте новий рівень у класі, ви отримуєте його особливості для цього рівня. Однак ви не отримуєте стартове спорядження класу, і кілька нових особливостей матимуть додаткові правила, коли ви отримуєте мультиклас: Спрямування божественної енергії, Додаткова атака, Захист без броні та Створення чарів.
 
-### Channel Divinity 
-If you already have the Channel Divinity feature and gain a level in a class that also grants the feature, you gain the Channel Divinity effects granted by that class, but getting the feature again doesn't give you an additional use of it. You gain additional uses only when you reach a class level that explicitly grants them to you. For example, if you are a cleric 6/paladin 4, you can use Channel Divinity twice between rests because you are high enough level in the cleric class to have more uses. Whenever you use the feature, you can choose any of the Channel Divinity effects available to you from your two classes. 
+### Спрямування божественної енергії
+Якщо ви вже умієте спрямовувати божественну енергію й отримуєте рівень у класі, який також має цю особливість, ви отримуєте ефект спрямування енергії від нового класу, але не додаткове використання цією особливості. Ви отримуєте додаткові використання лише тоді, коли досягаєте відповідного рівня у класі, який дає вам це додаткове використання. Наприклад, якщо ви клірик 6/паладин 4, ви можете використати спрямування божественної енергії двічі між відпочинками, бо ви маєте достатньо високий рівень у класі клірика, що дозволяє додаткові використання. Щоразу, коли ви використовуєте цю особливість, ви можете застосувати будь-який ефект Спрямування божественної енергії, доступний вам від обох класів.
 
-### Extra Attack 
-If you gain the Extra Attack class feature from more than one class, the features don't add together. You can't make more than two attacks with this feature unless it says you do (as the fighter's version of Extra Attack does). Similarly, the warlock's eldritch invocation Thirsting Blade doesn't give you additional attacks if you also have Extra Attack. 
+### Додаткова атака
+Якщо ви здобуваєте класову особливість "Додаткова атака" від більш як одного класу, ці особливості не додаються. Ви не можете зробити більше двох атак з цією особливістю, якщо не сказано, що можете (як сказано в описі додаткової атаки бійця). Так само позамежний заклик чаклуна Спраглий клинок не дає вам додаткової атаки, якщо ви вже маєте додаткову атаку.
 
-### Unarmored Defense 
-If you already have the Unarmored Defense feature, you can't gain it again from another class. 
+### Захист без броні
+Якщо ви вже маєте особливість «Захист без броні», ви не можете отримати її ще раз від іншого класу.
 
-### Spellcasting 
-Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes. Once you have the Spellcasting feature from more than one class, use the rules below. If you multiclass but have the Spellcasting feature from only one class, you follow the rules as described in that class.
+### Створення чарів
+Ваша здатність до створення чарів почасти залежить від суми рівнів у всіх ваших класах заклинання та почасти від окремих рівнів у цих класах. Якщо більш як один клас дає вам особливість Створення чарів, використовуйте наведені нижче правила. Якщо ви мультикласуєтеся, але особливість Створення чарів є лише в одному класі, виконуйте правила, як описано в цьому класі.
 
-**Spells Known and Prepared.** You determine what spells you know and can prepare for each class individually, as if you were a single-classed member of that class. If you are a ranger 4/wizard 3, for example, you know three 1st-level ranger spells based on your levels in the ranger class. As 3rd-level wizard, you know three wizard cantrips, and your spellbook contains ten wizard spells, two of which (the two you gained when you reached 3rd level as a wizard) can be 2nd-level spells. If your Intelligence is 16, you can prepare six wizard spells from your spellbook.
+**Відомі та підготовлені чари.** Ви визначаєте, які чари ви знаєте і можете підготувати для кожного класу окремо, якби ви мали тільки цей клас. Наприклад, якщо ви рейнджер 4/маг 3, то ви знаєте чари 1-го рівня рейнджера відповідно до рівня у цьому класі. Як маг 3-го рівня, ви знаєте три заклини мага, і ваша книга чарів містить десять чарів мага, двоє з яких (ті, що ви отримали при досягненні 3-го рівня) можуть бути чарами 2-го рівня. Якщо ви маєте Інтелект 16, ви можете приготувати шість чарів мага зі своєї книги.
 
-Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell. Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+Кожні чари, які ви знаєте та підготували, пов'язані з одним із ваших класів, і для їх створення ви застосовуєте чаротворчу здібність того класу, до якого належать чари. Так само чаротворчий фокус, такий як священний символ, можна використовувати лише для чарів класу, який пов'язаний із цим фокусом.
 
-**Spell Slots.** You determine your available spell slots by adding together all your levels in the bard, cleric, druid, sorcerer, and wizard classes, and half your levels (rounded down) in the paladin and ranger classes. Use this total to determine your spell slots by consulting the Multiclass Spellcaster table.
+**Слоти чарів.** Ви визначаєте доступні слоти чарів, додаючи разом усі свої рівні у класах барда, клірика, друїда, заклинача та мага, і половину рівнів (округлену вниз) у класах паладина та рейнджера. Отриману суму порівняйте з таблицею "Мультиклас чаротворця", щоб визначити доступні слоти чарів.
 
-If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like **_burning hands_**, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
+Якщо ви маєте більш як один чаротворчий клас, ця таблиця може дати вам слоти чарів, вищі ніж чари, які ви знаєте та можете підготувати. Ви можете використовувати ці слоти, але тільки для створення чарів нижчих рівнів. Якщо чари нижчого рівня, наприклад, **_вогняні долоні,_** мають посилений ефект при створенні за рахунок слотів вищих рівнів, ви можете використати цей ефект, навіть якщо у вас немає чарів такого високого рівня.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know — and potentially enhance their effects.
+Наприклад, якщо ви - згаданий раніше рейнджер 4/маг 3, ви вважаєтеся персонажем 5-го рівня для визначення слотів чарів: у вас є чотири слоти 1-го рівня, три слоти 2-го рівня та два слоти 3-го рівня. Однак ви не знаєте жодних чарів третього рівня, так само як і чарів рейнджера 2-го рівня. Ви можете використовувати ці слоти для створення чарів, які ви знаєте - і потенційно посилювати їхні ефекти.
 
-**Pact Magic.** If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
+**Магія договору.** Якщо ви маєте особливість Створення чарів та Магію договору від класу чаклуна, ви можете використовувати слот чарів від Магії договору для створення чарів, які ви знаєте або підготували для класу з особливістю Створення чарів. Ви також можете використовувати слоти від особливості Створення чарів для створення чарів чаклуна, які ви знаєте.
 
-#### Multiclass Spellcaster: Spell Slots per Spell Level
-| Level | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st   | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 3rd   | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
-| 7th   | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
-| 9th   | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 13th  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 15th  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+#### Мультиклас чаротворця: Слоти чарів по рівнях чарів
+| Рівень | 1-й | 2-й | 3-й | 4-й | 5-й | 6-й | 7-й | 8-й | 9-й |
+| ------ | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-й    | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2-й    | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 3-й    | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
+| 4-й    | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5-й    | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6-й    | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 7-й    | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
+| 8-й    | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 9-й    | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
+| 10-й   | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11-й   | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12-й   | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 13-й   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14-й   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 15-й   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 16-й   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17-й   | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18-й   | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19-й   | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20-й   | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
