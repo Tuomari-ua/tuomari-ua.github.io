@@ -8,7 +8,7 @@ layout: default
 
 
 # Персонаж
-##Класи
+## Класи
 
 | [Бард](./character/classes/bard.md)        | [Боєць](./character/classes/fighter.md)     | [Варвар](./character/classes/barbarian.md) 
 | [Друїд](./character/classes/druid.md)      | [Заклинач](./character/classes/sorcerer.md) | [Клірик](./character/classes/cleric.md)
