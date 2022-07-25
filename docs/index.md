@@ -23,10 +23,10 @@ layout: default
 
 # Правила
 
-| [Натхнення](./rules/inspiration.md)                            | |
-| [Підвищення рівня](./rules/leveling_up.md)                     ||
-| [Мультиклас](./rules/multiclassing.md)                   | |
-| [Бонус досвіду](./rules/proficiency_bonus.md)                  | |
+| [Підвищення рівня](./rules/leveling_up.md)                  | [Перевага та перешкода](/rules/advantage_and_disadvantage.html) |
+| [Мультиклас](./rules/multiclassing.md)                      | [Стани](/rules/conditions.html)|
+| [Бонус досвіду](./rules/proficiency_bonus.md)               |[Натхнення](./rules/inspiration.md)  |
+| [Уміння](/rules/feats.html)                                 |[Витрати](/rules/expenses.html) |
 
 
 - - -
