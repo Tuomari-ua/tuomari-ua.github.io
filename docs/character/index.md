@@ -19,7 +19,7 @@
 * [Паладин](/character/classes/paladin.html)
 * [Пройдисвіт](/character/classes/rogue.html)
 * [Рейнджер](/character/classes/ranger.html)
-* [Чаклун](/character/classes/warlock.html/)
+* [Чаклун](/character/classes/warlock.html)
 
 
 ## Раси
