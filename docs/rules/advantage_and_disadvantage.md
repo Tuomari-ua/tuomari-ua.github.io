@@ -1,12 +1,12 @@
-description: Rules describing the advantage and disadvantage system from the 5th Edition (5e) SRD (System Reference Document).
+Правила застосування переваги та перешкоди
 
-# Advantage and Disadvantage 
-Sometimes a special ability or spell tells you that you have advantage or disadvantage on an ability check, a saving throw, or an attack roll. When that happens, you roll a second d20 when you make the roll. Use the higher of the two rolls if you have advantage, and use the lower roll if you have disadvantage. For example, if you have disadvantage and roll a 17 and a 5, you use the 5. If you instead have advantage and roll those numbers, you use the 17.
+# Перевага та перешкода
+Іноді спеціальна здібність чи чари вказують, що ви маєте перевагу або перешкоду на перевірку здібності, рятівний кидок чи кидок атаки. Коли таке відбувається, під час кидка ви кидаєте другу кістку к20. Використовуйте більший результат з цих кидків, якщо ви маєте перевагу, і менший результат, якщо ви маєте перешкоду. Наприклад, якщо у вас перешкода і результати кидка 17 і 5, ви застосовуєте 5. І навпаки, якщо ви маєте перевагу й такі результати кидка, то ви застосовуєте значення 17.
 
-If multiple situations affect a roll and each one grants advantage or imposes disadvantage on it, you don't roll more than one additional d20. If two favorable situations grant advantage, for example, you still roll only one additional d20.
+Якщо кілька обставин впливають на кидок, і кожна дає перевагу або створює перешкоду, ви не кидаєте більше однієї додаткової к20. Наприклад, якщо дві сприятливі обставини надають перевагу, ви кидаєте тільки одну додаткову к20.
 
-If circumstances cause a roll to have both advantage and disadvantage, you are considered to have neither of them, and you roll one d20. This is true even if multiple circumstances impose disadvantage and only one grants advantage or vice versa. In such a situation, you have neither advantage nor disadvantage.
+Якщо обставини передбачають кидок і переваги, і перешкоди, вважається, що ви не маєте жодної, і ви кидаєте одну кістку к20. Це діє, навіть якщо кілька обставин створюють перешкоду, але тільки одна дає перевагу, і навпаки. У таких ситуаціях ви не маєте ані переваги, ані перешкоди.
 
-When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
+Коли ви маєте перевагу або перешкоду, і обставини у гри, такі як риса напівросликів Щасливчик, дають вам можливість зробити новий кидок к20, ви можете перекинути лише одну з кісток. Ви обираєте, яку саме. Наприклад, маючи перевагу або перешкоду на перевірку здібності та результати 1 та 13, напіврослик може використати свою рису Щасливчик та перекинути 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+Зазвичай ви отримуєте перевагу або перешкоду шляхом застосування спеціальних здібностей, дій або чарів. Натхнення також може надати персонажу перевагу. Майстер також може вирішити, що обставини так чи інакше впливають на кидок і надають перевагу або створюють перешкоду.
