@@ -1,16 +1,16 @@
-description: Rules and examples of feats from the 5th Edition (5e) SRD (System Reference Document).
+Правила та приклад уміння персонажа.
 
-# Feats 
-A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
+# Уміння
+Уміння - це талант чи галузь експертизи, яка надає персонажеві спеціальні можливості. Воно відображає навчання, досвід та здібності, отримані поза межами класових особливостей.
 
-At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+На певних рівнях ваш клас дає вам особливість Покращення здібностей. Користуючись необов'язковим правилом щодо умінь, ви відмовляєтеся від цієї особливості й натомість отримуєте уміння за власним вибором. Ви можете взяти кожне уміння лише раз, якщо в описі цього уміння не вказано інакше.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow--perhaps by a withering curse--you can't benefit from the Grappler feat until your Strength is restored.
+Ви повинні виконати всі передумови, які вказані в умінні, щоб його отримати. Якщо ви з будь-яких причин втрачаєте необхідну передумову, ви не можете користуватися цим умінням, допоки передумову не буде відновлено. Наприклад, уміння Захоплювач вимагає від вас значення Сили 13 або більше. Якщо ваша Сила буде знижена нижче 13 - можливо, прокляттям в'янення - ви не отримуєте привілеїв від цього уміння, доки не відновите Силу.
 
-## Grappler 
-**Prerequisite:** Strength 13 or higher
+## Захоплювач
+**Передумова:** Сила 13 або більше
 
-You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+Ви розвинули необхідні навички, щоб тримати своє у боротьбі ближнього бою. Ви здобуваєте наступні переваги:
 
-* You have advantage on attack rolls against a creature you are grappling.
-* You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+* Ви маєте перевагу на кидки атаки проти істоти, яку схопили.
+* Ви можете використати дію, щоб спробувати скувати схоплену істоту. Для цього зробіть ще одну перевірку схоплення. Якщо перевірка успішна, ви та схоплена істота є скутими, поки не завершиться схоплення.
