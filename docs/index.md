@@ -21,12 +21,21 @@ layout: default
 | [Гном](./character/races/gnome.md)                 |[Напіврослик](./character/races/halfling.md)|[Напівельф](./character/races/half-elf.md)
 |[Напіворк](./character/races/half-orc.md)           |[Людина](./character/races/human.md)        |[Тифлінґ](./character/races/tiefling.md)
 
-# Правила
+## Правила
 
 | [Підвищення рівня](./rules/leveling_up.md)                  | [Перевага та перешкода](/rules/advantage_and_disadvantage.html) |
 | [Мультиклас](./rules/multiclassing.md)                      | [Стани](/rules/conditions.html)|
-| [Бонус досвіду](./rules/proficiency_bonus.md)               |[Натхнення](./rules/inspiration.md)  |
-| [Уміння](/rules/feats.html)                                 |[Витрати](/rules/expenses.html) |
+| [Бонус досвіду](./rules/proficiency_bonus.md)               | [Натхнення](./rules/inspiration.md)  |
+| [Уміння](/rules/feats.html)                                 | [Витрати](/rules/expenses.html) |
+
+## Здібності
+
+| [Сила](./rules/abilities/strength.md)             | [Значення здібностей](./rules/abilities/ability_scores.md)|
+| [Спритність](./rules/abilities/dexterity.md)      | [Перевірки здібностей](./rules/abilities/ability_checks.md)|
+| [Статура](./rules/abilities/constitution.md)      | [Рятівні кидки](./rules/abilities/saving_throws.md)|
+| [Інтелект](./rules/abilities/intelligence.md)     | |
+| [Мудрість](./rules/abilities/wisdom.md)           | |
+| [Харизма](./rules/abilities/charisma.md)          | |
 
 
 - - -
