@@ -1,0 +1,70 @@
+        {%- if site.dribbble_username -%}
+            <a target="_blank" href="https://dribbble.com/{{ site.dribbble_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-dribbble-square" title="Dribble link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.facebook_username -%}
+            <a target="_blank" href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-facebook" title="Facebook link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.flickr_username -%}
+            <a target="_blank" href="https://www.flickr.com/photos/{{ site.flickr_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-flickr" title="Flickr link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.github_username -%}
+            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-github" title="Github link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.stackoverflow_username -%}
+            <a target="_blank" href="https://stackoverflow.com/users/{{ site.stackoverflow_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-stack-overflow" title="Stackoverflow link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.instagram_username -%}
+            <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-instagram" title="Instagram link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.linkedin_username -%}
+            <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-linkedin" title="Linkedin link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.xing_username -%}
+            <a target="_blank" href="https://www.xing.com/profile/{{ site.xing_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-xing" title="Xing link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.pinterest_username -%}
+            <a target="_blank" href="https://www.pinterest.com/{{ site.pinterest_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-pinterest" title="Pintrest link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.twitter_username -%}
+            <a target="_blank" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-twitter" title="Twitter link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.youtube_username -%}
+            <a target="_blank" href="https://www.youtube.com/{{ site.youtube_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-youtube" title="Youtube link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.orcid_username -%}
+            <a target="_blank" href="https://orcid.org/{{ site.orcid_username | escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-orcid" title="ORCiD link"></i>
+            </a>
+        {%- endif -%}
+        {%- if site.googlescholar_username -%}
+            <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
+              <i class="fab fa-2x fa-google" title="Google scholar link"></i>
+            </a>
+        {%- endif -%}
+        {% for link in site.additional_links %}
+            {% include a.html href=link.url class="button button--sacnite button--round-l" %}
+              <i class="{{ link.icon }}" title="{{ link.title | escape }}"></i>
+            </a>
+        {% endfor %}

@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+{% assign groups = site.monsters | group_by: "type" | uniq | sort: "name" %}
+{% for group in groups %}
+      <h3>{{ group.name }}</h3>
+  <ul>
+    {% for item in group.items %}
+           <li><a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {%endfor%}
+  </ul>
+{%endfor%}
+
+
+</div>
