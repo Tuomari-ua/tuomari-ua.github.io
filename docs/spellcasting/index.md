@@ -1,4 +1,9 @@
-# Чаротворчість
+---
+layout: page
+category: index
+title: Чари
+---
+
 ## Загальні правила створення чарів
 
 * [Що таке чари?](/spellcasting/what_is_a_spell.html)
