@@ -1,4 +1,8 @@
-# Персонаж
+---
+layout: page
+category: index
+title: Персонаж
+---
 
 ## Загальні відомості
 * [Світогляд](/character/alignment.html)
