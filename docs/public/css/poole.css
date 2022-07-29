@@ -76,7 +76,8 @@ a strong {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: underline;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 /* Headings */
@@ -118,6 +119,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+  list-style-type: none;
 }
 
 dt {
@@ -235,6 +237,7 @@ img {
 }
 
 /* Tables */
+@media only screen and (min-width: 769px) {
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -250,8 +253,25 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+}
 
-
+@media only screen and (max-width: 768px) {
+{
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: .25rem .5rem;
+  display: inline;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+}
 /*
  * Custom type
  *
