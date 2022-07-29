@@ -1,42 +1,42 @@
-description: Information on the Strength ability from the 5th Edition (5e) System Reference Document (SRD)
+Інформація про здібність Сили
 
-# Strength 
-Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force. 
+# Сила
+Сила визначає тілесну міць, атлетичну підготовку та ступінь вашого застосування сирої фізичної сили.
 
-## Strength Checks 
-A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation. The Athletics skill reflects aptitude in certain kinds of Strength checks.
+## Перевірки Сили
+Перевірка Сили може моделювати будь-яку спробу підняти, штовхнути, потягнути або зламати щось, втиснути ваше тіло крізь простір або іншим чином застосувати до ситуації грубу силу. Навичка Атлетика відображає схильність до певних перевірок Сили.
 
-**Athletics.** Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming. Examples include the following activities: 
+**Атлетика.** Ваша Сила (Атлетики) охоплює складні ситуації, де вам треба лазити, стрибати чи плавати. Приклади включать наступну діяльність:
 
-* You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off. 
-* You try to jump an unusually long distance or pull off a stunt midjump. 
-* You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed. Or another creature tries to push or pull you underwater or otherwise interfere with your swimming.
+* Ви намагаєтеся піднятися на крутий чи слизький схил, уникнути небезпеки при підйомі на стіну чи вчепитися за поверхню, коли щось намагається виштовхати вас геть.
+* Ви намагаєтеся стрибнути на незвичайно довгу відстань чи виконати трюк під час стрибка.
+* Ви намагаєтеся плисти або залишатись на плаву в стрімкій течії, штормових хвилях чи густих зарослях. Або інша істота намагається штовхнути чи потягнути вас під воду, чи іншим чином завадити вашому плаванню.
 
 
-**Other Strength Checks.** The GM might also call for a Strength check when you try to accomplish tasks like the following:
+**Інші перевірки Сили.** Майстер також може вимагати перевірку Сили, коли ви намагаєтеся виконати наступні завдання:
 
-* Force open a stuck, locked, or barred door 
-* Break free of bonds 
-* Push through a tunnel that is too small 
-* Hang on to a wagon while being dragged behind it 
-* Tip over a statue 
-* Keep a boulder from rolling
- 
-## Attack Rolls and Damage 
-You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
+* Змусити відкритися застряглі, замкнені чи заґратовані двері
+* Звільнитися від пут
+* Продертися крізь замалий тунель
+* Зачепитися за фургон, коли вас за ним тягнуть
+* Перекинути статую
+* Утримати валун від скочування
 
-## Lifting and Carrying 
-Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
+## Кидки атаки та пошкодження
+Ви додаєте свій модифікатор Сили до своїх кидків атаки та кидків пошкоджень, коли атакуєте зброєю ближнього бою, такою як кийок, бойова сокира чи метальний спис. Ви застосовуєте зброю ближнього бою, щоб робити рукопашні атаки у ближньому бою, і можете метати деякі види зброї, щоб здійснити далекобійну атаку.
 
-**Carrying Capacity.** Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
+## Підіймання та перенесення
+Ваше значення Сили визначає вагу, яку ви можете нести. Наступні терміни визначають, що ви можете підняти або перенести.
 
-**Push, Drag, or Lift.** You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
+**Вантажність.** Ваша вантажність дорівнює значенню вашої Сили, помноженому на 15. Це вага (у фунтах), яку ви можете переносити, і вона є достатньо великою, щоб більшість персонажів не переймалися цим.
 
-**Size and Strength.** Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights. 
+**Штовхання, волочіння та підйом.** Ви можете штовхати, перетягувати або підіймати вагу, удвічі більшу за вашу вантажність (або ж значення Сили, помножене на 30). Під час штовхання або перетягування ваги, що перевищує вашу вантажність, ваша швидкість падає до 5 футів.
 
-## Variant: Encumbrance 
-The rules for lifting and carrying are intentionally simple. Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment. When you use this variant, ignore the Strength column of the Armor table.
+**Розмір і сила** Великі істоти можуть переносити більшу вагу, тоді як крихітні істоти здатні нести менше. Для кожного розміру, більшого за Середній, подвоюйте вантажність істот і вагу, яку вони можуть штовхати, тягнути чи підіймати. Для крихітних істот поділіть ці значення навпіл.
 
-If you carry weight in excess of 5 times your Strength score, you are **encumbered**, which means your speed drops by 10 feet.
+## Варіант: Навантаження
+Правила для підйому та проведення навмисно прості. Цей варіант пропонує більш деталізовані правила для визначення того, як на персонажа впливає вага його спорядження. При використанні цього варіанту ігноруйте колонку Сила у таблиці броні.
 
-If you carry weight in excess of 10 times your Strength score, up to your maximum carrying capacity, you are instead **heavily encumbered**, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.
+Якщо ви несете вагу в 5 разів більшу, ніж ваше значення Сили, ви **навантажені**, що означає, що ваша швидкість знижується на 10 футів.
+
+Якщо ви несете вагу, вдесятеро більшу за ваше значення Сили, аж до своєї максимальної вантажності, ви натомість вважаєтеся **надмірно навантаженими**, що означає падіння вашої швидкості на 20 футів та створення перешкоди на перевірки здібностей, кидки атаки та рятівні кидки, що пов'язані із Силою, Спритністю чи Статурою.
