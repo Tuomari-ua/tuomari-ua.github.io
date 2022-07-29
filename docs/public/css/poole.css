@@ -282,7 +282,9 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
   font-weight: 300;
 }
-
+.table-wrapper {
+  overflow-x: scroll;
+}
 
 /*
  * Messages
