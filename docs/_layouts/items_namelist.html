@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+            {% assign sortedPosts = site.items | sort: 'title' %}
+            <ul>
+            {% for doc in sortedPosts %}
+              {%- if doc.category == "items" -%}
+                <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
+              {%- endif -%}
+            {% endfor %}
+            </ul>
+
+</div>

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+    {% assign arrs = "bard, cleric, druid, paladin, ranger, sorcerer, warlock, wizard" | split: ", " %}
+    {% assign sortedPosts = site.spells | sort: 'title' %}
+      {% for item in arrs %}
+      <h3>   {% case item %}
+             {% when 'barbarian' %}Варвар
+             {% when 'bard' %}Бард
+             {% when 'cleric' %}Клірик
+             {% when 'druid' %}Друїд
+             {% when 'fighter' %}Боєць
+             {% when 'monk' %}Монах
+             {% when 'paladin' %}Паладин
+             {% when 'ranger' %}Рейнджер
+             {% when 'rogue' %}Пройдисвіт
+             {% when 'sorcerer' %}Чародій
+             {% when 'warlock' %}Відьмак
+             {% when 'wizard' %}Чарівник
+             {% endcase %}</h3>
+            <ul>
+            {% for doc in sortedPosts %}
+              {%- if doc.classes contains item -%}
+                <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
+              {%- endif -%}
+            {% endfor %}
+            </ul>
+      {%endfor%}
+
+</div>
