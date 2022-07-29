@@ -91,7 +91,7 @@ h4 {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 55rem;
   }
 }
 
@@ -470,6 +470,10 @@ a.pagination-item:hover {
 .theme-base-08 .masthead {
   border-bottom: 3px solid #d35353;
 }
+.theme-base-0b a:hover,
+.theme-base-0b a:focus {
+  color: #d35353;
+}
 
 /* Orange */
 .theme-base-09 .sidebar,
@@ -520,6 +524,10 @@ a.pagination-item:hover {
 }
 .theme-base-0b .masthead {
   border-bottom: 3px solid #005522;
+}
+.theme-base-0b a:hover,
+.theme-base-0b a:focus {
+  color: #04c250;
 }
 
 /* Cyan */
@@ -593,4 +601,30 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+/* Social icons color 
+ *
+ */
+
+.fa-youtube:hover {
+color: #FF0000;
+}
+.fa-github:hover {
+color: #000000;
+}
+.fa-facebook:hover {
+color: #4267B2;
+}
+.fa-twitter:hover {
+color: #1DA1F2;
+}
+.fa-linkedin:hover {
+color: #0072b1;
+}
+.fa-instagram:hover {
+color: #8a3ab9;
+}
+.fa-google:hover {
+color: #f4b400;
 }

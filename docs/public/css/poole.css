@@ -73,12 +73,6 @@ a {
 a strong {
   color: inherit;
 }
-/* `:focus` is linked to `:hover` for basic accessibility */
-a:hover,
-a:focus {
-  text-decoration: none;
-  text-transform: uppercase;
-}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
@@ -237,7 +231,6 @@ img {
 }
 
 /* Tables */
-@media only screen and (min-width: 769px) {
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -248,30 +241,16 @@ td,
 th {
   padding: .25rem .5rem;
   border: 1px solid #e5e5e5;
+  text-align: left;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.table-wrapper {
+  overflow-x: scroll;
 }
 
-@media only screen and (max-width: 768px) {
-{
-  margin-bottom: 1rem;
-  width: 100%;
-  border: 1px solid #e5e5e5;
-  border-collapse: collapse;
-}
-th,
-td {
-  padding: .25rem .5rem;
-  display: inline;
-}
-tbody tr:nth-child(odd) td,
-tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
-}
-}
 /*
  * Custom type
  *
@@ -282,9 +261,7 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
   font-weight: 300;
 }
-.table-wrapper {
-  overflow-x: scroll;
-}
+
 
 /*
  * Messages

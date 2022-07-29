@@ -1,4 +1,8 @@
-# Бій
+---
+layout: page
+category: index
+title: Бій
+---
 
 * [Дії в бою](/combat/actions_in_combat.html)
 * [Укриття](/combat/cover.html)

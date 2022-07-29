@@ -1,4 +1,9 @@
-# Правила
+---
+layout: page
+category: index
+title: Правила
+---
+
 ## Загальні правила
 
 * [Бонус досвіду](/rules/proficiency_bonus.html)
