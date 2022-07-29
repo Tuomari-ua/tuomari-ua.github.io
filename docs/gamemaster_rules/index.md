@@ -1,4 +1,9 @@
-# Правила Майстра
+---
+layout: page
+category: index
+title: Правила Майстра
+---
+
 ## Загальні правила
 
 * [Хвороби](/gamemaster_rules/diseases.html)
