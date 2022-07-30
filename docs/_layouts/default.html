@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.locale }}">
+<html lang="en-us">
 
   {% include head.html %}
 
@@ -14,12 +14,36 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
+            <small>{{ site.tagline }}</small></br>
+            <small>Сьогодні {% assign m = site.time | date: "%-m" %}
+             {{ site.time | date: "%-d" }}
+             {% case m %}
+             {% when '1' %}Січня
+             {% when '2' %}Лютого
+             {% when '3' %}Березня
+             {% when '4' %}Квітня
+             {% when '5' %}Травня
+             {% when '6' %}Червня
+             {% when '7' %}Липня
+             {% when '8' %}Серпня
+             {% when '9' %}Вересня
+             {% when '10' %}Жовтня
+             {% when '11' %}Листопада
+             {% when '12' %}Грудня
+             {% endcase %}
+             {{ site.time | date: "%Y" }} року.
+            </small>
+          </h3>
+        </div>
+        <div class="container">
+          <h3 class="masthead-title">
+           {% include social.html %}
           </h3>
         </div>
       </div>
 
       <div class="container content">
+        {% include search.html %}
         {{ content }}
       </div>
     </div>
