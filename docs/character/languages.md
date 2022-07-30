@@ -1,32 +1,32 @@
-description: Rules and information different languages from the 5th Edition (5e) SRD (System Reference Document).
+Правила та інформація про різні мови
 
-# Languages 
-Your race indicates the languages your character can speak by default, and your background might give you access to one or more additional languages of your choice. Note these languages on your character sheet.
+# Мови
+Раса персонажа визначає мови, якими він може говорити за замовчуванням, і ваша передісторія може дати доступ до однієї або кількох додаткових мов за вашим вибором. Запишіть ці мови в аркуші свого персонажа.
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+Виберіть мову зі стандартної таблиці мов або виберіть одну з тих, що доступні у вашій кампанії. З дозволу Майстра ви можете замість цього обрати мову з таблиці екзотичних мов або таємну мову, таку як злодійська мова або мова друїдів.
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+Деякі з цих мов - це насправді родини мов з багатьма діалектами. Наприклад, до первинної мови належать ауранський, акванський, іґнанський та терранський діалекти, - по одному для кожного з чотирьох стихійних вимірів. Істоти, що розмовляють різними діалектами тієї ж мови, можуть спілкуватися між собою.
 
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
+### Стандартні мови
+| Мова:          | Типові носії  | Писемність |
+| -------------- | ------------- | ---------- |
+| Спільна        | Люди          | Спільна    |
+| Дворфська      | Дворфи        | Дворфська  |
+| Ельфійська     | Ельфи         | Ельфійська |
+| Велетнева      | Oґри, велетні | Дворфська  |
+| Гномська       | Гноми         | Дворфська  |
+| Ґоблінська     | Ґобліноїди    | Дворфська  |
+| Напівросликова | Напіврослики  | Спільна    |
+| Оркська        | Орки          | Дворфська  |
 
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
+### Екзотичні мови
+| Мова      | Типові носії              | Писемність |
+| --------- | ------------------------- | ---------- |
+| Безоднева | Демони                    | Пекельна   |
+| Небесна   | Небожителі                | Небесна    |
+| Драконів  | Дракони, драконороджені   | Драконова  |
+| Глибинна  | Аболети, плащовики        | -          |
+| Пекельна  | Дияволи                   | Пекельна   |
+| Первісна  | Елементалі                | Дворфська  |
+| Сильван   | Фейські істоти            | Ельфійська |
+| Підтемна  | Торговці підземного світу | Ельфійська |
