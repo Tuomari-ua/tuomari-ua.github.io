@@ -1,33 +1,33 @@
-description: Rules describing character and creature alignment from the 5th Edition (5e) SRD (System Reference Document).
+Опис характерів та світогляду персонажів
 
-# Alignment 
-A typical creature in the game world has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral). Thus, nine distinct alignments define the possible combinations.
+# Світогляд
+Типова істота в ігровому світі має світогляд, який широко описує моральні та особисті якості. Світогляд - це поєднання двох факторів: один визначає моральність (добрий, злий або нейтральний), а другий описує ставлення до суспільства та порядку (законний, хаотичний або нейтральний). Таким чином, дев'ять світоглядів визначають можливі комбінації.
 
-These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment. 
+Ці короткі резюме дев'ятьох світоглядів описують типову поведінку істоти з таким світоглядом. Окремі особистості можуть суттєво відрізнятися від цієї типової поведінки, і мало хто ідеально та послідовно виконує всі приписи свого світогляду.
 
-**Lawful good (LG)** creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.
+**Законні добрі (ЗД)** істоти здійснюють вчинки, які в суспільстві вважаються правильними. Золоті дракони, паладини та більшість дворфів є законними добрими.
 
-**Neutral good (NG)** folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.
+**Нейтральні добрі (НД)** намагаються зробити усе можливе, щоб допомогти іншим відповідно до їхніх потреб. Багато небожителів, деякі хмарні велетні й більшість гномів є нейтральними добрими.
 
-**Chaotic good (CG)** creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.
+**Хаотичні добрі (CG)** істоти діють, як підказує їхня совість, мало зважаючи на очікування інших. Мідні дракони, багато ельфів і єдинорогів - хаотичні добрі.
 
-**Lawful neutral (LN)** individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.
+**Законні нейтральні (ЗН)** істоти діють відповідно до законів, традицій чи власних кодексів. Багато монахів та деякі маги є законними нейтральними.
 
-**Neutral (N)** is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.
+**Нейтральний (N)** світогляд у тих, хто вважає за краще триматися осторонь від моральних питань і не ставати ні на чий бік, роблячи те, що здається найкращим в певний момент. Людоящури, більшість друїдів та багато людей є нейтральними.
 
-**Chaotic neutral (CN)** creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.
+**Хаотичні нейтральні (ХН)** істоти дотримуються власних примх, підносячи власну особисту свободу понад усім. Багато варварів і пройдисвітів, і деякі барди є хаотичними нейтральними.
 
-**Lawful evil (LE)** creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.
+**Законні злі (ЗЗ)** істоти методично беруть, що хочуть, в межах традиції, лояльності або порядку. Дияволи, блакитні дракони і хобгобліни є законними злими.
 
-**Neutral evil (NE)** is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.
+**Нейтральний злий (НЗ)** світогляд - це вибір тих, хто робить усе, що може зійти їм із рук, без співчуття чи докорів сумління. Багато дроу, деякі хмарні велетні та ґобліни є нейтральними злими.
 
-**Chaotic evil (CE)** creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil. 
+**Хаотичні злі (ХЗ)** істоти діють зі спонтанною жорстокістю, викликаною їхньою жадібністю, ненавистю чи спрагою крові. Демони, червоні дракони та орки є хаотичними злими.
 
-### Alignment in the Multiverse 
-For many thinking creatures, alignment is a moral choice. Humans, dwarves, elves, and other humanoid races can choose whether to follow the paths of good or evil, law or chaos. According to myth, the good-aligned gods who created these races gave them free will to choose their moral paths, knowing that good without free will is slavery.
+### Світогляд у мультисвіті
+Для багатьох розумних істот світогляд є моральним вибором. Люди, дворфи, ельфи та інші гуманоїдні раси можуть обирати, чи хочуть вони йти шляхами добра чи зла, порядку чи хаосу. Згідно з міфом, боги доброго світогляду, що створили ці раси, дали їм свободу вільно обирати свої моральні шляхи, знаючи, що добро без свободи волі є рабством.
 
-The evil deities who created other races, though, made those races to serve them. Those races have strong inborn tendencies that match the nature of their gods. Most orcs share the violent, savage nature of the orc gods, and are thus inclined toward evil. Even if an orc chooses a good alignment, it struggles against its innate tendencies for its entire life. (Even half-orcs feel the lingering pull of the orc god's influence.)
+Але злі божества, що створили інші раси, змусили ці раси служити собі. Ці раси мають сильні вроджені схильності, що відповідають природі їхніх богів. Більшість орків поділяють насильницький, дикий характер оркських богів і, таким чином, схиляються до зла. Навіть якщо орк вибирає добрий світогляд, він бореться проти своїх вроджених схильностей усе своє життя. (Навіть напіворки відчувають тяжіння до впливу оркських богів.)
 
-Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn't tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil.
+Світогляд є важливою складовою природи небожителів та погані. Диявол не обирає бути законним злим, і він не схильний до законного зла, але скоріше є таким за своєю сутністю. Якщо ж він з якихось причин перестане бути законним злим, він перестане бути дияволом.
 
-Most creatures that lack the capacity for rational thought do not have alignments - they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
+Більшість істот, яким бракує можливостей раціонального мислення, мають **невизначений** світогляд. Така істота не здатна робити моральний чи етичний вибір і діє відповідно до своєї звіриної природи. Наприклад, акули - дикі хижаки, але вони не є злими; у них немає світогляду.
