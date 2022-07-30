@@ -8,6 +8,10 @@ layout: default
 
 
 # Персонаж
+
+|[Світогляд](./character/alignment.md)                   | [Передісторії](./character/backgrounds.md)         |
+|[Пантеони](./character/fantasy-historical_pantheons.md) |[Мови](./character/languages.md)                    |
+
 ## Класи
 
 | [Бард](./character/classes/bard.md)        | [Боєць](./character/classes/fighter.md)     | [Варвар](./character/classes/barbarian.md) 
