@@ -2,7 +2,7 @@ title: 5е українською
 description: Переклад System Reference Document на основі Open Game License v.1.0a
 locale: uk_UA
 google_analytics_id: G-3YDX4S83WP
-timezone: UA
+timezone: Europe/Kiev
 
 # Collections
 collections_dir: 5esrd
@@ -15,18 +15,3 @@ collections:
     output: true
   spells:
     output: true
-  
-# Social links 
-twitter_username: 
-github_username:  
-stackoverflow_username:  
-dribbble_username:  
-facebook_username: 
-flickr_username:  
-instagram_username:  
-linkedin_username:  
-xing_username:  
-pinterest_username:  
-youtube_username:  
-orcid_username:  
-googlescholar_username: 
