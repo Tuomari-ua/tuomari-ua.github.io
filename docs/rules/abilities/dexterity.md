@@ -1,45 +1,44 @@
-description: Information on the Dexterity ability from the 5th Edition (5e) System Reference Document (SRD)
+Інформація про здібність Спритність
 
-# Dexterity 
-Dexterity measures agility, reflexes, and balance. 
+# Спритність
+Спритність визначає моторність, реакцію і рівновагу.
 
-## Dexterity Checks 
-A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+## Перевірки Спритності
+Перевірка Спритності може моделювати будь-яку спробу рухатися спритно, швидко або тихо, чи уникнути падіння на непевній поверхні. Акробатика, Спритність рук та Непомітність є навичками, що відображають певні типи перевірок Спритності.
 
-**Acrobatics.** Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The GM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+**Акробатика.** Ваша перевірка Спритності (Акробатика) описує ваші спроби встояти на ногах у непевних ситуаціях, наприклад, коли ви намагаєтеся бігти по льоду, балансувати на натягнутому канаті або утримувати положення на хиткій палубі корабля. Майстер також може попросити перевірку Спритності (Акробатику), щоб побачити, як добре ви виконуєте акробатичні трюки, включаючи стрибки, перевороти, сальто й перекидання.
 
-**Sleight of Hand.** Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The GM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket.
+**Спритність рук.** Якщо ви намагаєтеся жонглювати чи виконати спритний трюк, наприклад, підкинути щось або заховати предмет на своєму тілі, виконайте перевірку Спритності (Спритність рук). Майстер також може попросити перевірку Спритності (Спритність рук), щоб визначити, чи можете ви підхопити монету, кинуту іншою особою, або підкинути щось у кишеню іншої особи.
 
-**Stealth.** Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard.
+**Непомітність.** Зробіть перевірку Спритності (Непомітність), коли намагаєтеся сховатися від ворогів, оминути вартових, просковзнути непомітними або прокрастися до когось, щоб ніхто вас не побачив і не почув.
 
-**Other Dexterity Checks.** The GM might call for a Dexterity check when you try to accomplish tasks like the following:
+**Інші перевірки Спритності.** Майстер може запитати перевірку Спритності, коли ви виконуєте завдання, подібні до наступних:
 
-* Control a heavily laden cart on a steep descent 
-* Steer a chariot around a tight turn
-* Pick a lock 
-* Disable a trap
-* Securely tie up a prisoner 
-* Wriggle free of bonds 
-* Play a stringed instrument 
-* Craft a small or detailed object 
+* Ви спускаєтеся із навантаженим візком по крутому схилу
+* Керуєте екіпажем на крутому віражі
+* Відмикаєте замок
+* Знешкоджуєте пастку
+* Надійно зв'язуєте бранця
+* Звільняєтеся від пут
+* Граєте на струнному інструменті
+* Виготовляєте малий або детальний об'єкт
 
-## Attack Rolls and Damage 
-You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier. 
+## Кидки атаки та пошкоджень
+Ви додаєте свій модифікатор Спритності до кидків атаки та кидків пошкоджень, коли атакуєте далекобійною зброєю, такою як праща чи довгий лук. Ви також можете додати свій модифікатор Спритності до кидка атаки та кидка пошкоджень, коли атакуєте у ближньому бою зброєю із властивістю "фехтувальна", такою як кинджал або рапіра.
 
-## Armor Class 
-Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class. 
+## Клас захисту
+Залежно від обладунку, який ви носите, ви можете додати свій модифікатор Спритності (або його частину) до свого Класу Захисту.
 
-## Initiative 
-At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat. 
+## Ініціатива
+На початку кожного бою ви кидаєте ініціативу, виконуючи перевірку Спритності. Ініціатива визначає порядок ходів істот у бою.
 
->#### Hiding 
->The DM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
-
->You can't hide from a creature that can see you clearly, and you give away your position if you make noise, such as shouting a warning or knocking over a vase. 
->An invisible creature can always try to hide. Signs of its passage might still be noticed, and it does have to stay quiet.
-
->In combat, most creatures stay alert for signs of danger all around, so if you come out of hiding and approach a creature, it usually sees you. However, under certain circumstances, the DM might allow you to stay hidden as you approach a creature that is distracted, allowing you to gain advantage on an attack roll before you are seen.
-
->**Passive Perception.** When you hide, there's a chance someone will notice you even if they aren't searching. To determine whether such a creature notices you, the DM compares your Dexterity (Stealth) check with that creature's passive Wisdom (Perception) score, which equals 10 + the creature's Wisdom modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5. For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
-
->**What Can You See?** One of the main factors in determining whether you can find a hidden creature or object is how well you can see in an area, which might be **lightly** or **heavily obscured**
+> #### Сховок
+> 
+> Майстер вирішує, чи є обставини сприятливими для сховку. Коли ви намагаєтеся Затаїтися, зробіть перевірку Спритності (Непомітність). Доки вас не виявлять або доки ви не перестанете ховатися, результат цієї перевірки є змаганням проти Мудрості (Сприйняття) будь-яких істот, які активно шукають ознаки вашої присутності.
+> 
+> Ви не можете сховатися від істоти, яка може чітко вас бачити, і ви видаєте свою позицію, якщо створюєте шум, наприклад, вигукуєте попередження чи розбиваєте вазу. Невидима істота завжди може пробувати затаїтися. Ознаки її руху все одно можуть бути помічені, і вона мусить поводитися тихо.
+> В бою більшість істот залишаються напоготові щодо навколишніх ознак небезпеки, тому якщо ви виходите зі сховку й наближаєтеся до істоти, вона зазвичай вас бачить. Однак в деяких обставинах Майстер може дозволити вам залишатися прихованим, коли ви підкрадаєтеся до істоти, яка відволіклася, і тим самим дозволити вам атакувати з перевагою, перш ніж істота вас побачить.
+> 
+> **Пасивне Сприйняття.** Коли ви затаїлися, завжди є шанс, що хтось помітить вас, навіть якщо не шукає. Щоб визначити, чи помітить вас така істота, Майстер порівнює вашу перевірку Спритності (Непомітності) зі значенням пасивної Мудрості (Сприйняття), яке дорівнює 10 + модифікатор Мудрості цієї істоти, з додаванням усіх відповідних бонусів та штрафів. Якщо істота має перевагу, додайте 5. Для перешкоди відніміть 5. Наприклад, якщо персонаж 1-го рівня (з бонусом досвіду +2) має Мудрість 15 (модифікатора +2) та опановане Сприйняття, він чи вона має пасивну Мудрість (Сприйняття) 14.
+> 
+> **Що ви можете бачити?** Один з головних факторів, що визначає, чи можете ви знайти приховану істоту або предмет, - це як добре вам видно область пошуку, яка може бути **слабо** або **сильно затьмарена**.
