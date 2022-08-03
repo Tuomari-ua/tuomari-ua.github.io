@@ -1,11 +1,11 @@
-# Abilities
+# Здібності
 
-* [Ability Checks](/rules/abilities/ability_checks/)
-* [Ability Scores](/rules/abilities/ability_scores/)
-* [Saving Throws](/rules/abilities/saving_throws/)  
-* [Charisma](/rules/abilities/charisma/)            
-* [Constitution](/rules/abilities/constitution/)    
-* [Dexterity](/rules/abilities/dexterity/)          
-* [Intelligence](/rules/abilities/intelligence/)    
-* [Strength](/rules/abilities/strength/)            
-* [Wisdom](/rules/abilities/wisdom/)                 
+* [Перевірки здібностей](/rules/abilities/ability_checks/)
+* [Значення здібностей](/rules/abilities/ability_scores/)
+* [Рятівні кидки](/rules/abilities/saving_throws/)
+* [Харизма](/rules/abilities/charisma/)
+* [Статура](/rules/abilities/constitution/)
+* [Спритність](/rules/abilities/dexterity/)
+* [Інтелект](/rules/abilities/intelligence/)
+* [Сила](/rules/abilities/strength/)
+* [Мудрість](/rules/abilities/wisdom/)                 

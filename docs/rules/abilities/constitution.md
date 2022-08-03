@@ -1,20 +1,20 @@
-description: Information on the Constitution ability from the 5th Edition (5e) System Reference Document (SRD)
+Інформація про здібність Статура
 
-# Constitution 
-Constitution measures health, stamina, and vital force. 
+# Статура
+Статура вимірює здоров'я, витривалість та життєву силу.
 
-## Constitution Checks 
-Constitution checks are uncommon, and no skills apply to Constitution checks, because the endurance this ability represents is largely passive rather than involving a specific effort on the part of a character or monster. A Constitution check can model your attempt to push beyond normal limits, however.
+## Перевірки Статури
+Перевірки Статури не є звичайними, і вони не належать до жодної з навичок, оскільки представлена цією здібністю витривалість є радше пасивною та не вимагає від персонажа чи монстра спеціальних зусиль. Однак перевірка Статури може моделювати вашу спробу вийти за рамки звичайних обмежень.
 
-The GM might call for a Constitution check when you try to accomplish tasks like the following: 
+Майстер може попросити перевірку Статури, коли ви намагаєтеся виконати наступні задачі:
 
-* Hold your breath
-* March or labor for hours without rest
-* Go without sleep
-* Survive without food or water
-* Quaff an entire stein of ale in one go 
+* Затримуєте подих
+* Йдете або працюєте багато годин без відпочинку
+* Обходитеся без сну
+* Вижити без їжі та води
+* Випиваєте повний кухоль елю одним ковтком
 
-## Hit Points 
-Your Constitution modifier contributes to your hit points. Typically, you add your Constitution modifier to each Hit Die you roll for your hit points.
+## Пункти здоров'я
+Модифікатор вашої Статури додається до ваших пунктів здоров'я. Звичайно ви додаєте модифікатор Статури до кожної кістки здоров'я, яку кидаєте для пунктів здоров'я.
 
-If your Constitution modifier changes, your hit point maximum changes as well, as though you had the new modifier from 1st level. For example, if you raise your Constitution score when you reach 4th level and your Constitution modifier increases from +1 to +2, you adjust your hit point maximum as though the modifier had always been +2. So you add 3 hit points for your first three levels, and then roll your hit points for 4th level using your new modifier. Or if you're 7th level and some effect lowers your Constitution score so as to reduce your Constitution modifier by 1, your hit point maximum is reduced by 7.
+Якщо ваш модифікатор Статури змінюється, ваші максимальні пункти здоров'я також змінюються, ніби у вас був цей новий модифікатор з 1-го рівня. Наприклад, якщо ви піднімаєте значення Статури при досягненні рівня, і модифікатор Статури зростає з +1 до +2, ви коригуєте свої максимальні пункти здоров'я так, ніби модифікатор завжди був +2. Тож ви додаєте 3 пункти здоров'я за свої попередні рівні, а потім робите кидок на пункти здоров'я за 4-й рівень з використанням нового модифікатора. Або якщо ви 7-го рівня і якийсь ефект знижує значення вашої Статури так, що модифікатор Статури зменшується на 1, ваш максимум пунктів здоров'я зменшується на 7.
