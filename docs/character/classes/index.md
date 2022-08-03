@@ -4,15 +4,15 @@ description: Класи визначають сильні сторони пер�
 title: Класи
 ---
 
-* [Варвар](/character/classes/barbarian.md)
-* [Бард](/character/classes/bard.md)
-* [Клірик](/character/classes/cleric.md)
-* [Друїд](/character/classes/druid/)
+* [Бард](/character/classes/bard.md) 
 * [Боєць](/character/classes/fighter/)
+* [Варвар](/character/classes/barbarian.md)
+* [Друїд](/character/classes/druid/)
+* [Заклинач](/character/classes/sorcerer/)
+* [Клірик](/character/classes/cleric.md)
+* [Маг](/character/classes/wizard/)
 * [Монах](/character/classes/monk/)
 * [Паладин](/character/classes/paladin/)
 * [Рейнджер](/character/classes/ranger/)
 * [Пройдисвіт](/character/classes/rogue/)
-* [Чародій](/character/classes/sorcerer/)
-* [Відьмак](/character/classes/warlock/)
-* [Чарівник](/character/classes/wizard/)
+* [Чаклун](/character/classes/warlock/)
