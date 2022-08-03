@@ -1,11 +1,15 @@
-# Раси
+---
+layout: page
+description: Список рас 5-ї редакції (5е)
+title: Раси
+---
 
-* [Драконороджений](/character/races/dragonborn/)
-* [Дворф](/character/races/dwarf/)
+* [Людина](/character/races/human/)
 * [Ельф](/character/races/elf/)
+* [Дворф](/character/races/dwarf/)
 * [Гном](/character/races/gnome/)
 * [Напівельф](/character/races/half-elf/)
 * [Напіворк](/character/races/half-orc/)
 * [Напіврослик](/character/races/halfling/)
-* [Людина](/character/races/human/)
+* [Драконороджений](/character/races/dragonborn/)
 * [Тифлінґ](/character/races/tiefling/)
