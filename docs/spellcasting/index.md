@@ -1,7 +1,7 @@
 ---
 layout: page
 category: index
-title: Чари
+title: Чарування
 ---
 
 ## Загальні правила створення чарів
