@@ -1,10 +1,8 @@
 ---
 layout: page
 description: Правила та інформація про клас Варвар
-title: Мови
+title: Варвар
 ---
-
-# Варвар
 
 <div class="table-wrapper" markdown="block">
 
