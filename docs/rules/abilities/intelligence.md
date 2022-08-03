@@ -1,29 +1,29 @@
-description: Information on the Intelligence ability from the 5th Edition (5e) System Reference Document (SRD)
+Інформація про здібність Інтелект
 
-# Intelligence 
-Intelligence measures mental acuity, accuracy of recall, and the ability to reason. 
+# Інтелект
+Інтелект вимірює силу розуму, точність спогадів і здатність мислити тверезо.
 
-## Intelligence Checks 
-An Intelligence check comes into play when you need to draw on logic, education, memory, or deductive reasoning. The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
+## Перевірки інтелекту
+Перевірка Інтелекту потрібна, коли ви покладаєтеся на логіку, освіту, пам'ять або дедуктивне мислення. Навички Аркана, Історія, Розслідування, Природа та Релігія відображають схильність до певних типів перевірок Інтелекту.
 
-**Arcana.** Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+**Аркана.** Ваша перевірка Інтелекту (Аркана) вимірює вашу здатність згадувати відоме про чари, магічні предмети, позамежні символи, магічні традиції, виміри існування та мешканців цих вимірів.
 
-**History.** Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.
+**Історія.** Ваша перевірка Інтелекту (Історія) вимірює вашу здатність згадувати відоме про історичні події, стародавні королівства, минулі суперечки, недавні війни та втрачені цивілізації.
 
-**Investigation.** When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check.
+**Розслідування.** Коли ви шукаєте підказки й робите висновки, засновані на цих підказках, вам потрібна перевірка Інтелекту (Розслідування). Ви можете визначити розташування прихованого предмета, розпізнати зброю, якою завдано рану, чи визначити в тунелі найслабше місце, яке може призвести до обвалу. Вивчення древніх сувоїв у пошуках прихованих фрагментів знань може також вимагати перевірки Інтелекту (Розслідування).
 
-**Nature.** Your Intelligence (Nature) check measures your ability to recall lore about terrain, plants and animals, the weather, and natural cycles.
+**Природа.** Ваша перевірка Інтелекту (Природи) вимірює вашу здатність згадувати відоме про місцевість, рослини та тварин, погоду та природні цикли.
 
-**Religion.** Your Intelligence (Religion) check measures your ability to recall lore about deities, rites and prayers, religious hierarchies, holy symbols, and the practices of secret cults.
+**Релігія.** Ваша перевірка Інтелекту (Релігія) вимірює вашу здатність згадувати відоме про божеств, обряди та молитви, релігійні ієрархії, святі символи та практики таємних культів.
 
-**Other Intelligence Checks.** The GM might call for an Intelligence check when you try to accomplish tasks like the following: 
+**Інші перевірки Інтелекту.** Майстер може попросити про перевірку Інтелекту, коли ви працюєте над задачами, подібними до наступних:
 
-* Communicate with a creature without using words
-* Estimate the value of a precious item
-* Pull together a disguise to pass as a city guard
-* Forge a document
-* Recall lore about a craft or trade
-* Win a game of skill
+* Спілкуєтеся із істотою без використання слів
+* Оцінюєте вартість дорогоцінного товару
+* Маскуєтеся, щоб пройти повз міську варту
+* Підробляєте документ
+* Пригадуєте відомості про ремесло або торгівлю
+* Перемагаєте в інтелектуальній грі
 
-## Spellcasting Ability 
-Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+## Чаротворча здібність
+Маги використовують Інтелект як свою чаротворчу здібність, що допомагає визначити КС рятівних кидків проти чарів, які вони створюють.
