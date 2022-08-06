@@ -1,51 +1,51 @@
-description: Descriptions of different actions that can be taken in combat from the 5th Edition (5e) SRD (System Reference Document).
+Опис різних дій, які можна зробити в бою
 
-# Actions in Combat 
-When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise. Many monsters have action options of their own in their stat blocks.
+# Дії в бою
+Коли у свій хід ви виконуєте дію, то можете вибрати одну з дій, вказаних тут; дію отриману від свого класу чи від особливості; або дію, яку ви імпровізуєте. Багато монстрів мають власні варіанти дій у своїх блоках статистики.
 
-When you describe an action not detailed elsewhere in the rules, the GM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure. 
+Коли ви описуєте дію, не наведену більше ніде в правилах, Майстер вирішує, чи можливо для персонажа виконати таку дію, і які кидки потрібно зробити (якщо взагалі потрібно), щоб визначити ваш успіх чи невдачу.
 
-## Attack 
-The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
+## Атакувати
+Найбільш поширеною дією в бою є дія Атакувати, чи то ви розмахуєте мечем, чи випускаєте стрілу з лука, чи б'єтеся навкулачки.
 
-With this action, you make one melee or ranged attack. See the "Making an Attack" section for the rules that govern attacks.
+Цією дією ви робите одну атаку ближнього бою або далекобійну атаку. Перегляньте розділ "Виконання атаки" для правил, що унормовують атаки.
 
-Certain features, such as the Extra Attack feature of the fighter, allow you to make more than one attack with this action. 
+Деякі особливості, такі як "Додаткова атака" у бійця, дозволяє вам виконати більш як одну атаку під час цієї дії.
 
-## Cast a Spell 
-Spellcasters such as wizards and clerics, as well as many monsters, have access to spells and can use them to great effect in combat. Each spell has a casting time, which specifies whether the caster must use an action, a reaction, minutes, or even hours to cast the spell. Casting a spell is, therefore, not necessarily an action. Most spells do have a casting time of 1 action, so a spellcaster often uses his or her action in combat to cast such a spell. 
+## Чарування
+Чаротворці, такі як Маг або Клірик, та як багато монстрів, мають доступ до чарів і можуть використовувати їх для створення значного впливу в бою. Кожні чари мають час створення, який визначає, чи повинен чаротворець використовувати дію, реакцію, хвилини чи навіть години для створення чарів. Тому Чарування - це не обов'язково дія. Більшість чарів потребують 1 дії для створення, тож чаротворці часто застосовують свої дії в бою для такого чарування.
 
-## Dash 
-When you take the Dash action, you gain extra movement for the current turn. The increase equals your speed, after applying any modifiers. With a speed of 30 feet, for example, you can move up to 60 feet on your turn if you dash.
+## Ривок
+Коли ви використовуєте дію Ривок, ви здобуваєте додаткове переміщення для поточного ходу. Збільшення дорівнює вашій швидкості після врахування усіх модифікаторів. Наприклад, якщо ваша швидкість 30 футів, за допомогою Ривка у свій хід ви можете переміститися на відстань до 60 футів.
 
-Any increase or decrease to your speed changes this additional movement by the same amount. If your speed of 30 feet is reduced to 15 feet, for instance, you can move up to 30 feet this turn if you dash. 
+Будь-яке збільшення або зменшення вашої швидкості так само застосовується до цього додаткового переміщення. Якщо ваша швидкість зменшилася із 30 до 15 футів, у свій хід ви можете переміститися щонайбільше на 30 футів із використанням Ривка.
 
-## Disengage 
-If you take the Disengage action, your movement doesn't provoke opportunity attacks for the rest of the turn. 
+## Відступити
+Якщо ви виконуєте дію Відступити, ваше переміщення до кінця поточного ходу не провокує атак.
 
-## Dodge 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated or if your speed drops to 0. 
+## Ухилитися
+Коли ви виконуєте дію Ухилитися, то повністю зосереджуєтесь на тому, щоб уникнути атак. До початку вашого наступного ходу будь-яка атака проти вас має перешкоду, якщо ви можете бачити нападника, і ви робите рятівні кидки Спритності з перевагою. Ви втрачаєте цей привілей, якщо ви недієздатні або якщо ваша швидкість падає до 0.
 
-## Help 
-You can lend your aid to another creature in the completion of a task. When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
+## Допомогти
+Ви можете Допомогти іншій істоті виконати завдання. Коли ви виконуєте дію Допомогти, істота, яку ви підтримуєте, виконує з перевагою наступну перевірку здібності щодо завдання, для якого надано допомогу, - за умови, що перевірка відбудеться до початку вашого наступного ходу.
 
-Alternatively, you can aid a friendly creature in attacking a creature within 5 feet of you. You feint, distract the target, or in some other way team up to make your ally's attack more effective. If your ally attacks the target before your next turn, the first attack roll is made with advantage. 
+Крім того, ви можете допомогти дружній істоті атакувати істоту в межах 5 футів від вас. Ви робите вдаваний удар, відволікаєте ціль або іншим способом об'єднуєтеся, щоб атака вашого союзника була більш ефективною. Якщо ваш союзник атакує ціль до вашого наступного ходу, то здобуває перевагу на свою першу атаку.
 
-## Hide 
-When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the "Unseen Attackers and Targets" section later in this chapter.
+## Затаїтися
+Коли ви виконуєте дію Затаїтися, то робите перевірку Спритності (Непомітність) для спроби сховатися, дотримуючись правил для переховування. Якщо ваша перевірка успішна, ви отримуєте певні привілеї, як описано в розділі "Невидимі нападники та цілі" далі в цьому розділі.
 
 
-## Ready 
-Sometimes you want to get the jump on a foe or wait for a particular circumstance before you act. To do so, you can take the Ready action on your turn, which lets you act using your reaction before the start of your next turn.
+## Напоготові
+Іноді ви хочете стрибнути на ворога чи дочекатися конкретних обставин, перш ніж діяти. Щоб це здійснити це, ви можете у свій хід зробити дію Напоготові, яка дозволить вам використати реакцію до початку вашого наступного ходу.
 
-First, you decide what perceivable circumstance will trigger your reaction. Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it. Examples include "If the cultist steps on the trapdoor, I'll pull the lever that opens it," and "If the goblin steps next to me, I move away."
+По-перше, ви вирішуєте, які помітні обставини викличуть вашу реакцію. Потім ви обираєте дію, яку ви зробите у відповідь на цей тригер, або ж ви можете натомість переміститися на відстань своєї швидкості. Прикладами є "Якщо член культу стане на люк, я смикну важіль, щоб відкрити його" та "Якщо гоблін наблизиться до мене, я відійду геть".
 
-When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
+Коли спрацьовує тригер, ви можете застосувати свою реакцію одразу після спрацювання тригера або ігнорувати його. Пам'ятайте, що у вас є лише одна реакція на раунд.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the **_web_** spell and ready **_magic missile_**, your **_web_** spell ends, and if you take damage before you release **_magic missile_** with your reaction, your concentration might be broken. 
+Коли ви застосовуєте дію Напоготові для чарів, то створюєте їх як звичайно, але затримуєте енергію, яку вивільняєте реакцією у відповідь на тригер. Для дії Напоготові чари повинні мати час створення 1 дію, і затримання магії чарів вимагає концентрації. Якщо ваша концентрація збивається, чари розвіюються без жодного ефекту. Наприклад, якщо ви зосереджуєтесь на чарах **_павутиння_** і створюєте **_магічні стріли_** напоготові, ваше **_павутиння_** закінчується, і якщо ви отримуєте пошкодження до того, як вивільните **_магічні стріли_** за рахунок реакції, ваша концентрація може бути порушена.
 
-## Search 
-When you take the Search action, you devote your attention to finding something. Depending on the nature of your search, the GM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check. 
+## Шукати
+Коли ви виконуєте дію Шукати, ви приділяєте свою увагу пошуку чогось. Залежно від природи вашого пошуку, Майстер може попросити у вас перевірку Мудрості (Сприйняття) або Інтелекту (Розслідування).
 
-## Use an Object 
-You normally interact with an object while doing something else, such as when you draw a sword as part of an attack. When an object requires your action for its use, you take the Use an Object action. This action is also useful when you want to interact with more than one object on your turn.
+## Використати предмета
+Зазвичай ви взаємодієте з предметом, поки робите щось інше, наприклад, коли вихоплюєте меч як елемент своєї атаки. Якщо предмет вимагає вашої дії для використання, то ви застосовуєте дію Використати предмет. Ця дія також корисна, коли ви хочете взаємодіяти з більш ніж  одним предметом у свій хід.
