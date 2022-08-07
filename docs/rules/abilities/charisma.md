@@ -1,23 +1,23 @@
-description: Information on the Charisma ability from the 5th Edition (5e) System Reference Document (SRD)
+Інформація про здібність Харизма
 
-# Charisma 
-Charisma measures your ability to interact effectively with others. It includes such factors as confidence and eloquence, and it can represent a charming or commanding personality. 
+# Харизма
+Харизма вимірює вашу здатність ефективно взаємодіяти з іншими. Це охоплює такі фактори, як впевненість та красномовність, а також може представляти привабливу або впливову особистість.
 
-## Charisma Checks 
-A Charisma check might arise when you try to influence or entertain others, when you try to make an impression or tell a convincing lie, or when you are navigating a tricky social situation. The Deception, Intimidation, Performance, and Persuasion skills reflect aptitude in certain kinds of Charisma checks.
+## Перевірки Харизми
+Перевірка Харизми може знадобитися, коли ви намагаєтеся вплинути чи розважити когось, коли стараєтеся справити враження чи переконливо збрехати, або коли треба пройти крізь складну соціальну ситуацію. Навички Обман, Залякування, Артистичність та Переконливість відображають схильність до певних видів перевірок Харизми.
 
-**Deception.** Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie.
+**Обман.** Ваша перевірка Харизми (Обману) визначає, чи можете ви переконливо приховати правду, чи то у промові, чи своїми діями. Цей обман може стосуватися будь-чого - від введення інших в оману через двозначність до прямої брехні. Типові ситуації охоплюють спроби заговорити зуби вартовому, обдурити торговця, виграти в азартній грі, вдало замаскуватися, пом'якшити чиїсь підозри брехливими запевненнями або зберігати щирий вигляд, кажучи відверту неправду.
 
-**Intimidation.** When you attempt to influence someone through overt threats, hostile actions, and physical violence, the GM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
+**Залякування.** Коли ви намагаєтеся вплинути на когось через загрози, ворожі дії та фізичне насильство, Майстер може попросити вас про перевірку Харизми (Залякування). Прикладами залякування є спроби видобути інформацію з в'язня, переконати вуличних злодіїв відмовитись від конфронтації або погрози розбитою пляшкою, щоб переконати глузливого чиновника змінити своє рішення.
 
-**Performance.** Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
+**Артистичність.** Ваша перевірка Харизми (Артистичність) визначає, наскільки добре ви розважили публіку музикою, танцем, акторською грою, розповіддю чи іншим виступом.
 
-**Persuasion.** When you attempt to influence someone or a group of people with tact, social graces, or good nature, the GM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk.
+**Переконливість.** Коли ви намагаєтеся вплинути на когось або групу людей за допомогою такту, соціальних взаємодій чи доброї вдачі, Майстер може попросити вас зробити перевірку Харизми (Переконливості). Зазвичай ви звертаєтеся до переконання, коли дієте з доброю вірою, щоб розвивати дружні стосунки, щиро попросити про щось або демонструвати належний етикет. Приклади такого впливу на інших охоплюють переконання камергера пропустити вас до короля, перемовини щодо миру між ворожими племенами або натхненну промову перед місцевим натовпом.
 
-**Other Charisma Checks.** The GM might call for a Charisma check when you try to accomplish tasks like the following: 
+**Інші перевірки Харизми.** Майстер може запитати перевірку Харизми, коли ви виконуєте завдання, подібні до наступних:
 
-* Find the best person to talk to for news, rumors, and gossip
-* Blend into a crowd to get the sense of key topics of conversation 
+* Шукаєте найкращу особу, щоб поговорити про новини, чутки та плітки
+* Зливаєтеся з натовпом, щоб уловити ключові теми розмов
 
-## Spellcasting Ability
-Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.
+## Чаротворча здібність
+Барди, паладини, заклиначі та чаклуни використовують Харизму як свою чаротворчу здібність, що допомагає визначити КС рятівних кидків проти чарів, які вони створюють.

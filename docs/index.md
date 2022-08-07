@@ -41,6 +41,12 @@ layout: default
 | [Мудрість](./rules/abilities/wisdom.md)           | |
 | [Харизма](./rules/abilities/charisma.md)          | |
 
+## Бій
+
+| [Порядок бою](./combat/order_of_combat.md)                | [Дії в бою](./combat/actions_in_combat.md)                  |
+| [Верховий бій](./combat/mounted_combat.md)                | [Підводний бій](./combat/underwater_combat.md)              |
+| [Здійснення атаки](./combat/making_an_attack.md)          | [Переміщення та позиція](./combat/movement_and_position.md) |
+| [Пошкодження та зцілення](./combat/damage_and_healing.md) | [Укриття](./combat/cover.md)                                |
 
 - - -
 > [Дізнатися, хто це наробив](./credits.md)

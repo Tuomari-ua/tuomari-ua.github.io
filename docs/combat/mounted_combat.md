@@ -1,22 +1,22 @@
-description: Rules for mounted combat from the 5th Edition (5e) SRD (System Reference Document).
+Правила верхового бою
 
-# Mounted Combat 
-A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+# Верховий бій
+Лицар, що скаче на бойовому коні, маг, який створює чари зі спини грифона, чи клірик, який ширяє в небесах на пегасі — усі вони насолоджуються перевагами швидкості й мобільності своїх їздових тварин.
 
-A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules. 
+Згодна істота, яка принаймні на один розмір більша за вас і має відповідну анатомію, може слугувати їздовою істотою, дотримуючись наступних правил.
 
-## Mounting and Dismounting 
-Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
+## Посадка в сідло та спішування
+Під час свого переміщення ви можете осідлати істоту в межах 5 футів від себе або спішитися. Це вимагає від вас переміщення, що дорівнює половині вашої швидкості. Наприклад, якщо ваша швидкість становить 30 футів, ви повинні витратити 15 футів руху, щоб осідлати коня. Отже, ви не можете скочити в сідло, якщо у вас залишилося менше ніж 15 футів переміщення або якщо ваша швидкість дорівнює 0.
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing prone in a space within 5 feet of it. If you're knocked prone while mounted, you must make the same saving throw.
+Якщо ефект змушує вашу їздову тварину рухатися проти її волі, поки ви в сідлі, ви повинні здійснити рятівний кидок Спритності з КС 10 або впадете з тварини, приземлившись долілиць у межах 5 футів від тварини. Якщо вас збивають з ніг, поки ви їдете верхи, ви повинні зробити такий самий рятівний кидок.
 
-If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it. 
+Якщо ваш скакун збитий з ніг, ви можете скористатися своєю реакцією, щоб спішитися, коли тварина падає вам до ніг. У випадку невдачі ви спішуєтеся і падаєте долілиць у межах 5 футів від тварини.
 
-## Controlling a Mount 
-While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+## Контроль їздової тварини
+Поки ви верхи, у вас є дві можливості. Ви можете або контролювати тварину, або дозволити їй діяти незалежно. Розумні створіння, такі як дракони, діють незалежно.
 
-You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+Ви можете контролювати тварину, тільки якщо вона навчена носити вершника. Свійські коні, осли та подібні істоти вважаються навченими цьому. Ініціатива контрольованої істоти змінюється, щоб відповідати вашій, коли ви сідаєте в сідло. Вона рухається, куди ви її спрямовуєте, і має тільки три варіанти дій: Ривок, Відступити та Ухилятися. Контрольована тварина рухається і діє навіть у той хід, коли ви сіли в сідло.
 
-An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+Незалежна тварина зберігає свою позицію в порядку ініціативі. Наявність вершника не обмежує дій, які може вчинити істота, і вона рухається та діє за власним бажанням. Вона може втекти з бою, кинутися в атаку й зжерти важко пораненого ворога, чи діяти якось інакше всупереч вашим бажанням.
 
-In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+В будь-якому разі, якщо тварина провокує атаку, поки несе вас, нападник може націлюватися на вас або на тварину.

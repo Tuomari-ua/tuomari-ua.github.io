@@ -1,63 +1,58 @@
-description: Rules for the order of combat and possible actions from the 5th Edition (5e) SRD (System Reference Document).
+Правила щодо порядку бою та можливих дій
 
-# The Order of Combat 
-A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting. The game organizes the chaos of combat into a cycle of rounds and turns. A **round** represents about 6 seconds in the game world. During a round, each participant in a battle takes a **turn**. The order of turns is determined at the beginning of a combat encounter, when everyone rolls initiative. Once everyone has taken a turn, the fight continues to the next round if neither side has defeated the other. 
+# Порядок бою
+Типова бойова зустріч є сутичкою між двома сторонами, шквалом з ударів зброї, фінтів, парирувань, перебіжок та чарування. Гра організує хаос бою у циклі раундів і ходів. **Раунд** становить близько 6 секунд в ігровому світі. Під час раунду кожен учасник битви робить **хід**. Порядок ходів визначається на початку бойової зустрічі, коли кожен робить кидок ініціативи. Щойно усі зроблять хід, бій переходить до наступного раунду, якщо жодна зі сторін не перемогла іншу.
 
-> ### Combat Step by Step 
-
->**1. Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-
->**2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are--how far away and in what direction.
-
->**3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
-
->**4. Take turns.** Each participant in the battle takes a turn in initiative order.
-
->**5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
+> ### Бій крок за кроком
+> **1. Визначте захоплених зненацька.** Майстер визначає, чи є серед залучених у бій істот ті, кого захоплено зненацька.  
+> **2. Встановіть позиції.** Майстер вирішує, де перебувають усі персонажі та монстри. Зважаючи на похідний порядок пригодників чи заявлені ними позиції в кімнаті або іншому місці, Майстер визначає, де перебувають суперники - на якій відстані та в якому напрямку.  
+> **3. Киньте ініціативу.** Усі задіяні в бойовій зустрічі кидають ініціативу, визначаючи порядок бойових ходів.  
+> **4. Робіть ходи.** Кожен учасник битви робить хід за порядком ініціативи.  
+> **5. Почніть наступний раунд.** Коли всі учасники бою зробили хід, раунд завершено. Повторюйте крок 4, поки бій не зупиниться.  
 
 
-## Surprise 
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
+## Захоплені зненацька
+Загін пригодників скрадається до бандитського табору, вистрибуючи з-за дерев для атаки. Драглистий куб ковзає підземним коридором, не помічений пригодниками, аж поки не поглинає одного з них. У таких ситуаціях одна сторона сутички захоплює другу зненацька.
 
-The GM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the GM compares the Dexterity (Stealth) checks of anyone hiding with the passive Wisdom (Perception) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is surprised at the start of the encounter.
+Майстер визначає, кого можна захопити зненацька. Якщо жодна зі сторін не намагається затаїтися, вони автоматично помічають одна одну. Інакше Майстер порівнює перевірки Спритності (Непомітність) тих, хто намагається сховатися, зі значенням пасивної Мудрості (Сприйняття) кожної істоти з протилежного боку. Будь-який персонаж чи монстр, який не помітив загрозу, є захопленим зненацька на початку зустрічі.
 
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be surprised even if the other members aren't. 
+Якщо ви захоплені зненацька, ви не можете переміщатися чи робити дії у свій перший хід під час бою, і ви не можете використовувати реакцію до кінця цього ходу. Один із групи може бути захоплений зненацька, навіть якщо інші учасники - ні.
 
-## Initiative 
-Initiative determines the order of turns during combat. When combat starts, every participant makes a Dexterity check to determine their place in the initiative order. The GM makes one roll for an entire group of identical creatures, so each member of the group acts at the same time.
+## Ініціатива
+Ініціатива визначає порядок ходів у бою. Коли починається бій, кожен учасник робить перевірку Спритності, щоб визначити своє місце за порядком ініціативи. Майстер робить один кидок для цілої групи однакових істот, тож усі члени групи діють одночасно.
 
-The GM ranks the combatants in order from the one with the highest Dexterity check total to the one with the lowest. This is the order (called the initiative order) in which they act during each round. The initiative order remains the same from round to round.
+Майстер розставляє учасників бою в порядку від найвищого результату перевірки Спритності до найнижчого. Це і є порядок (названий порядком ініціативи), за яким учасники діють під час кожного раунду. Ініціатива залишається однаковою від раунду до раунду.
 
-If a tie occurs, the GM decides the order among tied GM-controlled creatures, and the players decide the order among their tied characters. The GM can decide the order if the tie is between a monster and a player character. Optionally, the GM can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first. 
+У випадку нічиєї Майстер визначає порядок серед істот, яких контролює, а гравці визначають порядок між своїми персонажами з нічиєю. Майстер може визначити порядок, якщо нічия сталася між монстром і персонажем гравця. Необов'язково: у випадку нічиєї Майстер може дати монстру та персонажу кинути к20 для визначення порядку ініціативи, першим ходитиме той, кому випав вищий результат.
 
-## Your Turn 
-On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed--sometimes called your walking speed--is noted on your character sheet.
+## Ваш хід
+У свій хід ви можете **переміститися** на відстань своєї швидкості та **зробити одну дію**. Ви самі вирішуєте, чи будете спочатку рухатися, чи виконувати дію. Ваша швидкість - іноді її називають швидкістю ходьби - позначена в аркуші вашого персонажа.
 
-The most common actions you can take are described in the "Actions in Combat" section later in this chapter. Many class features and other abilities provide additional options for your action.
+Найпоширеніші дії, які ви можете зробити, описуються у розділі "Дії в бою" далі в цьому розділі. Багато класових особливостей та інших здібностей надають додаткові можливості для ваших дій.
 
-The "Movement and Position" section later in this chapter gives the rules for your move.
+Розділ "Переміщення та позиція" далі в цьому розділі наводить правила переміщень.
 
-You can forgo moving, taking an action, or doing anything at all on your turn. If you can't decide what to do on your turn, consider taking the Dodge or Ready action, as described in "Actions in Combat." 
+Ви можете пропустити переміщення та дію й узагалі нічого не робити у свій хід. Якщо ви не можете вирішити, що робити у свій хід, подумайте про те, щоб Ухилятися або бути Напоготові, як описано в розділі "Дії в бою".
 
-### Bonus Actions 
-Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action. The Cunning Action feature, for example, allows a rogue to take a bonus action. You can take a bonus action only when a special ability, spell, or other feature of the game states that you can do something as a bonus action. You otherwise don't have a bonus action to take.
+### Бонусні дії
+Різні класові особливості, чари та інші здібності дають вам у свій хід зробити додаткову дію, яку називають бонусною дією. Наприклад, особливість Хитра дія пройдисвіта дозволяє виконати бонусну дію. Ви можете використати бонусну дію тільки тоді, коли спеціальна здібність, чари чи інша особливість гри вказує, що ви можете зробити щось бонусною дією. Інакше у вас немає бонусної дії для використання.
 
-You can take only one bonus action on your turn, so you must choose which bonus action to use when you have more than one available.
+Ви можете зробити тільки одну бонусну дію в свій хід, тому ви мусите вибрати, яку саме дію зробити, якщо вам доступно більше однієї бонусної дії.
 
-You choose when to take a bonus action during your turn, unless the bonus action's timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action. 
+Ви обираєте, коли робити бонусну дію під час свого ходу, хіба що порядок виконання бонусної дії чітко визначений. Усе, що позбавляє вас здатності виконувати дії, також не дає вам виконувати й бонусні дії.
 
-### Other Activity on Your Turn 
-Your turn can include a variety of flourishes that require neither your action nor your move.
+### Інша активність у ваш хід
+Ваш хід може включати різні виразні вчинки, які не потребують ані вашої дії, ані переміщення.
 
-You can communicate however you are able, through brief utterances and gestures, as you take your turn.
+Ви можете спілкуватися будь-яким доступним способом, короткими вигуками чи жестами, коли робите хід.
 
-You can also interact with one object or feature of the environment for free, during either your move or your action. For example, you could open a door during your move as you stride toward a foe, or you could draw your weapon as part of the same action you use to attack.
+Ви також можете вільно взаємодіяти з одним об'єктом чи елементом оточення під час свого переміщення або дії. Наприклад, ви можете відчинити двері на ходу, коли наступаєте на ворога, або ви можете вихопити зброю частиною тієї ж дії, якою Атакуєте.
 
-If you want to interact with a second object, you need to use your action. Some magic items and other special objects always require an action to use, as stated in their descriptions.
+Якщо ви хочете взаємодіяти з другим об'єктом, вам доведеться витратити на це дію. Деякі магічні предмети та інші спеціальні об'єкти завжди вимагають дії для використання, як вказано в їхніх описах.
 
-The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge. 
+Майстер може вимагати, щоб ви застосували дію для будь-якої з цих активностей, коли це потребує особливої уваги або коли вам заважають незвичайні обставини. Наприклад, Майстер може обґрунтовано очікувати від вас дії, щоб відкрити двері, які заклинило, чи щоб повернути важіль для опускання підйомного мосту.
 
-## Reactions 
-Certain special abilities, spells, and situations allow you to take a special action called a reaction. A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's. The opportunity attack, described later in this chapter, is the most common type of reaction.
+## Реакції
+Деякі особливі здібності, чари та ситуації дозволяють вам виконати особливу дію під назвою реакція. Реакція - це миттєва відповідь на якийсь тригер, який може статися як у ваш хід, так і під час ходу іншої особи. Провокована атака, описана далі в цьому розділі, є найбільш поширеним типом реакції.
 
-When you take a reaction, you can't take another one until the start of your next turn. If the reaction interrupts another creature's turn, that creature can continue its turn right after the reaction.
+Коли ви застосовуєте реакцію, ви не можете скористатися іншою до початку свого наступного ходу. Якщо реакція перериває хід іншої істоти, така істота може продовжувати свій хід одразу після реакції.
