@@ -82,3 +82,16 @@ otherwise have mistaken them for Fiends.
 Thanks to the victories and sacrifices of these
 legends, tieflings throughout the multiverse
 enjoy widespread acceptance.
+
+
+F IENDISH L EGACIES
+Legacy 1st Level 3rd Level 5th Level
+Abyssal You have Resistance to Poison Damage. You
+also know the Poison Spray cantrip.
+Ray of Sickness Hold Person
+Chthonic You have Resistance to Necrotic Damage. You
+also know the Chill Touch cantrip.
+False Life Ray of Enfeeblement
+Infernal You have Resistance to Fire Damage. You also
+know the Fire Bolt cantrip.
+Hellish Rebuke Darkness
