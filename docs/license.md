@@ -6,7 +6,7 @@ This material is  being  released  using  the  Open  Gaming License Version  1.0
 
 The text of  the  Open  Gaming  License  itself  is  not  Open Game Content.  Instructions  on  using  the  License are provided  within  the  License  itself.     
 
-All of the  rest  of 5thsrd.org is  Open  Game  Content  as  described in Section  1(d)  of  the  License.     
+All of the  rest  of 5esrd.kyiv.ua is  Open  Game  Content  as  described in Section  1(d)  of  the  License.     
 
 The terms of  the  Open  Gaming  License  Version  1.0a  are as follows:     
 
