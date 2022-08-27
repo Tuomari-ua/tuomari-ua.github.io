@@ -1,118 +1,118 @@
-description: Rules for tracking damage, death and healing from the 5th Edition (5e) SRD (System Reference Document).
+Правила відстеження пошкоджень, смерті та зцілення
 
-# Damage and Healing 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a **_fireball_** spell all have the potential to damage, or even kill, the hardiest of creatures. 
+# Пошкодження і зцілення
+Пошкодження та ризик смерті - це постійні супутники тих, хто досліджує фантазійні ігрові світи. Удар меча, добре націлена стріла чи вибух полум'я від чарів **_вогняної кулі_** мають потенціал до пошкоджень чи навіть убивства найвитриваліших істот.
 
-## Hit Points 
-Hit points represent a combination of physical and mental durability, the will to live, and luck. Creatures with more hit points are more difficult to kill. Those with fewer hit points are more fragile.
+## Пункти здоров'я
+Пункти здоров'я відображають комбінацію фізичної та ментальної витривалості, волі до життя та удачі. Істот із більшою кількістю пунктів здоров'я важче вбити. Ті, хто має менше пунктів здоров'я, більш крихкі.
 
-A creature's current hit points (usually just called hit points) can be any number from the creature's hit point maximum down to 0. This number changes frequently as a creature takes damage or receives healing.
+Поточні пункти здоров'я істоти (зазвичай їх називають просто "пункти здоров'я") можуть бути будь-яким числом від максимуму пунктів здоров'я істоти до 0. Це число часто змінюється, коли істота отримує пошкодження або зцілюється.
 
-Whenever a creature takes damage, that damage is subtracted from its hit points. The loss of hit points has no effect on a creature's capabilities until the creature drops to 0 hit points. 
+Щоразу, коли істота зазнає пошкоджень, ці пошкодження віднімаються від її пунктів здоров'я. Втрата пунктів здоров'я не впливає на можливості істоти, поки істота не опуститься до 0 пунктів здоров'я.
 
-## Damage Rolls 
-Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
+## Кидки пошкоджень
+Кожна зброя, чари чи небезпечна здібність монстра визначають пошкодження, яких завдають. Ви робите кидок кістки або кісток, додаєте потрібні модифікатори й застосовуєте пошкодження до своєї цілі. Магічна зброя, спеціальні здібності та інші фактори можуть надавати бонуси до пошкоджень. Зі штрафом можливо завдати 0 пошкоджень, але пошкодження ніколи не бувають від'ємними.
 
-When attacking with a **weapon**, you add your ability modifier--the same modifier used for the attack roll--to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
+Під час атаки **зброєю**ви додаєте до пошкоджень модифікатор своєї здібності - той самий модифікатор, що використовується для кидка атаки. У **чарах** написано, які кістки кидати для пошкоджень, і чи додавати якісь модифікатори.
 
-If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts **_fireball_** or a cleric casts **_flame strike_**, the spell's damage is rolled once for all creatures caught in the blast. 
+Якщо чари чи інший ефект завдають шкоди **більш як одній цілі** водночас, зробіть кидок пошкоджень один раз для усіх. Наприклад, коли маг створює **_вогняну кулю_** або клірик чарує **_полум'яний удар_**, пошкодження від чарів визначаються один раз для всіх істот, які опинилися у зоні вибуху.
 
-### Critical Hits 
-When you score a critical hit, you get to roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers as normal. To speed up play, you can roll all the damage dice at once.
+### Критичні влучання
+Коли вам випадає критичне влучання, ви отримуєте додаткові кістки пошкоджень від цієї атаки проти цілі. Киньте кістки пошкоджень від атаки двічі та додайте їх. Потім додайте усі належні модифікатори, як звичайно. Щоб прискорити гру, ви можете кидати всі кістки пошкоджень одночасно.
 
-For example, if you score a critical hit with a dagger, roll 2d4 for the damage, rather than 1d4, and then add your relevant ability modifier. If the attack involves other damage dice, such as from the rogue's Sneak Attack feature, you roll those dice twice as well. 
+Наприклад, якщо ви здійснили критичне влучання кинджалом, киньте 2к4 для пошкоджень замість 1к4, і потім додайте усі належні модифікатори здібності. Якщо атака включає інші кістки пошкоджень, наприклад, від особливості пройдисвіта Прихована атака, ви кидаєте ці кістки так само двічі.
 
-### Damage Types 
-Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
+### Типи пошкоджень
+Різні атаки, чари, що заподіюють шкоду, та інші шкідливі ефекти завдають пошкодження різних типів. Типи пошкоджень не мають окремих правил, але інші правила, такі як стійкість до пошкоджень, покладаються на ці типи.
 
-The damage types follow, with examples to help a GM assign a damage type to a new effect.
+Наступні типи пошкоджень наведені з прикладами, щоб допомогти Майстру визначити тип пошкоджень для нових ефектів.
 
-**Acid.** The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+**Кислота.** Їдкі бризки дихання чорного дракона та розчинні ферменти, що виділяє чорний слиз, завдають пошкоджень кислотою.
 
-**Bludgeoning.** Blunt force attacks--hammers, falling, constriction, and the like--deal bludgeoning damage.
+**Дробильні.** Грубі силові атаки - молоти, падіння, здавлювання і тому подібне - завдають дробильних пошкоджень.
 
-**Cold.** The infernal chill radiating from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage.
+**Холод.** Пекельний холод, що випромінює спис крижаного диявола, і холодне дихання білого дракона завдають пошкоджень холодом.
 
-**Fire.** Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+**Вогонь.** Червоні дракони дихають вогнем, і багато чарів створюють полум'я, щоб завдати пошкоджень вогнем.
 
-**Force.** Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including **_magic missile_** and **_spiritual weapon_**.
+**Сила.** Сила - це чиста магічна енергія, сфокусована у формі, що завдає шкоди. Більшість ефектів, які завдають пошкоджень силою, є чарами, включно з **_магічними снарядами_** та **_духовною зброєю_**.
 
-**Lightning.** A **_lightning bolt_** spell and a blue dragon's breath deal lightning damage.
+**Блискавка.** Чари **_удар блискавки_** та дихання синього дракона завдають пошкоджень блискавкою.
 
-**Necrotic.** Necrotic damage, dealt by certain undead and a spell such as **_chill touch_**, withers matter and even the soul.
+**Некротичні.** Некротичні пошкодження, завдані невмерлим або чарами, такими як **_крижаний дотик_**, висушують тіло та навіть душу.
 
-**Piercing.** Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage.
+**Колоті.** Проколи та проникливі атаки, включно зі списами та укусами монстрів, завдають колотих пошкоджень.
 
-**Poison.** Venomous stings and the toxic gas of a green dragon's breath deal poison damage.
+**Отрута.** Отруйні жала та токсичний газ від дихання зеленого дракона завдають пошкоджень отрутою.
 
-**Psychic.** Mental abilities such as a psionic blast deal psychic damage.
+**Психічні.** Ментальні засоби, такі як псіонічний вибух, завдають психічних пошкоджень.
 
-**Radiant.** Radiant damage, dealt by a cleric's **_flame strike_** spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
+**Випромінювання.** Пошкодження випромінюванням, завдані чарами **_полум'яний удар_** клірика чи каральною зброєю ангела обпікають тіло, як вогонь, і потужно перевантажують дух.
 
-**Slashing.** Swords, axes, and monsters' claws deal slashing damage.
+**Рубані.** Мечі, сокири та пазурі монстрів завдають рубаних пошкоджень.
 
-**Thunder.** A concussive burst of sound, such as the effect of the **_thunderwave spell_**, deals thunder damage. 
+**Грім.** Струсний вибух звуку, такий як ефект чарів **_громова хвиля_**, завдає пошкоджень громом.
 
-## Damage Resistance and Vulnerability 
-Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
+## Стійкість до пошкоджень та вразливості
+Деякі істоти та об'єкти надзвичайно важко або незвично легко вразити певними типами пошкоджень.
 
-If a creature or an object has **resistance** to a damage type, damage of that type is halved against it. If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
+Якщо істота або об'єкт має **стійкість** до типу пошкоджень, пошкодження цього типу для цієї цілі зменшуються наполовину. Якщо істота або об'єкт має **вразливість** до типу пошкоджень, пошкодження цього типу для цієї цілі подвоюються.
 
-Resistance and then vulnerability are applied after all other modifiers to damage. For example, a creature has resistance to bludgeoning damage and is hit by an attack that deals 25 bludgeoning damage. The creature is also within a magical aura that reduces all damage by 5. The 25 damage is first reduced by 5 and then halved, so the creature takes 10 damage.
+Стійкість та вразливість застосовуються після всіх інших модифікаторів до пошкодження. Наприклад, істота має стійкість до дробильних пошкоджень, і по ній влучили атакою, яка завдає 25 дробильних пошкоджень. Істота також перебуває у магічній аурі, яка зменшує всі пошкодження на 5. 25 пошкоджень зменшуються на 5, а потім наполовину, тому істота отримує 10 пошкоджень.
 
-Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters. 
+Множинні джерела стійкості або вразливості, що впливають на той самий тип пошкодження, вважаються одним і тим самим джерелом. Наприклад, якщо істота має стійкість до вогню та стійкість до всіх немагічних пошкоджень, пошкодження від немагічного вогню проти цієї істоти зменшуються так само наполовину, а не на три чверті.
 
-## Healing 
-Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a **_cure wounds_** spell or a **potion of healing** can remove damage in an instant.
+## Зцілення
+Пошкодження не є постійними, якщо вони не призводять до смерті. Навіть смерть можна обернути завдяки потужній магії. Відпочинок відновлює пункти здоров'я істоти, а магічні методи, такі як чари **_зцілення ран_** чи **зілля зцілення**, можуть прибрати пошкодження миттєво.
 
-When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
+Коли істота отримує зцілення будь-якого типу, відновлені пункти здоров'я додаються до її поточних пунктів здоров'я. Пункти здоров'я не можуть перевищити максимум, доступний істоті, тож усі пункти здоров'я, здобуті понад цей максимум, втрачаються. Наприклад, друїд зцілює рейнджеру 8 пунктів здоров'я. Якщо рейнджер має 14 поточних пунктів здоров'я і має максимум пунктів здоров'я 20, він відновлює 6 пунктів здоров'я завдяки друїду, а не 8.
 
-A creature that has died can't regain hit points until magic such as the **_revivify_** spell has restored it to life. 
+Істота, яка померла, не може відновити пункти здоров'я, доки магія, така як чари **_відродження_**, не поверне істоту до життя.
 
-## Dropping to 0 Hit Points 
-When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+## Зниження пунктів здоров'я до 0
+Якщо ваші пункти здоров'я падають до 0, ви або миттєво помираєте, або падаєте непритомні, як пояснено у наступних розділах.
 
-### Instant Death 
-Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
+### Миттєва смерть
+Масивні пошкодження можуть вбити вас миттєво. Коли пошкодження зменшують ваші пункти здоров'я до 0, і пошкодження ще не вичерпано, ви помираєте за умови, що залишкові пошкодження дорівнюють або перевищують ваш максимум пунктів здоров'я.
 
-For example, a cleric with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies. 
+Наприклад, клірик з максимальними пунктами здоров'я 12 має поточні пункти здоров'я 6. Якщо він отримує 18 пошкоджень від атаки, то його пункти здоров'я знижуються до 0, але ще 12 пошкоджень залишаються. Оскільки решта пошкоджень дорівнюють його максимуму пунктів здоров'я, клірик вмирає.
 
-### Falling Unconscious 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious. This unconsciousness ends if you regain any hit points. 
+### Непритомність
+Якщо пошкодження знижують ваші пункти здоров'я до 0 і не вбивають вас, ви непритомні. Непритомність завершується, коли ви отримуєте будь-які пункти здоров'я.
 
-### Death Saving Throws 
-Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn't tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on a saving throw.
+### Рятунки від смерті
+Щоразу, коли ви починаєте свій хід, маючи 0 пунктів здоров'я, ви повинні зробити особливий рятівний кидок, який називається ряткидком смерті, щоб визначити, чи ви вмираєте, чи ще чіпляєтеся за життя. На відміну від інших рятівних кидків, цей не пов'язаний із жодною зі здібностей. Зараз ви у руках долі, з підтримкою тільки чарів та особливостей, які підвищують ваші шанси на успіх у цьому рятівному кидку.
 
-Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
+Киньте к20. Якщо результат 10 або більше, ви досягли успіху. Інакше ви зазнали невдачі. Успіх або невдача самі по собі не мають ефекту. На свій третій успіх ви стабілізуєтеся (див. далі). На свою третю невдачу ви вмираєте. Успіхи та невдачі не обов'язково повинні бути поспіль; відстежуйте обидва, поки не назбираєте трьох. Кількість обох обнуляється, коли ви відновлюєте будь-які пункти здоров'я або стабілізуєтеся.
 
-**Rolling 1 or 20.** When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
+**Результат 1 або 20.** Коли ви робите ряткидок смерті та отримуєте 1 на к20, це рахується за дві невдачі. Якщо вам випадає 20 на к20, ви відновлюєте 1 пункт здоров'я.
 
-**Damage at 0 Hit Points.** If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death. 
+**Пошкодження з 0 пунктів здоров'я.** Якщо ви отримуєте будь-які пошкодження, коли вже маєте 0 пунктів здоров'я, то провалюєте один рятівний кидок смерті. Якщо пошкодження завдані критичним влучанням, ви натомість отримуєте дві невдачі. Якщо пошкодження дорівнюють або перевищують ваш максимум пунктів здоров'я, ви миттєво помираєте.
 
-### Stabilizing a Creature 
-The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
+### Стабілізація істоти
+Найкращий спосіб врятувати істоту з 0 пунктів здоров'я - це зцілити її. Якщо зцілення недоступне, істота може бути принаймні стабілізована, щоб вона не загинула від невдалого ряткидка смерті.
 
-You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
+Ви можете використати свою дію, щоб надати першу допомогу непритомній істоті та спробувати стабілізувати її, що вимагає успішної перевірки Мудрості (Медицина) з КС 10.
 
-A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours. 
+**Стабільна** істота не робить рятівні кидки смерті, хоча й має 0 пунктів здоров'я, але залишається непритомною. Якщо така істота отримує будь-які пошкодження, вона перестає бути стабілізованою і повинна знову робити ряткидки смерті. Стабілізована істота, яка ще не зцілилася, відновлює 1 пункт здоров'я через 1к4 години.
 
-### Monsters and Death 
-Most GMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws.
+### Монстри та смерть
+У більшості Майстрів монстри гинуть миттєво, коли їхні пункти здоров'я знижуються до 0, замість того, щоб бути непритомними та робити рятівні кидки смерті.
 
-Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters. 
+Могутні лиходії та особливі неігрові персонажі є поширеними винятками; Майстер може змусити їх знепритомніти та дотримуватися тих самих правил, що й для персонажів гравців.
 
-## Knocking a Creature Out 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable. 
+## Знешкодження істоти
+Іноді нападник хоче знешкодити ворога, а не завдати йому смертельного удару. Коли нападник знижує пункти здоров'я істоти до 0 атакою ближнього бою, нападник може знешкодити істоту. Нападник може вирішити це одразу після завдання пошкоджень. Істота стає непритомною та стабілізованою.
 
-## Temporary Hit Points 
-Some spells and special abilities confer temporary hit points to a creature. Temporary hit points aren't actual hit points; they are a buffer against damage, a pool of hit points that protect you from injury.
+## Тимчасові пункти здоров'я
+Деякі чари та спеціальні здатності забезпечують істоті тимчасові пункти здоров'я. Тимчасові пункти здоров'я насправді не є пунктами здоров'я; вони є буфером проти пошкоджень, запасом здоров'я, що захищає вас під травми.
 
-When you have temporary hit points and take damage, the temporary hit points are lost first, and any leftover damage carries over to your normal hit points. For example, if you have 5 temporary hit points and take 7 damage, you lose the temporary hit points and then take 2 damage.
+Коли у вас є тимчасові пункти здоров'я і ви зазнаєте пошкоджень, тимчасові ПЗ втрачаються першими, і будь-який надлишок пошкоджень переноситься на ваші звичайні пункти здоров'я. Наприклад, якщо ви маєте 5 тимчасових пунктів здоров'я і отримуєте 7 пошкоджень, ви втрачаєте тимчасові пункти здоров'я та отримуєте 2 пошкодження.
 
-Because temporary hit points are separate from your actual hit points, they can exceed your hit point maximum. A character can, therefore, be at full hit points and receive temporary hit points.
+Оскільки тимчасові пункти здоров'я відокремлені від ваших фактичних пунктів здоров'я, вони можуть перевищувати максимальне значення ваших пунктів здоров'я. Отже, персонаж може мати повні пункти здоров'я та отримати тимчасові пункти здоров'я.
 
-Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
+Зцілення не може відновити тимчасові пункти здоров'я, і їх не можна додавати між собою. Якщо ви маєте тимчасові пункти здоров'я і отримуєте їх ще раз, ви вирішуєте, чи зберегти ті, що ви вже маєте, чи отримати нові. Наприклад, якщо чари дають вам 12 тимчасових пунктів здоров'я, коли ви вже маєте 10, ви можете залишити або 12, або 10, але не 22.
 
-If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.
+Якщо у вас 0 пунктів здоров'я, отримання тимчасових ПЗ не приводить вас до тями й не стабілізує. Вони можуть поглинати пошкодження, спрямовані на вас, коли ви перебуваєте у такому стані, але врятувати вас може лише справжнє зцілення.
 
-Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest.
+Тимчасові пункти здоров'я існують, поки не будуть витрачені або поки ви не завершите тривалий відпочинок, за винятком випадків, коли тривалість тимчасових ПЗ вказана окремо в особливості, від якої ви їх отримали.
