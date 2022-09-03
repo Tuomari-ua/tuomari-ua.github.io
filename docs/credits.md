@@ -11,6 +11,7 @@ layout: default
 Над перекладом та публікацією працювали:
 - Tuomari
 - movnyydoshch
+- Володимир Панченко (CSay)
 - Саша Безпальчук (@Trampampamm)
 - SexyCrowbar
 - Андрій Михайлів (KERNOR)

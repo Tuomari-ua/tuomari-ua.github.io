@@ -1,87 +1,88 @@
-description: Rules for making an attack from the 5th Edition (5e) SRD (System Reference Document).
+Правила здійснення атаки
 
-# Making an Attack 
-Whether you're striking with a melee weapon, firing a weapon at range, or making an attack roll as part of a spell, an attack has a simple structure. 
+# Здійснення атаки
+Атака має просту структуру незалежно від того, чи ви завдаєте удару в ближньому бою, чи запускаєте снаряд із певної дистанції, чи робите кидок атаки як складову своїх чарів.
 
-1. **Choose a target.** Pick a target within your attack's range: a creature, an object, or a location.
-2. **Determine modifiers.** The GM determines whether the target has cover and whether you have advantage or disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
-3. **Resolve the attack.** You make the attack roll. On a hit, you roll damage, unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
-
-
-If there's ever any question whether something you're doing counts as an attack, the rule is simple: if you're making an attack roll, you're making an attack. 
-
-## Attack Rolls 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block. 
-
-### Modifiers to the Roll 
-When a character makes an attack roll, the two most common modifiers to the roll are an ability modifier and the character's proficiency bonus. When a monster makes an attack roll, it uses whatever modifier is provided in its stat block.
-
-**Ability Modifier.** The ability modifier used for a melee weapon attack is Strength, and the ability modifier used for a ranged weapon attack is Dexterity. Weapons that have the finesse or thrown property break this rule. 
-
-Some spells also require an attack roll. The ability modifier used for a spell attack depends on the spellcasting ability of the spellcaster.
-
-**Proficiency Bonus.** You add your proficiency bonus to your attack roll when you attack using a weapon with which you have proficiency, as well as when you attack with a spell. 
-
-### Rolling 1 or 20 
-Sometimes fate blesses or curses a combatant, causing the novice to hit and the veteran to miss.
-
-If the d20 roll for an attack is a 20, the attack hits regardless of any modifiers or the target's AC. This is called a critical hit, which is explained later in this chapter.
-
-If the d20 roll for an attack is a 1, the attack misses regardless of any modifiers or the target's AC. 
-
-## Unseen Attackers and Targets 
-Combatants often try to escape their foes' notice by hiding, casting the invisibility spell, or lurking in darkness.
-
-When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
-
-When a creature can't see you, you have advantage on attack rolls against it. If you are hidden--both unseen and unheard--when you make an attack, you give away your location when the attack hits or misses.
-
-## Ranged Attacks 
-When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance. A monster might shoot spines from its tail. Many spells also involve making a ranged attack. 
-
-### Range 
-You can make ranged attacks only against targets within a specified range.
-
-If a ranged attack, such as one made with a spell, has a single range, you can't attack a target beyond this range.
-
-Some ranged attacks, such as those made with a longbow or a shortbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has disadvantage when your target is beyond normal range, and you can't attack a target beyond the long range. 
-
-### Ranged Attacks in Close Combat 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated. 
-
-## Melee Attacks 
-Used in hand-to-hand combat, a melee attack allows you to attack a foe within your reach. A melee attack typically uses a handheld weapon such as a sword, a warhammer, or an axe. A typical monster makes a melee attack when it strikes with its claws, horns, teeth, tentacles, or other body part. A few spells also involve making a melee attack.
-
-Most creatures have a 5-foot **reach** and can thus attack targets within 5 feet of them when making a melee attack. Certain creatures (typically those larger than Medium) have melee attacks with a greater reach than 5 feet, as noted in their descriptions.
-
-Instead of using a weapon to make a melee weapon attack, you can use an **unarmed strike**: a punch, kick, head-butt, or similar forceful blow (none of which count as weapons). On a hit, an unarmed strike deals bludgeoning damage equal to 1 + your Strength modifier. You are proficient with your unarmed strikes. 
-
-### Opportunity Attacks 
-In a fight, everyone is constantly watching for a chance to strike an enemy who is fleeing or passing by. Such a strike is called an opportunity attack.
-
-You can make an opportunity attack when a hostile creature that you can see moves out of your reach. To make the opportunity attack, you use your reaction to make one melee attack against the provoking creature. The attack occurs right before the creature leaves your reach.
-
-You can avoid provoking an opportunity attack by taking the Disengage action. You also don't provoke an opportunity attack when you teleport or when someone or something moves you without using your movement, action, or reaction. For example, you don't provoke an opportunity attack if an explosion hurls you out of a foe's reach or if gravity causes you to fall past an enemy.
-
-### Two-Weapon Fighting 
-When you take the Attack action and attack with a light melee weapon that you're holding in one hand, you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.
-
-If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it. 
-
-> ### Contests in Combat 
-> Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The GM can use these contests as models for improvising others. 
-
-### Grappling 
-When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
-
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required).
-
-**Escaping a Grapple.** A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
-
-**Moving a Grappled Creature.** When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+1. **Виберіть ціль.** Виберіть ціль у межах відстані вашої атаки: істоту, об'єкт або розташування.
+2. **Визначте модифікатори.** Майстер визначає, чи має ціль укриття, та чи маєте ви перевагу або перешкоду проти цілі. Крім того, чари, спеціальні здатності та інші ефекти можуть накладати штрафи чи бонуси на ваш кидок атаки.
+3. **Здійсніть атаку.** Ви робите кидок атаки. У випадку влучання ви робите кидок пошкоджень, якщо конкретна атака не має правил, які визначають інше. Деякі атаки викликають спецефекти на додаток або замість пошкодження.
 
 
-### Shoving a Creature 
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+Якщо постає питання, чи те, що ви робите, вважається атакою, правило просте: якщо ви робите кидок атаки, то ви здійснюєте атаку.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you. 
+## Кидки атаки
+Коли ви атакуєте, ваш кидок атаки визначає, влучила атака чи промахнулася. Щоб зробити кидок атаки, киньте к20 та додайте належні модифікатори. Якщо загальна сума кидка з модифікаторами дорівнює або перевищує Клас Захисту (КЗ) цілі, атака влучає. КЗ персонажа визначається на стадії створення, тоді як КЗ монстра вказаний у його блоку статистики.
+
+### Модифікатори кидка
+Коли персонаж здійснює атаку, два найбільш поширені модифікатори цього кидка - це модифікатор здібності та бонус досвіду персонажа. Коли монстр робить кидок атаки, він використовує той модифікатор, що вказаний у його блоку статистики.
+
+**Модифікатор здібності.** Для атак зброєю ближнього бою використовують модифікатор Сили, а для далекобійних атак зброєю застосовують модифікатор Спритності. Зброя, яка має властивість "витончена" або "метальна", порушує це правило.
+
+Деякі чари також потребують кидка атаки. Модифікатор здібності для атаки чарами залежить від чаротворчої здібності персонажа.
+
+**Бонус досвіду.** Додайте бонус досвіду до свого кидка атаки, якщо здійснюєте атаку опанованою зброєю, а також коли атакуєте чарами.
+
+### Результат 1 або 20
+Іноді доля благословляє або проклинає бійця, через що новачок влучає, а ветеран промахується.
+
+Якщо на кидку атаки к20 випадає 20, атака влучає незалежно від будь-яких модифікаторів чи від КЗ цілі. Це називається критичним влучанням.
+
+Якщо на кидку к20 випадає 1, така атака промахується незалежно від будь-яких модифікаторів чи КЗ цілі.
+
+## Невидимі нападники та цілі
+Учасники бою часто намагаються уникнути уваги суперників, скрадаючись, створюючи чари невидимості або ховаючись у темряві.
+
+Коли ви атакуєте ціль, яку не можете бачити, ви маєте перешкоду на кидок атаки. Це діє незалежно від того, чи ви вгадуєте розташування чи цілитеся в істоту, яку можете чути, але не бачите. Якщо ціль не перебуває у розташуванні, яке ви вказали, ви автоматично промахуєтеся, але Майстер зазвичай просто каже, що атака провалилася, а не підказує, чи вгадали ви розташування цілі.
+
+Коли істота не може вас бачити, ви маєте перевагу на кидок атаки проти неї. Якщо ви сховані - вас не видно та не чутно, - то під час здійснення атаки ви виказуєте своє розташування, коли атака влучає або промахується.
+
+## Далекобійні атаки
+Коли ви здійснюєте далекобійну атаку, то вистрілюєте з лука чи арбалета, кидаєте ручну сокиру чи інакше спрямовуєте снаряди, щоб влучити по ворогу на відстані. Монстр може стріляти шипами зі свого хвоста. Багато чарів також включають здійснення далекобійної атаки.
+
+### Відстань
+Ви можете зробити далекобійні атаки лише проти цілей у межах вказаної відстані.
+
+Якщо для далекобійної атаки, наприклад, атаки чарами, вказана одна відстань, ви не можете атакувати ціль, розташовану далі цієї відстані.
+
+Деякі далекобійні атаки, наприклад, атаки довгим або коротким луком, мають дві відстані. Менше число - це нормальна відстань, а більше - найбільша відстань. Ваш кидок атаки має перешкоду, якщо ціль перебуває за межами нормальної відстані, і ви не можете атакувати ціль за межами найбільшої відстані.
+
+### Далекобійні атаки в ближньому бою
+Спрямувати далекобійну атаку складніше, коли ваш ворог перебуває біля вас. Коли ви здійснюєте далекобійну атаку зброєю, чарами чи якимось іншим способом, ви маєте перешкоду на кидок атаки, якщо перебуваєте у межах 5 футів від ворожої істоти, яка може вас бачити та не є недієздатною.
+
+## Атаки ближнього бою
+У бою пліч-о-пліч атака ближнього бою дозволяє вам атакувати ворога у межах своєї досяжності. Атака ближнього бою, як правило, використовує ручну зброю, таку як меч, бойовий молот або сокиру. Типовий монстр здійснює атаку ближнього бою, коли б'є пазурами, рогами, зубами, щупальцями або іншою частиною тіла. Деякі чари також включають здійснення атаки ближнього бою.
+
+Більшість істот мають 5-футову **досяжність** і тому можуть атакувати цілі в межах 5 футів від себе, коли здійснюють атаку ближнього бою. Деякі істоти (як правило, ті, що більші за Середній розмір) мають атаки ближнього бою із досяжністю більшою за 5 футів, як сказано в їхніх описах.
+
+Замість використання зброї для здійснення атаки ближнього бою, ви можете використати **беззбройний удар**: вдарити кулаком, ногою, головою, або заподіяти інший подібний силовий вплив (ніщо із цього не вважається зброєю). У випадку влучання беззбройний удар завдає дробильних пошкоджень, що дорівнюють 1 + ваш модифікатор Сили. Вважається, що ви опанували свої беззбройні удари.
+
+### Атаки при нагоді
+У бою всі постійно вичікують шанс ударити по ворогу, коли той втікає чи рухається повз. Такий удар називається атакою при нагоді.
+
+Ви можете здійснити атаку при нагоді, коли ворожа істота, яку ви можете бачити, переміщується поза межі вашої досяжності. Щоб здійснити атаку при нагоді, ви використовуєте свою реакцію та здійснюєте одну атаку ближнього бою проти істоти, що створила нагоду. Атака відбувається прямо перед тим, як істота виходить із вашої досяжності.
+
+Ви можете уникнути атаки при нагоді, якщо виконаєте дію Відступити. Ви також не провокуєте атаку при нагоді, коли телепортуєтеся або коли хтось чи щось переміщує вас, не витрачаючи вашого переміщення, дії чи реакції. Наприклад, ви не провокуєте атаку при нагоді, якщо вибух виштовхує вас за межі досяжності ворога, або гравітація змушує вас упасти повз ворога.
+
+### Двозбройний бій
+Коли ви обираєте дію Атакувати й завдаєте атаку легкою зброєю ближнього бою, яку тримаєте в одній руці, ви можете використати бонусну дію, щоб атакувати іншою легкою зброєю ближнього бою, яку тримаєте в іншій руці. Ви не додаєте свої модифікатори здібностей до пошкоджень від бонусної атаки, хіба що цей модифікатор від'ємний.
+
+Якщо зброя має властивість "метальна", ви можете зробити кидок цією зброєю замість здійснення атаки ближнього бою.
+
+> ### Змагання в бою 
+> 
+> У бою вам часто доводиться протиставляти свою доблесть ворожій. Такі ситуації представлені змаганням. Цей розділ також включає найбільш поширені змагання, які потребують дій у бою: Схопити та Штовхнути істоту. Майстер може використовувати ці змагання як приклад для імпровізації інших.
+
+### Схопити
+Коли ви хочете схопити істоту або боротися з нею, ви можете використати дію Атакувати, щоб здійснити спеціальну атаку ближнього бою - Схопити. Якщо ви здатні зробити кілька атак дією Атакувати, ця атака заміщує одну з них.
+
+Ваша ціль повинна бути не більш як на один розмір більша за вас, і повинна бути в межах вашої досяжності. Використовуючи принаймні одну вільну руку, ви намагаєтеся схопити ціль, виконуючи перевірку Схоплення замість кидка атаки: перевірку Сили (Атлетика) проти перевірки Сили (Атлетика) або Спритності (Акробатика) цілі (ціль вибирає, яку здібність застосувати). Якщо ви досягаєте успіху, то ваша ціль набуває стану "Схоплена". Стан визначає умови для свого завершення, і ви можете відпустити ціль, коли захочете (дія не потрібна).
+
+**Вихід зі стану Схоплений.** Схоплена істота може використати свою дію, щоб вирватися. Щоб зробити це, істота повинна здійснити успішну перевірку Сили (Атлетика) або Спритності (Акробатика) проти вашої перевірки Сили (Атлетика).
+
+**Переміщення схопленої істоти.** Коли ви переміщуєтеся, ви можете перетягувати схоплену істоту з собою, але ваша швидкість буде зменшена наполовину, хіба що істота на два або більше розмірів менша за вас.
+
+
+### Штовхання істоти
+Використовуючи дію Атакувати, ви можете здійснити особливу атаку ближнього бою та штовхнути істоту, щоб або збити її з ніг, або відштовхнути її від себе. Якщо ви здатні зробити кілька атак дією Атакувати, ця атака заміщує одну з них.
+
+Ваша ціль повинна бути не більш як на один розмір більша за вас, і повинна бути в межах вашої досяжності. Замість кидка атаки ви робите перевірку Сили (Атлетика) проти перевірки Сили (Атлетика) або Спритності (Акробатика) цілі (ціль вибирає, яку здібність застосувати). Якщо ви перемогли в цьому змаганні, ви або збиваєте ціль із ніг, або відштовхуєте від себе на 5 футів. 
