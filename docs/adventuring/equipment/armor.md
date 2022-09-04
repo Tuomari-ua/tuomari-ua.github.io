@@ -1,94 +1,94 @@
-description: Rules and information about different armor types from the 5th Edition (5e) SRD (System Reference Document).
+Правила та інформація про різні типи броні
 
-# Armor 
-Fantasy gaming worlds are a vast tapestry made up of many different cultures, each with its own technology level. For this reason, adventurers have access to a variety of armor types, ranging from leather armor to chain mail to costly plate armor, with several other kinds of armor in between. The Armor table collects the most commonly available types of armor found in the game and separates them into three categories: light armor, medium armor, and heavy armor. Many warriors supplement their armor with a shield.
+# Броня
+Світи фентезійних ігор — це величезний гобелен, що складається з багатьох різних культур, кожна з яких має власний рівень технологій. З цієї причини шукачі пригод мають доступ до різноманітних типів броні, від шкіряних обладунків до кольчуг і закінчуючи дорогими латними обладунками, з кількома іншими видами броні в цьому проміжку. У таблиці броні зібрано найпоширеніші типи обладунків, які зустрічаються в грі, і розділено на три категорії: легка броня, середня броня та важка броня. Багато воїнів доповнюють броню щитом.
 
-The Armor table shows the cost, weight, and other properties of the common types of armor worn in fantasy gaming worlds.
+Таблиця броні показує вартість, вагу та інші властивості загальних видів броні, які носять у фантастичних ігрових світах.
 
-**Armor Proficiency.** Anyone can put on a suit of armor or strap a shield to an arm. Only those proficient in the armor's use know how to wear it effectively, however. Your class gives you proficiency with certain types of armor. If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can't cast spells.
+**Опанована броня.** Будь-хто може одягнути броню або закріпити щит на руці. Однак лише ті, хто вміє користуватися бронею, знають, як носити її ефективно. Ваш клас дозволяє вам опанувати певні типи броні. Якщо ви носите броню, яку не опанували, ви маєте перешкоду на всі перевірки здібностей, рятівні кидки та кидки атаки, що потребують Сили або Спритності, і ви не можете чарувати.
 
-**Armor Class (AC).** Armor protects its wearer from attacks. The armor (and shield) you wear determines your base Armor Class.
+**Клас захисту (КЗ).** Броня захищає вас від атак. Броня (і щит), які ви носите, визначає ваш базовий Клас Захисту.
 
-**Heavy Armor.** Heavier armor interferes with the wearer's ability to move quickly, stealthily, and freely. If the Armor table shows "Str 13" or "Str 15" in the Strength column for an armor type, the armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+**Важка броня.** Більш важка броня заважає власнику рухатися швидко, непомітно та вільно. Якщо в таблиці броні вказано "Сил 13" або "Сил 15" у колонці Сили для типу броні, носіння такого обладунку зменшує швидкість носія на 10 футів, хіба що значення Сили носія дорівнює або перевищує вказане у таблиці.
 
-**Stealth.** If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
+**Непомітність.** Якщо в таблиці броні вказано "Перешкода" у колонці "Непомітність", носій має перешкоду на перевірки Спритності (Непомітність).
 
-**Shields.** A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time. 
+**Щити.** Щит виготовляють з дерева або металу і носять в одній руці. Носіння щита збільшує вас Клас Захисту на 2. Ви можете використовувати одночасно лише один щит.
 
-## Light Armor 
-Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
+## Легка броня
+Виготовлена ​​з еластичних і тонких матеріалів, легка броня пасує спритним шукачам пригод, оскільки забезпечує певний захист без зниження рухливості. Якщо ви носите легку броню, ви додаєте свій модифікатор Спритності до базового числа вашого типу броні, щоб визначити свій Клас Захисту.
 
-**Padded.** Padded armor consists of quilted layers of cloth and batting.
+**Гамбезон.** Цей обладунок складається з шарів стьобаної тканини та набивки.
 
-**Leather.** The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+**Шкіряна броня.** Нагрудник та наплечники цього обладунку зроблені з затверділої шкіри, вивареної в олії. Інші частини броні виготовлені з м'якших і гнучкіших матеріалів.
 
-**Studded Leather.** Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes. 
+**Шипована шкіра.** Виготовлена ​​з міцної, але гнучкої шкіри, шипована шкіряна броня посилена щільно розташованими заклепками або шипами.
 
-## Medium Armor
-Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
+## Середня броня
+Середня броня забезпечує більший захист, ніж легка броня, але вона також більше ускладнює рух. Якщо ви носите середню броню, ви додаєте свій модифікатор Спритності, щонайбільше +2, до базового числа вашого типу броні, щоб визначити свій Клас Захисту.
 
-**Hide.** This crude armor consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armor.
+**Шкура.** Цей грубий обладунок складається з товстого хутра та шкури. Його зазвичай носять варварські племена, злі гуманоїди та інші народи, які не мають доступу до інструментів і матеріалів, необхідних для створення кращої броні.
 
-**Chain Shirt.** Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+**Кольчужна сорочка.** Виготовлена зі зчеплених металевих кілець, кольчужна сорочка вдягається між шарами одягу або шкіри. Ця броня забезпечує скромний захист для верхньої частини тіла власника та дозволяє заглушити звук від тертя кілець одне об одне зовнішніми шарами вбрання.
 
-**Scale Mail.** This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
+**Луската броня.** Цей обладунок складається з куртки та леґінсів (і, можливо, окремої спідниці) зі шкіри, вкритих накладеними один на одного шматками металу, схожими на луску риби. Броня включає рукавиці.
 
-**Breastplate.** This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+**Нагрудник.** Цей обладунок складається з металевої нагрудної частини, обтягнутої еластичною шкірою. Попри те, що вона залишає ноги та руки відносно незахищеними, ця броня забезпечує хороший захист для життєво важливих органів власника, залишаючи носія порівняно необтяженим.
 
-**Half Plate.** Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps. 
+**Напівлати.** Напівлатна броня складається з фігурних металевих пластин, які покривають більшу частину тіла користувача. Вона не включає захист ніг, окрім простих накладок, які прикріплені шкіряними ремінцями.
 
-## Heavy Armor 
-Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
+## Важка броня
+З усіх категорій броні важка броня забезпечує найкращий захист. Ці обладунки покривають все тіло й призначені для зупинки широкого спектру атак. Тільки досвідчені воїни можуть впоратися з їхньою вагою та розмірами.
 
-Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but it also doesn't penalize you if your Dexterity modifier is negative.
+Важка броня не дозволяє додавати ваш модифікатор Спритності до Класу Захисту, але також не накладає штрафів, якщо ваш модифікатор Спритності від'ємний.
 
-**Ring Mail.** This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
+**Байдана.** Це шкіряний обладунок із ушитими в нього важкими кільцями. Кільця допомагають укріпити броню проти ударів мечами та сокирами. Байдана поступається кольчузі, і зазвичай її носять лише ті, хто не може собі дозволити кращу броню.
 
-**Chain Mail.** Made of interlocking metal rings, chain mail includes a layer of quilted fabric worn underneath the mail to prevent chafing and to cushion the impact of blows. The suit includes gauntlets.
+**Кольчуга.** Виготовлена із з’єднаних між собою металевих кілець, ця броня має шар стьобаної тканини, який одягається під кольчугу, щоб запобігти натиранню та пом’якшити удари. Броня включає рукавиці.
 
-**Splint.** This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
+**Бригантина.** Цей обладунок виготовлений із вузьких вертикальних смужок металу, прикріплених до шкіряної підкладки, яку одягають поверх тканинної підкладки. Гнучка кольчуга захищає суглоби.
 
-**Plate.** Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
+**Лати.** Латний обладунок складається з фігурних металевих пластин, які з’єднані між собою, щоб охопити все тіло. Він також включає латні рукавиці та важкі шкіряні чоботи, шолом із забралом та товстий шар підбивки. Пряжки та ремінці розподіляють вагу по тілу.
 
 
-## Armor Table
+## Таблиця броні
 
-| Light Armor     | Cost   | Armor Class (AC)  | Strength  | Stealth       | Weight |
-|-----------------|--------|-------------------|-----------|---------------|--------|
-| Padded          | 5 gp   | 11 + Dex modifier | -         | Disadvantage  | 8 lb.  |
-| Leather         | 10 gp  | 11 + Dex modifier | -         | -             | 10 lb. |
-| Studded leather | 45 gp  | 12 + Dex modifier | -         | -             | 13 lb. |
+| Легка броня    | Вартість | Клас захисту (КЗ)    | Сила | Непомітність | Вага      |
+| -------------- | -------- | -------------------- | ---- | ------------ | --------- |
+| Гамбезон       | 5 зм     | 11 + модифікатор Спр | -    | Перешкода    | 8 фунтів  |
+| Шкіряна        | 10 зм    | 11 + модифікатор Спр | -    | -            | 10 фунтів |
+| Шипована шкіра | 45 зм    | 12 + модифікатор Спр | -    | -            | 13 фунтів |
 
-| Medium Armor    | Cost   | Armor Class (AC)          | Strength  | Stealth       | Weight |
-|-----------------|--------|---------------------------|-----------|---------------|--------|
-| Hide            | 10 gp  | 12 + Dex modifier (max 2) | -         | -             | 12 lb. |
-| Chain shirt     | 50 gp  | 13 + Dex modifier (max 2) | -         | -             | 20 lb. |
-| Scale mail      | 50 gp  | 14 + Dex modifier (max 2) | -         | Disadvantage  | 45 lb. |
-| Breastplate     | 400 gp | 14 + Dex modifier (max 2) | -         | -             | 20 lb. |
-| Half plate      | 750 gp | 15 + Dex modifier (max 2) | -         | Disadvantage  | 40 lb. |
+| Середня броня      | Вартість | Клас захисту (КЗ)             | Сила | Непомітність | Вага      |
+| ------------------ | -------- | ----------------------------- | ---- | ------------ | --------- |
+| Шкурна броня       | 10 зм    | 12 + модифікатор Спр (макс 2) | -    | -            | 12 фунтів |
+| Кольчужна сорочка  | 50 зм    | 13 + модифікатор Спр (макс 2) | -    | -            | 20 фунтів |
+| Лускатий обладунок | 50 зм    | 14 + модифікатор Спр (макс 2) | -    | Перешкода    | 45 фунтів |
+| Нагрудник          | 400 зм   | 14 + модифікатор Спр (макс 2) | -    | -            | 20 фунтів |
+| Напівлати          | 750 зм   | 15 + модифікатор Спр (макс 2) | -    | Перешкода    | 40 фунтів |
 
-| Heavy  Armor    | Cost     | Armor Class (AC) | Strength  | Stealth       | Weight |
-|-----------------|----------|------------------|-----------|---------------|--------|
-| Ring mail       | 30 gp    | 14               | -         | Disadvantage  | 40 lb. |
-| Chain mail      | 75 gp    | 16               | Str 13    | Disadvantage  | 55 lb. |
-| Splint          | 200 gp   | 17               | Str 15    | Disadvantage  | 60 lb. |
-| Plate           | 1,500 gp | 18               | Str 15    | Disadvantage  | 65 lb. |
+| Важка броня | Вартість | Клас захисту (КЗ) | Сила   | Непомітність | Вага      |
+| ----------- | -------- | ----------------- | ------ | ------------ | --------- |
+| Байдана     | 30 зм    | 14                | -      | Перешкода    | 40 фунтів |
+| Кольчуга    | 75 зм    | 16                | Сил 13 | Перешкода    | 55 фунтів |
+| Бригантина  | 200 зм   | 17                | Сил 15 | Перешкода    | 60 фунтів |
+| Лати        | 1,500 зм | 18                | Сил 15 | Перешкода    | 65 фунтів |
 
-| Shield          | Cost     | Armor Class (AC) | Strength  | Stealth       | Weight |
-|-----------------|----------|------------------|-----------|---------------|--------|
-| Shield          | 10 gp    | +2               | -         | -             | 6  lb. |
+| Щит | Вартість | Клас захисту (КЗ) | Сила | Непомітність | Вага     |
+| --- | -------- | ----------------- | ---- | ------------ | -------- |
+| Щит | 10 зм    | +2                | -    | -            | 6 фунтів |
 
-## Getting Into and Out of Armor 
+## Одягання та знімання броні
 
-The time it takes to don or doff armor depends on the armor's category.
+Час, необхідний для одягання чи знімання броні, залежить від категорії обладунку.
 
-**Don.** This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
+**Одягання.** Одягання броні потребує певного часу. Ви отримуєте привілеї броні до КЗ, тільки якщо ви витратили весь потрібний час на вдягання обладунку.
 
-**Doff.** This is the time it takes to take off armor. If you have help, reduce this time by half.
+**Знімання.** Знімання броні потребує певного часу. Якщо вам допомагають, цей час зменшується наполовину.
 
-| Category      | Don        | Doff      |
-|---------------|------------|-----------|
-| Light Armor   | 1 minute   | 1 minute  |
-| Medium Armor  | 5 minutes  | 1 minute  |
-| Heavy Armor   | 10 minutes | 5 minutes |
-| Shield        | 1 action   | 1 action  |
+| Категорія     | Одягання  | Знімання  |
+| ------------- | --------- | --------- |
+| Легка броня   | 1 хвилина | 1 хвилина |
+| Середня броня | 5 хвилин  | 1 хвилина |
+| Важка броня   | 10 хвилин | 5 хвилин  |
+| Щит           | 1 дія     | 1 дія     |
