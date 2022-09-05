@@ -60,7 +60,7 @@ layout: default
 |---------------------------------------------------------|---------------------------------------------------------|
 | [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
 | [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
-| [Виміри існування](./adventuring/planes_of_existence.md)| [Монети](./adventuring/equipment/coins.md)                           |
+| [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
 | [Відпочинок](./adventuring/resting.md)                  | [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
 | [Середовище](./adventuring/the_environment.md)          | [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
 | [Час](./adventuring/time.md)                            | [Інструменти](./adventuring/equipment/tools.md)                      |
