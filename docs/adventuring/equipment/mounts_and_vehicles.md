@@ -1,60 +1,60 @@
-description: Rules and information for different mounts and vehicles from the 5th Edition (5e) SRD (System Reference Document).
+Правила та інформація для різних їздових тварин і транспортних засобів
 
-# Mounts and Vehicles
-A good mount can help you move more quickly through the wilderness, but its primary purpose is to carry the gear that would otherwise slow you down. The Mounts and Other Animals table shows each animal’s speed and base carrying capacity.
+# Їздові тварини й транспорт
+Гарна їздова тварина може допомогти вам швидше пересуватися незайманою місцевістю, але її головне призначення — носити спорядження, яке інакше сповільнило б вас. Таблиця "Їздових та інших тварин" показує швидкість і базову вантажність кожної тварини.
 
-An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
+Тварина, яка тягне карету, візок, колісницю, сани чи віз, може переміщувати вагу, яка в п’ять разів перевищує базову вантажність, включаючи вагу транспортного засобу. Якщо кілька тварин тягнуть один транспортний засіб, їхня вантажність додається.
 
-Mounts other than those listed here are available in fantasy gaming worlds, but they are rare and not normally available for purchase. These include flying mounts (pegasi, griffons, hippogriffs, and similar animals) and even aquatic mounts (giant sea horses, for example). Acquiring such a mount often means securing an egg and raising the creature yourself, making a bargain with a powerful entity, or negotiating with the mount itself.
+У світах фентезійних ігор доступні інші їздові тварини, окрім перелічених тут, але вони рідкісні та зазвичай недоступні для покупки. До них належать летючі (пегаси, грифони, гіпогрифи та подібні тварини) і навіть водні (наприклад, гігантські морські коники). Придбання такого скакуна часто означає здобування яйця та вирощування істоти самостійно, укладання угоди з могутньою сутністю або переговори з самим скакуном.
 
-**Barding.** Barding is armor designed to protect an animal’s head, neck, chest, and body. Any type of armor shown on the Armor table can be purchased as barding. The cost is four times the equivalent armor made for humanoids, and it weighs twice as much.
+**Бардинг.** Бардинг — броня, призначена для захисту голови, шиї, грудей і тіла тварини. Будь-який тип броні, показаний у таблиці броні, можна придбати як бардинг. Вартість у чотири рази перевищує еквівалентну броню для гуманоїдів, а важить вона вдвічі більше.
 
-**Saddles.** A military saddle braces the rider, helping you keep your seat on an active mount in battle. It gives you advantage on any check you make to remain mounted. An exotic saddle is required for riding any aquatic or flying mount.
+**Сідла** Військове сідло підтримує вершника, допомагаючи утримуватися на активному скакуні під час бою. Це дає вам перевагу під час будь-якої перевірки, яку ви робите, щоб залишатися верхи. Екзотичне сідло потрібне для верхової їзди на будь-якому водному або літаючому скакуні.
 
-**Vehicle Proficiency.** If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
+**Кермування транспортом.** Якщо ви опанували навички роботи з певним типом транспортного засобу (сухопутного чи водного), ви можете додати свій бонус досвіду до будь-якої перевірки, яку ви проводите, щоб керувати таким транспортним засобом у складних умовах.
 
-**Rowed Vessels.** Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
+**Веслові судна.** На озерах і річках використовуються кільові й гребні човни. Якщо рухаєтеся вниз за течією, додайте швидкість течії (зазвичай 3 милі на годину) до швидкості транспорту. Ці транспортні засоби не можуть веслувати проти будь-якої значної течії, але вони можуть бути витягнуті вгору за течією тягловими тваринами на березі. Весловий човен важить 100 фунтів, якщо шукачі пригод перенесуть його над суходолом.
 
-## Mounts
-| Item           | Cost   | Speed  | Carrying Capacity |
-|----------------|-------:|--------|-------------------|
-| Camel          | 50 gp  | 50 ft. | 480 lb.           |
-| Donkey or mule | 8 gp   | 40 ft. | 420 lb.           |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.         |
-| Horse, draft   | 50 gp  | 40 ft. | 540 lb.           |
-| Horse, riding  | 75 gp  | 60 ft. | 480 lb.           |
-| Mastiff        | 25 gp  | 40 ft. | 195 lb.           |
-| Pony           | 30 gp  | 40 ft. | 225 lb.           |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.           |
+## Їздові тварини
+| Тварина        | Вартість | Швидкість | Вантажність  |
+| -------------- | --------:| --------- | ------------ |
+| Верблюд        |    50 зм | 50 футів  | 480 фунтів   |
+| Віслюк чи мул  |     8 зм | 40 футів  | 420 фунтів   |
+| Слон           |   200 зм | 40 футів  | 1,320 фунтів |
+| Кінь, тягловий |    50 зм | 40 футів  | 540 фунтів   |
+| Кінь, їздовий  |    75 зм | 60 футів  | 480 фунтів   |
+| Мастиф         |    25 зм | 40 футів  | 195 фунтів   |
+| Поні           |    30 зм | 40 футів  | 225 фунтів   |
+| Бойовий кінь   |   400 зм | 60 футів  | 540 фунтів   |
 
-## Tack, Harness, and Drawn Vehicles
-| Item                | Cost   | Weight  |
-|---------------------|-------:|--------:|
-| Barding             | x4     | x2      |
-| Bit and bridle      | 2 gp   | 1 lb.   |
-| Carriage            | 100 gp | 600 lb. |
-| Cart                | 15 gp  | 200 lb. |
-| Chariot             | 250 gp | 100 lb. |
-| Feed (per day)      | 5 cp   | 10 lb.  |
-| Saddlebags          | 4 gp   | 8 lb.   |
-| Sled                | 20 gp  | 300 lb. |
-| Stabling (per day)  | 5 sp   | -       |
-| Wagon               | 35 gp  | 400 lb. |
+## Галсовий, упряжний та гужовий транспорт
+| Транспорт         | Вартість |       Вага |
+| ----------------- | --------:| ----------:|
+| Бардинг           |       х4 |         х2 |
+| Вудила й вуздечка |     2 зм |     1 фунт |
+| Карета            |   100 зм | 600 фунтів |
+| Візок             |    15 зм | 200 фунтів |
+| Колісниця         |   250 зм | 100 фунтів |
+| Їжа (за день)     |     5 мм |  10 фунтів |
+| Сідельні сумки    |     4 зм |   8 фунтів |
+| Сани              |    20 зм | 300 фунтів |
+| Стайня (за день)  |     5 см |          - |
+| Фургон            |    35 зм | 400 фунтів |
 
-## Saddles
-| Item     | Cost  | Weight |
-|----------|------:|-------:|
-| Exotic   | 60 gp | 40 lb. |
-| Military | 20 gp | 30 lb. |
-| Pack     | 5 gp  | 15 lb. |
-| Riding   | 10 gp | 25 lb. |
+## Сідла
+| Предмет   | Вартість |      Вага |
+| --------- | --------:| ---------:|
+| Екзотичні |    60 зм | 40 фунтів |
+| Військове |    20 зм | 30 фунтів |
+| В'ючне    |     5 зм | 15 фунтів |
+| Їздове    |    10 зм | 25 фунтів |
 
-## Waterborne Vehicles
-| Item         | Cost      | Speed      |
-|--------------|----------:|------------|
-| Galley       | 30,000 gp | 4 mph      |
-| Keelboat     | 3,000 gp  | 1 mph      |
-| Longship     | 10,000 gp | 3 mph      |
-| Rowboat      | 50 gp     | 1 1/2  mph |
-| Sailing ship | 10,000 gp | 2 mph      |
-| Warship      | 25,000 gp | 2 1/2 mph  |
+## Водні транспортні засоби
+| Транспорт           |  Вартість | Швидкість      |
+| ------------------- | ---------:| -------------- |
+| Галера              | 30,000 зм | 4 миль/год     |
+| Кільовий човен      |  3,000 зм | 1 миль/год     |
+| Дракар              | 10,000 зм | 3 миль/год     |
+| Весловий човен      |     50 зм | 1 1/2 миль/год |
+| Вітрильний корабель | 10,000 зм | 2 миль/год     |
+| Військовий корабель | 25,000 зм | 2 1/2 миль/год |

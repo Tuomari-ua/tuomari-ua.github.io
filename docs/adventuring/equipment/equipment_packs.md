@@ -1,18 +1,18 @@
-description: A list of prebuilt equipment packs for characters from the 5th Edition (5e) SRD (System Reference Document).
+Список попередньо створених наборів спорядження
 
-# Equipment packs
-The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
+# Набори спорядження
+Початкове спорядження, яке ви отримуєте від свого класу, включає колекцію корисного спорядження для пригод, зібраного в набір. Тут наведено вміст цих наборів. Якщо ви купуєте початкове спорядження, ви можете придбати набір за вказаною ціною, що може бути дешевше, ніж купувати складові окремо.
 
-**Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Набір грабіжника (16 зм).** Включає рюкзак, сумку з 1000 металевими кульками, 10 футів мотузки, дзвіночок, 5 свічок, лом, молоток, 10 крючків, ліхтар із козирком, 2 фляги з олією, пайки на 5 днів, запальницю і бурдюк. Набір також включає 50 футів прядив'яної мотузки, прив'язаної збоку.
 
-**Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+**Набір дипломата (39 зм).** Включає скриню, 2 тубуси для карт і сувоїв, набір гарного одягу, пляшку чорнила, чорнильну ручку, лампу, 2 фляги з олією, 5 аркушів паперу, флакон парфумів, віск і мило.
 
-**Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Набір дослідника підземель (12 зм).** Включає рюкзак, лом, молоток, 10 крючків, 10 смолоскипів, запальницю, пайок на 10 днів і бурдюк. Набір також включає 50 футів прядив'яної мотузки, прив’язаної збоку.
 
-**Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+**Набір артиста (40 зм).** Включає рюкзак, спальник, 2 костюми, 5 свічок, пайок на 5 днів, бурдюк і маскувальний набір.
 
-**Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
+**Набір дослідника (10 зм).** Включає рюкзак, спальник, столовий набір, запальницю, 10 смолоскипів, пайок на 10 днів і бурдюк. Набір також включає 50 футів прядив'яної мотузки, прив’язаної збоку.
 
-**Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
+**Набір священика (19 зм).** Включає рюкзак, ковдру, 10 свічок, запальницю, ящик для милостині, 2 блоки ладану, кадильницю, одяг, 2-денний пайок і бурдюк.
 
-**Scholar's Pack (40 gp).**) Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
+**Набір ученого (40 зм).** Включає рюкзак, книгу знань, пляшку чорнила, чорнильну ручку, 10 аркушів пергаменту, маленький мішечок з піском і маленький ніж.

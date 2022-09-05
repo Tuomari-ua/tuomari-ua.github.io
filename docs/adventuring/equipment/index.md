@@ -1,10 +1,10 @@
-# Equipment
+# Спорядження
 
-* [Adventuring Gear](/adventuring/equipment/adventuring_gear/)      
-* [Armor](/adventuring/equipment/armor/)                            
-* [Coins](/adventuring/equipment/coins/)                            
-* [Equipment Packs](/adventuring/equipment/equipment_packs/)        
-* [Mounts and Vehicles](/adventuring/equipment/mounts_and_vehicles/)
-* [Tools](/adventuring/equipment/tools/)                            
-* [Trade Goods](/adventuring/equipment/trade_goods/)                
-* [Weapons](/adventuring/equipment/weapons/)     
+* [Спорядження](/adventuring/equipment/adventuring_gear/)
+* [Броня](/adventuring/equipment/armor/)
+* [Монети](/adventuring/equipment/coins/)
+* [Набори спорядження](/adventuring/equipment/equipment_packs/)
+* [Їздові тварини й транспорт](/adventuring/equipment/mounts_and_vehicles/)
+* [Інструменти](/adventuring/equipment/tools/)
+* [Торговельні товари](/adventuring/equipment/trade_goods/)
+* [Зброя](/adventuring/equipment/weapons/)     
