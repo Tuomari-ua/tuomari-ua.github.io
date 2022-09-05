@@ -1,24 +1,24 @@
-description: Rules for different coin types from the 5th Edition (5e) SRD (System Reference Document).
+Правила для різних типів монет
 
-# Coins 
-Common coins come in several different denominations based on the relative worth of the metal from which they are made. The three most common coins are the gold piece (gp), the silver piece (sp), and the copper piece (cp).
+# Монети
+Звичайні монети мають кілька номіналів залежно від відносної вартості металу, з якого вони виготовлені. Три найпоширеніші монети: золотий шматок (зм), срібний шматок (см) і мідний шматок (мм).
 
-With one gold piece, a character can buy a bedroll, 50 feet of good rope, or a goat. A skilled (but not exceptional) artisan can earn one gold piece a day. The gold piece is the standard unit of measure for wealth, even if the coin itself is not commonly used. When merchants discuss deals that involve goods or services worth hundreds or thousands of gold pieces, the transactions don't usually involve the exchange of individual coins. Rather, the gold piece is a standard measure of value, and the actual exchange is in gold bars, letters of credit, or valuable goods.
+За один золотий шматок персонаж може купити спальник, 50 футів хорошої мотузки або козу. Вправний (але не винятковий) ремісник може заробити одну золоту монету на день. Золотий шматок є стандартною одиницею виміру багатства, навіть якщо сама монета не є загальновживаною. Коли торговці обговорюють угоди, пов’язані з товарами чи послугами вартістю в сотні чи тисячі золотих, транзакції зазвичай не передбачають обмін окремих монет. Натомість золото є стандартною мірою вартості, а фактичний обмін відбувається на золоті злитки, акредитиви або цінні товари.
 
-One gold piece is worth ten silver pieces, the most prevalent coin among commoners. A silver piece buys a laborer's work for half a day, a flask of lamp oil, or a night's rest in a poor inn.
+Один золотий шматок коштує десятьох срібняків, це найпоширеніша монета серед обивателів. Срібний шматок купує працю робітника на півдня, флягу лампової олії або нічний відпочинок у бідній корчмі.
 
-One silver piece is worth ten copper pieces, which are common among laborers and beggars. A single copper piece buys a candle, a torch, or a piece of chalk.
+Один срібний шматок коштує десяти мідяків, які поширені серед робітників і жебраків. За один шматок міді можна купити свічку, смолоскип або шматок крейди.
 
-In addition, unusual coins made of other precious metals sometimes appear in treasure hoards. The electrum piece (ep) and the platinum piece (pp) originate from fallen empires and lost kingdoms, and they sometimes arouse suspicion and skepticism when used in transactions. An electrum piece is worth five silver pieces, and a platinum piece is worth ten gold pieces.
+Крім того, в скарбах іноді з'являються незвичайні монети з інших дорогоцінних металів. Електрумова монета (eм) і платинова монета (пм) походять із загиблих імперій і втрачених королівств, і іноді вони викликають підозру та скептицизм, коли використовуються в транзакціях. Електрум коштує п’ять срібних шматків, а платина – десять золотих.
 
-A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
+Стандартна монета важить близько третини унції, тож п'ятдесят монет важать фунт.
 
-**Standard Exchange Rates**
+**Стандартні курси обміну**
 
-| Coin          | CP    | SP   | EP  | GP    | PP      |
-|---------------|-------|------|-----|-------|---------|
-| Copper (cp)   | 1     | 1/10 | 1/50| 1/100 | 1/1,000 |
-| Silver (sp)   | 10    | 1    | 1/5 | 1/10  | 1/100   |
-| Electrum (ep) | 50    | 5    | 1   | 1/2   | 1/20    |
-| Gold (gp)     | 100   | 10   | 2   | 1     | 1/10    |
-| Platinum (pp) | 1,000 | 100  | 20  | 10    | 1       |
+| Монета        | ММ    | СМ   | ЕМ   | ЗМ    | ПМ      |
+| ------------- | ----- | ---- | ---- | ----- | ------- |
+| Мідь (мм)     | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Срібло (см)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
+| Електрум (ем) | 50    | 5    | 1    | 1/2   | 1/20    |
+| Золото (зм)   | 100   | 10   | 2    | 1     | 1/10    |
+| Платина (пм)  | 1,000 | 100  | 20   | 10    | 1       |
