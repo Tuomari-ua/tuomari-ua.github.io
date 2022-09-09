@@ -1,75 +1,75 @@
-description: Rules and information for different tool kits from the 5th Edition (5e) SRD (System Reference Document).
+Правила та інформація для різних наборів інструментів
 
-# Tools 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
+# Інструменти
+Інструмент допомагає вам зробити те, що ви не могли б зробити інакше, наприклад створити або відремонтувати предмет, підробити документ або зламати замок. Ваша раса, клас, передісторія чи уміння дозволяють вам опанувати певні інструменти. Опанування інструмента дозволяє вам додавати свій бонус досвіду до будь-якої перевірки навички, яку ви робите при використанні інструмента. Використання інструменту не прив’язане до однієї здібності, оскільки навички роботи з інструментом представляють ширші знання про його використання. Наприклад, Майстер може попросити вас виконати перевірку Спритності, щоб вирізати дрібні деталі за допомогою інструментів різьбяра, або перевірку Сили, щоб виготовити щось із особливо твердої деревини.
 
-**Artisan's Tools.** These special tools include the items needed to pursue a craft or trade. The table shows examples of the most common types of tools, each providing items related to a single craft. Proficiency with a set of artisan's tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan's tools requires a separate proficiency.
+**Ремісничі інструменти.** Ці спеціальні інструменти включають предмети, необхідні для занять ремеслом або торгівлею. У таблиці наведено приклади найпоширеніших типів інструментів, кожен з яких містить елементи, пов’язані з одним ремеслом. Опанування набору ремісничих інструментів дозволяє вам додавати свій бонус досвіду до будь-яких перевірок здібностей, які ви виконуєте за допомогою інструментів свого ремесла. Кожен вид ремісничих інструментів необхідно опановувати окремо.
 
-**Disguise Kit.** This pouch of cosmetics, hair dye, and small props lets you create disguises that change your physical appearance. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a visual disguise.
+**Набір для маскування.** Ця торбинка з косметикою, фарбою для волосся та невеличким реквізитом дозволяє створювати маскування, яке змінює ваш зовнішній вигляд. Опанування цього набору дозволяє вам додати свій бонус досвіду до будь-яких перевірок здібностей, які ви виконуєте для створення візуального маскування.
 
-**Forgery Kit.** This small box contains a variety of papers and parchments, pens and inks, seals and sealing wax, gold and silver leaf, and other supplies necessary to create convincing forgeries of physical documents. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to create a physical forgery of a document.
+**Набір для підробки.** Ця невелика коробка містить різноманітні папери та пергаменти, ручки та чорнила, печатки та віск, сусальне золото й срібло та інші матеріали, необхідні для створення переконливих підробок фізичних документів. Опанування цього набору дозволяє вам додати свій бонус досвіду до будь-яких перевірок здібностей, які ви виконуєте для фізичної підробки документа.
 
-**Gaming Set.** This item encompasses a wide range of game pieces, including dice and decks of cards (for games such as Three-Dragon Ante). A few common examples appear on the Tools table, but other kinds of gaming sets exist. If you are proficient with a gaming set, you can add your proficiency bonus to ability checks you make to play a game with that set. Each type of gaming set requires a separate proficiency.
+**Ігровий набір.** Цей набір охоплює широкий спектр ігрових фігур, включаючи кістки та колоди карт (для таких ігор, як «Ставка трьох драконів»). Кілька поширених прикладів відображені в таблиці інструментів, але існують й інші види ігрових наборів. Якщо ви опанували ігровий набір, ви можете додавати свій бонус досвіду до перевірок здібностей, які робите для ігор із цим набором. Кожен тип ігрового набору необхідно опановувати окремо.
 
-**Herbalism Kit.** This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs. Also, proficiency with this kit is required to create antitoxin and _potions of healing_.
+**Набір травника.** Цей набір містить різноманітні інструменти, такі як ножиці, ступка й маточка, а також мішечки та флакони, які використовуються травниками для створення ліків і зілля. Опанування цього набору дозволяє вам додати свій бонус досвіду до будь-яких перевірок здібностей, щоб розпізнати та застосувати трави. Крім того, опанування цього набору необхідне для створення антитоксину та _зілля зцілення_.
 
-**Musical Instrument.** Several of the most common types of musical instruments are shown on the table as examples. If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument. A bard can use a musical instrument as a spellcasting focus. Each type of musical instrument requires a separate proficiency.
+**Музичний інструмент.** У таблиці наведено декілька прикладів найпоширеніших видів музичних інструментів. Якщо ви опанували вказаний музичний інструмент, ви можете додавати свій бонус досвіду до перевірок здібностей, пов'язаних із грою на цьому інструменті. Бард може використовувати музичний інструмент як осередок магії. Кожен тип музичних інструментів необхідно опановувати окремо.
 
-**Navigator's Tools.** This set of instruments is used for navigation at sea. Proficiency with navigator's tools lets you chart a ship's course and follow navigation charts. In addition, these tools allow you to add your proficiency bonus to any ability check you make to avoid getting lost at sea.
+**Інструменти навігатора.** Цей набір інструментів використовується для навігації в морі. Опанування інструментів навігатора дає змогу визначати курс корабля та користуватися навігаційними картами. Крім того, ці інструменти дозволяють вам додати свій бонус досвіду до будь-якої перевірки здібностей, щоб не заблукати в морі.
 
-**Poisoner's Kit.** A poisoner's kit includes the vials, chemicals, and other equipment necessary for the creation of poisons. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to craft or use poisons.
+**Набір отруйника.** Набір отруйника включає флакони, хімікати та інше обладнання, необхідне для створення отрут. Опанування цього набору дає вам змогу додати свій бонус майстерності до будь-яких перевірок здібностей, які ви робите для створення чи використання отрут.
 
-**Thieves' Tools.** This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+**Злодійські інструменти.** Цей набір інструментів містить невеликий напилок, набір відмичок, маленьке дзеркало на металевій ручці, набір ножиць з вузьким лезом і пару плоскогубців. Опанування цього набору дає вам змогу додати свій бонус майстерності до будь-яких перевірок здібностей, які ви робите для знешкодження пасток чи відмикання замків.
 
 
-## Tools Tables
-### Artisan's tools
-| Item                    | Cost  | Weight |
-|-------------------------|-------|--------|
-| Alchemist's supplies    | 50 gp | 8 lb.  |
-| Brewer's supplies       | 20 gp | 9 lb.  |
-| Calligrapher's supplies | 8 gp  | 5 lb.  |
-| Carpenter's tools       | 15 gp | 6 lb.  |
-| Cartographer's tools    | 5 gp  | 6 lb.  |
-| Cobbler's tools         | 1 gp  | 5 lb.  |
-| Cook's utensils         | 30 gp | 8 lb.  |
-| Glassblower's tools     | 25 gp | 5 lb.  |
-| Jeweler's tools         | 6 gp  | 2 lb.  |
-| Leatherworker's tools   | 10 gp | 5 lb.  |
-| Mason's tools           | 10 gp | 8 lb.  |
-| Painter's supplies      | 10 gp | 5 lb.  |
-| Potter's tools          | 10 gp | 3 lb.  |
-| Smith's tools           | 20 gp | 8 lb.  |
-| Tinker's tools          | 50 gp | 10 lb. |
-| Weaver's tools          | 1 gp  | 5 lb.  |
-| Woodcarver's tools      | 1 gp  | 5 lb.  |
-| Disguise kit            | 25 gp | 3 lb.  |
-| Forgery kit             | 15 gp | 5 lb.  |
+## Таблиця інструментів
+### Ремісничі інструменти
+| Інструменти            | Вартість | Вага      |
+| ---------------------- | -------- | --------- |
+| Приладдя алхіміка      | 50 зм    | 8 фунтів  |
+| Приладдя броваря       | 20 зм    | 9 фунтів  |
+| Інструменти каліграфа  | 8 зм     | 5 фунтів  |
+| Інструменти теслі      | 15 зм    | 6 фунтів  |
+| Інструменти картографа | 5 зм     | 6 фунтів  |
+| Інструменти шевця      | 1 зм     | 5 фунтів  |
+| Кухарське начиння      | 30 зм    | 8 фунтів  |
+| Інструменти склодува   | 25 зм    | 5 фунтів  |
+| Інструменти ювеліра    | 6 зм     | 2 фунти   |
+| Інструменти гарбаря    | 10 зм    | 5 фунтів  |
+| Інструменти муляра     | 10 зм    | 8 фунтів  |
+| Приладдя художника     | 10 зм    | 5 фунтів  |
+| Інструменти гончаря    | 10 зм    | 3 фунти   |
+| Інструменти коваля     | 20 зм    | 8 фунтів  |
+| Інструменти жерстяника | 50 зм    | 10 фунтів |
+| Інструменти ткача      | 1 зм     | 5 фунтів  |
+| Інструменти різьбяра   | 1 зм     | 5 фунтів  |
+| Набір для маскування   | 25 зм    | 3 фунти   |
+| Набір для підробки     | 15 зм    | 5 фунтів  |
 
-## Gaming set
-| Item             | Cost  | Weight |
-|------------------|-------|--------|
-| Dice set         | 1 sp  | -      |
-| Playing card set | 5 sp  | -      |
+## Ігрові набори
+| Набір                | Вартість | Вага |
+| -------------------- | -------- | ---- |
+| Гральні кістки       | 1 см     | -    |
+| Колода гральних карт | 5 см     | -    |
 
-## Musical instrument
-| Item      | Cost  | Weight |
-|-----------|-------|--------|
-| Bagpipes  | 30 gp | 6 lb.  |
-| Drum      | 6 gp  | 3 lb.  |
-| Dulcimer  | 25 gp | 10 lb. |
-| Flute     | 2 gp  | 1 lb.  |
-| Lute      | 35 gp | 2 lb.  |
-| Lyre      | 30 gp | 2 lb.  |
-| Horn      | 3 gp  | 2 lb.  |
-| Pan flute | 12 gp | 2 lb.  |
-| Shawm     | 2 gp  | 1 lb.  |
-| Viol      | 30 gp | 1 lb.  |
+## Музичний інструмент
+| Інструмент | Вартість | Вага      |
+| ---------- | -------- | --------- |
+| Волинка    | 30 зм    | 6 фунтів  |
+| Барабан    | 6 зм     | 3 фунти   |
+| Цимбали    | 25 зм    | 10 фунтів |
+| Флейта     | 2 зм     | 1 фунт    |
+| Лютня      | 35 зм    | 2 фунти   |
+| Ліра       | 30 зм    | 2 фунти   |
+| Ріг        | 3 зм     | 2 фунти   |
+| Сиринга    | 12 зм    | 2 фунти   |
+| Сурма      | 2 зм     | 1 фунт    |
+| Скрипка    | 30 зм    | 1 фунт    |
 
-## Other tools
-| Item              | Cost  | Weight |
-|-------------------|-------|--------|
-| Herbalism kit     | 5 gp  | 3 lb.  |
-| Navigator's tools | 25 gp | 2 lb.  |
-| Poisoner's kit    | 50 gp | 2 lb.  |
-| Thieves' tools    | 25 gp | 1 lb.  |
+## Інші інструменти
+| Інструмент             | Вартість | Вага    |
+| ---------------------- | -------- | ------- |
+| Набір травника         | 5 зм     | 3 фунти |
+| Інструменти навігатора | 25 зм    | 2 фунти |
+| Набір отруйника        | 50 зм    | 2 фунти |
+| Злодійські інструменти | 25 зм    | 1 фунт  |
