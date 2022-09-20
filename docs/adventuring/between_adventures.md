@@ -1,54 +1,54 @@
-description: Rules and information governing player time between adventures (downtime) from the 5th Edition (5e) SRD (System Reference Document).
+Правила та інформація про вільний час персонажів між пригодами
 
-# Between Adventures 
-Between trips to dungeons and battles against ancient evils, adventurers need time to rest, recuperate, and prepare for their next adventure. Many adventurers also use this time to perform other tasks, such as crafting arms and armor, performing research, or spending their hard-earned gold.
+# Між пригодами
+Між подорожами до підземель та битвами з древнім злом шукачам пригод потрібен час, щоб відпочити, відновити сили та підготуватися до наступної пригоди. Багато пригодників також використовують цей час для виконання інших завдань, таких як створення зброї та обладунків, проведення досліджень або витрачання важко заробленого золота.
 
-In some cases, the passage of time is something that occurs with little fanfare or description. When starting a new adventure, the GM might simply declare that a certain amount of time has passed and allow you to describe in general terms what your character has been doing. At other times, the GM might want to keep track of just how much time is passing as events beyond your perception stay in motion. 
+У деяких випадках плин часу — це щось, що відбувається без урочистостей та описів. Починаючи нову пригоду, Майстер може просто оголосити, що минув певний проміжок часу, і дозволити вам описати в загальних рисах, що робив ваш персонаж. Або ж Майстер може захотіти відстежувати, скільки часу минає, оскільки події поза вашим полем зору продовжують розгортатися.
 
-## Lifestyle Expenses 
-Between adventures, you choose a particular quality of life and pay the cost of maintaining that lifestyle.
+## Витрати на спосіб життя
+Між пригодами ви обираєте певну якість життя і сплачуєте витрати на підтримання цього способу життя.
 
-Living a particular lifestyle doesn't have a huge effect on your character, but your lifestyle can affect the way other individuals and groups react to you. For example, when you lead an aristocratic lifestyle, it might be easier for you to influence the nobles of the city than if you live in poverty. 
+Певний спосіб життя не має значного впливу на ваш характер, але може вплинути на те, як вас сприймають інші люди та групи. Наприклад, коли ви ведете аристократичний спосіб життя, вам може бути легше впливати на знать міста, ніж якби ви жили в бідності.
 
-## Downtime Activities 
-Between adventures, the GM might ask you what your character is doing during his or her downtime. Periods of downtime can vary in duration, but each downtime activity requires a certain number of days to complete before you gain any benefit, and at least 8 hours of each day must be spent on the downtime activity for the day to count. The days do not need to be consecutive. If you have more than the minimum amount of days to spend, you can keep doing the same thing for a longer period of time, or switch to a new downtime activity.
+## Діяльність у вільний час
+Між пригодами Майстер може запитати, що ваш персонаж робить у свій вільний час. Тривалість вільного часу може відрізнятися, але кожен вид діяльності у вільний час вимагає певної кількості днів, перш ніж ви здобудете бажаний привілей, і щонайменше 8 годин щодня у вільний час потрібно присвятити обраній діяльності, щоб цей день було зараховано. Не обов'язково, щоб дні йшли поспіль. Якщо ви маєте більше необхідного мінімуму днів, то можете продовжувати ту саму діяльність упродовж довшого часу, або перемкнутися на нову діяльність.
 
-Downtime activities other than the ones presented below are possible. If you want your character to spend his or her downtime performing an activity not covered here, discuss it with your GM. 
+Можливі й інші діяльності у вільний час, окрім наведених нижче. Якщо ви хочете, щоб ваш персонаж у вільний час робив щось, не описане тут, обговоріть це зі своїм Майстром.
 
-### Crafting 
-You can craft nonmagical objects, including adventuring equipment and works of art. You must be proficient with tools related to the object you are trying to create (typically artisan's tools). You might also need access to special materials or locations necessary to create it. For example, someone proficient with smith's tools needs a forge in order to craft a sword or suit of armor.
+### Ремесло
+Ви можете створювати немагічні об'єкти, включно зі спорядженням пригодників та витворами мистецтва. Ви повинні опанувати інструменти відповідно до об'єкта, який намагаєтеся створити (зазвичай це ремісничі інструменти). Вам також може знадобитися доступ до спеціальних матеріалів або місць для їх створення. Наприклад, тому, хто досвідчений у ковальській справі, потрібна кузня, щоб викувати меч або обладунок.
 
-For every day of downtime you spend crafting, you can craft one or more items with a total market value not exceeding 5 gp, and you must expend raw materials worth half the total market value. If something you want to craft has a market value greater than 5 gp, you make progress every day in 5-gp increments until you reach the market value of the item. For example, a suit of plate armor (market value 1,500 gp) takes 300 days to craft by yourself.
+Кожен вільний день, який ви витрачаєте на ремесло, ви можете створити один чи більше предметів із загальною ринковою ціною не більше 5 зм, і ви повинні витратити сировину на суму, яка становить половину ринкової вартості. Якщо річ, яку ви хочете створити, коштує більше 5 зм, ви досягаєте прогресу з кроком у 5 зм, поки не досягнете ринкової вартості предмета. Наприклад, для виготовлення латних обладунків (ринкова вартість 1500 зм) потрібно 300 днів.
 
-Multiple characters can combine their efforts toward the crafting of a single item, provided that the characters all have proficiency with the requisite tools and are working together in the same place. Each character contributes 5 gp worth of effort for every day spent helping to craft the item. For example, three characters with the requisite tool proficiency and the proper facilities can craft a suit of plate armor in 100 days, at a total cost of 750 gp.
+Кілька персонажів можуть поєднувати свої зусилля зі створення одного предмета, за умови, що всі персонажі опанували необхідні інструменти та працюють разом на одному місці. Кожен персонаж докладає зусиль, вартих 5 зм, за кожен день, витрачений на створення предмета. Наприклад, три персонажі з необхідними інструментами та належними засобами можуть виготовити латні обладунки за 100 днів, із загальною вартістю 750 зм.
 
-While crafting, you can maintain a modest lifestyle without having to pay 1 gp per day, or a comfortable lifestyle at half the normal cost. 
+Займаючись ремеслом, ви можете підтримувати скромний спосіб життя, не витрачаючи 1 зм щодня, або комфортний спосіб життя за половину звичайної вартості.
 
-### Practicing a Profession 
-You can work between adventures, allowing you to maintain a modest lifestyle without having to pay 1 gp per day. This benefit lasts as long you continue to practice your profession.
+### Професійна практика
+Між пригодами ви можете працювати, підтримуючи скромний спосіб життя, не витрачаючи 1 зм щодня. Це триває, поки ви продовжуєте професійну практику.
 
-If you are a member of an organization that can provide gainful employment, such as a temple or a thieves' guild, you earn enough to support a comfortable lifestyle instead.
+Якщо ви є членом організації, яка може забезпечити вигідну зайнятість, таку як храм або злодійська гільдія, ви заробляєте достатньо для підтримки комфортного способу життя.
 
-If you have proficiency in the Performance skill and put your performance skill to use during your downtime, you earn enough to support a wealthy lifestyle instead. 
+Якщо ви опанували навичку Артистичності та використовуєте її у свій вільний час, ви заробляєте достатньо для підтримки заможного способу життя.
 
-### Recuperating 
-You can use downtime between adventures to recover from a debilitating injury, disease, or poison.
+### Відновлення
+Ви можете використовувати вільний час між пригодами, щоб відновитися після виснажливих поранень, захворювань або отрути.
 
-After three days of downtime spent recuperating, you can make a DC 15 Constitution saving throw. On a successful save, you can choose one of the following results:
+Після трьох вільних днів, витрачених на відновлення, ви можете зробити рятівний кидок Статури з КС 15. У разі успіху ви можете обрати один із наступних наслідків:
 
-* End one effect on you that prevents you from regaining hit points.
-* For the next 24 hours, gain advantage on saving throws against one disease or poison currently affecting you.
+* Завершити ефект, який не давав вам відновлювати пункти здоров'я.
+* У наступні 24 години ви маєте перевагу на рятівні кидки проти однієї хвороби або отрути, яка зараз діє на вас.
 
-### Researching 
-The time between adventures is a great chance to perform research, gaining insight into mysteries that have unfurled over the course of the campaign. Research can include poring over dusty tomes and crumbling scrolls in a library or buying drinks for the locals to pry rumors and gossip from their lips.
+### Дослідження
+Перерва між пригодами — це чудова нагода провести дослідження, проникнути в таємниці, які розкрилися протягом кампанії. Дослідження можуть включати вивчення запорошених фоліантів і згорнутих сувоїв у бібліотеці, або купівлю напоїв для місцевих жителів, щоб дізнатися з їхніх вуст чутки та плітки.
 
-When you begin your research, the GM determines whether the information is available, how many days of downtime it will take to find it, and whether there are any restrictions on your research (such as needing to seek out a specific individual, tome, or location). The GM might also require you to make one or more ability checks, such as an Intelligence (Investigation) check to find clues pointing toward the information you seek, or a Charisma (Persuasion) check to secure someone's aid. Once those conditions are met, you learn the information if it is available.
+Коли ви починаєте своє дослідження, Майстер визначає, чи доступна інформація, скільки вільних днів займе її пошук, чи є якісь обмеження щодо вашого дослідження (наприклад, при пошуку певної особи, книги чи розташування). Майстер також може зажадати від вас одну або декілька перевірок здібності, таких як Інтелект (Розслідування) для пошуку підказок щодо інформації, яку ви шукаєте, чи Харизми (Переконливості) щоб забезпечити чиюсь підтримку. Щойно ці умови будуть виконані, ви дізнаєтесь інформацію, якщо вона доступна.
 
-For each day of research, you must spend 1 gp to cover your expenses. This cost is in addition to your normal lifestyle expenses. 
+Для кожного дня досліджень потрібно витратити 1 зм, щоб покрити витрати. Ця вартість доповнює ваші нормальні витрати способу життя.
 
-### Training 
-You can spend time between adventures learning a new language or training with a set of tools. Your GM might allow additional training options.
+### Тренування
+Ви можете проводити час між пригодами, вивчаючи нову мову або опановуючи набори інструментів. Ваш Майстер може дозволити додаткові параметри навчання.
 
-First, you must find an instructor willing to teach you. The GM determines how long it takes, and whether one or more ability checks are required.
+По-перше, ви повинні знайти інструктора, який бажає вас навчити. Майстер визначає, скільки це триватиме та чи потрібна одна (або більше) перевірка здібності.
 
-The training lasts for 250 days and costs 1 gp per day. After you spend the requisite amount of time and money, you learn the new language or gain proficiency with the new tool.
+Навчання триває 250 днів і коштує 1 зм на день. Після того, як ви проведете необхідну кількість часу та грошей, ви вивчите нову мову або опануєте новий інструмент.
