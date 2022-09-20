@@ -58,7 +58,7 @@ layout: default
 
 | Пригоди                                                 | Спорядження                                             |
 |---------------------------------------------------------|---------------------------------------------------------|
-| [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
+|  🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
 | [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
 | [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
 | [Відпочинок](./adventuring/resting.md)                  | 🇺🇦 [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
