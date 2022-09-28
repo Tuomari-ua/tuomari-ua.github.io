@@ -31,10 +31,10 @@ layout: default
 # Правила
 
 |---------------------------------------------------------|---------------------------------------------------------|
-| 🇺🇦 [Підвищення рівня](./rules/leveling_up.md)                  | 🇺🇦 [Перевага та перешкода](/rules/advantage_and_disadvantage.md) |
-| 🇺🇦 [Мультиклас](./rules/multiclassing.md)                      | 🇺🇦 [Стани](/rules/conditions.md)|
-| 🇺🇦 [Бонус досвіду](./rules/proficiency_bonus.md)               | 🇺🇦 [Натхнення](./rules/inspiration.md)  |
-| 🇺🇦 [Уміння](/rules/feats.md)                                 | 🇺🇦 [Витрати](/rules/expenses.md) |
+| 🇺🇦 [Підвищення рівня](./rules/leveling_up.md)           | 🇺🇦 [Перевага та перешкода](/rules/advantage_and_disadvantage.md) |
+| 🇺🇦 [Мультиклас](./rules/multiclassing.md)               | 🇺🇦 [Стани](/rules/conditions.md)|
+| 🇺🇦 [Бонус досвіду](./rules/proficiency_bonus.md)        | 🇺🇦 [Натхнення](./rules/inspiration.md)  |
+| 🇺🇦 [Уміння](/rules/feats.md)                            | 🇺🇦 [Витрати](/rules/expenses.md) |
 
 # Здібності
 
@@ -50,16 +50,16 @@ layout: default
 
 |---------------------------------------------------------|---------------------------------------------------------|
 | [🇺🇦 Порядок бою](./combat/order_of_combat.md)               | [🇺🇦 Верховий бій](./combat/mounted_combat.md)       |
-| 🇺🇦 [Дії в бою](./combat/actions_in_combat.md)               | 🇺🇦 [Підводний бій](./combat/underwater_combat.md)              |
-| [🇺🇦 Здійснення атаки](./combat/making_an_attack.md)         | 🇺🇦 [Переміщення та позиція](./combat/movement_and_position.md) |
-| [🇺🇦 Пошкодження та зцілення](./combat/damage_and_healing.md)| 🇺🇦 [Укриття](./combat/cover.md)                                |
+| [🇺🇦 Дії в бою](./combat/actions_in_combat.md)               | [🇺🇦 Підводний бій](./combat/underwater_combat.md)              |
+| [🇺🇦 Здійснення атаки](./combat/making_an_attack.md)         | [🇺🇦 Переміщення та позиція](./combat/movement_and_position.md) |
+| [🇺🇦 Пошкодження та зцілення](./combat/damage_and_healing.md)| [🇺🇦 Укриття](./combat/cover.md)                                |
 
 # Пригоди
 
 | Пригоди                                                 | Спорядження                                             |
 |---------------------------------------------------------|---------------------------------------------------------|
 |  🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
-| [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
+|  🇺🇦 [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
 | [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
 | [Відпочинок](./adventuring/resting.md)                  | 🇺🇦 [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
 | [Середовище](./adventuring/the_environment.md)          | 🇺🇦 [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
