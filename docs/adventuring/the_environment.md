@@ -1,63 +1,63 @@
-description: Rules for managing environmental hazards from the 5th Edition (5e) SRD (System Reference Document).
+Правила управління небезпеками середовища
 
-# The Environment 
-By its nature, adventuring involves delving into places that are dark, dangerous, and full of mysteries to be explored. The rules in this section cover some of the most important ways in which adventurers interact with the environment in such places. 
+# Середовище
+За своєю природою пригоди включають занурення в темні, небезпечні місця, повні таємниць, які потрібно досліджувати. Правила в цьому розділі охоплюють деякі з найважливіших способів взаємодії шукачів пригод із середовищем у таких місцях.
 
-## Falling 
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall. 
+## Падіння
+Падіння з великої висоти — одна з найпоширеніших небезпек, з якою стикається шукач пригод. Наприкінці падіння істота отримує 1к6 дробильної шкоди за кожні 10 футів, на які вона впала, до максимуму 20к6. Істота приземляється збитою з ніг, якщо тільки не уникає пошкоджень від падіння.
 
-## Suffocating 
-A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+## Удушення
+Істота може затримувати дихання на кількість хвилин, що дорівнює 1 + її модифікатор Статури (мінімум 30 секунд).
 
-When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can't regain hit points or be stabilized until it can breathe again.
+Коли істота перестає дихати або задихається, вона може вижити протягом кількості раундів, що дорівнює її модифікатору Статури (мінімум 1 раунд). На початку свого наступного ходу її пункти здоров'я падають до 0, і вона не може відновити пункти здоров’я чи стабілізуватися, доки не зможе дихати.
 
-For example, a creature with a Constitution of 14 can hold its breath for 3 minutes. If it starts suffocating, it has 2 rounds to reach air before it drops to 0 hit points. 
+Наприклад, істота зі Статурою 14 може затримувати дихання на 3 хвилини. Якщо вона починає задихатися, то має 2 раунди, щоб досягти повітря, перш ніж пункти життя знизяться до 0.
 
-## Vision and Light 
-The most fundamental tasks of adventuring--noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few--rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+## Бачення та світло
+Найфундаментальніші завдання пригод — помічати небезпеку, знаходити приховані об’єкти, вражати ворога під час бою та націлювати чари (це лише деякі з них) — значною мірою покладаються на здатність персонажа бачити. Темрява та інші ефекти, які затьмарюють зір, можуть виявитися значною перешкодою.
 
-A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+Певна область може бути злегка або сильно затьмареною. У **легко затьмареній області**, наприклад, у тьмяному світлі, незначному тумані чи помірних заростях, істоти мають перешкоду на перевірки Мудрості (Сприйняття), що покладаються на зір.
 
-A **heavily obscured** area--such as darkness, opaque fog, or dense foliage--blocks vision entirely. A creature effectively suffers from the blinded condition when trying to see something in that area.
+**Сильно затьмарена** область, як-от темрява, непрозорий туман або густе листя, повністю блокує зір. Істота фактично страждає від стану засліплення, коли намагається щось побачити в цій області.
 
 
-The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
+Наявність або відсутність світла в навколишньому середовищі створює три категорії освітлення: яскраве світло, тьмяне світло та темрява.
 
-**Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
+**Яскраве світло** дозволяє більшості істот бачити нормально. Навіть похмурі дні забезпечують яскраве світло, як і смолоскипи, ліхтарі, багаття та інші джерела освітлення в певному радіусі.
 
-**Dim light**, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+**Тьмяне світло**, яке також називають тінями, створює злегка затьмарену область. Область тьмяного світла зазвичай є межею між джерелом яскравого світла, таким як факел, і навколишньою темрявою. М'яке світло сутінків і світанку також вважається тьмяним світлом. Особливо яскравий повний місяць може залити землю тьмяним світлом.
 
-**Darkness** creates a heavily obscured area. Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness. 
+**Темрява** створює сильно затьмарену область. Вночі персонажі стикаються з темрявою надворі (навіть у більшість місячних ночей), у межах неосвітленого підземелля чи підземного сховища, або в зоні магічної темряви.
 
-### Blindsight 
-A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense. 
+### Сліпий зір
+Істота зі сліпим зором може сприймати оточення, не покладаючись на зір, у певному радіусі. Істоти без очей, такі як твань, та істоти з ехолокацією або розвиненими чуттями, такі як кажани та справжні дракони, мають це чуття.
 
-### Darkvision 
-Many creatures in fantasy gaming worlds, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in darkness, only shades of gray. 
+### Темний зір
+Багато істот у фантастичних ігрових світах, особливо ті, що живуть під землею, мають темний зір. У межах визначеного діапазону істота з темним зором може бачити в темряві так, ніби темрява є тьмяним світлом, тому ділянки темряви лише злегка затьмарені для цієї істоти. Однак ця істота не може розрізняти колір у темряві, лише відтінки сірого.
 
-### Truesight 
-A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+### Справжній зір
+Істота зі справжнім зором може, у певному діапазоні, бачити у звичайній та магічній темряві, бачити невидимих істот та об’єкти, автоматично виявляти візуальні ілюзії та вдаватися до рятівних кидків проти них, а також сприймати справжню форму перекидня або істоти, яка перетворена магією.
 
-Furthermore, the creature can see into the Ethereal Plane. 
+Крім того, істота може бачити Етерний план.
 
-## Food and Water 
-Characters who don't eat or drink suffer the effects of exhaustion. Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount. 
+## Їжа та вода
+Персонажі, які не їдять і не п'ють, страждають від виснаження. Виснаження, викликане браком їжі або води, не можна усунути, поки персонаж достатньо не поїсть і не поп'є.
 
-### Food 
-A character needs one pound of food per day and can make food last longer by subsisting on half rations. Eating half a pound of food in a day counts as half a day without food.
+### Харчі
+Персонаж потребує одного фунта харчів на день і може зробити так, щоб їжі вистачило довше, споживаючи половину раціону. З’їдання пів фунта харчів на день вважається половиною дня без їжі.
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion. A normal day of eating resets the count of days without food to zero. 
+Персонаж може обходитися без їжі кількість днів, що дорівнює 3 + модифікатор Статури (мінімум 1). Наприкінці кожного дня після цього ліміту персонаж автоматично отримує один рівень виснаження. Нормальне харчування упродовж одного дня скидає кількість днів без їжі до нуля.
 
-### Water
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+### Вода
+Персонажу потрібен один галон води на день або два галони на день, якщо погода спекотна. Персонаж, який випиває лише половину цієї кількості води, повинен зробити успішний рятівний кидок Статури з КС 15, або в кінці дня зазнає одного рівня виснаження. Персонаж, який має ще менше води, автоматично отримує один рівень виснаження в кінці дня.
 
-If the character already has one or more levels of exhaustion, the character takes two levels in either case. 
+Якщо персонаж уже має один або кілька рівнів виснаження, то він отримує два рівні в обох випадках.
 
-## Interacting with Objects 
-A character's interaction with objects in an environment is often simple to resolve in the game. The player tells the GM that his or her character is doing something, such as moving a lever, and the GM describes what, if anything, happens.
+## Взаємодія з об'єктами
+Взаємодію персонажа з об’єктами в навколишньому середовищі часто легко вирішити в грі. Гравець розповідає, що робить персонаж, наприклад, переміщує важіль, а Майстер описує, що внаслідок цього стається (якщо стається).
 
-For example, a character might decide to pull a lever, which might, in turn, raise a portcullis, cause a room to flood with water, or open a secret door in a nearby wall. If the lever is rusted in position, though, a character might need to force it. In such a situation, the GM might call for a Strength check to see whether the character can wrench the lever into place. The GM sets the DC for any such check based on the difficulty of the task.
+Наприклад, персонаж може вирішити потягнути важіль, який, своєю чергою, може підняти люк, спричинити затоплення кімнати водою або відкрити секретні двері в найближчій стіні. Однак, якщо важіль заіржавів, персонажу може знадобитися додаткове зусилля. У такій ситуації Майстер може попросити про перевірку Сили, щоб дізнатися, чи зможе персонаж повернути важіль на місце. Майстер встановлює КС для будь-яких подібних перевірок на основі складності завдання.
 
-Characters can also damage objects with their weapons and spells. Objects are immune to poison and psychic damage, but otherwise they can be affected by physical and magical attacks much like creatures can. The GM determines an object's Armor Class and hit points, and might decide that certain objects have resistance or immunity to certain kinds of attacks. (It's hard to cut a rope with a club, for example.) Objects always fail Strength and Dexterity saving throws, and they are immune to effects that require other saves. When an object drops to 0 hit points, it breaks.
+Персонажі також можуть пошкоджувати об'єкти своєю зброєю та чарами. Об’єкти несприйнятливі до отрути та психічних пошкоджень, але в усьому іншому на них можуть впливати фізичні та магічні атаки так само, як на істот. Майстер визначає Клас захисту об’єкта та пункти здоров’я та може вирішити, що певні об’єкти мають стійкість або імунітет до певних видів атак. (Наприклад, мотузку складно розрізати палицею.) Об’єкти завжди провалюють рятівні кидки Сили та Спритності, і вони несприйнятливі до ефектів, які потребують інших ряткидків. Коли пункти здоров'я об'єкта знижуються до 0, він ламається.
 
-A character can also attempt a Strength check to break an object. The GM sets the DC for any such check.
+Персонаж також може спробувати заламати об'єкт перевіркою Сили. Майстер встановлює КС для будь-яких подібних перевірок.
