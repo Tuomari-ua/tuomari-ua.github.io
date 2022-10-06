@@ -9,32 +9,20 @@ layout: default
 
 # Персонаж
 
-## Класи
-
-|----------------------------------------------|------------------------------------------------|----------------------------------------------|
-| 🇺🇦 [Бард](./character/classes/bard.md)        | 🇺🇦 [Боєць](./character/classes/fighter.md)     | 🇺🇦 [Варвар](./character/classes/barbarian.md)|
-| 🇺🇦 [Друїд](./character/classes/druid.md)      | 🇺🇦 [Заклинач](./character/classes/sorcerer.md) | 🇺🇦 [Клірик](./character/classes/cleric.md)   |
-| 🇺🇦 [Маг](./character/classes/wizard.md)       | 🇺🇦 [Монах](./character/classes/monk.md)        | 🇺🇦 [Паладин](./character/classes/paladin.md) | 
-| 🇺🇦 [Пройдисвіт](./character/classes/rogue.md) | 🇺🇦 [Рейнджер](./character/classes/ranger.md)   | 🇺🇦 [Чаклун](./character/classes/warlock.md)  |
-
-## Раси
-
-|------------------------------------------------------|------------------------------------------------|----------------------------------------------|
-| 🇺🇦 [Драконороджений](./character/races/dragonborn.md) | 🇺🇦 [Дворф](./character/races/dwarf.md)         | 🇺🇦 [Ельф](./character/races/elf.md)          |
-| 🇺🇦 [Гном](./character/races/gnome.md)                 | 🇺🇦 [Напіврослик](./character/races/halfling.md)| 🇺🇦 [Напівельф](./character/races/half-elf.md)|
-| 🇺🇦 [Напіворк](./character/races/half-orc.md)          | 🇺🇦 [Людина](./character/races/human.md)        | 🇺🇦 [Тифлінґ](./character/races/tiefling.md)  |
-
-|-----------------------------------------------------------|-----------------------------------------------------|
-|🇺🇦 [Світогляд](./character/alignment.md)                   |🇺🇦 [Передісторії](./character/backgrounds.md)         |
-|🇺🇦 [Пантеони](./character/fantasy-historical_pantheons.md) |🇺🇦 [Мови](./character/languages.md)                   |
-
-# Правила
-
-|---------------------------------------------------------|---------------------------------------------------------|
-| 🇺🇦 [Підвищення рівня](./rules/leveling_up.md)           | 🇺🇦 [Перевага та перешкода](/rules/advantage_and_disadvantage.md) |
-| 🇺🇦 [Мультиклас](./rules/multiclassing.md)               | 🇺🇦 [Стани](/rules/conditions.md)|
-| 🇺🇦 [Бонус досвіду](./rules/proficiency_bonus.md)        | 🇺🇦 [Натхнення](./rules/inspiration.md)  |
-| 🇺🇦 [Уміння](/rules/feats.md)                            | 🇺🇦 [Витрати](/rules/expenses.md) |
+| Класи                                         | Раси                                                |Інше
+|-----------------------------------------------|-----------------------------------------------------|----------------------------------------------|
+| 🇺🇦 [Бард](./character/classes/bard.md)        | 🇺🇦 [Гном](./character/races/gnome.md)                | 🇺🇦 [Світогляд](./character/alignment.md)     |
+| 🇺🇦 [Боєць](./character/classes/fighter.md)    | 🇺🇦 [Дворф](./character/races/dwarf.md)               | 🇺🇦 [Передісторії](./character/backgrounds.md)|   
+| 🇺🇦 [Варвар](./character/classes/barbarian.md) | 🇺🇦 [Драконороджений](./character/races/dragonborn.md)| 🇺🇦 [Мови](./character/languages.md)          |
+| 🇺🇦 [Друїд](./character/classes/druid.md)      | 🇺🇦 [Ельф](./character/races/elf.md)                  | 🇺🇦 [Пантеони](./character/fantasy-historical_pantheons.md)  |
+| 🇺🇦 [Заклинач](./character/classes/sorcerer.md)| 🇺🇦 [Людина](./character/races/human.md)              | |
+| 🇺🇦 [Клірик](./character/classes/cleric.md)    | 🇺🇦 [Напівельф](./character/races/half-elf.md)        | |
+| 🇺🇦 [Маг](./character/classes/wizard.md)       | 🇺🇦 [Напіворк](./character/races/half-orc.md)         | |
+| 🇺🇦 [Монах](./character/classes/monk.md)       | 🇺🇦 [Напіврослик](./character/races/halfling.md)      | |
+| 🇺🇦 [Паладин](./character/classes/paladin.md)  | 🇺🇦 [Тифлінґ](./character/races/tiefling.md)          | |
+| 🇺🇦 [Пройдисвіт](./character/classes/rogue.md) | | |
+| 🇺🇦 [Рейнджер](./character/classes/ranger.md)  | | |
+| 🇺🇦 [Чаклун](./character/classes/warlock.md)   | | |
 
 # Здібності
 
@@ -46,6 +34,27 @@ layout: default
 | 🇺🇦 [Мудрість](./rules/abilities/wisdom.md)           | |
 | 🇺🇦 [Харизма](./rules/abilities/charisma.md)          | |
 
+# Пригоди
+
+| Пригоди                                                 | Спорядження                                             |
+|---------------------------------------------------------|---------------------------------------------------------|
+| 🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
+| 🇺🇦 [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
+| 🇺🇦 [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
+| 🇺🇦 [Відпочинок](./adventuring/resting.md)                  | 🇺🇦 [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
+| 🇺🇦 [Середовище](./adventuring/the_environment.md)          | 🇺🇦 [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
+| 🇺🇦 [Час](./adventuring/time.md)                            | 🇺🇦 [Інструменти](./adventuring/equipment/tools.md)                      |
+|                                                         | 🇺🇦 [Торговельні товари](./adventuring/equipment/trade_goods.md)         |
+|                                                         | 🇺🇦 [Зброя](./adventuring/equipment/weapons.md)                          |
+
+# Правила
+
+|---------------------------------------------------------|---------------------------------------------------------|
+| 🇺🇦 [Підвищення рівня](./rules/leveling_up.md)           | 🇺🇦 [Перевага та перешкода](/rules/advantage_and_disadvantage.md) |
+| 🇺🇦 [Мультиклас](./rules/multiclassing.md)               | 🇺🇦 [Стани](/rules/conditions.md)|
+| 🇺🇦 [Бонус досвіду](./rules/proficiency_bonus.md)        | 🇺🇦 [Натхнення](./rules/inspiration.md)  |
+| 🇺🇦 [Уміння](/rules/feats.md)                            | 🇺🇦 [Витрати](/rules/expenses.md) |
+
 # Бій
 
 |---------------------------------------------------------|---------------------------------------------------------|
@@ -54,18 +63,20 @@ layout: default
 | [🇺🇦 Здійснення атаки](./combat/making_an_attack.md)         | [🇺🇦 Переміщення та позиція](./combat/movement_and_position.md) |
 | [🇺🇦 Пошкодження та зцілення](./combat/damage_and_healing.md)| [🇺🇦 Укриття](./combat/cover.md)                                |
 
-# Пригоди
+# Правила Майстра
 
-| Пригоди                                                 | Спорядження                                             |
-|---------------------------------------------------------|---------------------------------------------------------|
-|  🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
-|  🇺🇦 [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
-| [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
-| [Відпочинок](./adventuring/resting.md)                  | 🇺🇦 [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
-| [Середовище](./adventuring/the_environment.md)          | 🇺🇦 [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
-| [Час](./adventuring/time.md)                            | 🇺🇦 [Інструменти](./adventuring/equipment/tools.md)                      |
-|                                                         | 🇺🇦 [Торговельні товари](./adventuring/equipment/trade_goods.md)         |
-|                                                         | 🇺🇦 [Зброя](./adventuring/equipment/weapons.md)                          |
+| Додаткові обставини                            | Списки предметів                       | Списки монстрів                                   |
+|------------------------------------------------|----------------------------------------|---------------------------------------------------|
+| [🇺🇦 Хвороби](./gamemaster_rules/diseases.md)   | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
+| [Легендарні істоти](./gamemaster_rules/legendary_creatures.md)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
+| [Безумство](./gamemaster_rules/madness.md)     |                                        | [Монстри за РН](./gamemaster_rules/monster_indexes/monsters_by_cr.md)     |
+| [Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
+| [Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
+| [Неігрові персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
+| [Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
+| [Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
+| [Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
+| [Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
 
 
 - - -
@@ -73,4 +84,4 @@ layout: default
 [☕️Кофі](https://ko-fi.com/inrium)  
 [💰Банка](https://send.monobank.ua/jar/47imS3PG8n)  
 - - -
-> [Дізнатися, хто це наробив](./credits.md)
+> [Дізнатися, хто це наробив](./credits.md)  
