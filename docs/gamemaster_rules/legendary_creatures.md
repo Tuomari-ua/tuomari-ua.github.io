@@ -1,18 +1,18 @@
 description: Rules, including lairs and actions, for legendary creatures from the 5th Edition (5e) SRD (System Reference Document).
 
-# Legendary Creatures 
-A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
+# Легендарні істоти
+Легендарна істота може робити те, чого не можуть звичайні істоти. Вона може виконувати спеціальні дії не в свій хід, а також справляти магічний вплив на багато миль навколо.
 
-If a creature assumes the form of a legendary creature, such as through a spell, it doesn't gain that form's legendary actions, lair actions, or regional effects. 
+Якщо істота набуває форми легендарної істоти, наприклад, через чари, вона не отримує легендарних дій цієї форми, дій лігва чи ефектів місцевості.
 
-## Legendary Actions 
-A legendary creature can take a certain number of special actions--called legendary actions--outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat. 
+## Легендарні дії
+Легендарна істота може виконувати певну кількість спеціальних дій, які називаються легендарними діями, поза межами свого ходу. Одночасно можна використовувати лише одну з доступних легендарних дій, і лише в кінці ходу іншої істоти. Істота відновлює витрачені легендарні дії на початку свого ходу. Вона може відмовитися від їх використання і не може використовувати їх, коли є недієздатною чи нездатною виконувати дії з інших причин. Захоплена зненацька, вона не може використовувати їх до завершення свого першого ходу в бою.
 
-## A Legendary Creature's Lair 
-A legendary creature might have a section describing its lair and the special effects it can create while there, either by act of will or simply by being present. Such a section applies only to a legendary creature that spends a great deal of time in its lair. 
+## Лігво легендарної істоти
+Легендарна істота може мати розділ з описом свого лігва та спеціальних ефектів, які вона може створювати, перебуваючи там, - або актом волі, або просто своєю присутністю. Такий розділ стосується лише легендарної істоти, яка проводить у своєму лігві багато часу.
 
-### Lair Actions 
-If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while incapacitated or otherwise unable to take actions. If surprised, it can't use one until after its first turn in the combat. 
+### Дії лігва
+Якщо легендарна істота має дії лігва, вона може використовувати їх, щоб приборкати навколишню магію у своєму лігві. На ініціативу 20 (програючи у випадку однакової ініціативи) вона може використовувати один з варіантів дій свого лігва. Вона не може робити це, коли є недієздатною або не може використовувати дії з інших причин. Захоплена зненацька, вона не може використовувати їх до завершення свого першого ходу в бою.
 
-## Regional Effects 
-The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+## Ефекти місцевості
+Проста присутність легендарної істоти може мати дивні та дивовижні наслідки для навколишнього середовища, як зазначено в цьому розділі. Регіональні ефекти припиняються раптово або зникають з часом, коли легендарна істота гине.
