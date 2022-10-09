@@ -29,19 +29,19 @@
     </nav> -->
 
       <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Домашня сторінка</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/combat/index.html">Бій</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/character/index.html">Персонаж</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/rules/index.html">Правила</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/gamemaster_rules/index.html">Правила майстра</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/adventuring/index.html">Пригоди</a>
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/spellcasting/index.html">Чарування</a>
+<a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Домашня сторінка</a>  
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/character/index.html">Персонаж</a>   
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/rules/index.html">Правила та здібності</a>  
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/adventuring/index.html">Пригоди</a>  
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/combat/index.html">Бій</a>  
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/gamemaster_rules/index.html">Правила майстра</a>  
+<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.baseurl}}/spellcasting/index.html">Чарування</a>  
      <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }}. Ліцензія на вміст OGL1.0a.
+  &copy; {{ site.time | date: '%Y' }}. Ліцензія на вміст OGL1.0a.
     </p>
     <p>
-   2022 &copy; Переклад українською Olha_Tuomari
+  &copy; {{ site.time | date: '%Y' }} Переклад українською Olha_Tuomari
     </p>
   </div>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="https://5esrd.kyiv.ua/credits.html">Над проєктом працювали</a>
