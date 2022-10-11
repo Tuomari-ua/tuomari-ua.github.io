@@ -1,13 +1,13 @@
 description: Rules about nonplayer characters from the 5th Edition (5e) SRD (System Reference Document).
 
-# Nonplayer Characters 
-## Customizing NPCs 
-There are many easy ways to customize the NPCs for your home campaign.
+# Негральні персонажі
+## Налаштування НГП
+Існує багато простих шляхів для налаштування негральних персонажів для вашої домашньої кампанії.
 
-**Racial Traits.** You can add racial traits to an NPC. For example, a halfling druid might have a speed of 25 feet and the Lucky trait. Adding racial traits to an NPC doesn't alter its challenge rating. For more on racial traits, see the Player's Handbook.
+**Расові риси.** Ви можете додати негральному персонажу расові риси. Наприклад, напіврослик друїд може мати швидкість 25 футів та рису Щасливець. Додавання расової риси до негрального персонажа не змінює його Клас небезпеки. Більше про расові риси можна знайти в Посібнику гравця.
 
-**Spell Swaps.** One way to customize an NPC spellcaster is to replace one or more of its spells. You can substitute any spell on the NPC's spell list with a different spell of the same level from the same spell list. Swapping spells in this manner doesn't alter an NPC's challenge rating.
+**Заміна чарів.** Один зі способів змінити негрального персонажа-чаротворця - це замінити одні або більше його чарів. Ви можете замінити будь-які чари зі списку чарів негрального персонажа на інші чари того самого рівня з того самого списку. Заміна чарів таким чином не змінює Клас небезпеки негрального персонажа.
 
-**Armor and Weapon Swaps.** You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC's challenge rating.
+**Заміна обладунків та зброї.** Ви можете поліпшити або погіршити обладунки негрального персонажа, додати або замінити його зброю. Зміна Класу захисту та пошкоджень може змінити Клас небезпеки негрального персонажа.
 
-**Magic Items.** The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+**Магічні предмети.** Чим потужніший негральний персонаж, тим більша ймовірність, що він має у власності один або більше магічних предметів. Наприклад, архимаг може мати магічний посох або паличку, а також одне або більше зіллів та сувоїв. Надання негральному персонажу потужного магічного предмета, який завдає пошкоджень, може змінити його Клас небезпеки.

@@ -1,47 +1,47 @@
 description: General rules for magic items, including attunement, from the 5th Edition (5e) SRD (System Reference Document).
 
-# Magic Items 
-Magic items are gleaned from the hoards of conquered monsters or discovered in long-lost vaults. Such items grant capabilities a character could rarely have otherwise, or they complement their owner's capabilities in wondrous ways. 
+# Магічні предмети
+Магічні предмети збирають серед скарбів подоланих монстрів або знаходять у давно загублених сховищах. Такі предмети надають персонажу можливості, які він рідко може здобути іншими способами, або дивовижним чином доповнюють можливості свого власника.
 
-## Attunement 
-Some magic items require a creature to form a bond with them before their magical properties can be used. This bond is called attunement, and certain items have a prerequisite for it. If the prerequisite is a class, a creature must be a member of that class to attune to the item. (If the class is a spellcasting class, a monster qualifies if it has spell slots and uses that class's spell list.) If the prerequisite is to be a spellcaster, a creature qualifies if it can cast at least one spell using its traits or features, not using a magic item or the like.
+## Налаштування
+Деякі магічні предмети вимагають, щоб істота утворила з ними зв’язок, перш ніж їхні магічні властивості можна буде використовувати. Цей зв’язок називається налаштуванням, і певні предмети мають передумови для цього. Якщо передумовою є клас, істота повинна бути членом цього класу, щоб налаштуватися на предмет. (Якщо потрібний клас є чаротворчим, то цій вимозі задовольняють монстри, які мають чарунки та використовують чари цього класу). Якщо передумовою є чаротворчий клас, істота відповідає цій вимозі, якщо може створити принаймні одні чари за допомогою своїх рис або умінь, але не за допомогою магічних предметів.
 
-Without becoming attuned to an item that requires attunement, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.
+Якщо істота не налаштована на предмет, який потребує налаштування, така істота користується лише немагічними привілеями, хіба що в описі предмета зазначено інакше. Наприклад, магічний щит, який вимагає налаштування, надає неналаштованій істоті привілей звичайного щита, але жодної зі своїх магічних властивостей.
 
-Attuning to an item requires a creature to spend a short rest focused on only that item while being in physical contact with it (this can't be the same short rest used to learn the item's properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the short rest is interrupted, the attunement attempt fails. Otherwise, at the end of the short rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
+Налаштування на предмет вимагає, щоб істота провела короткий відпочинок, зосередившись лише на цьому предметі та перебуваючи з ним у фізичному контакті (це не може бути той самий короткий відпочинок, під час якого персонаж вивчає властивості предмета). Це зосередження може мати форму тренування зі зброєю (для зброї), медитації (для чудесного предмета) чи іншої відповідної діяльності. Якщо короткий відпочинок було перервано, спроба налаштування провалюється. У разі успіху наприкінці короткого відпочинку істота здобуває інтуїтивне розуміння, як активувати будь-які магічні властивості предмета, включно з будь-якими необхідними командними словами.
 
-An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can't attune to more than one copy of an item. For example, a creature can't attune to more than one ring of protection at a time.
+Предмет можна налаштувати одночасно тільки на одну істоту, і сама істота не може бути налаштована одночасно більш як на три предмети. Будь-яка спроба налаштуватися на четвертий предмет провалюється; істота повинна спершу перервати налаштування на інший предмет. Крім того, істота не може налаштуватися більш як на один зразок предмета. Наприклад, істота не може налаштуватися більш як на один <0>перстень захисту</0> одночасно.
 
-A creature's attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed. 
+Налаштування істоти на предмет переривається, якщо істота більше не відповідає передумовам налаштування; якщо предмет перебуває далі 100 футів від істоти упродовж принаймні 24 годин; якщо істота помирає або якщо на предмет налаштовується інша істота. Істота може добровільно перервати налаштування, якщо проведе ще один короткий відпочинок, зосередившись на предметі, за винятком проклятих предметів.
 
-## Wearing and Wielding 
-Items Using a magic item's properties might mean wearing or wielding it. A magic item meant to be worn must be donned in the intended fashion: boots go on the feet, gloves on the hands, hats and helmets on the head, and rings on the finger. Magic armor must be donned, a shield strapped to the arm, a cloak fastened about the shoulders. A weapon must be held.
+## Носіння та використання
+Застосування властивостей магічного предмета може означати його носіння чи використання. Персонаж повинен вдягнути магічний предмет, створений для носіння, відповідно до його призначення: чоботи - на ноги, рукавиці - на руки, капелюхи та шоломи - на голову, а персні - на пальці. Магічні обладунки потрібно вдягнути, щит - пристебнути до руки, а плащ накинути на плечі. Зброю потрібно тримати.
 
-In most cases, a magic item that's meant to be worn can fit a creature regardless of size or build. Many magic garments are made to be easily adjustable, or they magically adjust themselves to the wearer. Rare exceptions exist. If the story suggests a good reason for an item to fit only creatures of a certain size or shape, you can rule that it doesn't adjust. For example, drow-made armor might fit elves only. Dwarves might make items usable only by dwarf-sized and dwarf-shaped folk.
+У більшості випадків магічний предмет, який потребує носіння, пасує істоті незалежно від її розміру та тілобудови. Багато магічного одягу зроблено так, щоб його було просто підігнати, або ж він магічним чином припасовується до свого носія. Існують рідкісні винятки. Якщо в пригоді є вагома причина, чому предмет пасує тільки істотам певного розміру чи форми, ви можете постановити, що він не підганяється під потреби власника. Наприклад, обладунки, виготовлені дроу, можуть пасувати тільки ельфам. Дворфи можуть виготовляти предмети, придатні для користування лише створінням дворфійського розміру та тілобудови.
 
-When a nonhumanoid tries to wear an item, use your discretion as to whether the item functions as intended. A ring placed on a tentacle might work, but a creature with a snakelike tail instead of legs can't wear boots. 
+Коли не гуманоїд намагається вдягнути такий предмет, визначте на свій розсуд, чи буде предмет працювати належним чином. Перстень, вдягнутий на щупальце, може діяти, але істота зі змієподібним хвостом замість ніг не може взути чоботи.
 
-### Multiple Items of the Same Kind 
-Use common sense to determine whether more than one of a given kind of magic item can be worn. A character can't normally wear more than one pair of footwear, one pair of gloves or gauntlets, one pair of bracers, one suit of armor, one item of headwear, and one cloak. You can make exceptions; a character might be able to wear a circlet under a helmet, for example, or to layer two cloaks. 
+### Кілька предметів одного типу
+Застосовуйте здоровий глузд, щоб визначити, чи можна вдягнути більш як один магічний предмет певного типу. Зазвичай персонаж не може взути більш як одну пару взуття, одну пару рукавичок чи рукавиць, одну пару наручів, один обладунок, один головний убір та один плащ. Ви можете робити винятки; персонаж може носити, наприклад, вінець під шоломом, або начепити два плащі.
 
-### Paired Items 
-Items that come in pairs--such as boots, bracers, gauntlets, and gloves--impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one foot and a boot of elvenkind on the other foot gains no benefit from either. 
+### Парні предмети
+Предмети, які існують парами - такі як чоботи, наручі, рукавиці чи рукавички - надають привілеї, тільки коли вдягнені обидва предмети з пари. Наприклад, персонаж, що взув один чобіт ходіння та стрибання та один чобіт ельфійського народу, не отримує привілеїв від жодного.
 
-## Activating an Item 
-Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+## Активація предмета
+Щоб активувати деякі магічні предмети, користувач повинен зробити дещо особливе - наприклад, тримати предмет і промовити командне слово. В описах кожної категорії та окремих предметів детально описано активацію. Для певних предметів застосовують наступні правила активації.
 
-If an item requires an action to activate, that action isn't a function of the Use an Item action, so a feature such as the rogue's Fast Hands can't be used to activate the item. 
+Якщо предмет потребує дії для активації, це не є варіантом дії "Використання предмета", тому такі особливості, як Швидкі руки пройдисвіта, не можуть активувати предмет.
 
-### Command Word 
-A command word is a word or phrase that must be spoken for an item to work. A magic item that requires a command word can't be activated in an area where sound is prevented, as in the area of the silence spell. 
+### Командне слово
+Командне слово - це слово чи фраза, яку потрібно промовити, щоб предмет запрацював. Магічний предмет, що потребує командного слова, неможливо активувати в області, де заборонено звук, такій як область чарів <0>тиша</0>.
 
-### Consumables 
-Some items are used up when they are activated. A potion or an elixir must be swallowed, or an oil applied to the body. The writing vanishes from a scroll when it is read. Once used, a consumable item loses its magic. 
+### Витратні матеріали
+Деякі предмети після активації витрачаються. Зілля чи еліксир необхідно проковтнути, а олію - нанести на тіло. Із прочитаних сувоїв зникають написи. Одразу після використання витратний предмет втрачає свою магію.
 
-### Spells 
-Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell level, doesn't expend any of the user's spell slots, and requires no components, unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires concentration. Many items, such as potions, bypass the casting of a spell and confer the spell's effects, with their usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
+### Чари
+Деякі магічні предмети дозволяють користувачеві створювати чари з предмета. Створені з предмета чари мають свій найнижчий можливий рівень, не витрачають жодної чарунки користувача і не потребують компонентів, хіба що це вказано в описі предмета. Чари мають звичайний час створення та тривалість, і користувач предмета повинен утримувати концентрацію, якщо чари її потребують. Багато предметів, такі як зілля, оминають створення чарів і надають ефект чарів із їхньою звичайною тривалістю. Певні предмети є винятками із цих правил, змінюючи час створення, тривалість та інші елементи чарів.
 
-A magic item, such as certain staffs, may require you to use your own spellcasting ability when you cast a spell from the item. If you have more than one spellcasting ability, you choose which one to use with the item. If you don't have a spellcasting ability--perhaps you're a rogue with the Use Magic Device feature--your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply. 
+Магічні предмети, такі як певні посохи, можуть вимагати використання вашої власної чаротворчої здібності, коли ви створюєте чари з предмета. Якщо ви маєте більш як одну чаротворчу здібність, ви обираєте, котру з них використовувати з предметом. Якщо ви не маєте чаротворчої здібності - можливо, ви - пройдисвіт із особливістю <0>використання магічних пристроїв</0> - ваш модифікатор чаротворчої здібності для предмета дорівнює +0, і ви застосовуєте свій <0>бонус досвіду</0>.
 
-### Charges 
-Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
+### Заряди
+Деякі магічні предмети мають заряди, які потрібно витратити, щоб активувати властивості предмета. Кількість зарядів, що залишилися у предмета, з'ясовується, коли на предмет створюють чари <0>розпізнавання</0>, так само як під час налаштування істоти на предмет. На додачу, коли предмет відновлює заряди, налаштована на нього істота дізнається, скільки зарядів було відновлено.
