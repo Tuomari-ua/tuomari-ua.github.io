@@ -1,4 +1,8 @@
-description: Rules, including lairs and actions, for legendary creatures from the 5th Edition (5e) SRD (System Reference Document).
+---
+layout: page
+description: Правила щодо легендарних істот, включно з лігвами та діями
+title: Легендарні істоти
+---
 
 # Легендарні істоти
 Легендарна істота може робити те, чого не можуть звичайні істоти. Вона може виконувати спеціальні дії не в свій хід, а також справляти магічний вплив на багато миль навколо.
