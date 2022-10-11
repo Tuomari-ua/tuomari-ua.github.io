@@ -1,4 +1,8 @@
-description: Rules about nonplayer characters from the 5th Edition (5e) SRD (System Reference Document).
+---
+layout: page
+description: Правила щодо негральних персонажів
+title: Негральні персонажі
+---
 
 # Негральні персонажі
 ## Налаштування НГП
