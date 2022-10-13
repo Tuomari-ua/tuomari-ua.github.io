@@ -1,5 +1,5 @@
 # Spell Indexes
 
-* [Spells by Level](/spellcasting/spell_indexes/spells_by_level/)
-* [Spells by Name](/spellcasting/spell_indexes/spells_by_name/)
-* [Spells by School](/spellcasting/spell_indexes/spells_by_school)
+* [Чари за рівнями](/spellcasting/spell_indexes/spells_by_level/)
+* [Чари за назвами](/spellcasting/spell_indexes/spells_by_name/)
+* [Чари за школами](/spellcasting/spell_indexes/spells_by_school)
