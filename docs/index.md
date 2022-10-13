@@ -70,9 +70,9 @@ layout: default
 | [🇺🇦 Хвороби](./gamemaster_rules/diseases.md)   | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.md) |
 | [🇺🇦 Легендарні істоти](./gamemaster_rules/legendary_creatures.md)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
 | [🇺🇦 Божевілля](./gamemaster_rules/madness.md)     |                                        | [Монстри за РН](./gamemaster_rules/monster_indexes/monsters_by_cr.md)     |
-| [Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
+| [🇺🇦 Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
 | [Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
-| [Неігрові персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
+| [🇺🇦 Негральні персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
 | [Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
 | [Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
 | [Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
@@ -81,7 +81,8 @@ layout: default
 
 - - -
 Підтримати перекладачів та проєкт можна благодійними внесками:  
-[☕️Кофі](https://ko-fi.com/inrium)  
 [💰Банка](https://send.monobank.ua/jar/47imS3PG8n)  
+[☕️Кофі](https://ko-fi.com/inrium)  
 - - -
+
 > [Дізнатися, хто це наробив](./credits.md)  
