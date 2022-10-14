@@ -38,14 +38,14 @@ layout: default
 
 | Пригоди                                                 | Спорядження                                             |
 |---------------------------------------------------------|---------------------------------------------------------|
-| 🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
-| 🇺🇦 [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Броня](./adventuring/equipment/armor.md)                            |
-| 🇺🇦 [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
+| 🇺🇦 [Між пригодами](./adventuring/between_adventures.md)    | 🇺🇦 [Обладунки](./adventuring/equipment/armor.md)      |
+| 🇺🇦 [Переміщення](./adventuring/movement.md)                | 🇺🇦 [Зброя](./adventuring/equipment/weapons.md)        |         
+| 🇺🇦 [Виміри існування](./adventuring/planes_of_existence.md)| 🇺🇦 [Спорядження пригодника](./adventuring/equipment/adventuring_gear.md)|
 | 🇺🇦 [Відпочинок](./adventuring/resting.md)                  | 🇺🇦 [Набори спорядження](./adventuring/equipment/equipment_packs.md)     |
-| 🇺🇦 [Середовище](./adventuring/the_environment.md)          | 🇺🇦 [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
-| 🇺🇦 [Час](./adventuring/time.md)                            | 🇺🇦 [Інструменти](./adventuring/equipment/tools.md)                      |
-|                                                         | 🇺🇦 [Торговельні товари](./adventuring/equipment/trade_goods.md)         |
-|                                                         | 🇺🇦 [Зброя](./adventuring/equipment/weapons.md)                          |
+| 🇺🇦 [Середовище](./adventuring/the_environment.md)          | 🇺🇦 [Інструменти](./adventuring/equipment/tools.md)                      |
+| 🇺🇦 [Час](./adventuring/time.md)                            | 🇺🇦 [Транспорт](./adventuring/equipment/mounts_and_vehicles.md)          |
+|                                                            | 🇺🇦 [Монети](./adventuring/equipment/coins.md)                           |
+|                                                            | 🇺🇦 [Торговельні товари](./adventuring/equipment/trade_goods.md)         |      
 
 # Правила
 
@@ -71,7 +71,7 @@ layout: default
 | [🇺🇦 Легендарні істоти](./gamemaster_rules/legendary_creatures.md)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.md) |
 | [🇺🇦 Божевілля](./gamemaster_rules/madness.md)     |                                        | [Монстри за РН](./gamemaster_rules/monster_indexes/monsters_by_cr.md)     |
 | [🇺🇦 Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
-| [Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
+| [🇺🇦 Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
 | [Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
 | [Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
