@@ -73,8 +73,8 @@ layout: default
 | [🇺🇦 Магічні предмети](./gamemaster_rules/magic_items.md)|                                  |                                                   |
 | [🇺🇦 Правила монстрів](./gamemaster_rules/monster_rules.md) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
-| [Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
-| [Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
+| [🇺🇦 Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
+| [🇺🇦 Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
 | [Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
 | [Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
 
