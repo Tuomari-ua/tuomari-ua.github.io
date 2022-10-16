@@ -1,36 +1,36 @@
-description: Rules for interacting with objects from the 5th Edition (5e) SRD (System Reference Document).
+--- layout: page description: Правила взаємодії з предметами title: Предмети ---
 
-# Objects 
-When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
+# Предмети
+Коли персонажам потрібно розрізати мотузки, розбити вікно чи відкрити труну вампіра, єдиним жорстким і швидким правилом є таке: за достатньо часу та з належними інструментами персонажі можуть зруйнувати будь-який предмет, який піддається руйнуванню. Керуйтеся здоровим ґлуздом, коли визначаєте успіх персонажа у пошкодженні предмета. Чи може боєць прорубати мечем ділянку кам'яної стіни? Ні, меч напевно зламається раніше, ніж стіна.
 
-For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects. 
+У контексті цих правил предмет - це окремий неживий об'єкт, як-от вікно, двері, меч, книга, стіл, стілець чи камінь, не будівля чи транспорт, що складається із багатьох інших предметів.
 
-## Statistics for Objects 
-When time is a factor, you can assign an Armor Class and hit points to a destructible object. You can also give it immunities, resistances, and vulnerabilities to specific types of damage.
+## Статистика предметів
+Коли час має значення, ви можете призначити Клас Захисту та пункти здоров'я предмету, який можна зруйнувати. Ви також можете надати йому імунітети, стійкості та вразливості до певних типів пошкоджень.
 
-**Armor Class.** An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances. 
+**Клас захисту.** Клас захисту предмета - це міра того, наскільки важко завдати предмету шкоди ударом (тому що предмет не має шансів ухилитися). У таблиці "Клас захисту" наведені пропоновані значення КЗ для різних матеріалів.
 
-| Substance           | AC |
-|---------------------|----|
-| Cloth, paper, rope  | 11 |
-| Crystal, glass, ice | 13 |
-| Wood, bone          | 15 |
-| Stone               | 17 |
-| Iron, steel         | 19 |
-| Mithral             | 21 |
-| Admantine           | 23 |
+| Матеріал                | КЗ |
+| ----------------------- | -- |
+| Тканина, папір, мотузка | 11 |
+| Кристал, скло, лід      | 13 |
+| Дерево, кістка          | 15 |
+| Камінь                  | 17 |
+| Залізо, сталь           | 19 |
+| Мітрил                  | 21 |
+| Адамантин               | 23 |
 
-**Hit Points.** An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller. 
+**Пункти здоров'я.** Пункти здоров'я предмета визначають, скільки пошкоджень він може отримати, перш ніж втратить структурну цілісність. Міцні предмети мають більше пунктів здоров'я, ніж крихкі. Великі предмети, як правило, також мають більше пунктів здоров'я, ніж малі, окрім випадків, коли пошкодження маленької частки предмета так само ефективне, як пошкодження всього предмета. Таблиця "Пункти здоров'я предметів" наводить пропоновані пункти здоров'я для крихких і міцних предметів, розмір яких великий або менший.
 
-| Size                                  | Fragile  | Resilient |
-|---------------------------------------|----------|-----------|
-| Tiny (bottle, lock)                   | 2 (1d4)  | 5 (2d4)   |
-| Small (chest, lute)                   | 3 (1d6)  | 10 (3d6)  |
-| Medium (barrel, chandelier)           | 4 (1d8)  | 18 (4d8)  |
-| Large (Cart, 10-ft.-by-10-ft. window) | 5 (1d10) | 27 (5d10) |
+| Розмір                                | Крихкий  | Міцний    |
+| ------------------------------------- | -------- | --------- |
+| Крихітний (пляшка, замок)             | 2 (1к4)  | 5 (2к4)   |
+| Маленький (скриня, лютня)             | 3 (1к6)  | 10 (3к6)  |
+| Середній (бочка, канделябр)           | 4 (1к8)  | 18 (4к8)  |
+| Великий (візок, вікно 10 на 10 футів) | 5 (1к10) | 27 (5к10) |
 
-**Huge and Gargantuan Objects.** Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an **_earthquake spell_** can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
+**Величезні та гігантські предмети.** Звичайна зброя малопридатна проти багатьох величезних та гігантських предметів, таких як колосальна статуя, висока кам'яна колона чи масивна брила. Отже, один факел може спалити величезний гобелен, а чари **_землетрус_** можуть перетворити колоса на руїни. На свій смак ви можете відстежувати пункти здоров'я величезних та гігантських предметів або просто вирішити, як довго такі предмети можуть протистояти силі чи зброї, прикладеним проти них. Якщо ви відстежуєте пункти здоров'я предмета, розділіть його на секції великого чи менших розмірів та відстежуйте пункти здоров'я кожної секції окремо. Руйнування однієї з цих секцій може зруйнувати весь предмет. Наприклад, гігантська статуя людини може перекинутися, коли пункти здоров'я однієї з її великих ніг знижуються до 0.
 
-**Objects and Damage Types.** Objects are immune to poison and psychic damage. You might decide that some damage types are more effective against a particular object or substance than others. For example, bludgeoning damage works well for smashing things but not for cutting through rope or leather. Paper or cloth objects might be vulnerable to fire and lightning damage. A pick can chip away stone but can't effectively cut down a tree. As always, use your best judgment.
+**Предмет та типи пошкоджень.** Предмети мають імунітет до отрути та психічних пошкоджень. Ви можете вирішити, що певний тип пошкоджень є ефективнішим проти певного предмета чи речовини. Наприклад, дробильні пошкодження ефективні для розбивання речей, але не для відрізання мотузок чи шкіри. Предмети з паперу чи тканини можуть мати вразливість до вогню та пошкоджень блискавкою. Кирка може розколоти камінь, але не буде корисною для зрубання дерева. Як завжди, обирайте зважені рішення.
 
-**Damage Threshold.** Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
+**Поріг пошкоджень.** Великі предмети, такі як замкові стіни, часто мають додаткову міцність, представлену порогом пошкоджень. Предмет із порогом пошкодження має імунітет до всіх пошкоджень від окремої атаки чи ефекту, якщо завдані пошкодження не дорівнюють або не перевищують цей поріг. У такому разі предмет отримує пошкодження як звичайно. Будь-які пошкодження, які не досягають чи не перевищують поріг пошкоджень предмета, вважаються поверхневими й не зменшують пункти здоров'я предмета.

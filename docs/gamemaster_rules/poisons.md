@@ -1,64 +1,64 @@
-description: Rules and descriptions governing poisons from the 5th Edition (5e) SRD (System Reference Document).
+--- layout: page description: Правила та описи поширених отрут title: Отрути ---
 
-# Poisons 
-Given their insidious and deadly nature, poisons are illegal in most societies but are a favorite tool among assassins, drow, and other evil creatures.
+# Отрути
+З огляду на свою підступну та смертоносну природу, отрути поза законом у більшості суспільств, але є улюбленим інструментом серед убивць, дроу та інших злих істот.
 
-Poisons come in the following four types.
+Отрути бувають наступних чотирьох типів.
 
-**Contact.** Contact poison can be smeared on an object and remains potent until it is touched or washed off. A creature that touches contact poison with exposed skin suffers its effects.
+**Контактна.** Контактну отруту можна намазати на предмет, і вона залишається активною, поки її не торкнуться або не змиють. Істота, яка торкається контактної отрути відкритою шкірою, піддається ефекту отрути.
 
-**Ingested.** A creature must swallow an entire dose of ingested poison to suffer its effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.
+**Поглинальна.** Істота повинна проковтнути цілу порцію поглинальної отрути, щоб відчути її наслідки. Порцію можна надати з їжею чи рідиною. Ви можете вирішити, що часткова порція має менший ефект, тож дає перевагу на рятівний кидок чи завдає тільки половину пошкоджень у випадку невдалого рятунку.
 
-**Inhaled.** These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
+**Вдихальна.** Ці отрути є порошками або газами, які починають діяти при вдиханні. Роздмухування порошку чи вивільнення газу впливає на істот у 5-футовому кубі. Утворена хмара одразу після цього розсіюється. Затримування подиху неефективне проти вдихальної отрути, оскільки вона вражає слизову оболонку носа, сльозові шляхи та інші частини тіла.
 
-**Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects. 
-
-
-| Item               | Type      | Price per Dose |
-|--------------------|-----------|----------------|
-| Assassin's blood   | Ingested  | 150 gp         |
-| Burnt othur fumes  | Inhaled   | 500 gp         |
-| Crawler mucus      | Contact   | 200 gp         |
-| Drow poison        | Injury    | 200 gp         |
-| Essence of ether   | Inhaled   | 300 gp         |
-| Malice             | Inhaled   | 250 gp         |
-| Midnight tears     | Ingested  | 1,500 gp       |
-| Oil of taggit      | Contact   | 400 gp         |
-| Pale tincture      | Ingested  | 250 gp         |
-| Purple worm poison | Injury    | 2,000 gp       |
-| Serpent venom      | Injury    | 200 gp         |
-| Torpor             | Ingested  | 600 gp         |
-| Truth serum        | Ingested  | 150 gp         |
-| Wyvern poison      | Injury    | 1,200 gp       |
+**Травмувальна.** Травмувальну отруту можна застосувати до зброї, боєприпасів, компонентів пасток та інших предметів, які завдають колотих та різаних пошкоджень, ця отрута залишається активною, поки не потрапить у рану або не буде змита. Істота, що отримує колоті або різані пошкодження від предмета, вкритого отрутою, зазнає отруйного ефекту.
 
 
-## Sample Poisons 
-Each type of poison has its own debilitating effects.
+| Предмет                 | Тип          | Ціна за порцію |
+| ----------------------- | ------------ | -------------- |
+| Кров убивці             | Поглинальна  | 150 зм         |
+| Отурська кіптява        | Вдихальна    | 500 зм         |
+| Слиз плазуна            | Контактна    | 200 зм         |
+| Отрута дроу             | Травмувальна | 200 зм         |
+| Есенція етеру           | Вдихальна    | 300 зм         |
+| Капость                 | Вдихальна    | 250 зм         |
+| Опівнічні сльози        | Поглинальна  | 1,500 зм       |
+| Таґґітова олія          | Контактна    | 400 зм         |
+| Бліда настоянка         | Поглинальна  | 250 зм         |
+| Отрута пурпурного черва | Травмувальна | 2,000 зм       |
+| Зміїна отрута           | Травмувальна | 200 зм         |
+| Заціпеніння             | Поглинальна  | 600 зм         |
+| Сироватка правди        | Поглинальна  | 150 зм         |
+| Отрута виверни          | Травмувальна | 1,200 зм       |
 
-**Assassin's Blood (Ingested).** A creature subjected to this poison must make a DC 10 Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is poisoned for 24 hours. On a successful save, the creature takes half damage and isn't poisoned.
 
-**Burnt Othur Fumes (Inhaled).** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends.
+## Зразки отрут
+Кожен тип отрути має власний виснажливий ефект.
 
-**Crawler Mucus (Contact).** This poison must be harvested from a dead or incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. The poisoned creature is paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Кров убивці (поглинальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 10. У випадку невдачі вона отримує 6 (1к12) пошкоджень отрутою і стає отруєною на 24 години. У разі успішного рятунку істота зазнає половини пошкоджень і не є отруєною.
 
-**Drow Poison (Injury).** This poison is typically made only by the drow, and only in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also unconscious while poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+**Отурська кіптява (вдихальна).** Істота, на яку діє ця отрута, повинна зробити ряткидок Статури з КС 13, або отримає 10 (3к6) пошкоджень отрутою, і повинна повторювати рятівні кидки на початку кожного свого ходу. Кожен наступний провалений рятунок завдає істоті 3 (1к6) пошкоджень отрутою. Після трьох успішних рятівних кидків дія отрути закінчується.
 
-**Essence of Ether (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
+**Слиз повзуна (контактна).** Цю отруту треба збирати з мертвого або недієздатного повзуна. Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 13, або буде отруєна на 1 хвилину. Отруєна істота паралізована. Істота може повторювати рятівний кидок в кінці кожного свого ходу, припиняючи ефект у разі успіху.
 
-**Malice (Inhaled).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 1 hour. The poisoned creature is blinded.
+**Отрута дроу (травмувальна).** Цю отруту зазвичай виготовляють лише дроу і лише в місці, де немає сонячного світла. Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 13, або буде отруєна на 1 годину. Якщо рятівний кидок провалюється на 5 або більше, істота також непритомна, допоки отруєна таким чином. Істота прокидається, якщо зазнає пошкоджень, або якщо інша істота витрачає дію, щоб її розбудити.
 
-**Midnight Tears (Ingested).** A creature that ingests this poison suffers no effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one.
+**Есенція етеру (вдихальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 15, або буде отруєною упродовж 8 годин. Отруєна істота непритомна. Істота прокидається, якщо зазнає пошкоджень, або якщо інша істота витрачає дію, щоб її розбудити.
 
-**Oil of Taggit (Contact).** A creature subjected to this poison must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. The creature wakes up if it takes damage.
+**Капость (вдихальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 15, або стає отруєною на 1 годину. Отруєна істота осліплена.
 
-**Pale Tincture (Ingested).** A creature subjected to this poison must succeed on a DC 16 Constitution saving throw or take 3 (1d6) poison damage and become poisoned. The poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can't be healed by any means. After seven successful saving throws, the effect ends and the creature can heal normally.
+**Опівнічні сльози (поглинальна).** Істота, яка проковтнула цю отруту, не зазнає жодних ефектів до півночі. Якщо до цього часу отруту не було нейтралізовано, істота повинна зробити рятівний кидок Статури з КС 17, отримуючи 31 (9к6) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-**Purple Worm Poison (Injury).** This poison must be harvested from a dead or incapacitated purple worm. A creature subjected to this poison must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**Таґґітова олія (контактна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 13, або буде отруєною упродовж 24 годин. Отруєна істота непритомна. Істота прокидається, якщо зазнає пошкоджень.
 
-**Serpent Venom (Injury).** This poison must be harvested from a dead or incapacitated giant poisonous snake. A creature subjected to this poison must succeed on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+**Бліда настоянка (поглинальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 16, або отримає 3 (1к6) пошкоджень отрутою та стане отруєною. Отруєна істота повинна повторювати рятівний кидок кожні 24 години, отримуючи 3 (1к6) пошкоджень отрутою у випадку невдачі. Доки ця отрута триває, завдані нею пошкодження нічим неможливо зцілити. Після сімох успішних рятівних кидків ефект закінчується, і істота може зцілюватися як звичайно.
 
-**Torpor (Ingested).** A creature subjected to this poison must succeed on a DC 15 Constitution saving throw or become poisoned for 4d6 hours. The poisoned creature is incapacitated.
+**Отрута пурпурного черва (травмувальна).** Цю отруту треба зібрати з мертвого або недієздатного пурпурного черва. Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 19, отримуючи 42 (12к6) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-**Truth Serum (Ingested).** A creature subjected to this poison must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. The poisoned creature can't knowingly speak a lie, as if under the effect of a zone of truth spell.
+**Зміїна отрута (травмувальна).** Цю отруту треба зібрати з мертвої або недієздатної гігантської отруйної змії. Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 11, отримуючи 10 (3к6) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-**Wyvern Poison (Injury).** This poison must be harvested from a dead or incapacitated wyvern. A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**Заціпеніння (поглинальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 15, або стає отруєною на 4к6 годин. Отруєна істота недієздатна.
+
+**Сироватка правди (поглинальна).** Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 11 або стає отруєною на 1 годину. Отруєна істота не може свідомо сказати неправду, як під ефектом чарів "Зона правди".
+
+**Отрута виверни (травмувальна).** Цю отруту треба зібрати з мертвої або недієздатної виверни. Істота, на яку діє ця отрута, повинна зробити рятівний кидок Статури з КС 15, отримуючи 24 (7к6) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
