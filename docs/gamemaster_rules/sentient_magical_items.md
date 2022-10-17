@@ -1,81 +1,81 @@
-description: Rules and information for creating sentient magic items from the 5th Edition (5e) SRD (System Reference Document).
+--- layout: page description: Правила та інформація про розумні магічні предмети title: Розумні магічні предмети ---
 
-# Sentient Magic Items 
-Some magic items possess sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. In any case, the item behaves like a character, complete with personality quirks, ideals, bonds, and sometimes flaws. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
+# Розумні магічні предмети
+Деякі магічні предмети мають почуття та індивідуальність. Такий предмет може бути одержимим: переслідуваний духом попереднього власника або самосвідомим завдяки магії, використаній для його створення. У будь-якому випадку, предмет поводиться як персонаж, із усіма особистими примхами, ідеалами, зв’язками, а іноді й вадами. Розумний предмет може бути улюбленим союзником свого власника чи постійною скалкою в чутливому місці.
 
-Most sentient items are weapons. Other kinds of items can manifest sentience, but consumable items such as potions and scrolls are never sentient.
+Більшість розумних предметів є зброєю. Інші види предметів можуть проявляти особистість, а витратні предмети, такі як зілля та сувої, ніколи не бувають розумними.
 
-Sentient magic items function as NPCs under the GM's control. Any activated property of the item is under the item's control, not its wielder's. As long as the wielder maintains a good relationship with the item, the wielder can access those properties normally. If the relationship is strained, the item can suppress its activated properties or even turn them against the wielder. 
+Розумні магічні предмети можуть діяти як НГП під контролем Майстра. Будь-яка активована властивість предмета залишається під контролем самого предмета, а не його власника. Допоки зберігаються добрі стосунки з предметом, власник отримує доступ до цих властивостей як звичайно. Якщо стосунки напружені, предмет може придушити свої активовані властивості або навіть налаштувати їх проти власника.
 
-## Creating Sentient Magic Items 
-When you decide to make a magic item sentient, you create the item's persona in the same way you would create an NPC, with a few exceptions described here. 
+## Створення розумних магічних предметів
+Коли ви плануєте зробити магічний предмет розумним, ви створюєте особистість предмета так само, як ви б створювали НГП, з кількома винятками, наведеними далі.
 
-### Abilities 
-A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can choose the item's abilities or determine them randomly. To determine them randomly, roll 4d6 for each one, dropping the lowest roll and totaling the rest. 
+### Здібності
+Розумний магічний предмет має значення Інтелекту, Мудрості та Харизми. Ви можете вибрати здібності предмета чи визначити їх випадковим чином. Щоб визначити їх випадково, зробіть кидок 4к6 для кожної здібності, відкиньте найменше значення кидка й підсумуйте, що залишилося.
 
-### Communication 
-A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table. 
+### Спілкування
+Розумний предмет має певну здатність до спілкування: або ділячись своїми емоціями, або транслюючи свої думки телепатично, або говорячи вголос. Ви можете вибрати, як він спілкується, або зробити кидок за наступною таблицею.
 
-| d100  | Communication |
-|-------|---------------|
-| 01-60 | The item communicates by transmitting emotion to the creature carrying or wielding it. |
-| 61-90 | The item can speak, read, and understand one or more languages. |
-| 91-00 |  The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
-
-
-### Senses 
-With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table. 
-
-| d4 | Senses                                     |
-|----|--------------------------------------------|
-| 1  | Hearing and normal vision out to 30 feet.  |
-| 2  | Hearing and normal vision out to 60 feet.  |
-| 3  | Hearing and normal vision out to 120 feet. |
-| 4  | Hearing and darkvision out to 120 feet.    |
-
-### Alignment 
-A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table. 
-
-| d100  | Alignment       |
-|-------|-----------------|
-| 01-15 | Lawful good     |
-| 16-35 | Neutral good    |
-| 36-50 | Chaotic good    |
-| 51-63 | Lawful neutral  |
-| 64-73 | Neutral         |
-| 74-85 | Chaotic neutral |
-| 86-89 | Lawful evil     |
-| 90-96 | Neutral evil    |
-| 97-00 | Chaotic evil    |
-
-### Special Purpose 
-You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table. 
-
-| d10 | Purpose                                                                                                                                |
-|-----|----------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Aligned: The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-| 2   | Bane: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
-| 3   | Protector: The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
-| 4   | Crusader: The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
-| 5   | Templar: The item seeks to defend the servants and interests of a particular deity.                                                    |
-| 6   | Destroyer: The item craves destruction and goads its user to fight arbitrarily.                                                        |
-| 7   | Glory Seeker: The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure. |
-| 8   | Lore Seeker: The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
-| 9   | Destiny Seeker: The item is convinced that it and its wielder have key roles to play in future events.                                 |
-| 10  | Creator Seeker: The item seeks its creator and wants to understand why it was created.                                                 |
+| к100  | Спілкування                                                                                                                                                       |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01-60 | Предмет спілкується, передаючи емоції до істоти, яка його несе або носить.                                                                                        |
+| 61-90 | Предмет може говорити, читати та розуміє одну або більше мов.                                                                                                     |
+| 91-00 | Предмет може говорити, читати та розуміє одну або більше мов. Крім того, предмет може телепатично спілкуватися з будь-яким персонажем, який його несе або носить. |
 
 
-### Conflict 
-A sentient item has a will of its own, shaped by its personality and alignment. If its wielder acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item makes a Charisma check contested by the wielder's Charisma check. If the item wins the contest, it makes one or more of the following demands:
+### Відчуття
+З відчуттями приходить усвідомлення. Розумний предмет може сприймати оточення в обмеженому діапазоні. Ви можете вибрати його відчуття або зробити кидок за наступною таблицею.
 
-* The item insists on being carried or worn at all times.
-* The item demands that its wielder dispose of anything the item finds repugnant.
-* The item demands that its wielder pursue the item's goals to the exclusion of all other goals.
-* The item demands to be given to someone else. 
+| к4 | Відчуття                                  |
+| -- | ----------------------------------------- |
+| 1  | Слух та нормальний зір у межах 30 футів.  |
+| 2  | Слух та нормальний зір у межах 60 футів.  |
+| 3  | Слух та нормальний зір у межах 120 футів. |
+| 4  | Слух та темний зір у межах 120 футів.     |
 
-If its wielder refuses to comply with the item's wishes, the item can do any or all of the following:
-* Make it impossible for its wielder to attune to it.
-* Suppress one or more of its activated properties. 
-* Attempt to take control of its wielder.
+### Світогляд
+Розумний предмет має світогляд. Його творець чи природа можуть пропонувати світогляд. Якщо ні, ви можете вибрати світогляд або зробити кидок за наведеною таблицею.
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+| к100  | Світогляд                   |
+| ----- | --------------------------- |
+| 01-15 | Законослухняний добрий      |
+| 16-35 | Нейтральний добрий          |
+| 36-50 | Хаотичний добрий            |
+| 51-63 | Законослухняний нейтральний |
+| 64-73 | Нейтральний                 |
+| 74-85 | Хаотичний нейтральний       |
+| 86-89 | Законослухняний злий        |
+| 90-96 | Нейтральний злий            |
+| 97-00 | Хаотичний злий              |
+
+### Особлива мета
+Ви можете надати розумному предмету мету, яку він переслідує, можливо, ігноруючи все інше. Допоки використання власником узгоджується із цією метою, предмет готовий до співпраці. Відхилення від цього курсу може створити конфлікт між власником та предметом, і може навіть призвести до того, що предмет перешкоджатиме використанню своїх активованих властивостей. Ви можете вибрати особливу мету або зробити кидок за наступною таблицею.
+
+| к10 | Мета                                                                                                                                      |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Світогляд: предмет прагне перемогти або знищити тих, хто має діаметрально протилежний світогляд. (Такий предмет ніколи не є нейтральним). |
+| 2   | Зурочення: Предмет має на меті перемогти чи знищити істот певного типу, таких як погань, перекидні, тролі чи маги.                        |
+| 3   | Захисник: Предмет спрямований на захист певної раси чи роду істот, таких як ельфи або друїди.                                             |
+| 4   | Хрестоносець: Предмет прагне перемогти, ослабити або зруйнувати служників певного божества.                                               |
+| 5   | Тамплієр: Предмет прагне захистити служників та інтереси певного божества.                                                                |
+| 6   | Руйнівник: Предмет жадає руйнування та спонукає свого користувача до свавільної боротьби.                                                 |
+| 7   | Шукач слави: Предмет шукає слави як найкращий магічний предмет у світі, визнаючи свого власника як відому чи сумнозвісну особу.           |
+| 8   | Шукач знань: Предмет прагне знань чи має намір розгадати таємницю, дізнатися секрет або розгадати загадкове пророцтво.                    |
+| 9   | Шукач долі: Предмет переконаний, що він та його власник мають ключові ролі в майбутніх подіях.                                            |
+| 10  | Шукач творця: Предмет шукає свого творця і хоче зрозуміти, чому його створили.                                                            |
+
+
+### Конфлікт
+Розумний предмет має власну волю, сформовану його особистістю та світоглядом. Якщо власник предмета діє всупереч світогляду чи меті предмета, може розвинутися конфлікт. Коли це стається, предмет робить перевірку Харизми проти перевірки Харизми свого власника. Якщо предмет перемагає, він висуває одну або кілька з наступних вимог:
+
+* Предмет наполягає, щоб його носили з собою весь час.
+* Предмет вимагає, щоб його власник позбувся усього, що предмет вважає огидним.
+* Предмет вимагає, щоб його власник переслідував цілі предмета та ігнорував усі інші цілі.
+* Предмет вимагає, щоб його передали комусь іншому.
+
+Якщо власник відмовляється виконувати бажання предмета, предмет може зробити будь-яку або всі з наведених дій:
+* Зробити неможливим налаштування на себе для власника.
+* Придушити одну або кілька активованих властивостей.
+* Спробувати взяти контроль над власником.
+
+Якщо розумний предмет намагається взяти контроль над власником, власник повинен зробити рятівний кидок Харизми з КС, що дорівнює 12 + модифікатор Харизми предмета. У випадку невдачі власник зачарований предметом на 1к12 годин. Перебуваючи зачарованим, власник намагається виконувати команди предмета. Якщо власник отримує пошкодження, він може повторити рятівний кидок, припиняючи дію ефекту в разі успіху. Незалежно від того, вдалася спроба контролю над власником чи ні, предмет не може використати цю свою силу знову до наступного світанку.
