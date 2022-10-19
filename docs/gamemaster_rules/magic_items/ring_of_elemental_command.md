@@ -1,7 +1,11 @@
-name: Ring of Elemental Command
-type: ring
+---
+category: items
+layout: page
+name: Ring of Elemental Command 
+tag: ring
+title: Ring of Elemental Command 
+---
 
-# Ring of Elemental Command 
 _Ring, legendary (requires attunement)_ 
 
 This ring is linked to one of the four Elemental Planes. The GM chooses or randomly determines the linked plane.
