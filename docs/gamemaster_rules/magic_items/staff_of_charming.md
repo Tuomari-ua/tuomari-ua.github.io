@@ -1,7 +1,11 @@
-name: Staff of Charming
-type: staff
+---
+category: items
+layout: page
+name: Staff of Charming 
+tag: staff
+title: Staff of Charming 
+---
 
-# Staff of Charming 
 _Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_ 
 
 While holding this staff, you can use an action to expend 1 of its 10 charges to cast **_charm person_**, **_command_**, or **_comprehend languages_** from it using your spell save DC. The staff can also be used as a magic quarterstaff.
