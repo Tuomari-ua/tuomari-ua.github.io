@@ -1,7 +1,11 @@
-name: Spell Scroll
-type: scroll
+---
+category: items
+layout: page
+name: Spell Scroll 
+tag: scroll
+title: Spell Scroll 
+---
 
-# Spell Scroll 
 _Scroll, varies_ 
 
 A **spell scroll** bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
