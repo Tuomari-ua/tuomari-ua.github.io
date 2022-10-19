@@ -17,6 +17,7 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table. 
 
 ### Spell Scroll
+
 | Spell Level | Rarity    | Save DC | Attack Bonus |
 |-------------|-----------|---------|--------------|
 | Cantrip     | Common    | 13      | +5           |
