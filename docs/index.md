@@ -75,7 +75,7 @@ layout: default
 | [🇺🇦 Негральні персонажі](./gamemaster_rules/nonplayer_characters.md)|                       |                                                   |
 | [🇺🇦 Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
 | [🇺🇦 Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
-| [Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
+| [🇺🇦 Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
 | [Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
 
 
