@@ -1,5 +1,10 @@
-name: Armor of Resistance
-type: armor
+---
+category: items
+layout: page
+name: Adamantine Armor
+tag: armor
+title: Adamantine Armor 
+---
 
 # Armor of Resistance 
 _Armor (light, medium, or heavy), rare (requires attunement)_ 
