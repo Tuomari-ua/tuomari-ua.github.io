@@ -1,7 +1,11 @@
-name: Sovereign Glue
-type: item
+---
+category: items
+layout: page
+name: Sovereign Glue 
+tag: item
+title: Sovereign Glue 
+---
 
-# Sovereign Glue 
 _Wondrous item, legendary_ 
 
 This viscous, milky-white substance can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with **oil of slipperiness**. When found, a container contains 1d6 + 1 ounces.
