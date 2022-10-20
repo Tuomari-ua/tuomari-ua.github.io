@@ -1,7 +1,11 @@
+---
+category: items
+layout: page
 name: Oathbow
-type: weapon
+tag: weapon
+title: Oathbow
+---
 
-# Oathbow 
 _Weapon (longbow), very rare (requires attunement)_ 
 
 When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
