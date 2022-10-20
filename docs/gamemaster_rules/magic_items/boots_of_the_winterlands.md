@@ -1,7 +1,11 @@
-name: Boots of the Winterlands
-type: item
+---
+category: items
+layout: page
+name: Boots of the Winterlands 
+tag: item
+title: Boots of the Winterlands 
+---
 
-# Boots of the Winterlands 
 _Wondrous item, uncommon (requires attunement)_ 
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
