@@ -1,7 +1,11 @@
-name: Defender
-type: weapon
+---
+category: items
+layout: page
+name: Defender 
+tag: weapon
+title: Defender 
+---
 
-# Defender 
 _Weapon (any sword), legendary (requires attunement)_ 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
