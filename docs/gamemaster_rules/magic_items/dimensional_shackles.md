@@ -1,7 +1,11 @@
+---
+category: items
+layout: page
 name: Dimensional Shackles
-type: item
+tag: item
+title: Dimensional Shackles
+---
 
-# Dimensional Shackles 
 _Wondrous item, rare_ 
 
 You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit a creature of Small to Large size. In addition to serving as mundane manacles, the shackles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
