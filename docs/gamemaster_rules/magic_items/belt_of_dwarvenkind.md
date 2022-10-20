@@ -1,7 +1,11 @@
-name: Belt of Dwarvenkind
-type: item
+---
+category: items
+layout: page
+name: Belt of Dwarvenkind 
+tag: item
+title: Belt of Dwarvenkind 
+---
 
-# Belt of Dwarvenkind 
 _Wondrous item, rare (requires attunement)_ 
 
 While wearing this belt, you gain the following benefits: 
