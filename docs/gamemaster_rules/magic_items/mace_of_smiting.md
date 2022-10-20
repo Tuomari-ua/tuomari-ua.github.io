@@ -1,7 +1,11 @@
-name: Mace of Smiting
-type: weapon
+---
+category: items
+layout: page
+name: Mace of Smiting 
+tag: weapon
+title: Mace of Smiting 
+---
 
-# Mace of Smiting 
 _Weapon (mace), rare_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. The bonus increases to +3 when you use the mace to attack a construct.
