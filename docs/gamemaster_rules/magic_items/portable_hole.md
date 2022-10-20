@@ -1,7 +1,11 @@
-name: Portable Hole
-type: item
+---
+category: items
+layout: page
+name: Portable Hole 
+tag: item
+title: Portable Hole 
+---
 
-# Portable Hole 
 _Wondrous item, rare_ 
 
 This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
