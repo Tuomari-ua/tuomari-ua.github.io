@@ -1,7 +1,11 @@
-name: Cube of Force
-type: item
+---
+category: items
+layout: page
+name: Cube of Force 
+tag: item
+title: Cube of Force 
+---
 
-# Cube of Force 
 _Wondrous item, rare (requires attunement)_ 
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains 1d20 expended charges daily at dawn.
