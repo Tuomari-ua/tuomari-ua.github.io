@@ -1,7 +1,11 @@
-name: Dagger of Venom
-type: weapon
+---
+category: items
+layout: page
+name: Dagger of Venom 
+tag: weapon
+title: Dagger of Venom 
+---
 
-# Dagger of Venom 
 _Weapon (dagger), rare_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
