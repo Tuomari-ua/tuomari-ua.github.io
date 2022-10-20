@@ -1,7 +1,11 @@
-name: Pipes of the Sewers
-type: item
+---
+category: items
+layout: page
+name: Pipes of the Sewers 
+tag: item
+title: Pipes of the Sewers 
+---
 
-# Pipes of the Sewers 
 _Wondrous item, uncommon (requires attunement)_ 
 
 You must be proficient with wind instruments to use these pipes. While you are attuned to the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them.
