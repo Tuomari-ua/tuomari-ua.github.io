@@ -1,7 +1,11 @@
-name: Bag of Tricks
-type: item
+---
+category: items
+layout: page
+name: Bag of Tricks 
+tag: item
+title: Bag of Tricks 
+---
 
-# Bag of Tricks 
 _Wondrous item, uncommon_ 
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
@@ -39,6 +43,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8  | Brown bear |
 
 ### Tan bag of Tricks
+
 | d8 | Creature     |
 |----|--------------|
 | 1  | Jackal       |
