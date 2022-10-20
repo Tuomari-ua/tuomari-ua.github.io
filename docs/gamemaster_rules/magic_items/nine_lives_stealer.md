@@ -1,7 +1,11 @@
-name: Nine Lives Stealer
-type: weapon
+---
+category: items
+layout: page
+name: Nine Lives Stealer 
+tag: weapon
+title: Nine Lives Stealer 
+---
 
-# Nine Lives Stealer 
 _Weapon (any sword), very rare (requires attunement)_ 
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
