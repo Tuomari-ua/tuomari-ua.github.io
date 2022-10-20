@@ -1,7 +1,11 @@
+---
+category: items
+layout: page
 name: Demon Armor
-type: armor
+tag: armor
+title: Demon Armor
+---
 
-# Demon Armor 
 _Armor (plate), very rare (requires attunement)_ 
 
 While wearing this armor, you gain a +1 bonus to AC, and you can understand and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed strikes with your hands into magic weapons that deal slashing damage, with a +1 bonus to attack rolls and damage rolls and a damage die of 1d8.
