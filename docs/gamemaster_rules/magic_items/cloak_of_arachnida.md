@@ -1,7 +1,11 @@
-name: Cloak of Arachnida
-type: item
+---
+category: items
+layout: page
+name: Cloak of Arachnida 
+tag: item
+title: Cloak of Arachnida 
+---
 
-# Cloak of Arachnida 
 _Wondrous item, very rare (requires attunement)_ 
 
 This fine garment is made of black silk interwoven with faint silvery threads. While wearing it, you gain the following benefits:
