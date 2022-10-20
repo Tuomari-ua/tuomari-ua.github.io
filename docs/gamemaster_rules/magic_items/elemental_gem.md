@@ -1,7 +1,11 @@
-name: Elemental Gem
-type: item
+---
+category: items
+layout: page
+name: Elemental Gem 
+tag: item
+title: Elemental Gem 
+---
 
-# Elemental Gem 
 _Wondrous item, uncommon_ 
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the **_conjure elemental_** spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell. 
