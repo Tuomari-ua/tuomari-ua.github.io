@@ -1,7 +1,11 @@
-name: Horn of Valhalla
-type: item
+---
+category: items
+layout: page
+name: Horn of Valhalla 
+tag: item
+title: Horn of Valhalla 
+---
 
-# Horn of Valhalla 
 _Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)_ 
 
 You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker. They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
