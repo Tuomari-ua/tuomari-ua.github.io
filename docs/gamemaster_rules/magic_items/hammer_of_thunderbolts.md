@@ -1,7 +1,11 @@
+---
+category: items
+layout: page
 name: Hammer of Thunderbolts
-type: weapon
+tag: weapon
+title: Hammer of Thunderbolts
+---
 
-# Hammer of Thunderbolts 
 _Weapon (maul), legendary_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
