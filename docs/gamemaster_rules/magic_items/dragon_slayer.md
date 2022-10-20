@@ -1,7 +1,11 @@
-name: Dragon Slayer
-type: weapon
+---
+category: items
+layout: page
+name: Dragon Slayer 
+tag: weapon
+title: Dragon Slayer 
+---
 
-# Dragon Slayer 
 _Weapon (any sword), rare_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
