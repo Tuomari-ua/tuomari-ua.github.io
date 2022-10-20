@@ -1,7 +1,11 @@
+---
+category: items
+layout: page
 name: Potion of Resistance
-type: potion
+tag: potion
+title: Potion of Resistance
+---
 
-# Potion of Resistance 
 _Potion, uncommon_ 
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below. 
