@@ -1,7 +1,11 @@
-name: Necklace of Prayer Beads
-type: item
+---
+category: items
+layout: page
+name: Necklace of Prayer Beads 
+tag: item
+title: Necklace of Prayer Beads 
+---
 
-# Necklace of Prayer Beads 
 _Wondrous item, rare (requires attunement by a cleric, druid, or paladin)_ 
 
 This necklace has 1d4 + 2 magic beads made from aquamarine, black pearl, or topaz. It also has many nonmagical beads made from stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
