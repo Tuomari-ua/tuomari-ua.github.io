@@ -1,7 +1,11 @@
-name: Bag of Devouring
-type: item
+---
+category: items
+layout: page
+name: Bag of Devouring 
+tag: item
+title: Bag of Devouring 
+---
 
-# Bag of Devouring 
 _Wondrous item, very rare_ 
 
 This bag superficially resembles a bag of holding but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
