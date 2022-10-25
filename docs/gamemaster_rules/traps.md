@@ -1,157 +1,157 @@
-description: Rules and descriptions of traps from the 5th Edition (5e) SRD (System Reference Document).
+--- layout: page description: Правила та описи пасток title: Пастки ---
 
-# Traps 
-Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
+# Пастки
+Пастки можна знайти майже будь-де. Один помилковий крок у стародавній гробниці може запустити серію гострих лез, які пробивають обладунки та кістки. Нешкідливі на перший погляд ліани, що висять над входом у печеру, можуть схопити й задушити будь-кого, хто пробирається крізь них. Сітка, прихована поміж деревами, може впасти на мандрівників, що йдуть внизу. У фентезійній грі необачні пригодники можуть загинути, бути спаленими живцем чи потрапити під обстріл отруєними дротиками.
 
-A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as **_glyph of warding_** and **_symbol_** that function as traps. 
+Пастка може бути механічною або магічною за природою. **Механічні пастки** включають ями, пастки зі стрілами, падаючі блоки, заповнені водою кімнати та будь-що інше, що потребує механізмів для дії. **Магічні пастки** - це або пастки з магічних пристроїв або з чарів. Пастки з магічних пристроїв ініціюють ефекти заклинань, коли їх активовано. Пастки чарів - це чари, такі як **_захисний гліф_** і **_символ_**, що діють, як пастки.
 
-## Traps in Play 
-When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it. 
+## Пастки в грі
+Коли пригодники натрапляють на пастку, вам потрібно знати, як спрацьовує пастка і що вона робить, а також чи можливо для персонажів виявити пастку, знешкодити чи уникнути її.
 
-### Triggering a Trap 
-Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the **_glyph of warding_** spell) have more complicated trigger conditions, including a password that prevents the trap from activating. 
+### Спрацювання пастки
+Більшість пасток спрацьовує, коли істота йде кудись або торкається чогось, що творець пастки хотів захистити. Поширені тригери - це наступання на натискну плиту або фальшиву частину підлоги, смикання за дріт, повертання дверної ручки та використання неправильного ключа в замку. Магічні пастки часто встановлюються так, щоб спрацювати, коли істота входить в область дії або торкається предмета. Деякі магічні пастки (такі як чари **_захисний гліф_**) мають більш складні умови спрацьовування, включно з паролем, що запобігає активації пастки.
 
 
-### Detecting and Disabling a Trap 
-Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
+### Виявлення та знешкодження пастки
+Зазвичай якісь елементи пастки є видимими для ретельного огляду. Персонажі можуть помітити нерівний камінь, що приховує натискну плиту, помітити відблиск світла від дроту розмикання, або маленькі отвори у стінах, звідки вириваються струмені полум'я, або іншим способом виявити щось, що вказує на пастку.
 
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves' tools to perform the necessary sabotage.
+Опис пастки визначає перевірки та КС, необхідні для їх виявлення, знешкодження або й того, й іншого. Персонаж, що активно шукає пастку, може зробити перевірку Мудрості (Сприйняття) проти КС пастки. Ви також можете порівняти КС виявлення пастки зі значенням пасивної Мудрості (Сприйняття) кожного персонажа, щоб визначити, чи хтось із групи міг помітити пастку мимохідь. Якщо пригодники виявляють пастку, перш ніж вона спрацює, вони можуть бути здатні роззброїти її назавжди чи на час, достатній, щоб пройти повз. Ви можете попросити про перевірку Інтелекту (Розслідування) для персонажа, котрий визначає, що саме треба зробити, а потім перевірку Спритності з використанням злодійських інструментів, щоб виконати необхідні дії.
 
-Any character can attempt an Intelligence (Arcana) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, **_dispel magic_** has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use **_dispel magic_**.
+Будь-який персонаж може зробити перевірку Інтелекту (Аркана), щоб виявити чи роззброїти магічну пастку, на додачу до інших перевірок, зазначених в описі пастки. КС є однаковими незалежно від застосованої перевірки. Крім того, **_розвіювання магії _**має шанс знешкодити більшість магічних пасток. Опис магічної пастки вказує КС для перевірок здібностей, який треба виконати для **_розвіювання магії_**.
 
-In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
+У більшості випадків опис пастки достатньо зрозумілий, щоб ви могли визначити, наскільки добре персонаж визначив та знешкодив пастку. Як і в багатьох ситуаціях, ви не повинні дозволяти кидку кістки переважати над розумною грою та добрим плануванням. Керуйтеся здоровим глуздом, спираючись на опис пастки, щоб визначити, що сталося. Жодна конструкція пастки не може передбачити усі можливі дії, до яких вдадуться персонажі.
 
-You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap's presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
+Ви можете дозволити персонажу виявити пастку без перевірки здібності, якщо дія чітко виявить наявність пастки. Наприклад, якщо персонаж піднімає килимок, під яким схована натискна пластина, то персонаж знайшов спусковий механізм, і жодна перевірка не потрібна.
 
-Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it's trapped. Rather than simply open the chest, they prop a shield in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
+Знешкодження пасток може бути трохи складнішим. Уявіть скриню скарбів із пасткою. Якщо скриню відкрити, не потягнувши спершу за дві ручки по боках, механізм усередині вистрілить у того, хто стоїть перед скринею, градом отруйних стріл. Оглянувши скриню та зробивши кілька перевірок, персонажі невпевнені щодо пастки. Замість того, щоб просто відкрити скриню, вони виставляють перед нею щит і відкривають скриню металевим прутом із безпечної відстані. У цьому випадку пастка спрацьовує, але град голок безпечно влучає у щит.
 
-Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap. 
+Пастки часто розроблені з механізмами, які дозволяють їх знешкодити або обійти. Розумні монстри, що розставляють пастки навколо своїх лігв, повинні якось проходити пройти повз ці пастки, не завдаючи собі шкоди. Такі пастки можуть мати приховані важелі, що знешкоджують пусковий механізм, або секретні двері можуть приховувати прохід, якій веде в обхід пастки.
 
-### Trap Effects 
-The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
+### Ефекти пасток
+Ефекти пасток можуть варіюватися від просто незручних до смертельних, використовувати такі елементи, як стріли, шипи, леза, отруту, токсичний газ, спалахи вогню та глибокі ями. Найбільш смертоносні пастки поєднують кілька елементів, щоб убити, поранити, стримати або відігнати геть істоту, якій не пощастило наткнутися на пастку. Опис пастки визначає, що відбувається, коли вона спрацьовує.
 
-The attack bonus of a trap, the save DC to resist its effects, and the damage it deals can vary depending on the trap's severity. Use the Trap Save DCs and Attack Bonuses table and the Damage Severity by Level table for suggestions based on three levels of trap severity.
+Бонус атаки пастки, КС ряткидків, щоб протидіяти ефектам, та пошкодження, яких вона завдає, можуть варіюватися залежно від тяжкості пастки. Користуйтеся таблицями "КС рятунків та бонуси атаки пасток" та "Тяжкість пошкоджень за рівнем" для визначення, до якого з трьох рівнів складності належить пастка.
 
-A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels. 
+Пастка, яка задумувалася для **відлякування**, навряд чи вб'є або серйозно травмує персонажів зазначеного рівня, тоді як **небезпечна** пастка найімовірніше завдасть тяжких пошкоджень (і, можливо, вб'є) персонажів зазначеного рівня. **Смертельна** пастка, імовірно, уб'є персонажів зазначеного рівня.
 
-#### Trap Save DCs and Attack Bonuses
-| Trap Danger | Save DC | Attack Bonus |
-|-------------|---------|--------------|
-| Setback     | 10-11   | +3 to +5     |
-| Dangerous   | 12-15   | +6 to +8     |
-| Deadly      | 16-20   | +9 to +12    |
+#### КС рятунку та бонус атаки пастки
+| Небезпека пастки | КС ряткидка | Бонус атаки   |
+| ---------------- | ----------- | ------------- |
+| Відлякувальна    | 10-11       | від +3 до +5  |
+| Небезпечна       | 12-15       | від +6 до +8  |
+| Смертельна       | 16-20       | від +9 до +12 |
 
-#### Damage Severity by Level
-| Character Level | Setback | Dangerous | Deadly |
-|-----------------|---------|-----------|--------|
-| 1st-4th         | 1d10    | 2d10      | 4d10   |
-| 5th-10th        | 2d10    | 4d10      | 10d10  |
-| 11th-16th       | 4d10    | 10d10     | 18d10  |
-| 17th-20th       | 10d10   | 18d10     | 24d10  |
+#### Тяжкість пошкоджень за рівнем
+| Рівень персонажа | Відлякувальна | Небезпечна | Смертельна |
+| ---------------- | ------------- | ---------- | ---------- |
+| 1-4              | 1к10          | 2к10       | 4к10       |
+| 5-10             | 2к10          | 4к10       | 10к10      |
+| 11-16            | 4к10          | 10к10      | 18к10      |
+| 17-20            | 10к10         | 18к10      | 24к10      |
 
 
-### Complex Traps 
-Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
+### Комплексні пастки
+Комплексні пастки діють як і звичайні, однак після активації вони виконують серію дій кожного раунду. Комплексна пастка перетворює процес подолання пастки на щось подібне до бойової сутички.
 
-When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
+Коли активовано комплексну пастку, киньте ініціативу. Опис пастки включає бонус ініціативи. У свій хід пастка активується знову, часто виконуючи дію. Вона може робити послідовні атаки проти зловмисників, створювати ефекти, які змінюються з часом, або створювати інший динамічний виклик. Так чи так, комплексну пастку можна виявити та знешкодити або обійти звичайними способами.
 
-For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded. 
+Наприклад, пастка, яка поступово заливає кімнату водою, краще працює як комплексна пастка. У хід пастки рівень води піднімається. Після кількох раундів кімнату повністю затоплено.
 
-## Sample Traps 
-The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order. 
+## Зразки пасток
+Представлені тут магічні та механічні пастки відрізняються за смертоносністю та представлені в алфавітному порядку.
 
-### Collapsing Roof 
-_Mechanical trap_ 
+### Зруйнований дах
+_Механічна пастка_
 
-This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
+У цій пастці використовується сполучний дріт, який вибиває опори з-під нестабільної частини стелі.
 
-The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using thieves' tools disables the trip wire harmlessly. A character without thieves' tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+Сполучний дріт розташований на висоті 3 дюймів над підлогою й тягнеться між двома опорними балками. КС для виявлення дроту 10. Успішна перевірка Спритності з використанням злодійських інструментів з КС 15 безпечно знешкоджує дріт. Персонаж без злодійських інструментів може зробити цю перевірку із перешкодою, якщо використовуватиме гостру зброю чи інший гострий інструмент. Якщо перевірка невдала, пастка спрацьовує.
 
-Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.
+Будь-хто, хто оглядає балки, може легко визначити, що вони тільки вклинені під стелю. Дією персонаж може вибити балку, спричинивши цим спрацювання пастки.
 
-The ceiling above the trip wire is in bad repair, and anyone who can see it can tell that it's in danger of collapse.
+Стеля над сполучним дротом у поганому стані, і будь-хто, хто оглядає її, може сказати, що існує ризик обвалу.
 
-When the trap is triggered, the unstable ceiling collapses. Any creature in the area beneath the unstable section must succeed on a DC 15 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed save, or half as much damage on a successful one. Once the trap is triggered, the floor of the area is filled with rubble and becomes difficult terrain. 
+Коли пастка спрацьовує, нестабільна стеля обвалюється. Будь-яка істота в області під нестабільною секцією повинна зробити ряткидок Спритності з КС 15, отримуючи 22 (4к10) дробильних пошкоджень у випадку невдачі або половину цих пошкоджень за умови успіху. Щойно пастка спрацювала, підлога у цій області засипається уламками й стає важкопрохідною місцевістю.
 
-### Falling Net 
-_Mechanical trap_ 
+### Падаюча сітка
+_Механічна пастка_
 
-This trap uses a trip wire to release a net suspended from the ceiling.
+Ця пастка використовує сполучний дріт, щоб вивільнити підвішену під стелею сітку.
 
-The trip wire is 3 inches off the ground and stretches between two columns or trees. The net is hidden by cobwebs or foliage. The DC to spot the trip wire and net is 10. A successful DC 15 Dexterity check using thieves' tools breaks the trip wire harmlessly. A character without thieves' tools can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+Сполучний дріт розташований на висоті 3 дюймів від підлоги й тягнеться між двома колонами або деревами. Сітка прихована павутинням або кронами дерев. КС для виявлення дроту 10. Успішна перевірка Спритності з використанням злодійських інструментів з КС 15 безпечно знешкоджує дріт. Персонаж без злодійських інструментів може зробити цю перевірку із перешкодою, якщо використовуватиме гостру зброю чи інший гострий інструмент. Якщо перевірка невдала, пастка спрацьовує.
 
-When the trap is triggered, the net is released, covering a 10-foot-square area. Those in the area are trapped under the net and restrained, and those that fail a DC 10 Strength saving throw are also knocked prone. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of it, freeing any creature trapped in that section. 
+Коли пастка спрацьовує, сітка падає, накриваючи область розміром 10 на 10 футів. Ті, хто перебуває у цій області, скуті сіткою, а ті з них, хто провалив ряткидок Сили з КС 10, також збиті з ніг. Істота може використати свою дію та зробити перевірку Сили з КС 10, щоб звільнити себе чи іншу істоту в межах досяжності. Сітка має КЗ 10 та 20 пунктів здоров'я. Завдання 5 рубаних пошкоджень сітці (КЗ 10) руйнує її на площі 5 кв. футів, звільняючи істоту, яка була під цією частиною сітки.
 
-### Fire-Breathing Statue 
-_Magic trap_ 
+### Вогнедишна статуя
+_Магічна пастка_
 
-This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
+Ця пастка активується, коли зловмисник ступає на приховану натискну пластину, вивільняючи магічний спалах вогню з найближчої статуї. Статуя може бути будь-чим, включно з драконом чи магом, який створює чари.
 
-The DC is 15 to spot the pressure plate, as well as faint scorch marks on the floor and walls. A spell or other effect that can sense the presence of magic, such as **_detect magic_**, reveals an aura of evocation magic around the statue.
+Щоб помітити пластину, а також слабкі сліди обпалення на підлозі та стінах, треба пройти перевірку з КС 15. Чари чи інший ефект, який може відчути присутність магії, такі як чари **_виявлення магії_**, розкривають ауру магії втілення навколо статуї.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+Пастка активується, коли на натискну пластину тисне більш як 20 фунтів ваги, що змушує статую випустити 30-футовий конус полум'я. Кожна істота у вогні повинна зробити рятівний кидок Спритності з КС 13, отримуючи 22 (4к10) пошкоджень вогнем у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful **_dispel magic_** (DC 13) cast on the statue destroys the trap. 
+Вклинення залізного шипа чи іншого предмета під натискну пластину запобігає активації пастки. Успішні чари **_розвіювання магії_** (КС 13), створені на статую, знищують пастку.
 
-### Pits 
-_Mechanical trap_ 
+### Ями
+_Механічна пастка_
 
-Four basic pit traps are presented here.
+Тут представлено чотири основні види пасток-ям.
 
-**Simple Pit.** A simple pit trap is a hole dug in the ground. The hole is covered by a large cloth anchored on the pit's edge and camouflaged with dirt and debris.
+**Проста яма.** Проста яма-пастка - це яма, викопана в землі. Яма накрита великим полотном, закріпленим на краях ями та замаскованим брудом та сміттям.
 
-The DC to spot the pit is 10. Anyone stepping on the cloth falls through and pulls the cloth down into the pit, taking damage based on the pit's depth (usually 10 feet, but some pits are deeper).
+КС для виявлення ями 10. Будь-хто, наступивши на полотно, падає разом з ним у яму, отримуючи пошкодження залежно від глибини ями (зазвичай 10 футів, але деякі ями глибші).
 
-**Hidden Pit.** This pit has a cover constructed from material identical to the floor around it.
+**Прихована яма.** Укриття цієї ями виготовлене з матеріалу, ідентичного до підлоги навколо неї.
 
-A successful DC 15 Wisdom (Perception) check discerns an absence of foot traffic over the section of floor that forms the pit's cover. A successful DC 15 Intelligence (Investigation) check is necessary to confirm that the trapped section of floor is actually the cover of a pit.
+Успішна перевірка Мудрості (Сприйняття) з КС 15 виявляє відсутність слідів ходьби над частиною підлоги, що утворює укриття ями. Необхідна успішна перевірка Інтелекту (Розслідування) з КС 15 для підтвердження, що підозріла ділянка підлоги насправді приховує яму.
 
-When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is usually 10 or 20 feet deep but can be deeper.
+Коли істота ступає на укриття, воно відчиняється, як люк, і зловмисник провалюється у яму внизу. Ями зазвичай 10 або 20 футів завглибшки, але можуть бути глибшими.
 
-Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the **_arcane lock_** spell or similar magic.
+Щойно яму-пастку виявлено, можна вклинити залізний шип або подібний предмет між укриттям і навколишньою підлогою так, щоб запобігти відкриванню люка, роблячи перехід крізь цю ділянку безпечним. Люк можна утримувати закритим магічно чарами **_арканний замок_** або подібною магією.
 
-**Locking Pit.** This pit trap is identical to a hidden pit trap, with one key exception: the trap door that covers the pit is spring-loaded. After a creature falls into the pit, the cover snaps shut to trap its victim inside.
+**Замкнута яма.** Ця яма-пастка ідентична до прихованої ями з однією ключовою відмінністю: люк, що приховує пастку, має пружину. Після того, як істота впала в яму, люк закривається, блокуючи жертву всередині.
 
-A successful DC 20 Strength check is necessary to pry the cover open. The cover can also be smashed open. A character in the pit can also attempt to disable the spring mechanism from the inside with a DC 15 Dexterity check using thieves' tools, provided that the mechanism can be reached and the character can see. In some cases, a mechanism (usually hidden behind a secret door nearby) opens the pit.
+Необхідна успішна перевірка Сили з КС 20, щоб відкрити люк. Або люк можна розбити. Персонаж у ямі може спробувати знешкодити пружинний механізм ізсередини перевіркою Спритності з використанням злодійських інструментів із КС 15, за умови, що механізм доступний ізсередини ями і персонаж може його бачити. В окремих випадках механізм (зазвичай прихований неподалік за таємними дверцятами) відкриває яму.
 
-**Spiked Pit.** This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or iron spikes at the bottom. A creature falling into the pit takes 11 (2d10) piercing damage from the spikes, in addition to any falling damage. Even nastier versions have poison smeared on the spikes. In that case, anyone taking piercing damage from the spikes must also make a DC 13 Constitution saving throw, taking an 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. 
+**Яма із шипами.** Ця яма-пастка - проста, прихована або замкнута - з загостреними дерев'яними або залізними шипами на дні. Істота, що впала в яму, отримує 11 (2к10) колотих пошкоджень від шипів на додачу до пошкоджень від падіння. У більш підступних версіях пастки шипи змазані отрутою. У такому випадку будь-хто, отримавши колоті пошкодження від шипів, повинен також зробити рятівний кидок Статури з КС 13, отримуючи 22 (4к10) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-### Poison Darts 
-_Mechanical trap_ 
+### Отруйні дротики
+_Механічна пастка_
 
-When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
+Коли істота ступає на натискну пластину, дротики із отруєними наконечниками вистрілюють із підпружинених або стиснутих трубок, майстерно вбудованих у навколишні стіни. Область може включати кілька натискних пластин, кожна з яких запускає власний набір дротиків.
 
-The tiny holes in the walls are obscured by dust and cobwebs, or cleverly hidden amid bas-reliefs, murals, or frescoes that adorn the walls. The DC to spot them is 15. With a successful DC 15 Intelligence (Investigation) check, a character can deduce the presence of the pressure plate from variations in the mortar and stone used to create it, compared to the surrounding floor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating. Stuffing the holes with cloth or wax prevents the darts contained within from launching.
+Крихітні отвори в стінах вкриті пилом і павутинням або ж уміло приховані серед барельєфів, муралів чи фресок, які прикрашають стіни. КС для їх виявлення 15. Завдяки успішній перевірці Інтелекту (Розслідування) з КС 15 персонаж може зробити висновок про існування натискної пластини на підставі відмінностей у кладці та камені, використаних для її створення, порівняно з навколишньою підлогою. Вклинення залізного шипа чи іншого предмета під натискну пластину запобігає активації пастки. Забивання отворів тканиною або воском запобігає вистрілюванню прихованих всередині дротиків.
 
-The trap activates when more than 20 pounds of weight is placed on the pressure plate, releasing four darts. Each dart makes a ranged attack with a +8 bonus against a random target within 10 feet of the pressure plate (vision is irrelevant to this attack roll). (If there are no targets in the area, the darts don't hit anything.) A target that is hit takes 2 (1d4) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 11 (2d10) poison damage on a failed save, or half as much damage on a successful one. 
+Пастка активується, випускаючи чотири дротики, коли на натискну пластину тисне більш як 20 фунтів ваги. Кожен дротик виконує дистанційну атаку з бонусом +8 проти випадкової цілі в межах 10 футів від натискної пластини (зір не має значення для цього кидка атаки). (Якщо в області немає мішеней, дротики ні в що не влучають). Ціль, у яку влучили, отримує 2 (1к4) колотих пошкоджень і повинна зробити рятівний кидок Статури з КС 15, отримуючи 11 (2к10) пошкоджень отрутою у випадку невдачі або половину цих пошкоджень за умови успіху.
 
-### Poison Needle 
-_Mechanical trap_ 
+### Отруєна голка
+_Механічна пастка_
 
-A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
+Отруєна голка схована у замку скрині зі скарбами, чи в чомусь іншому, що істота може відкрити. Якщо відкрити скриню без відповідного ключа, голка вискочить і занесе отруту.
 
-When the trap is triggered, the needle extends 3 inches straight out from the lock. A creature within range takes 1 piercing damage and 11 (2d10) poison damage, and must succeed on a DC 15 Constitution saving throw or be poisoned for 1 hour.
+Коли пастка спрацьовує, голка висувається на 3 дюйми прямо із замка. Істота у межах досяжності отримує 1 колоте пошкодження і 11 (2к10) пошкоджень отрутою, а також повинна зробити рятівний кидок Статури з КС 15, або буде отруєна упродовж 1 години.
 
-A successful DC 20 Intelligence (Investigation) check allows a character to deduce the trap's presence from alterations made to the lock to accommodate the needle. A successful DC 15 Dexterity check using thieves' tools disarms the trap, removing the needle from the lock. Unsuccessfully attempting to pick the lock triggers the trap. 
+Успішна перевірка Інтелекту (Розслідування) з КС 20 дозволяє персонажу визначити наявність пастки завдяки змінам, зробленим у замку заради розміщення голки. Успішна перевірка Спритності з використанням злодійських інструментів з КС 15 знешкоджує пастку шляхом витягання голки із замка. Невдала спроба відкрити замок активує пастку.
 
-### Rolling Sphere 
-_Mechanical trap_ 
+### Куля, що котиться
+_Механічна пастка_
 
-When 20 or more pounds of pressure are placed on this trap's pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot-diameter rolling sphere of solid stone.
+Коли на натискну пластину цієї пастки тисне вага 20 футів або більше, у стелі відкривається прихований люк, вивільняючи кулю із твердого каменю діаметром 10 футів.
 
-With a successful DC 15 Wisdom (Perception) check, a character can spot the trapdoor and pressure plate. A search of the floor accompanied by a successful DC 15 Intelligence (Investigation) check reveals variations in the mortar and stone that betray the pressure plate's presence. The same check made while inspecting the ceiling notes variations in the stonework that reveal the trapdoor. Wedging an iron spike or other object under the pressure plate prevents the trap from activating.
+Успішна перевірка Мудрості (Сприйняття) з КС 15 дозволяє персонажу помітити люк та натискну пластину. Обшук підлоги із успішною перевіркою Інтелекту (Розслідування) з КС 15 виявляє зміни у кладці та камені, які видають наявність натискної пластини. Такий самий чек для обстеження стелі визначає зміни у кам'яній кладці, що викривають наявність люка. Вклинення залізного шипа чи іншого предмета під натискну пластину запобігає активації пастки.
 
-Activation of the sphere requires all creatures present to roll initiative. The sphere rolls initiative with a +8 bonus. On its turn, it moves 60 feet in a straight line. The sphere can move through creatures' spaces, and creatures can move through its space, treating it as difficult terrain. Whenever the sphere enters a creature's space or a creature enters its space while it's rolling, that creature must succeed on a DC 15 Dexterity saving throw or take 55 (10d10) bludgeoning damage and be knocked prone.
+Активація кулі вимагає від усіх присутніх персонажів кидка ініціативи. Куля робить цей кидок із бонусом +8. У свій хід куля котиться по прямій лінії на 60 футів. Куля може переміщуватися крізь простір істот, і істоти можуть переміщуватися крізь простір кулі, вважаючи його важкопрохідною місцевістю. Щоразу, коли куля проходить крізь простір істоти або істота входить у простір кулі, що котиться, істота повинна зробити рятівний кидок Спритності з КС 15 або отримає 55 (10к10) дробильних пошкоджень та буде збита з ніг.
 
-The sphere stops when it hits a wall or similar barrier. It can't go around corners, but smart dungeon builders incorporate gentle, curving turns into nearby passages that allow the sphere to keep moving.
+Куля зупиняється, коли вдаряється об стіну або подібний бар'єр. Вона не може обходити кути, але кмітливі будівники підземель подбали про плавні, вигнуті повороти до сусідніх коридорів, щоб куля продовжувала котитися.
 
-As an action, a creature within 5 feet of the sphere can attempt to slow it down with a DC 20 Strength check. On a successful check, the sphere's speed is reduced by 15 feet. If the sphere's speed drops to 0, it stops moving and is no longer a threat. 
+Істота в межах 5 футів від кулі може спробувати дією загальмувати кулю перевіркою Сили з КС 20. За успішної перевірки швидкість кулі знижується на 15 футів. Якщо швидкість кулі знижується до 0, вона перестає котитися і більше не становить загрози.
 
-### Sphere of Annihilation 
-_Magic trap_
+### Сфера знищення
+_Магічна пастка_
 
-Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
+Магічна, непроглядна темрява заповнює роззявлену пащу кам'яного обличчя, висіченого в стіні. Паща майже кругла і має діаметр 2 фути. З неї не виходить жодного звуку, жодне світло не може освітити, що всередині неї, а будь-що, вкинуте в пащу, негайно знищується.
 
-A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a **_sphere of annihilation_** that can't be controlled or moved. It is otherwise identical to a normal **_sphere of annihilation_**.
+Успішна перевірка Інтелекту (Аркана) з КС 20 виявляє, що паща містить **_сферу знищення_**, яку неможливо контролювати чи перемістити. В усьому іншому вона ідентична до звичайної **_сфери знищення._**
 
-Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the **_sympathy_** aspect of the **_antipathy/sympathy_** spell. A successful **_dispel magic_** (DC 18) removes this enchantment.
+Деякі версії пастки включають причарування на кам'яному обличчі, так що певні істоти відчувають непереборне бажання наблизитися та залізти всередину. Цей ефект схожий на аспект **_симпатії_** чарів **_антипатія/симпатія_**. Успішні чари **_розвіювання магії_** (КС 18) знімають це причарування.
