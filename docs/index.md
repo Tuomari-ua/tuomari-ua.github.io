@@ -76,7 +76,7 @@ layout: default
 | [🇺🇦 Предмети](./gamemaster_rules/objects.md)      |                                        |                                                   |
 | [🇺🇦 Отрути](./gamemaster_rules/poisons.md)        |                                        |                                                   |
 | [🇺🇦 Розумні магічні предмети](./gamemaster_rules/sentient_magical_items.md)|                 |                                                   |
-| [Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
+| [🇺🇦 Пастки](./gamemaster_rules/traps.md)          |                                        |                                                   |
 
 
 - - -
