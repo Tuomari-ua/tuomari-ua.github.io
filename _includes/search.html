@@ -1,0 +1,16 @@
+<!-- Html Elements for Search -->
+<div><p>ПОШУК ПО САЙТУ: <input type="text" id="search-input" placeholder="Ввести дані для пошуку..."></p>
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/public/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+<!-- Configuration -->
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '{{site.baseurl}}/search.json'
+})
+</script>

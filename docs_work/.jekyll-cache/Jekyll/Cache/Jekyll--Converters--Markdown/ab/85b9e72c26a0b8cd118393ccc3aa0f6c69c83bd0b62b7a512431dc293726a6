@@ -1,0 +1,273 @@
+I"p'<h2 id="довідник-з-правил-5e">Довідник з правил 5e</h2>
+<p><a href="./license.md">Ліцензія на поширення Open Game License  1.0a </a></p>
+
+<h1 id="персонаж">Персонаж</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Класи</th>
+      <th>Раси</th>
+      <th>Інше</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/bard.md">Бард</a></td>
+      <td>🇺🇦 <a href="./character/races/gnome.md">Гном</a></td>
+      <td>🇺🇦 <a href="./character/alignment.md">Світогляд</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/fighter.md">Боєць</a></td>
+      <td>🇺🇦 <a href="./character/races/dwarf.md">Дворф</a></td>
+      <td>🇺🇦 <a href="./character/backgrounds.md">Передісторії</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/barbarian.md">Варвар</a></td>
+      <td>🇺🇦 <a href="./character/races/dragonborn.md">Драконороджений</a></td>
+      <td>🇺🇦 <a href="./character/languages.md">Мови</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/druid.md">Друїд</a></td>
+      <td>🇺🇦 <a href="./character/races/elf.md">Ельф</a></td>
+      <td>🇺🇦 <a href="./character/fantasy-historical_pantheons.md">Пантеони</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/sorcerer.md">Заклинач</a></td>
+      <td>🇺🇦 <a href="./character/races/human.md">Людина</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/cleric.md">Клірик</a></td>
+      <td>🇺🇦 <a href="./character/races/half-elf.md">Напівельф</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/wizard.md">Маг</a></td>
+      <td>🇺🇦 <a href="./character/races/half-orc.md">Напіворк</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/monk.md">Монах</a></td>
+      <td>🇺🇦 <a href="./character/races/halfling.md">Напіврослик</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/paladin.md">Паладин</a></td>
+      <td>🇺🇦 <a href="./character/races/tiefling.md">Тифлінґ</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/rogue.md">Пройдисвіт</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/ranger.md">Рейнджер</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./character/classes/warlock.md">Чаклун</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="здібності">Здібності</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/strength.md">Сила</a></td>
+      <td>🇺🇦 <a href="./rules/abilities/ability_scores.md">Значення здібностей</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/dexterity.md">Спритність</a></td>
+      <td>🇺🇦 <a href="./rules/abilities/ability_checks.md">Перевірки здібностей</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/constitution.md">Статура</a></td>
+      <td>🇺🇦 <a href="./rules/abilities/saving_throws.md">Рятівні кидки</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/intelligence.md">Інтелект</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/wisdom.md">Мудрість</a></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/abilities/charisma.md">Харизма</a></td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="пригоди">Пригоди</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Пригоди</th>
+      <th>Спорядження</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/between_adventures.md">Між пригодами</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/armor.md">Обладунки</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/movement.md">Переміщення</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/weapons.md">Зброя</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/planes_of_existence.md">Виміри існування</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/adventuring_gear.md">Спорядження пригодника</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/resting.md">Відпочинок</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/equipment_packs.md">Набори спорядження</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/the_environment.md">Середовище</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/tools.md">Інструменти</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./adventuring/time.md">Час</a></td>
+      <td>🇺🇦 <a href="./adventuring/equipment/mounts_and_vehicles.md">Транспорт</a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>🇺🇦 <a href="./adventuring/equipment/coins.md">Монети</a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>🇺🇦 <a href="./adventuring/equipment/trade_goods.md">Торговельні товари</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="правила">Правила</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td>🇺🇦 <a href="./rules/leveling_up.md">Підвищення рівня</a></td>
+      <td>🇺🇦 <a href="/rules/advantage_and_disadvantage.md">Перевага та перешкода</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/multiclassing.md">Мультиклас</a></td>
+      <td>🇺🇦 <a href="/rules/conditions.md">Стани</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="./rules/proficiency_bonus.md">Бонус досвіду</a></td>
+      <td>🇺🇦 <a href="./rules/inspiration.md">Натхнення</a></td>
+    </tr>
+    <tr>
+      <td>🇺🇦 <a href="/rules/feats.md">Уміння</a></td>
+      <td>🇺🇦 <a href="/rules/expenses.md">Витрати</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="бій">Бій</h1>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./combat/order_of_combat.md">🇺🇦 Порядок бою</a></td>
+      <td><a href="./combat/mounted_combat.md">🇺🇦 Верховий бій</a></td>
+    </tr>
+    <tr>
+      <td><a href="./combat/actions_in_combat.md">🇺🇦 Дії в бою</a></td>
+      <td><a href="./combat/underwater_combat.md">🇺🇦 Підводний бій</a></td>
+    </tr>
+    <tr>
+      <td><a href="./combat/making_an_attack.md">🇺🇦 Здійснення атаки</a></td>
+      <td><a href="./combat/movement_and_position.md">🇺🇦 Переміщення та позиція</a></td>
+    </tr>
+    <tr>
+      <td><a href="./combat/damage_and_healing.md">🇺🇦 Пошкодження та зцілення</a></td>
+      <td><a href="./combat/cover.md">🇺🇦 Укриття</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h1 id="правила-майстра">Правила Майстра</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Додаткові обставини</th>
+      <th>Списки предметів</th>
+      <th>Списки монстрів</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./gamemaster_rules/diseases.md">🇺🇦 Хвороби</a></td>
+      <td><a href="./gamemaster_rules/magic_item_indexes/">Предмети за назвою</a></td>
+      <td><a href="./gamemaster_rules/monster_indexes/monsters_by_name.md">Монстри за назвою</a></td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/legendary_creatures.md">🇺🇦 Легендарні істоти</a></td>
+      <td><a href="./gamemaster_rules/magic_item_indexes/">Предмети за типом</a></td>
+      <td><a href="./gamemaster_rules/monster_indexes/monsters_by_type.md">Монстри за типом</a></td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/madness.md">🇺🇦 Божевілля</a></td>
+      <td> </td>
+      <td><a href="./gamemaster_rules/monster_indexes/monsters_by_cr.md">Монстри за РН</a></td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/magic_items.md">🇺🇦 Магічні предмети</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/monster_rules.md">🇺🇦 Правила монстрів</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/nonplayer_characters.md">🇺🇦 Негральні персонажі</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/objects.md">🇺🇦 Предмети</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/poisons.md">🇺🇦 Отрути</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/sentient_magical_items.md">Розумні магічні предмети</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td><a href="./gamemaster_rules/traps.md">Пастки</a></td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+<p>Підтримати перекладачів та проєкт можна благодійними внесками:<br />
+<a href="https://send.monobank.ua/jar/47imS3PG8n">💰Банка</a><br />
+<a href="https://ko-fi.com/inrium">☕️Кофі</a></p>
+<hr />
+
+<blockquote>
+  <p><a href="./credits.md">Дізнатися, хто це наробив</a></p>
+</blockquote>
+:ET

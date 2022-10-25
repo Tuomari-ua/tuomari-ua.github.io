@@ -1,0 +1,60 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="uk-ua>
+
+  {% include head.html %}
+
+  <body class="theme-base-0b">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+        <div class="container">
+          <h3 class="masthead-title">
+           {% include social.html %}
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        {% include search.html %}
+        {{ content }}
+        {% include share.html %}
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+    <script>addBackToTop({
+        diameter: 52,
+        backgroundColor: 'rgb(34, 84, 40)',
+        textColor: '#fff'
+      })</script>
+    <script>
+      document
+        .querySelector('.post-content') // your selector for the post body
+        .querySelectorAll('h1,h2,h3,h4,h5,h6')
+        .forEach(function(heading) {
+          if (heading.id) {
+            heading.innerHTML =
+              '<a href="#' + heading.id + '">' + heading.innerText + '<\/a>';
+          }
+        });
+    </script>
+
+  </body>
+</html>

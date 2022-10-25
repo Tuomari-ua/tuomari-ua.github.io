@@ -1,0 +1,51 @@
+# Setup
+title:               5E УКРАЇНСЬКОЮ
+tagline:             'Довідник з правил 5e'
+description:         'Переклад <a href="https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf">Source Reference Document</a> на основі <a href="https://en.wikipedia.org/wiki/Open_Game_License" target="_blank">Open Game License v.1.0a</a>.'
+url:                 'https://5esrd.kyiv.ua/'
+locale: uk_UA
+google_analytics_id: G-3YDX4S83WP
+timezone: Europe/Kiev
+
+# About/contact
+author:
+  name:              Robort Bender
+  url:               https://benderrodrigez.com
+  email:             robort.bender@gmail.com
+
+# Gems
+plugins:
+  - jekyll-relative-links
+
+# Custom vars
+version:             1.0.0
+google_analytics_id: #UA-XXXX-Y
+
+# Collections
+collections_dir: 5esrd
+collections:
+  docs:
+    output: true
+  items:
+    output: true
+  monsters:
+    output: true
+  spells:
+    output: true
+
+# Social links
+twitter_username: 
+github_username:  tuomari-ua
+stackoverflow_username: 
+dribbble_username: 
+facebook_username: 
+flickr_username: 
+instagram_username: 
+linkedin_username: 
+xing_username: 
+pinterest_username: 
+youtube_username: 
+orcid_username: 
+googlescholar_username:
+telegram_username: inrium
+discord_username: nQVxdUsGrH
