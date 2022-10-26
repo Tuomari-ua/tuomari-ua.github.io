@@ -5,6 +5,9 @@ locale: uk_UA
 google_analytics_id: G-3YDX4S83WP
 timezone: Europe/Kiev
 
+exclude:
+  - work
+
 # Collections
 collections_dir: srd
 collections:
