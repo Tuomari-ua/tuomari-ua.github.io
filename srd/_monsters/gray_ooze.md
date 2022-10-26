@@ -1,8 +1,10 @@
-name: Gray Ooze
-type: ooze
-cr: .5
-
-# Gray Ooze 
+---
+layout: page-nontoc
+category: monsters
+title: Gray Ooze
+type: Ooze
+tag: .5
+---
 _Medium ooze, unaligned_
 
 **Armor Class** 8    

@@ -1,8 +1,10 @@
-name: Mule
-type: beast
-cr: .125
-
-# Mule 
+---
+layout: page-nontoc
+category: monsters
+title: Mule
+type: Beast
+tag: .125
+---
 _Medium beast, unaligned_
 
 **Armor Class** 10    

@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Ring of X-ray Vision 
+name: Ring of X-ray Vision
 tag: ring
 title: Ring of X-ray Vision 
 ---
-
 _Ring, rare (requires attunement)_ 
 
 While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.

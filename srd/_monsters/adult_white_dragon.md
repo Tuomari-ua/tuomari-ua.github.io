@@ -1,8 +1,10 @@
-name: Adult White Dragon
-type: dragon
-cr: 13
-
-# Adult White Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult White Dragon
+type: Dragon
+tag: 13
+---
 _Huge dragon, chaotic evil_
 
 **Armor Class** 18 (natural armor)    

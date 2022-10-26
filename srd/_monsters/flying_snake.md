@@ -1,8 +1,10 @@
-name: Flying Snake
-type: beast
-cr: .125
-
-# Flying Snake 
+---
+layout: page-nontoc
+category: monsters
+title: Flying Snake
+type: Beast
+tag: .125
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 14    

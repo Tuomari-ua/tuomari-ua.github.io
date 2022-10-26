@@ -1,8 +1,10 @@
-name: Bone Devil
-type: fiend (devil)
-cr: 9
-
-# Bone Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Bone Devil
+type: Fiend (devil)
+tag: 9
+---
 _Large fiend (devil), lawful evil_
 
 **Armor Class** 19 (natural armor)    

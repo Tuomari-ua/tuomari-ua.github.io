@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Luck Blade 
+name: Luck Blade
 tag: weapon
 title: Luck Blade 
 ---
-
 _Weapon (any sword), legendary (requires attunement)_ 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.

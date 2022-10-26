@@ -1,8 +1,10 @@
-name: Archmage
-type: humanoid (any race)
-cr: 12
-
-# Archmage 
+---
+layout: page-nontoc
+category: monsters
+title: Archmage
+type: Humanoid (any race)
+tag: 12
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 12 (15 with mage armor)    

@@ -1,8 +1,10 @@
-name: Balor
-type: fiend (demon)
-cr: 19
-
-# Balor 
+---
+layout: page-nontoc
+category: monsters
+title: Balor
+type: Fiend (demon)
+tag: 19
+---
 _Huge fiend (demon), chaotic evil_
 
 **Armor Class** 19 (natural armor)    

@@ -1,8 +1,10 @@
-name: Ancient Black Dragon
-type: dragon
-cr: 21
-
-# Ancient Black Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Black Dragon
+type: Dragon
+tag: 21
+---
 _Gargantuan dragon, chaotic evil_
 
 **Armor Class** 22 (natural armor)    

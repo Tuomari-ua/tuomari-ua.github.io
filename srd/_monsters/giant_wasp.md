@@ -1,8 +1,10 @@
-name: Giant Wasp
-type: beast
-cr: .5
-
-# Giant Wasp 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Wasp
+type: Beast
+tag: .5
+---
 _Medium beast, unaligned_
 
 **Armor Class** 12    

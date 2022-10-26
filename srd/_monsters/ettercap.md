@@ -1,8 +1,10 @@
-name: Ettercap
-type: monstrosity
-cr: 2
-
-# Ettercap 
+---
+layout: page-nontoc
+category: monsters
+title: Ettercap
+type: Monstrosity
+tag: 2
+---
 _Medium monstrosity, neutral evil_
 
 **Armor Class** 13 (natural armor)    

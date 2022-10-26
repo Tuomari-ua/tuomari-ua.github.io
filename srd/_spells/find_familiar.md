@@ -1,16 +1,15 @@
-name: Find Familiar
-level: 1
-school: conjuration
+---
+category: spells
+layout: page
+tag: Conjuration
 classes: wizard
-
-# Find Familiar 
+title: Find Familiar 
+---
 _1st-level conjuration (ritual)_ 
-
 **Casting Time:** 1 hour    
 **Range:** 10 feet    
 **Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)    
 **Duration:** Instantaneous 
-
 You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.    
 Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.    
 When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.    

@@ -1,8 +1,10 @@
-name: Ochre Jelly
-type: ooze
-cr: 2
-
-# Ochre Jelly 
+---
+layout: page-nontoc
+category: monsters
+title: Ochre Jelly
+type: Ooze
+tag: 2
+---
 _Large ooze, unaligned_
 
 **Armor Class** 8    

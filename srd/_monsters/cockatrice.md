@@ -1,8 +1,10 @@
-name: Cockatrice
-type: monstrosity
-cr: .5
-
-# Cockatrice 
+---
+layout: page-nontoc
+category: monsters
+title: Cockatrice
+type: Monstrosity
+tag: .5
+---
 _Small monstrosity, unaligned_
 
 **Armor Class** 11    

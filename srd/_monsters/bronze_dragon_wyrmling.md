@@ -1,8 +1,10 @@
-name: Bronze Dragon Wyrmling
-type: dragon
-cr: 2
-
-# Bronze Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Bronze Dragon Wyrmling
+type: Dragon
+tag: 2
+---
 _Medium dragon, lawful good_
 
 **Armor Class** 17 (natural armor)    

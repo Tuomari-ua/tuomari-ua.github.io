@@ -1,8 +1,10 @@
-name: Black bear
-type: beast
-cr: .5
-
-# Black Bear 
+---
+layout: page-nontoc
+category: monsters
+title: Black bear
+type: Beast
+tag: .5
+---
 _Medium beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

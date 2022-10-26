@@ -1,8 +1,10 @@
-name: Bugbear
-type: humanoid
-cr: 1
-
-# Bugbear 
+---
+layout: page-nontoc
+category: monsters
+title: Bugbear
+type: Humanoid
+tag: 1
+---
 _Medium humanoid (goblinoid), chaotic evil_
 
 **Armor Class** 16 (hide armor, shield)    

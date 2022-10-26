@@ -1,8 +1,10 @@
-name: Ice Mephit
-type: elemental
-cr: .5
-
-# Ice Mephit 
+---
+layout: page-nontoc
+category: monsters
+title: Ice Mephit
+type: Elemental
+tag: .5
+---
 _Small elemental, neutral evil_
 
 **Armor Class** 11    

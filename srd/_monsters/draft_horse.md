@@ -1,8 +1,10 @@
-name: Draft Horse
-type: beast
-cr: .25
-
-# Draft Horse 
+---
+layout: page-nontoc
+category: monsters
+title: Draft Horse
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 10    

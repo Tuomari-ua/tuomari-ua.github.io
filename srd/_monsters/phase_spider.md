@@ -1,8 +1,10 @@
-name: Phase Spider
-type: monstrosity
-cr: 3
-
-# Phase Spider 
+---
+layout: page-nontoc
+category: monsters
+title: Phase Spider
+type: Monstrosity
+tag: 3
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 13 (natural armor)    

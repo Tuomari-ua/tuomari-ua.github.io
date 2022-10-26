@@ -1,8 +1,10 @@
-name: Skeleton
-type: undead
-cr: .25
-
-# Skeleton 
+---
+layout: page-nontoc
+category: monsters
+title: Skeleton
+type: Undead
+tag: .25
+---
 _Medium undead, lawful evil_
 
 **Armor Class** 13 (armor scraps)    

@@ -1,8 +1,10 @@
-name: Ancient Bronze Dragon
-type: dragon
-cr: 22
-
-# Ancient Bronze Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Bronze Dragon
+type: Dragon
+tag: 22
+---
 _Gargantuan dragon, lawful good_
 
 **Armor Class** 22 (natural armor)    

@@ -1,8 +1,10 @@
-name: Vulture
-type: beast
-cr: 0
-
-# Vulture 
+---
+layout: page-nontoc
+category: monsters
+title: Vulture
+type: Beast
+tag: 0
+---
 _Medium beast, unaligned_
 
 **Armor Class** 10    

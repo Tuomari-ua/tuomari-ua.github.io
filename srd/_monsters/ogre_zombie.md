@@ -1,8 +1,10 @@
-name: Ogre Zombie
-type: undead
-cr: 2
-
-# Ogre Zombie 
+---
+layout: page-nontoc
+category: monsters
+title: Ogre Zombie
+type: Undead
+tag: 2
+---
 _Large undead, neutral evil_
 
 **Armor Class** 8    

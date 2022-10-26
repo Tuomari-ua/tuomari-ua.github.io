@@ -1,8 +1,10 @@
-name: Mimic
-type: monstrosity (shapechanger)
-cr: 2
-
-# Mimic 
+---
+layout: page-nontoc
+category: monsters
+title: Mimic
+type: Monstrosity (shapechanger)
+tag: 2
+---
 _Medium monstrosity (shapechanger), neutral_
 
 **Armor Class** 12 (natural armor)    

@@ -1,8 +1,10 @@
-name: Black Pudding
-type: ooze
-cr: 4
-
-# Black Pudding 
+---
+layout: page-nontoc
+category: monsters
+title: Black Pudding
+type: Ooze
+tag: 4
+---
 _Large ooze, unaligned_
 
 **Armor Class** 7    

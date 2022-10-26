@@ -1,8 +1,10 @@
-name: Storm Giant
-type: giant
-cr: 13
-
-# Storm Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Storm Giant
+type: Giant
+tag: 13
+---
 _Huge giant, chaotic good_
 
 **Armor Class** 16 (scale mail)    

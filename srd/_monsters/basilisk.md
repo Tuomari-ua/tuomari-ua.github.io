@@ -1,8 +1,10 @@
-name: Basilisk
-type: monstrosity
-cr: 3
-
-# Basilisk 
+---
+layout: page-nontoc
+category: monsters
+title: Basilisk
+type: Monstrosity
+tag: 3
+---
 _Medium monstrosity, unaligned_    
 **Armor Class** 15 (natural armor)    
 **Hit Points** 52 (8d8 + 16)    

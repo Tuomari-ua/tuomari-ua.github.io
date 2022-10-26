@@ -1,8 +1,10 @@
-name: Giant Ape
-type: beast
-cr: 7
-
-# Giant Ape 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Ape
+type: Beast
+tag: 7
+---
 _Huge beast, unaligned_
 
 **Armor Class** 12    

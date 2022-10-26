@@ -1,8 +1,10 @@
-name: Drider
-type: monstrosity
-cr: 6
-
-# Drider 
+---
+layout: page-nontoc
+category: monsters
+title: Drider
+type: Monstrosity
+tag: 6
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 19 (natural armor)    

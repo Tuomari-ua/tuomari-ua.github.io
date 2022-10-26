@@ -1,8 +1,10 @@
-name: Tarrasque
-type: monstrosity
-cr: 30
-
-# Tarrasque
+---
+layout: page-nontoc
+category: monsters
+title: Tarrasque
+type: Monstrosity
+tag: 30
+---
 _Gargantuan monstrosity (titan), unaligned_
 
 **Armor Class** 25 (natural armor)   

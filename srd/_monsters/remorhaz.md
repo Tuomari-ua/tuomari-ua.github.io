@@ -1,8 +1,10 @@
-name: Remorhaz
-type: monstrosity
-cr: 11
-
-# Remorhaz 
+---
+layout: page-nontoc
+category: monsters
+title: Remorhaz
+type: Monstrosity
+tag: 11
+---
 _Huge monstrosity, unaligned_
 
 **Armor Class** 17 (natural armor)    

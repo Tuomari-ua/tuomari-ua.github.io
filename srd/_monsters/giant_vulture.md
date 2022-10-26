@@ -1,8 +1,10 @@
-name: Giant Vulture
-type: beast
-cr: 1
-
-# Giant Vulture 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Vulture
+type: Beast
+tag: 1
+---
 _Large beast, neutral evil_
 
 **Armor Class** 10    

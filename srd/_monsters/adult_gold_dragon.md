@@ -1,8 +1,10 @@
-name: Adult Gold Dragon
-type: dragon
-cr: 17
-
-# Adult Gold Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Gold Dragon
+type: Dragon
+tag: 17
+---
 _Huge dragon, lawful good_
 
 **Armor Class** 19 (natural armor)    

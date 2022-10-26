@@ -1,18 +1,17 @@
-name: True Polymorph
-level: 9
-school: transmutation
+---
+category: spells
+layout: page
+tag: Transmutation
 classes: bard
          warlock
          wizard
-
-# True Polymorph 
+title: True Polymorph 
+---
 _9th-level transmutation_ 
-
 **Casting Time:** 1 action    
 **Range:** 30 feet    
 **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)    
 **Duration:** Concentration, up to 1 hour 
-
 Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.    
 This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.    
 **Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.    

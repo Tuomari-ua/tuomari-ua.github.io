@@ -1,14 +1,14 @@
 ---
-layout: page
+layout: page-nontoc
 category: index
 title: Бій
 ---
 
-* [Порядок бою](/combat/order_of_combat.html)
-* [Переміщення та розташування](/combat/movement_and_position.html)
-* [Дії в бою](/combat/actions_in_combat.html)
-* [Здійснення атаки](/combat/making_an_attack.html)
-* [Укриття](/combat/cover.html) 
-* [Пошкодження та зцілення](/combat/damage_and_healing.html)
-* [Верховий бій](/combat/mounted_combat.html)
-* [Підводний бій](/combat/underwater_combat.html)
+* [Порядок бою](/docs/combat/order_of_combat.html)
+* [Переміщення та розташування](/docs/combat/movement_and_position.html)
+* [Дії в бою](/docs/combat/actions_in_combat.html)
+* [Здійснення атаки](/docs/combat/making_an_attack.html)
+* [Укриття](/docs/combat/cover.html) 
+* [Пошкодження та зцілення](/docs/combat/damage_and_healing.html)
+* [Верховий бій](/docs/combat/mounted_combat.html)
+* [Підводний бій](/docs/combat/underwater_combat.html)

@@ -1,8 +1,10 @@
-name: Wight
-type: undead
-cr: 3
-
-# Wight 
+---
+layout: page-nontoc
+category: monsters
+title: Wight
+type: Undead
+tag: 3
+---
 _Medium undead, neutral evil_
 
 **Armor Class** 14 (studded leather)    

@@ -1,8 +1,10 @@
-name: Sea Hag
-type: fey
-cr: 2
-
-# Sea Hag 
+---
+layout: page-nontoc
+category: monsters
+title: Sea Hag
+type: Fey
+tag: 2
+---
 _Medium fey, chaotic evil_
 
 **Armor Class** 14 (natural armor)    

@@ -1,8 +1,10 @@
-name: Clay Golem
-type: construct
-cr: 9
-
-# Clay Golem 
+---
+layout: page-nontoc
+category: monsters
+title: Clay Golem
+type: Construct
+tag: 9
+---
 _Large construct, unaligned_
 
 **Armor Class** 14 (natural armor)    

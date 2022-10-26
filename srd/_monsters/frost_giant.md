@@ -1,8 +1,10 @@
-name: Frost Giant
-type: giant
-cr: 8
-
-# Frost Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Frost Giant
+type: Giant
+tag: 8
+---
 _Huge giant, neutral evil_
 
 **Armor Class** 15 (patchwork armor)    

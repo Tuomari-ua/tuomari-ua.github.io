@@ -1,8 +1,10 @@
-name: Saber-Toothed Tiger
-type: beast
-cr: 2
-
-# Saber-Toothed Tiger 
+---
+layout: page-nontoc
+category: monsters
+title: Saber-Toothed Tiger
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Ettin
-type: giant
-cr: 4
-
-# Ettin 
+---
+layout: page-nontoc
+category: monsters
+title: Ettin
+type: Giant
+tag: 4
+---
 _Large giant, chaotic evil_
 
 **Armor Class** 12 (natural armor)    

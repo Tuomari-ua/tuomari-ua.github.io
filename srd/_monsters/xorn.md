@@ -1,8 +1,10 @@
-name: Xorn
-type: elemental
-cr: 5
-
-# Xorn 
+---
+layout: page-nontoc
+category: monsters
+title: Xorn
+type: Elemental
+tag: 5
+---
 _Medium elemental, neutral_
 
 **Armor Class** 19 (natural armor)    

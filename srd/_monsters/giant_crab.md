@@ -1,8 +1,10 @@
-name: Giant Crab
-type: beast
-cr: .125
-
-# Giant Crab 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Crab
+type: Beast
+tag: .125
+---
 _Medium beast, unaligned_
 
 **Armor Class** 15 (natural armor)    

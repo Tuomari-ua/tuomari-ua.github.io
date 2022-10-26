@@ -1,8 +1,10 @@
-name: Hezrou
-type: fiend (demon)
-cr: 8
-
-# Hezrou 
+---
+layout: page-nontoc
+category: monsters
+title: Hezrou
+type: Fiend (demon)
+tag: 8
+---
 _Large fiend (demon), chaotic evil_
 **Armor Class** 16 (natural armor)    
 **Hit Points** 136 (13d10 + 65)    

@@ -1,8 +1,10 @@
-name: Flying Sword
-type: construct
-cr: .25
-
-# Flying Sword 
+---
+layout: page-nontoc
+category: monsters
+title: Flying Sword
+type: Construct
+tag: .25
+---
 _Small construct, unaligned_
 
 **Armor Class** 17 (natural armor)    

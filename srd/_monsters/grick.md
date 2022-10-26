@@ -1,8 +1,10 @@
-name: Grick
-type: monstrosity
-cr: 2
-
-# Grick 
+---
+layout: page-nontoc
+category: monsters
+title: Grick
+type: Monstrosity
+tag: 2
+---
 _Medium monstrosity, neutral_
 
 **Armor Class** 14 (natural armor)    

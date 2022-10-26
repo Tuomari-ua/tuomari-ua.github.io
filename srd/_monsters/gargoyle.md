@@ -1,8 +1,10 @@
-name: Gargoyle
-type: elemental
-cr: 2
-
-# Gargoyle 
+---
+layout: page-nontoc
+category: monsters
+title: Gargoyle
+type: Elemental
+tag: 2
+---
 _Medium elemental, chaotic evil_
 
 **Armor Class** 15 (natural armor)    

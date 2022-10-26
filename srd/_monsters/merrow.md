@@ -1,8 +1,10 @@
-name: Merrow
-type: monstrosity
-cr: 2
-
-# Merrow 
+---
+layout: page-nontoc
+category: monsters
+title: Merrow
+type: Monstrosity
+tag: 2
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 13 (natural armor)    

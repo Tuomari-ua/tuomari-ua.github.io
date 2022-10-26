@@ -1,8 +1,10 @@
-name: Homunculus
-type: construct
-cr: 0
-
-# Homunculus 
+---
+layout: page-nontoc
+category: monsters
+title: Homunculus
+type: Construct
+tag: 0
+---
 _Tiny construct, neutral_
 
 **Armor Class** 13 (natural armor)    

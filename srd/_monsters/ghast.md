@@ -1,8 +1,10 @@
-name: Ghast
-type: undead
-cr: 2
-
-# Ghast 
+---
+layout: page-nontoc
+category: monsters
+title: Ghast
+type: Undead
+tag: 2
+---
 _Medium undead, chaotic evil_
 
 **Armor Class** 13    

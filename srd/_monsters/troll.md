@@ -1,8 +1,10 @@
-name: Troll
-type: giant
-cr: 5
-
-# Troll
+---
+layout: page-nontoc
+category: monsters
+title: Troll
+type: Giant
+tag: 5
+---
 _Large giant, chaotic evil_
 
 **Armor Class** 15 (natural armor)    

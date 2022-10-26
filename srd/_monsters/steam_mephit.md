@@ -1,8 +1,10 @@
-name: Steam Mephit
-type: elemental
-cr: .25
-
-# Steam Mephit 
+---
+layout: page-nontoc
+category: monsters
+title: Steam Mephit
+type: Elemental
+tag: .25
+---
 _Small elemental, neutral evil_
 
 **Armor Class** 10    

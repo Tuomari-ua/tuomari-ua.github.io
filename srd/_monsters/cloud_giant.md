@@ -1,8 +1,10 @@
-name: Cloud Giant
-type: giant
-cr: 9
-
-# Cloud Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Cloud Giant
+type: Giant
+tag: 9
+---
 _Huge giant, neutral good (50%) or neutral evil (50%)_
 
 **Armor Class** 14 (natural armor)    

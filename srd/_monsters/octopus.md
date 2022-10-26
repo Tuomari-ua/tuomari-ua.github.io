@@ -1,8 +1,10 @@
-name: Octopus
-type: beast
-cr: 0
-
-# Octopus 
+---
+layout: page-nontoc
+category: monsters
+title: Octopus
+type: Beast
+tag: 0
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Azer
-type: elemental
-cr: 2
-
-# Azer 
+---
+layout: page-nontoc
+category: monsters
+title: Azer
+type: Elemental
+tag: 2
+---
 _Medium elemental, lawful neutral_
 
 **Armor Class** 17 (natural armor, shield)    

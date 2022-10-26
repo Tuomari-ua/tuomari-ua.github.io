@@ -1,8 +1,10 @@
-name: Assassin
-type: humanoid (any race)
-cr: 8
-
-# Assassin 
+---
+layout: page-nontoc
+category: monsters
+title: Assassin
+type: Humanoid (any race)
+tag: 8
+---
 _Medium humanoid (any race), any non-good alignment_
 
 **Armor Class** 15 (studded leather)    

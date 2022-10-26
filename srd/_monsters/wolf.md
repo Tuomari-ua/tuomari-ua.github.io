@@ -1,8 +1,10 @@
-name: Wolf
-type: beast
-cr: .25
-
-# Wolf 
+---
+layout: page-nontoc
+category: monsters
+title: Wolf
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

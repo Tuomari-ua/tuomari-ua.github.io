@@ -1,8 +1,10 @@
-name: Jackal
-type: beast
-cr: 0
-
-# Jackal 
+---
+layout: page-nontoc
+category: monsters
+title: Jackal
+type: Beast
+tag: 0
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

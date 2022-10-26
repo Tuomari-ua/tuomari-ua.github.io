@@ -1,8 +1,10 @@
-name: Swarm of Ravens
-type: swarm of Tiny beasts
-cr: .25
-
-# Swarm of Ravens 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Ravens
+type: Swarm of Tiny beasts
+tag: .25
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Scout
-type: humanoid (any race)
-cr: .5
-
-# Scout 
+---
+layout: page-nontoc
+category: monsters
+title: Scout
+type: Humanoid (any race)
+tag: .5
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 13 (leather armor)    

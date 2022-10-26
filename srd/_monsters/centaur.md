@@ -1,8 +1,10 @@
-name: Centaur
-type: monstrosity
-cr: 2
-
-# Centaur 
+---
+layout: page-nontoc
+category: monsters
+title: Centaur
+type: Monstrosity
+tag: 2
+---
 _Large monstrosity, neutral good_
 
 **Armor Class** 12    

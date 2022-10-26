@@ -1,8 +1,10 @@
-name: Gelatinous Cube
-type: ooze
-cr: 2
-
-# Gelatinous Cube 
+---
+layout: page-nontoc
+category: monsters
+title: Gelatinous Cube
+type: Ooze
+tag: 2
+---
 _Large ooze, unaligned_
 
 **Armor Class** 6    

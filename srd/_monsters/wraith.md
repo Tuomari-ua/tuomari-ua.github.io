@@ -1,8 +1,10 @@
-name: Wraith
-type: undead
-cr: 5
-
-# Wraith 
+---
+layout: page-nontoc
+category: monsters
+title: Wraith
+type: Undead
+tag: 5
+---
 _Medium undead, neutral evil_
 
 **Armor Class** 13    

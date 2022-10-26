@@ -1,8 +1,10 @@
-name: Werebear
-type: humanoid (human, shapechanger)
-cr: 5
-
-# Werebear 
+---
+layout: page-nontoc
+category: monsters
+title: Werebear
+type: Humanoid (human, shapechanger)
+tag: 5
+---
 _Medium humanoid (human, shapechanger), neutral good_
 
 **Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form    

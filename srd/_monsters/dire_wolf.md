@@ -1,8 +1,10 @@
-name: Dire Wolf
-type: beast
-cr: 1
-
-# Dire Wolf 
+---
+layout: page-nontoc
+category: monsters
+title: Dire Wolf
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 14 (natural armor)    

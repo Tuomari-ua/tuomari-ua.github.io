@@ -1,5 +1,9 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="uk-ua>
 
   {% include head.html %}
 
@@ -14,25 +18,7 @@
         <div class="container">
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small></br>
-           <!-- <small>Сьогодні {% assign m = site.time | date: "%-m" %}
-             {{ site.time | date: "%-d" }}
-             {% case m %}
-             {% when '1' %}Січня
-             {% when '2' %}Лютого
-             {% when '3' %}Березня
-             {% when '4' %}Квітня
-             {% when '5' %}Травня
-             {% when '6' %}Червня
-             {% when '7' %}Липня
-             {% when '8' %}Серпня
-             {% when '9' %}Вересня
-             {% when '10' %}Жовтня
-             {% when '11' %}Листопада
-             {% when '12' %}Грудня
-             {% endcase %}
-             {{ site.time | date: "%Y" }} року.
-            </small> -->
+            <small>{{ site.tagline }}</small>
           </h3>
         </div>
         <div class="container">
@@ -42,9 +28,10 @@
         </div>
       </div>
 
-    <div class="container content">
+      <div class="container content">
         {% include search.html %}
         {{ content }}
+        {% include share.html %}
       </div>
     </div>
 
@@ -57,5 +44,17 @@
         backgroundColor: 'rgb(34, 84, 40)',
         textColor: '#fff'
       })</script>
+    <script>
+      document
+        .querySelector('.post-content') // your selector for the post body
+        .querySelectorAll('h1,h2,h3,h4,h5,h6')
+        .forEach(function(heading) {
+          if (heading.id) {
+            heading.innerHTML =
+              '<a href="#' + heading.id + '">' + heading.innerText + '<\/a>';
+          }
+        });
+    </script>
+
   </body>
 </html>

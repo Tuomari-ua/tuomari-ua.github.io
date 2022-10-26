@@ -1,8 +1,10 @@
-name: Blood Hawk
-type: beast
-cr: .125
-
-# Blood Hawk 
+---
+layout: page-nontoc
+category: monsters
+title: Blood Hawk
+type: Beast
+tag: .125
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

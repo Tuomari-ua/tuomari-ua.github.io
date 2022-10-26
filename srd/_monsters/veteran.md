@@ -1,8 +1,10 @@
-name: Veteran
-type: humanoid (any race)
-cr: 3
-
-# Veteran 
+---
+layout: page-nontoc
+category: monsters
+title: Veteran
+type: Humanoid (any race)
+tag: 3
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 17 (splint)    

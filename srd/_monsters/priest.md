@@ -1,8 +1,10 @@
-name: Priest
-type: humanoid (any race)
-cr: 2
-
-# Priest 
+---
+layout: page-nontoc
+category: monsters
+title: Priest
+type: Humanoid (any race)
+tag: 2
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 13 (chain shirt)    

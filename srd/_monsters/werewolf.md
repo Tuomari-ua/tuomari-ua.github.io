@@ -1,8 +1,10 @@
-name: Werewolf
-type: humanoid (human, shapechanger)
-cr: 3
-
-# Werewolf 
+---
+layout: page-nontoc
+category: monsters
+title: Werewolf
+type: Humanoid (human, shapechanger)
+tag: 3
+---
 _Medium humanoid (human, shapechanger), chaotic evil_
 
 **Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form    

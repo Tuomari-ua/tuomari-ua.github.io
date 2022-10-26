@@ -1,8 +1,10 @@
-name: Adult Blue Dragon
-type: dragon
-cr: 16
-
-# Adult Blue Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Blue Dragon
+type: Dragon
+tag: 16
+---
 _Huge dragon, lawful evil_
 
 **Armor Class** 19 (natural armor)    

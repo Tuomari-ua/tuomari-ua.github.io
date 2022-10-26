@@ -1,8 +1,10 @@
-name: Berserker
-type: humanoid (any race)
-cr: 2
-
-# Berserker 
+---
+layout: page-nontoc
+category: monsters
+title: Berserker
+type: Humanoid (any race)
+tag: 2
+---
 _Medium humanoid (any race), any chaotic alignment_
 
 **Armor Class** 13 (hide armor)    

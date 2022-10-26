@@ -1,8 +1,10 @@
-name: Mummy
-type: undead
-cr: 3
-
-# Mummy 
+---
+layout: page-nontoc
+category: monsters
+title: Mummy
+type: Undead
+tag: 3
+---
 _Medium undead, lawful evil_
 
 **Armor Class** 11 (natural armor)    

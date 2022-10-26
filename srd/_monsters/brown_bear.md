@@ -1,8 +1,10 @@
-name: Brown Bear
-type: beast
-cr: 1
-
-# Brown Bear 
+---
+layout: page-nontoc
+category: monsters
+title: Brown Bear
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

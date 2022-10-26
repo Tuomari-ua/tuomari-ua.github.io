@@ -1,8 +1,10 @@
-name: Giant Scorpion
-type: beast
-cr: 3
-
-# Giant Scorpion 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Scorpion
+type: Beast
+tag: 3
+---
 _Large beast, unaligned_
 
 **Armor Class** 15 (natural armor)    

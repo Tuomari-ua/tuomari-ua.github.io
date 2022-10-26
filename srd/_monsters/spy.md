@@ -1,8 +1,10 @@
-name: Spy
-type: humanoid (any race)
-cr: 1
-
-# Spy 
+---
+layout: page-nontoc
+category: monsters
+title: Spy
+type: Humanoid (any race)
+tag: 1
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Sea Horse
-type: beast
-cr: 0
-
-# Sea Horse 
+---
+layout: page-nontoc
+category: monsters
+title: Sea Horse
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 11    

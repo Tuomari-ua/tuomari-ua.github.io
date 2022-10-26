@@ -1,17 +1,16 @@
-name: Dispel Evil and Good
-level: 5
-school: abjuration
+---
+category: spells
+layout: page
+tag: Abjuration
 classes: cleric
          paladin
-
-# Dispel Evil and Good 
+title: Dispel Evil and Good 
+---
 _5th-level abjuration_ 
-
 **Casting Time:** 1 action    
 **Range:** Self    
 **Components:** V, S, M (holy water or powdered silver and iron)    
 **Duration:** Concentration, up to 1 minute 
-
 Shimmering energy surrounds and protects you from fey, undead, and creatures originating from beyond the Material Plane. For the duration, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.    
 You can end the spell early by using either of the following special functions.    
 **Break Enchantment.** As your action, you touch a creature you can reach that is charmed, frightened, or possessed by a celestial, an elemental, a fey, a fiend, or an undead. The creature you touch is no longer charmed, frightened, or possessed by such creatures.    

@@ -1,8 +1,10 @@
-name: Water Elemental
-type: elemental
-cr: 5
-
-# Water Elemental 
+---
+layout: page-nontoc
+category: monsters
+title: Water Elemental
+type: Elemental
+tag: 5
+---
 _Large elemental, neutral_
 
 **Armor Class** 14 (natural armor)    

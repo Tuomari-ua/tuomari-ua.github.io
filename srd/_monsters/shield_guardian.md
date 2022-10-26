@@ -1,8 +1,10 @@
-name: Shield Guardian
-type: construct
-cr: 7
-
-# Shield Guardian 
+---
+layout: page-nontoc
+category: monsters
+title: Shield Guardian
+type: Construct
+tag: 7
+---
 _Large construct, unaligned_
 
 **Armor Class** 17 (natural armor)    

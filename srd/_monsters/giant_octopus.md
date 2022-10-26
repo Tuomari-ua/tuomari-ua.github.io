@@ -1,8 +1,10 @@
-name: Giant Octopus
-type: beast
-cr: 1
-
-# Giant Octopus 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Octopus
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 11    

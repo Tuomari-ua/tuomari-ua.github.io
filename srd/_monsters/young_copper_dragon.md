@@ -1,8 +1,10 @@
-name: Young Copper Dragon
-type: dragon
-cr: 7
-
-# Young Copper Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Copper Dragon
+type: Dragon
+tag: 7
+---
 _Large dragon, chaotic good_
 
 **Armor Class** 17 (natural armor)    

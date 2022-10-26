@@ -1,8 +1,10 @@
-name: Giant Fire Beetle
-type: beast
-cr: 0
-
-# Giant Fire Beetle 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Fire Beetle
+type: Beast
+tag: 0
+---
 _Small beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

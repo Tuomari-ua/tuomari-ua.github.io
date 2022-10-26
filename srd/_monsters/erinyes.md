@@ -1,8 +1,10 @@
-name: Erinyes
-type: fiend (devil)
-cr: 12
-
-# Erinyes 
+---
+layout: page-nontoc
+category: monsters
+title: Erinyes
+type: Fiend (devil)
+tag: 12
+---
 _Medium fiend (devil), lawful evil_
 
 **Armor Class** 18 (plate)    

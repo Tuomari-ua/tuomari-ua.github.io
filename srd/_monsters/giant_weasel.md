@@ -1,8 +1,10 @@
-name: Giant Weasel
-type: beast
-cr: .125
-
-# Giant Weasel 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Weasel
+type: Beast
+tag: .125
+---
 _Medium beast, unaligned_
 
 **Armor Class** 13    

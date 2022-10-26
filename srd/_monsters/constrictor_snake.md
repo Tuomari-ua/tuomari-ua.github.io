@@ -1,8 +1,10 @@
-name: Constrictor Snake
-type: beast
-cr: .25
-
-# Constrictor Snake 
+---
+layout: page-nontoc
+category: monsters
+title: Constrictor Snake
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 12    

@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Rod of Lordly Might 
-tag: item
+name: Rod of Lordly Might
+tag: rod
 title: Rod of Lordly Might 
 ---
-
 _Rod, legendary (requires attunement)_ 
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.

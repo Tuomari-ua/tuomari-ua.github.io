@@ -1,8 +1,10 @@
-name: Ancient Green Dragon
-type: dragon
-cr: 22
-
-# Ancient Green Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Green Dragon
+type: Dragon
+tag: 22
+---
 _Gargantuan dragon, lawful evil_
 
 **Armor Class** 21 (natural armor)    

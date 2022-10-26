@@ -1,8 +1,10 @@
-name: Hawk
-type: beast
-cr: 0
-
-# Hawk 
+---
+layout: page-nontoc
+category: monsters
+title: Hawk
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 13    

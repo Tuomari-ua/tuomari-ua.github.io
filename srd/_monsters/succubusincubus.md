@@ -1,8 +1,10 @@
-name: Succubus/Incubus
-type: fiend (shapechanger)
-cr: 4
-
-# Succubus/Incubus 
+---
+layout: page-nontoc
+category: monsters
+title: Succubus/Incubus
+type: Fiend (shapechanger)
+tag: 4
+---
 _Medium fiend (shapechanger), neutral evil_
 
 **Armor Class** 15 (natural armor)    

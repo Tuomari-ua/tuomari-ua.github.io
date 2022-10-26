@@ -1,8 +1,10 @@
-name: Kobold
-type: humanoid (kobold)
-cr: .125
-
-# Kobold 
+---
+layout: page-nontoc
+category: monsters
+title: Kobold
+type: Humanoid (kobold)
+tag: .125
+---
 _Small humanoid (kobold), lawful evil_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Noble
-type: humanoid (any race)
-cr: .125
-
-# Noble 
+---
+layout: page-nontoc
+category: monsters
+title: Noble
+type: Humanoid (any race)
+tag: .125
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 15 (breastplate)    

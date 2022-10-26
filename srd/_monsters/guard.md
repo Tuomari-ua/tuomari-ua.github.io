@@ -1,8 +1,10 @@
-name: Guard
-type: humanoid (any race)
-cr: .125
-
-# Guard 
+---
+layout: page-nontoc
+category: monsters
+title: Guard
+type: Humanoid (any race)
+tag: .125
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 16 (chain shirt, shield)    

@@ -3,9 +3,8 @@ category: items
 layout: page
 name: Robe of Eyes
 tag: item
-title: Robe of Eyes
+title: Robe of Eyes 
 ---
-
 _Wondrous item, rare (requires attunement)_ 
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:

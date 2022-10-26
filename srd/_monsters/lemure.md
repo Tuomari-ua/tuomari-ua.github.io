@@ -1,8 +1,10 @@
-name: Lemure
-type: fiend (devil)
-cr: 0
-
-# Lemure 
+---
+layout: page-nontoc
+category: monsters
+title: Lemure
+type: Fiend (devil)
+tag: 0
+---
 _Medium fiend (devil), lawful evil_
 
 **Armor Class** 7    

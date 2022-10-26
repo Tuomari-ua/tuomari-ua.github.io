@@ -1,8 +1,10 @@
-name: Will-o'-Wisp
-type: undead
-cr: 2
-
-# Will-o'-Wisp 
+---
+layout: page-nontoc
+category: monsters
+title: Will-o'-Wisp
+type: Undead
+tag: 2
+---
 _Tiny undead, chaotic evil_
 
 **Armor Class** 19    

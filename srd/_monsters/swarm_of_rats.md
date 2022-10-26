@@ -1,8 +1,10 @@
-name: Swarm of Rats
-type: swarm of Tiny beasts
-cr: .25
-
-# Swarm of Rats 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Rats
+type: Swarm of Tiny beasts
+tag: .25
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 10    

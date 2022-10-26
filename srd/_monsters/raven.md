@@ -1,8 +1,10 @@
-name: Raven
-type: beast
-cr: 0
-
-# Raven 
+---
+layout: page-nontoc
+category: monsters
+title: Raven
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 12    

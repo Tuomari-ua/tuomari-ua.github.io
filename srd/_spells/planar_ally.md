@@ -1,16 +1,15 @@
-name: Planar Ally
-level: 6
-school: conjuration
+---
+category: spells
+layout: page
+tag: Conjuration
 classes: cleric
-
-# Planar Ally 
+title: Planar Ally 
+---
 _6th-level conjuration_ 
-
 **Casting Time:** 10 minutes    
 **Range:** 60 feet    
 **Components:** V, S    
 **Duration:** Instantaneous 
-
 You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power. That entity sends a celestial, an elemental, or a fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (GM's choice).    
 When the creature appears, it is under no compulsion to behave in any particular way. You can ask the creature to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.    
 Payment can take a variety of forms. A celestial might require a sizable donation of gold or magic items to an allied temple, while a fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.    

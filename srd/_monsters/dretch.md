@@ -1,8 +1,10 @@
-name: Dretch
-type: fiend (demon)
-cr: .25
-
-# Dretch 
+---
+layout: page-nontoc
+category: monsters
+title: Dretch
+type: Fiend (demon)
+tag: .25
+---
 _Small fiend (demon), chaotic evil_
 
 **Armor Class** 11 (natural armor)    

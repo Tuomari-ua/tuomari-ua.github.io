@@ -1,8 +1,10 @@
-name: Animated Armor
-type: construct
-cr: 1
-
-# Animated Armor 
+---
+layout: page-nontoc
+category: monsters
+title: Animated Armor
+type: Construct
+tag: 1
+---
 _Medium construct, unaligned_
 
 **Armor Class** 18 (natural armor)    

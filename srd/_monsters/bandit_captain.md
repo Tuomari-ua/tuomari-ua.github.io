@@ -1,8 +1,10 @@
-name: Bandit Captain
-type: humanoid (any race)
-cr: 2
-
-# Bandit Captain 
+---
+layout: page-nontoc
+category: monsters
+title: Bandit Captain
+type: Humanoid (any race)
+tag: 2
+---
 _Medium humanoid (any race), any non-lawful alignment_
 
 **Armor Class** 15 (studded leather)    

@@ -1,8 +1,10 @@
-name: Young Silver Dragon
-type: dragon
-cr: 9
-
-# Young Silver Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Silver Dragon
+type: Dragon
+tag: 9
+---
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)    

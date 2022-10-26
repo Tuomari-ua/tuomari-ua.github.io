@@ -1,8 +1,10 @@
-name: Winter Wolf
-type: monstrosity
-cr: 3
-
-# Winter Wolf 
+---
+layout: page-nontoc
+category: monsters
+title: Winter Wolf
+type: Monstrosity
+tag: 3
+---
 _Large monstrosity, neutral evil_
 
 **Armor Class** 13 (natural armor)    

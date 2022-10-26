@@ -1,8 +1,10 @@
-name: Earth Elemental
-type: elemental
-cr: 5
-
-# Earth Elemental 
+---
+layout: page-nontoc
+category: monsters
+title: Earth Elemental
+type: Elemental
+tag: 5
+---
 _Large elemental, neutral_
 
 **Armor Class** 17 (natural armor)    

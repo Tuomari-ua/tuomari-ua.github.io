@@ -1,8 +1,10 @@
-name: Roper
-type: monstrosity
-cr: 5
-
-# Roper 
+---
+layout: page-nontoc
+category: monsters
+title: Roper
+type: Monstrosity
+tag: 5
+---
 _Large monstrosity, neutral evil_
 
 **Armor Class** 20 (natural armor)    

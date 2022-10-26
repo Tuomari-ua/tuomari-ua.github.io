@@ -1,8 +1,10 @@
-name: Shambling Mound
-type: plant
-cr: 5
-
-# Shambling Mound 
+---
+layout: page-nontoc
+category: monsters
+title: Shambling Mound
+type: Plant
+tag: 5
+---
 _Large plant, unaligned_
 
 **Armor Class** 15 (natural armor)    

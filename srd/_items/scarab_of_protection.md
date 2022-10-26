@@ -3,9 +3,8 @@ category: items
 layout: page
 name: Scarab of Protection
 tag: item
-title: Scarab of Protection
+title: Scarab of Protection 
 ---
-
 _Wondrous item, legendary (requires attunement)_ 
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:

@@ -1,8 +1,10 @@
-name: Kraken
-type: monstrosity (titan)
-cr: 23
-
-# Kraken 
+---
+layout: page-nontoc
+category: monsters
+title: Kraken
+type: Monstrosity (titan)
+tag: 23
+---
 _Gargantuan monstrosity (titan), chaotic evil_
 
 **Armor Class** 18 (natural armor)    

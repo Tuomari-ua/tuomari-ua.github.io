@@ -1,11 +1,11 @@
-name: Blade Barrier
-level: 6
-school: evocation
+---
+category: spells
+layout: page
+tag: Evocation
 classes: cleric
-
-# Blade Barrier 
+title: Blade Barrier 
+---
 _6th-level evocation_ 
-
 **Casting Time:** 1 action   
 **Range:** 90 feet   
 **Components:** V, S   

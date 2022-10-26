@@ -1,8 +1,10 @@
-name: Green Hag
-type: fey
-cr: 3
-
-# Green Hag 
+---
+layout: page-nontoc
+category: monsters
+title: Green Hag
+type: Fey
+tag: 3
+---
 _Medium fey, neutral evil_
 
 **Armor Class** 17 (natural armor)    

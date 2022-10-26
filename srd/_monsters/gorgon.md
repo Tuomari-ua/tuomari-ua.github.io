@@ -1,8 +1,10 @@
-name: Gorgon
-type: monstrosity
-cr: 5
-
-# Gorgon 
+---
+layout: page-nontoc
+category: monsters
+title: Gorgon
+type: Monstrosity
+tag: 5
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 19 (natural armor)    

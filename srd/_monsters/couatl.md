@@ -1,8 +1,10 @@
-name: Couatl
-type: celestial
-cr: 4
-
-# Couatl 
+---
+layout: page-nontoc
+category: monsters
+title: Couatl
+type: Celestial
+tag: 4
+---
 _Medium celestial, lawful good_
 
 **Armor Class** 19 (natural armor)    

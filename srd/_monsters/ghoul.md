@@ -1,8 +1,10 @@
-name: Ghoul
-type: undead
-cr: 1
-
-# Ghoul 
+---
+layout: page-nontoc
+category: monsters
+title: Ghoul
+type: Undead
+tag: 1
+---
 _Medium undead, chaotic evil_
 
 **Armor Class** 12    

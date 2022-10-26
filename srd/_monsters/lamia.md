@@ -1,8 +1,10 @@
-name: Lamia
-type: monstrosity
-cr: 4
-
-# Lamia 
+---
+layout: page-nontoc
+category: monsters
+title: Lamia
+type: Monstrosity
+tag: 4
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 13 (natural armor)    

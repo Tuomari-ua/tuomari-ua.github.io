@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Shield of Missile Attraction 
+name: Shield of Missile Attraction
 tag: armor
 title: Shield of Missile Attraction 
 ---
-
 _Armor (shield), rare (requires attunement)_ 
 
 While holding this shield, you have resistance to damage from ranged weapon attacks.

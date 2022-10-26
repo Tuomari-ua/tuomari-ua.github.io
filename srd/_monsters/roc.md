@@ -1,8 +1,10 @@
-name: Roc
-type: monstrosity
-cr: 11
-
-# Roc 
+---
+layout: page-nontoc
+category: monsters
+title: Roc
+type: Monstrosity
+tag: 11
+---
 _Gargantuan monstrosity, unaligned_
 
 **Armor Class** 15 (natural armor)    

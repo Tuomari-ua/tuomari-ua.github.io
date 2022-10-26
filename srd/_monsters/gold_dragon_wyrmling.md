@@ -1,8 +1,10 @@
-name: Gold Dragon Wyrmling
-type: dragon
-cr: 3
-
-# Gold Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Gold Dragon Wyrmling
+type: Dragon
+tag: 3
+---
 _Medium dragon, lawful evil_
 
 **Armor Class** 17 (natural armor)    

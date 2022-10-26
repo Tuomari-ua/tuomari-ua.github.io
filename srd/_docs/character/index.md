@@ -1,39 +1,39 @@
 ---
-layout: page
+layout: page-nontoc
 category: index
 title: Персонаж
 ---
 
 ## Загальні відомості
-* [Світогляд](/character/alignment.html)
-* [Передісторія](/character/backgrounds.html)
-* [Фантастично-історичні пантеони](/character/fantasy-historical_pantheons.html)
-* [Мови](/character/languages.html)
+* [Світогляд](/docs/character/alignment.html)
+* [Передісторія](/docs/character/backgrounds.html)
+* [Фантастично-історичні пантеони](/docs/character/fantasy-historical_pantheons.html)
+* [Мови](/docs/character/languages.html)
 
 ## Класи
 
-* [Бард](/character/classes/bard.html)
-* [Боєць](/character/classes/fighter.html)
-* [Варвар](/character/classes/barbarian.html)
-* [Друїд](/character/classes/druid.html)
-* [Заклинач](/character/classes/sorcerer.html)
-* [Клірик](/character/classes/cleric.html)
-* [Маг](/character/classes/wizard.html)
-* [Монах](/character/classes/monk.html)
-* [Паладин](/character/classes/paladin.html)
-* [Пройдисвіт](/character/classes/rogue.html)
-* [Рейнджер](/character/classes/ranger.html)
-* [Чаклун](/character/classes/warlock.html)
+* [Бард](/docs/character/classes/bard.html)
+* [Боєць](/docs/character/classes/fighter.html)
+* [Варвар](/docs/character/classes/barbarian.html)
+* [Друїд](/docs/character/classes/druid.html)
+* [Заклинач](/docs/character/classes/sorcerer.html)
+* [Клірик](/docs/character/classes/cleric.html)
+* [Маг](/docs/character/classes/wizard.html)
+* [Монах](/docs/character/classes/monk.html)
+* [Паладин](/docs/character/classes/paladin.html)
+* [Пройдисвіт](/docs/character/classes/rogue.html)
+* [Рейнджер](/docs/character/classes/ranger.html)
+* [Чаклун](/docs/character/classes/warlock.html)
 
 
 ## Раси
 
-* [Людина](/character/races/human.html)
-* [Гном](/character/races/gnome.html)
-* [Дворф](/character/races/dwarf.html)
-* [Ельф](/character/races/elf.html)
-* [Напівельф](/character/races/half-elf.html)
-* [Напіврослик](/character/races/halfling.html)
-* [Напіворк](/character/races/half-orc.html)
-* [Тифлінґ](/character/races/tiefling.html)
-* [Драконороджений](/character/races/dragonborn.html)
+* [Людина](/docs/character/races/human.html)
+* [Гном](/docs/character/races/gnome.html)
+* [Дворф](/docs/character/races/dwarf.html)
+* [Ельф](/docs/character/races/elf.html)
+* [Напівельф](/docs/character/races/half-elf.html)
+* [Напіврослик](/docs/character/races/halfling.html)
+* [Напіворк](/docs/character/races/half-orc.html)
+* [Тифлінґ](/docs/character/races/tiefling.html)
+* [Драконороджений](/docs/character/races/dragonborn.html)

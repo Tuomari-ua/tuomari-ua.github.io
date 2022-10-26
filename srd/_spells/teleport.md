@@ -1,21 +1,19 @@
-name: Teleport
-level: 7
-school: conjuration
+---
+category: spells
+layout: page
+tag: Conjuration
 classes: bard
          sorcerer
          wizard
-
-# Teleport 
+title: Teleport 
+---
 _7th-level conjuration_ 
-
 **Casting Time:** 1 action    
 **Range:** 10 feet    
 **Components:** V    
 **Duration:** Instantaneous 
-
 This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.    
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table. 
-
 | Familiarity       | Mishap | Similar Area | Off Target | On Target |
 |-------------------|--------|--------------|------------|-----------|
 | Permanent circle  | -      | -            | -          | 01-100    |
@@ -25,7 +23,6 @@ The destination you choose must be known to you, and it must be on the same plan
 | Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
 | Description       | 01-43  | 44-53        | 54-73      | 74-100    |
 | False destination | 01-50  | 51-100       | -          | -         |
- 
 **Familiarity.** "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.    
 "Very familiar" is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. "Seen casually" is someplace you have seen more than once but with which you aren't very familiar. "Viewed once" is a place you have seen once, possibly using magic. "Description" is a place whose location and appearance you know through someone else's description, perhaps from a map.    
 "False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a familiar location that no longer exists.    

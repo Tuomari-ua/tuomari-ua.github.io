@@ -1,8 +1,10 @@
-name: Acolyte
-type: humanoid (any race)
-cr: .25
-
-# Acolyte 
+---
+layout: page-nontoc
+category: monsters
+title: Acolyte
+type: Humanoid (any race)
+tag: .25
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 10    

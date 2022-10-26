@@ -1,8 +1,10 @@
-name: Violet Fungus
-type: plant
-cr: .25
-
-# Violet Fungus 
+---
+layout: page-nontoc
+category: monsters
+title: Violet Fungus
+type: Plant
+tag: .25
+---
 _Medium plant, unaligned_
 
 **Armor Class** 5    

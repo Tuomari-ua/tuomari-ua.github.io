@@ -1,8 +1,10 @@
-name: Gnoll
-type: humanoid (gnoll)
-cr: .5
-
-# Gnoll 
+---
+layout: page-nontoc
+category: monsters
+title: Gnoll
+type: Humanoid (gnoll)
+tag: .5
+---
 _Medium humanoid (gnoll), chaotic evil_
 
 **Armor Class** 15 (hide armor, shield)    

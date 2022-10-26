@@ -1,8 +1,10 @@
-name: Stone Giant
-type: giant
-cr: 7
-
-# Stone Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Stone Giant
+type: Giant
+tag: 7
+---
 _Huge giant, neutral_
 
 **Armor Class** 17 (natural armor)    

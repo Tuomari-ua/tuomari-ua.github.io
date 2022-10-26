@@ -1,8 +1,10 @@
-name: Giant Constrictor Snake
-type: beast
-cr: 2
-
-# Giant Constrictor Snake 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Constrictor Snake
+type: Beast
+tag: 2
+---
 _Huge beast, unaligned_
 
 **Armor Class** 12    

@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Potion of Poison 
+name: Potion of Poison
 tag: potion
 title: Potion of Poison 
 ---
-
 _Potion, uncommon_ 
 
 This concoction looks, smells, and tastes like a **potion of healing** or other beneficial potion. However, it is actually poison masked by illusion magic. An **_identify_** spell reveals its true nature.

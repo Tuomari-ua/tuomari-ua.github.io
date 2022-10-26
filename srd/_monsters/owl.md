@@ -1,8 +1,10 @@
-name: Owl
-type: beast
-cr: 0
-
-# Owl 
+---
+layout: page-nontoc
+category: monsters
+title: Owl
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 11    

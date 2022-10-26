@@ -1,8 +1,10 @@
-name: Tiger
-type: beast
-cr: 1
-
-# Tiger 
+---
+layout: page-nontoc
+category: monsters
+title: Tiger
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 12    

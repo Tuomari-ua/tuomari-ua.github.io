@@ -1,8 +1,10 @@
-name: Giant Owl
-type: beast
-cr: .25
-
-# Giant Owl 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Owl
+type: Beast
+tag: .25
+---
 _Large beast, neutral_
 
 **Armor Class** 12    

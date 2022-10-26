@@ -1,8 +1,10 @@
-name: Giant Goat
-type: beast
-cr: .5
-
-# Giant Goat 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Goat
+type: Beast
+tag: .5
+---
 _Large beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

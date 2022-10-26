@@ -1,8 +1,10 @@
-name: Iron Golem
-type: construct
-cr: 16
-
-# Iron Golem 
+---
+layout: page-nontoc
+category: monsters
+title: Iron Golem
+type: Construct
+tag: 16
+---
 _Large construct, unaligned_
 
 **Armor Class** 20 (natural armor)    

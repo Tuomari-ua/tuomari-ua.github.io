@@ -1,8 +1,10 @@
-name: Adult Black Dragon
-type: dragon
-cr: 14
-
-# Adult Black Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Black Dragon
+type: Dragon
+tag: 14
+---
 _Huge dragon, chaotic evil_
 
 **Armor Class** 19 (natural armor)    

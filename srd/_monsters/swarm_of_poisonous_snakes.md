@@ -1,8 +1,10 @@
-name: Swarm of Poisonous Snakes
-type: swarm of Tiny beasts
-cr: 2
-
-# Swarm of Poisonous Snakes 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Poisonous Snakes
+type: Swarm of Tiny beasts
+tag: 2
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 14    

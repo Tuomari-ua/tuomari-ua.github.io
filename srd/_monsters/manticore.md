@@ -1,8 +1,10 @@
-name: Manticore
-type: monstrosity
-cr: 3
-
-# Manticore 
+---
+layout: page-nontoc
+category: monsters
+title: Manticore
+type: Monstrosity
+tag: 3
+---
 _Large monstrosity, lawful evil_
 
 **Armor Class** 14 (natural armor)    

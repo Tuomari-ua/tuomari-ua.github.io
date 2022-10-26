@@ -1,8 +1,10 @@
-name: Adult Brass Dragon
-type: dragon
-cr: 13
-
-# Adult Brass Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Brass Dragon
+type: Dragon
+tag: 13
+---
 _Huge dragon, chaotic good_
 
 **Armor Class** 18 (natural armor)    

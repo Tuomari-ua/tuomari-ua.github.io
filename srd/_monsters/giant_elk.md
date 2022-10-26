@@ -1,8 +1,10 @@
-name: Giant Elk
-type: beast
-cr: 2
-
-# Giant Elk 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Elk
+type: Beast
+tag: 2
+---
 _Huge beast, unaligned_
 
 **Armor Class** 14 (natural armor)    

@@ -1,8 +1,10 @@
-name: Giant Badger
-type: beast
-cr: .25
-
-# Giant Badger 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Badger
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 10    

@@ -1,8 +1,10 @@
-name: Frog
-type: beast
-cr: 0
-
-# Frog 
+---
+layout: page-nontoc
+category: monsters
+title: Frog
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 11    

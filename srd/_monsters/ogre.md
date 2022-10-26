@@ -1,8 +1,10 @@
-name: Ogre
-type: giant
-cr: 2
-
-# Ogre 
+---
+layout: page-nontoc
+category: monsters
+title: Ogre
+type: Giant
+tag: 2
+---
 _Large giant, chaotic evil_
 
 **Armor Class** 11 (hide armor)    

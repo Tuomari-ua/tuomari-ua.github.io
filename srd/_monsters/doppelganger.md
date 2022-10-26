@@ -1,8 +1,10 @@
-name: Doppelganger
-type: monstrosity
-cr: 3
-
-# Doppelganger 
+---
+layout: page-nontoc
+category: monsters
+title: Doppelganger
+type: Monstrosity
+tag: 3
+---
 _Medium monstrosity (shapechanger), neutral_
 
 **Armor Class** 14    

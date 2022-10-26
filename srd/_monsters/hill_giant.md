@@ -1,8 +1,10 @@
-name: Hill Giant
-type: giant
-cr: 5
-
-# Hill Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Hill Giant
+type: Giant
+tag: 5
+---
 _Huge giant, chaotic evil_
 
 **Armor Class** 13 (natural armor)    

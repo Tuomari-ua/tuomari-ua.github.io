@@ -1,8 +1,10 @@
-name: Giant Lizard
-type: beast
-cr: .25
-
-# Giant Lizard 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Lizard
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

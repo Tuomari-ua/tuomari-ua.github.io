@@ -1,8 +1,10 @@
-name: Hydra
-type: monstrosity
-cr: 8
-
-# Hydra 
+---
+layout: page-nontoc
+category: monsters
+title: Hydra
+type: Monstrosity
+tag: 8
+---
 _Huge monstrosity, unaligned_
 
 **Armor Class** 15 (natural armor)    

@@ -1,8 +1,10 @@
-name: Gnome, Deep (Svirfneblin)
-type: humanoid (gnome)
-cr: .5
-
-# Gnome, Deep (Svirfneblin) 
+---
+layout: page-nontoc
+category: monsters
+title: Gnome, Deep (Svirfneblin)
+type: Humanoid (gnome)
+tag: .5
+---
 _Small humanoid (gnome), neutral good_
 
 **Armor Class** 15 (chain shirt)    

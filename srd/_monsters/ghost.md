@@ -1,8 +1,10 @@
-name: Ghost
-type: undead
-cr: 4
-
-# Ghost 
+---
+layout: page-nontoc
+category: monsters
+title: Ghost
+type: Undead
+tag: 4
+---
 _Medium undead, any alignment_
 
 **Armor Class** 11    

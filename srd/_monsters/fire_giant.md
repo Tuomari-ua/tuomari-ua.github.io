@@ -1,8 +1,10 @@
-name: Fire Giant
-type: giant
-cr: 9
-
-# Fire Giant 
+---
+layout: page-nontoc
+category: monsters
+title: Fire Giant
+type: Giant
+tag: 9
+---
 _Huge giant, lawful evil_
 
 **Armor Class** 18 (plate)    

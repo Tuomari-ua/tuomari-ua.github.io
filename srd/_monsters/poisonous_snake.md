@@ -1,8 +1,10 @@
-name: Poisonous Snake
-type: beast
-cr: .125
-
-# Poisonous Snake 
+---
+layout: page-nontoc
+category: monsters
+title: Poisonous Snake
+type: Beast
+tag: .125
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 13    

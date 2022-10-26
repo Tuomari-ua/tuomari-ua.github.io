@@ -1,8 +1,10 @@
-name: Giant Wolf Spider
-type: beast
-cr: .25
-
-# Giant Wolf Spider 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Wolf Spider
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 13    

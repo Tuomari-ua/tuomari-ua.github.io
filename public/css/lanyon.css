@@ -194,7 +194,7 @@ h4 {
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
-  background-color: rgba(255,255,255,.1);
+  background-color: rgba(255,255,255,.9);
   border-color: transparent;
 }
 
@@ -436,6 +436,16 @@ a.pagination-item:hover {
           transform: translateX(-14rem);
 }
 
+/*
+ * Search
+ */
+
+input {
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 17px;
+  border: 1px solid transparent;
+}
 
 /*
  * Themes
@@ -470,8 +480,8 @@ a.pagination-item:hover {
 .theme-base-08 .masthead {
   border-bottom: 3px solid #d35353;
 }
-.theme-base-0b a:hover,
-.theme-base-0b a:focus {
+.theme-base-08 a:hover,
+.theme-base-08 a:focus {
   color: #d35353;
 }
 
@@ -528,6 +538,42 @@ a.pagination-item:hover {
 .theme-base-0b a:hover,
 .theme-base-0b a:focus {
   color: #04c250;
+}
+.theme-base-0b .fa-youtube:hover {
+color: #005522;
+}
+.theme-base-0b .fa-github:hover {
+color: #005522;
+}
+.theme-base-0b .fa-facebook:hover {
+color: #005522;
+}
+.theme-base-0b .fa-twitter:hover {
+color: #005522;
+}
+.theme-base-0b .fa-linkedin:hover {
+color: #005522;
+}
+.theme-base-0b .fa-instagram:hover {
+color: #005522;
+}
+.theme-base-0b .fa-google:hover {
+color: #005522;
+}
+.theme-base-0b .fa-telegram:hover {
+color: #005522;
+}
+.theme-base-0b .fa-discord:hover {
+color: #005522;
+}
+.theme-base-0b .fa-whatsapp:hover {
+color: #005522;
+}
+.theme-base-0b .fa-envelope:hover {
+color: #005522;
+}
+.theme-base-0b .fa-viber:hover {
+color: #005522;
 }
 
 /* Cyan */
@@ -607,24 +653,39 @@ a.pagination-item:hover {
  *
  */
 
-.fa-youtube:hover {
+.fa-youtube {
 color: #FF0000;
 }
-.fa-github:hover {
+.fa-github {
 color: #000000;
 }
-.fa-facebook:hover {
+.fa-facebook {
 color: #4267B2;
 }
-.fa-twitter:hover {
+.fa-twitter {
 color: #1DA1F2;
 }
-.fa-linkedin:hover {
+.fa-linkedin {
 color: #0072b1;
 }
-.fa-instagram:hover {
+.fa-instagram {
 color: #8a3ab9;
 }
-.fa-google:hover {
+.fa-google {
 color: #f4b400;
+}
+.fa-telegram {
+color: #2aabee;
+}
+.fa-discord {
+color: #7289da;
+}
+.fa-whatsapp {
+color: #25D366;
+}
+.fa-envelope {
+color: #BB001B;
+}
+.fa-viber {
+color: #59267c;
 }

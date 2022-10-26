@@ -1,8 +1,10 @@
-name: Griffon
-type: monstrosity
-cr: 2
-
-# Griffon 
+---
+layout: page-nontoc
+category: monsters
+title: Griffon
+type: Monstrosity
+tag: 2
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 12    

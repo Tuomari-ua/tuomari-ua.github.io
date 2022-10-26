@@ -1,8 +1,10 @@
-name: Young Gold Dragon
-type: dragon
-cr: 10
-
-# Young Gold Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Gold Dragon
+type: Dragon
+tag: 10
+---
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)    

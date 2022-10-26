@@ -1,8 +1,10 @@
-name: Tribal Warrior
-type: humanoid (any race)
-cr: .125
-
-# Tribal Warrior 
+---
+layout: page-nontoc
+category: monsters
+title: Tribal Warrior
+type: Humanoid (any race)
+tag: .125
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 12 (hide armor)    

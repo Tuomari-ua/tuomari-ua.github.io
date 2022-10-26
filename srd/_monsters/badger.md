@@ -1,8 +1,10 @@
-name: Badger
-type: beast
-cr: 0
-
-# Badger 
+---
+layout: page-nontoc
+category: monsters
+title: Badger
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 10    

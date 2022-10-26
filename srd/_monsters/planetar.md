@@ -1,8 +1,10 @@
-name: Planetar
-cr: 16
-type: celestial
-
-# Planetar 
+---
+layout: page-nontoc
+category: monsters
+title: Planetar
+tag: 16
+type: Celestial
+---
 _Large celestial, lawful good_
 
 **Armor Class** 19 (natural armor)    

@@ -1,8 +1,10 @@
-name: Hippogriff
-type: monstrosity
-cr: 1
-
-# Hippogriff 
+---
+layout: page-nontoc
+category: monsters
+title: Hippogriff
+type: Monstrosity
+tag: 1
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 11    

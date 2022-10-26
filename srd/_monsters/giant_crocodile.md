@@ -1,8 +1,10 @@
-name: Giant Crocodile
-type: beast
-cr: 5
-
-# Giant Crocodile 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Crocodile
+type: Beast
+tag: 5
+---
 _Huge beast, unaligned_
 
 **Armor Class** 14 (natural armor)    

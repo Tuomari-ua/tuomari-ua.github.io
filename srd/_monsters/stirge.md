@@ -1,8 +1,10 @@
-name: Stirge
-type: beast
-cr: .125
-
-# Stirge 
+---
+layout: page-nontoc
+category: monsters
+title: Stirge
+type: Beast
+tag: .125
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 14 (natural armor)    

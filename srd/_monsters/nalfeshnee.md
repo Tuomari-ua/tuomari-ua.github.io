@@ -1,8 +1,10 @@
-name: Nalfeshnee
-type: fiend (demon)
-cr: 13
-
-# Nalfeshnee 
+---
+layout: page-nontoc
+category: monsters
+title: Nalfeshnee
+type: Fiend (demon)
+tag: 13
+---
 _Large fiend (demon), chaotic evil_
 
 **Armor Class** 18 (natural armor)    

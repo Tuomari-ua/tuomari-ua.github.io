@@ -1,8 +1,10 @@
-name: Dragon Turtle
-type: dragon
-cr: 17
-
-# Dragon Turtle 
+---
+layout: page-nontoc
+category: monsters
+title: Dragon Turtle
+type: Dragon
+tag: 17
+---
 _Gargantuan dragon, neutral_
 
 **Armor Class** 20 (natural armor)    

@@ -1,8 +1,10 @@
-name: Nightmare
-type: fiend
-cr: 3
-
-# Nightmare 
+---
+layout: page-nontoc
+category: monsters
+title: Nightmare
+type: Fiend
+tag: 3
+---
 _Large fiend, neutral evil_
 
 **Armor Class** 13 (natural armor)    

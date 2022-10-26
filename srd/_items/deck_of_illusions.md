@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Deck of Illusions 
+name: Deck of Illusions
 tag: item
 title: Deck of Illusions 
 ---
-
 _Wondrous item, uncommon_ 
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.

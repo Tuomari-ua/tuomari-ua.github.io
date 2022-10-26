@@ -1,8 +1,10 @@
-name: Merfolk
-type: humanoid (merfolk)
-cr: .125
-
-# Merfolk 
+---
+layout: page-nontoc
+category: monsters
+title: Merfolk
+type: Humanoid (merfolk)
+tag: .125
+---
 _Medium humanoid (merfolk), neutral_
 
 **Armor Class** 11    

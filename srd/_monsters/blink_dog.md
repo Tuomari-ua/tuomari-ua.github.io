@@ -1,8 +1,10 @@
-name: Blink Dog
-type: fey
-cr: .25
-
-# Blink Dog 
+---
+layout: page-nontoc
+category: monsters
+title: Blink Dog
+type: Fey
+tag: .25
+---
 _Medium fey, lawful good_
 
 **Armor Class** 13    

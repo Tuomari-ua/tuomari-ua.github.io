@@ -1,8 +1,10 @@
-name: Ancient White Dragon
-type: dragon
-cr: 20
-
-# Ancient White Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient White Dragon
+type: Dragon
+tag: 20
+---
 _Gargantuan dragon, chaotic evil_
 
 **Armor Class** 20 (natural armor)    

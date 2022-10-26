@@ -1,8 +1,10 @@
-name: Pegasus
-type: celestial
-cr: 2
-
-# Pegasus 
+---
+layout: page-nontoc
+category: monsters
+title: Pegasus
+type: Celestial
+tag: 2
+---
 _Large celestial, chaotic good_
 
 **Armor Class** 12    

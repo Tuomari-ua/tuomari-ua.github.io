@@ -1,8 +1,10 @@
-name: Orc
-type: humanoid (orc)
-cr: .5
-
-# Orc 
+---
+layout: page-nontoc
+category: monsters
+title: Orc
+type: Humanoid (orc)
+tag: .5
+---
 _Medium humanoid (orc), chaotic evil_
 
 **Armor Class** 13 (hide armor)    

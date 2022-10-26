@@ -1,17 +1,16 @@
-name: Imprisonment
-level: 9
-school: abjuration
+---
+category: spells
+layout: page
+tag: Abjuration
 classes: warlock
          wizard
-
-# Imprisonment 
+title: Imprisonment 
+---
 _9th-level abjuration_
-
 **Casting Time:** 1 minute    
 **Range:** 30 feet    
 **Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)    
 **Duration:** Until dispelled 
-
 You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.    
 When you cast the spell, you choose one of the following forms of imprisonment.    
 **Burial.** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it.    

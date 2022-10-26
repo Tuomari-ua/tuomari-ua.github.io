@@ -1,8 +1,10 @@
-name: Sahuagin
-type: humanoid (sahuagin)
-cr: .5
-
-# Sahuagin 
+---
+layout: page-nontoc
+category: monsters
+title: Sahuagin
+type: Humanoid (sahuagin)
+tag: .5
+---
 _Medium humanoid (sahuagin), lawful evil_
 
 **Armor Class** 12 (natural armor)    

@@ -1,8 +1,10 @@
-name: Bandit
-type: humanoid (any race)
-cr: .125
-
-# Bandit 
+---
+layout: page-nontoc
+category: monsters
+title: Bandit
+type: Humanoid (any race)
+tag: .125
+---
 _Medium humanoid (any race), any non-lawful alignment_
 
 **Armor Class** 12 (leather armor)    

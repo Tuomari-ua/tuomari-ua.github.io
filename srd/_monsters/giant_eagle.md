@@ -1,8 +1,10 @@
-name: Giant Eagle
-type: beast
-cr: 1
-
-# Giant Eagle 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Eagle
+type: Beast
+tag: 1
+---
 _Large beast, neutral good_
 
 **Armor Class** 13    

@@ -1,8 +1,10 @@
-name: Owlbear
-type: monstrosity
-cr: 3
-
-# Owlbear 
+---
+layout: page-nontoc
+category: monsters
+title: Owlbear
+type: Monstrosity
+tag: 3
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 13 (natural armor)    

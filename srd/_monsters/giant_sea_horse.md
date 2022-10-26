@@ -1,8 +1,10 @@
-name: Giant Sea Horse
-type: beast
-cr: .5
-
-# Giant Sea Horse 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Sea Horse
+type: Beast
+tag: .5
+---
 _Large beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

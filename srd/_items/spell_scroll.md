@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Spell Scroll 
+name: Spell Scroll
 tag: scroll
 title: Spell Scroll 
 ---
-
 _Scroll, varies_ 
 
 A **spell scroll** bears the words of a single spell, written in a mystical cipher. If the spell is on your class's spell list, you can use an action to read the scroll and cast its spell without having to provide any of the spell's components. Otherwise, the scroll is unintelligible.
@@ -17,7 +16,6 @@ Once the spell is cast, the words on the scroll fade, and the scroll itself crum
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table. 
 
 ### Spell Scroll
-
 | Spell Level | Rarity    | Save DC | Attack Bonus |
 |-------------|-----------|---------|--------------|
 | Cantrip     | Common    | 13      | +5           |

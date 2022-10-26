@@ -1,8 +1,10 @@
-name: Young Red Dragon
-type: dragon
-cr: 10
-
-# Young Red Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Red Dragon
+type: Dragon
+tag: 10
+---
 _Large dragon, chaotic evil_
 
 **Armor Class** 18 (natural armor)    

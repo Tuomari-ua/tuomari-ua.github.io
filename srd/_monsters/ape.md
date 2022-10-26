@@ -1,8 +1,10 @@
-name: Ape
-type: beast
-cr: .5
-
-# Ape 
+---
+layout: page-nontoc
+category: monsters
+title: Ape
+type: Beast
+tag: .5
+---
 _Medium beast, unaligned_
 
 **Armor Class** 12    

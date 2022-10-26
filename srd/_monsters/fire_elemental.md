@@ -1,8 +1,10 @@
-name: Fire Elemental
-type: elemental
-cr: 5
-
-# Fire Elemental 
+---
+layout: page-nontoc
+category: monsters
+title: Fire Elemental
+type: Elemental
+tag: 5
+---
 _Large elemental, neutral_
 
 **Armor Class** 13    

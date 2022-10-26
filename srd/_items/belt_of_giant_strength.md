@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Belt of Giant Strength 
+name: Belt of Giant Strength
 tag: item
 title: Belt of Giant Strength 
 ---
-
 _Wondrous item, rarity varies (requires attunement)_ 
 
 While wearing this belt, your Strength score changes to a score granted by the belt. If your Strength is already equal to or greater than the belt's score, the item has no effect on you.

@@ -1,8 +1,10 @@
-name: Killer Whale
-type: beast
-cr: 3
-
-# Killer Whale 
+---
+layout: page-nontoc
+category: monsters
+title: Killer Whale
+type: Beast
+tag: 3
+---
 _Huge beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

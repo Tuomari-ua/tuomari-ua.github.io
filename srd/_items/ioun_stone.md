@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Ioun Stone 
+name: Ioun Stone
 tag: item
 title: Ioun Stone 
 ---
-
 _Wondrous item, rarity varies (requires attunement)_ 
 
 An **Ioun stone** is named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of **Ioun stone** exist, each type a distinct combination of shape and color.

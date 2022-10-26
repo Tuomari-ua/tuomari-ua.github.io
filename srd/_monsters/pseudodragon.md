@@ -1,8 +1,10 @@
-name: Pseudodragon
-type: dragon
-cr: .25
-
-# Pseudodragon 
+---
+layout: page-nontoc
+category: monsters
+title: Pseudodragon
+type: Dragon
+tag: .25
+---
 _Tiny dragon, neutral good_
 
 **Armor Class** 13 (natural armor)    

@@ -1,8 +1,10 @@
-name: Half-Red Dragon Veteran
-type: humanoid (human)
-cr: 5
-
-# Half-Red Dragon Veteran 
+---
+layout: page-nontoc
+category: monsters
+title: Half-Red Dragon Veteran
+type: Humanoid (human)
+tag: 5
+---
 _Medium humanoid (human), any alignment_
 
 **Armor Class** 18 (plate)    

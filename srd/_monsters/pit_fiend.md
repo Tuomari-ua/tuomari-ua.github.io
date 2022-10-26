@@ -1,8 +1,10 @@
-name: Pit Fiend
-type: fiend (devil)
-cr: 20
-
-# Pit Fiend 
+---
+layout: page-nontoc
+category: monsters
+title: Pit Fiend
+type: Fiend (devil)
+tag: 20
+---
 _Large fiend (devil), lawful evil_
 
 **Armor Class** 19 (natural armor)    

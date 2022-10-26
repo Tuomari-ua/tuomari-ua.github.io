@@ -1,8 +1,10 @@
-name: Ancient Brass Dragon
-type: dragon
-cr: 20
-
-# Ancient Brass Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Brass Dragon
+type: Dragon
+tag: 20
+---
 _Gargantuan dragon, chaotic good_
 
 **Armor Class** 20 (natural armor)    

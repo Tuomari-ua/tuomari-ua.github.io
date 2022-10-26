@@ -1,8 +1,10 @@
-name: Androsphinx
-type: monstrosity
-cr: 17
-
-# Androsphinx 
+---
+layout: page-nontoc
+category: monsters
+title: Androsphinx
+type: Monstrosity
+tag: 17
+---
 _Large monstrosity, lawful neutral_
 
 **Armor Class** 17 (natural armor)    

@@ -1,8 +1,10 @@
-name: Giant Centipede
-type: beast
-cr: .25
-
-# Giant Centipede 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Centipede
+type: Beast
+tag: .25
+---
 _Small beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

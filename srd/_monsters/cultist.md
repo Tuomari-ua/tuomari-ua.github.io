@@ -1,8 +1,10 @@
-name: Cultist
-type: humanoid (any race)
-cr: .125
-
-# Cultist 
+---
+layout: page-nontoc
+category: monsters
+title: Cultist
+type: Humanoid (any race)
+tag: .125
+---
 _Medium humanoid (any race), any non-good alignment_
 
 **Armor Class** 12 (leather armor)    

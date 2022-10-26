@@ -1,8 +1,10 @@
-name: Dust Mephit
-type: elemental
-cr: .5
-
-# Dust Mephit 
+---
+layout: page-nontoc
+category: monsters
+title: Dust Mephit
+type: Elemental
+tag: .5
+---
 _Small elemental, neutral evil_
 
 **Armor Class** 12    

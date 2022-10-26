@@ -1,8 +1,10 @@
-name: Gynosphinx
-type: monstrosity
-cr: 11
-
-# Gynosphinx 
+---
+layout: page-nontoc
+category: monsters
+title: Gynosphinx
+type: Monstrosity
+tag: 11
+---
 _Large monstrosity, lawful neutral_
 
 **Armor Class** 17 (natural armor)    

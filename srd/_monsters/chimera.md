@@ -1,8 +1,10 @@
-name: Chimera
-type: monstrosity
-cr: 6
-
-# Chimera 
+---
+layout: page-nontoc
+category: monsters
+title: Chimera
+type: Monstrosity
+tag: 6
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 14 (natural armor)    

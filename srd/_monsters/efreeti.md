@@ -1,8 +1,10 @@
-name: Efreeti
-type: elemental
-cr: 11
-
-# Efreeti 
+---
+layout: page-nontoc
+category: monsters
+title: Efreeti
+type: Elemental
+tag: 11
+---
 _Large elemental, lawful evil_
 
 **Armor Class** 17 (natural armor)    

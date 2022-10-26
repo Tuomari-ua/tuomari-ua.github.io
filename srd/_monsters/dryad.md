@@ -1,8 +1,10 @@
-name: Dryad
-type: fey
-cr: 1
-
-# Dryad 
+---
+layout: page-nontoc
+category: monsters
+title: Dryad
+type: Fey
+tag: 1
+---
 _Medium fey, neutral_
 
 **Armor Class** 11 (16 with barkskin)    

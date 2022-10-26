@@ -1,8 +1,10 @@
-name: Adult Silver Dragon
-type: dragon
-cr: 16
-
-# Adult Silver Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Silver Dragon
+type: Dragon
+tag: 16
+---
 _Huge dragon, lawful good_
 
 **Armor Class** 19 (natural armor)    

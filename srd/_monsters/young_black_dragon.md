@@ -1,8 +1,10 @@
-name: Young Black Dragon
-type: dragon
-cr: 7
-
-# Young Black Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Black Dragon
+type: Dragon
+tag: 7
+---
 _Large dragon, chaotic evil_
 
 **Armor Class** 18 (natural armor)    

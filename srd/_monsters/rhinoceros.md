@@ -1,8 +1,10 @@
-name: Rhinoceros
-type: beast
-cr: 2
-
-# Rhinoceros 
+---
+layout: page-nontoc
+category: monsters
+title: Rhinoceros
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

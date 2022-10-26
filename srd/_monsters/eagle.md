@@ -1,8 +1,10 @@
-name: Eagle
-type: beast
-cr: 0
-
-# Eagle 
+---
+layout: page-nontoc
+category: monsters
+title: Eagle
+type: Beast
+tag: 0
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

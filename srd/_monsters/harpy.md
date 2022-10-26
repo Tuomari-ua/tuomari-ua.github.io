@@ -1,8 +1,10 @@
-name: Harpy
-type: monstrosity
-cr: 1
-
-# Harpy 
+---
+layout: page-nontoc
+category: monsters
+title: Harpy
+type: Monstrosity
+tag: 1
+---
 _Medium monstrosity, chaotic evil_
 
 **Armor Class** 11    

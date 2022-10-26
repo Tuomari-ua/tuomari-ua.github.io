@@ -1,17 +1,16 @@
-name: Prismatic Spray
-level: 7
-school: evocation
+---
+category: spells
+layout: page
+tag: Evocation
 classes: sorcerer
          wizard
-
-# Prismatic Spray 
+title: Prismatic Spray 
+---
 _7th-level evocation_ 
-
 **Casting Time:** 1 action    
 **Range:** Self (60-foot cone)    
 **Components:** V, S    
 **Duration:** Instantaneous 
-
 Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.    
 **1. Red.** The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.    
 **2. Orange.** The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.    

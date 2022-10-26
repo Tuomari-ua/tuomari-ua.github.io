@@ -1,8 +1,10 @@
-name: Bat
-type: beast
-cr: 0
-
-# Bat 
+---
+layout: page-nontoc
+category: monsters
+title: Bat
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 12    

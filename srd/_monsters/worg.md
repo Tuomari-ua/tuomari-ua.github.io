@@ -1,8 +1,10 @@
-name: Worg
-type: monstrosity
-cr: .5
-
-# Worg 
+---
+layout: page-nontoc
+category: monsters
+title: Worg
+type: Monstrosity
+tag: .5
+---
 _Large monstrosity, neutral evil_
 
 **Armor Class** 13 (natural armor)    

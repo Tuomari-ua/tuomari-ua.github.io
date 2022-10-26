@@ -1,8 +1,10 @@
-name: Air Elemental
-type: elemental
-cr: 5
-
-# Air Elemental 
+---
+layout: page-nontoc
+category: monsters
+title: Air Elemental
+type: Elemental
+tag: 5
+---
 _Large elemental, neutral_
 
 **Armor Class** 15    

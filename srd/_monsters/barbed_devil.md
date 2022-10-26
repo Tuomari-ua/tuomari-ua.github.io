@@ -1,8 +1,10 @@
-name: Barbed Devil
-type: fiend (devil)
-cr: 5
-
-# Barbed Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Barbed Devil
+type: Fiend (devil)
+tag: 5
+---
 _Medium fiend (devil), lawful evil_
 
 **Armor Class** 15 (natural armor)    

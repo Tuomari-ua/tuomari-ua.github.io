@@ -1,8 +1,10 @@
-name: Night Hag
-type: fiend
-cr: 5
-
-# Night Hag 
+---
+layout: page-nontoc
+category: monsters
+title: Night Hag
+type: Fiend
+tag: 5
+---
 _Medium fiend, neutral evil_
 
 **Armor Class** 17 (natural armor)    

@@ -1,8 +1,10 @@
-name: Ancient Silver Dragon
-type: dragon
-cr: 23
-
-# Ancient Silver Dragon
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Silver Dragon
+type: Dragon
+tag: 23
+---
 _ Gargantuan dragon, lawful good_
 
 **Armor Class** 22 (natural armor)    

@@ -1,8 +1,10 @@
-name: Ankheg
-type: monstrosity
-cr: 2
-
-# Ankheg 
+---
+layout: page-nontoc
+category: monsters
+title: Ankheg
+type: Monstrosity
+tag: 2
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 14 (natural armor), 11 while prone    

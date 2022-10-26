@@ -1,8 +1,10 @@
-name: Ancient Blue Dragon
-type: dragon
-cr: 23
-
-# Ancient Blue Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Blue Dragon
+type: Dragon
+tag: 23
+---
 _Gargantuan dragon, lawful evil_
 
 **Armor Class** 22 (natural armor)    

@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Gem of Brightness 
+name: Gem of Brightness
 tag: item
 title: Gem of Brightness 
 ---
-
 _Wondrous item, uncommon_ 
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:

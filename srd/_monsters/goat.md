@@ -1,8 +1,10 @@
-name: Goat
-type: beast
-cr: 0
-
-# Goat 
+---
+layout: page-nontoc
+category: monsters
+title: Goat
+type: Beast
+tag: 0
+---
 _Medium beast, unaligned_
 
 **Armor Class** 10    

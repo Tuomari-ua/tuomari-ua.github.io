@@ -1,8 +1,10 @@
-name: Elephant
-type: beast
-cr: 4
-
-# Elephant 
+---
+layout: page-nontoc
+category: monsters
+title: Elephant
+type: Beast
+tag: 4
+---
 _Huge beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

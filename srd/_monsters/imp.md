@@ -1,8 +1,10 @@
-name: Imp
-type: fiend (devil)
-cr: 1
-
-# Imp 
+---
+layout: page-nontoc
+category: monsters
+title: Imp
+type: Fiend (devil)
+tag: 1
+---
 _Tiny fiend (devil, shapechanger), lawful evil_
 
 **Armor Class** 13    

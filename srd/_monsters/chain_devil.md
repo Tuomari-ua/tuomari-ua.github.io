@@ -1,8 +1,10 @@
-name: Chain Devil
-type: fiend (devil)
-cr: 8
-
-# Chain Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Chain Devil
+type: Fiend (devil)
+tag: 8
+---
 _Medium fiend (devil), lawful evil_
 
 **Armor Class** 16 (natural armor)    

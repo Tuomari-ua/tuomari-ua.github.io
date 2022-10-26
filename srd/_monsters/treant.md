@@ -1,8 +1,10 @@
-name: Treant
-type: plant
-cr: 9
-
-# Treant
+---
+layout: page-nontoc
+category: monsters
+title: Treant
+type: Plant
+tag: 9
+---
 _Huge plant, chaotic good_
 
 **Armor Class** 16 (natural armor)   

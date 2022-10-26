@@ -1,8 +1,10 @@
-name: Elf, Drow
-type: humanoid (elf)
-cr: .25
-
-# Elf, Drow 
+---
+layout: page-nontoc
+category: monsters
+title: Elf, Drow
+type: Humanoid (elf)
+tag: .25
+---
 _Medium humanoid (elf), neutral evil_   
 **Armor Class** 15 (chain shirt)    
 **Hit Points** 13 (3d8)    

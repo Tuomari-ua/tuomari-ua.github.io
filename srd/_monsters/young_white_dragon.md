@@ -1,8 +1,10 @@
-name: Young White Dragon
-type: dragon
-cr: 6
-
-# Young White Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young White Dragon
+type: Dragon
+tag: 6
+---
 _Large dragon, chaotic evil_
 
 **Armor Class** 17 (natural armor)    

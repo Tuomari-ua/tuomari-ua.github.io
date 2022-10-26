@@ -1,8 +1,10 @@
-name: Djinni
-type: elemental
-cr: 11
-
-# Djinni 
+---
+layout: page-nontoc
+category: monsters
+title: Djinni
+type: Elemental
+tag: 11
+---
 _Large elemental, chaotic good_
 
 **Armor Class** 17 (natural armor)    

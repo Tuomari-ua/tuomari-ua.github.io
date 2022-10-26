@@ -1,8 +1,10 @@
-name: Tyrannosaurus Rex
-type: beast
-cr: 8
-
-# Tyrannosaurus Rex 
+---
+layout: page-nontoc
+category: monsters
+title: Tyrannosaurus Rex
+type: Beast
+tag: 8
+---
 _Huge beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

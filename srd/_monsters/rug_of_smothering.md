@@ -1,8 +1,10 @@
-name: Rug of Smothering
-type: construct
-cr: 2
-
-# Rug of Smothering 
+---
+layout: page-nontoc
+category: monsters
+title: Rug of Smothering
+type: Construct
+tag: 2
+---
 _Large construct, unaligned_
 
 **Armor Class** 12    

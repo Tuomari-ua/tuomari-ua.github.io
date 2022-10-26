@@ -1,8 +1,10 @@
-name: Crocodile
-type: beast
-cr: .5
-
-# Crocodile 
+---
+layout: page-nontoc
+category: monsters
+title: Crocodile
+type: Beast
+tag: .5
+---
 _Large beast, unaligned_
  
 **Armor Class** 12 (natural armor)    

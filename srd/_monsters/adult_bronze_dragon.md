@@ -1,8 +1,10 @@
-name: Adult Bronze Dragon
-type: dragon
-cr: 15
-
-# Adult Bronze Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Bronze Dragon
+type: Dragon
+tag: 15
+---
 _Huge dragon, lawful good_
 
 **Armor Class** 19 (natural armor)    

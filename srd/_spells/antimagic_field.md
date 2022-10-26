@@ -1,17 +1,16 @@
-name: Antimagic Field
-level: 8
-school: abjuration
+---
+category: spells
+layout: page
+tag: Abjuration
 classes: cleric
          wizard
-
-# Antimagic Field 
+title: Antimagic Field 
+---
 _8th-level abjuration_ 
-
 **Casting Time:** 1 action    
 **Range:** Self (10-foot-radius sphere)   
 **Components:** V, S, M (a pinch of powdered iron or iron filings)    
 **Duration:** Concentration, up to 1 hour 
-
 A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divorced from the magical energy that suffuses the multiverse. Within the sphere, spells canft be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you.    
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.    
 **Targeted Effects.** Spells and other magical effects, such as **_magic missile_** and **_charm person_**, that target a creature or an object in the sphere have no effect on that target.    

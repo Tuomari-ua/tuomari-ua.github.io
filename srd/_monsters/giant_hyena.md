@@ -1,8 +1,10 @@
-name: Giant Hyena
-type: beast
-cr: 1
-
-# Giant Hyena 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Hyena
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 12    

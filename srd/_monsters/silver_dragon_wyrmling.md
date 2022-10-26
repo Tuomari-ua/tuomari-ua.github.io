@@ -1,8 +1,10 @@
-name: Silver Dragon Wyrmling
-type: dragon
-cr: 2
-
-# Silver Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Silver Dragon Wyrmling
+type: Dragon
+tag: 2
+---
 _Medium dragon, lawful good_
 
 **Armor Class** 17 (natural armor)    

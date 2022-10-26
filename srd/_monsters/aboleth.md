@@ -1,9 +1,10 @@
-name: Aboleth
-cr: 10
-type: aberration
-
-
-# Aboleth 
+---
+layout: page-nontoc
+category: monsters
+title: Aboleth
+type: Aberration
+tag: 10
+---
 _Large aberration, lawful evil_ 
 
 **Armor Class** 17 (natural armor)    

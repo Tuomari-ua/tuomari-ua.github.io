@@ -1,8 +1,10 @@
-name: Salamander
-type: elemental
-cr: 5
-
-# Salamander 
+---
+layout: page-nontoc
+category: monsters
+title: Salamander
+type: Elemental
+tag: 5
+---
 _Large elemental, neutral evil_
 
 **Armor Class** 15 (natural armor)    

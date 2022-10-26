@@ -1,8 +1,10 @@
-name: Riding Horse
-type: beast
-cr: .25
-
-# Riding Horse 
+---
+layout: page-nontoc
+category: monsters
+title: Riding Horse
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 10    

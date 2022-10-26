@@ -1,8 +1,10 @@
-name: Black Dragon Wyrmling
-type: dragon
-cr: 2
-
-# Black Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Black Dragon Wyrmling
+type: Dragon
+tag: 2
+---
 _Medium dragon, chaotic evil_
 
 **Armor Class** 17 (natural armor)    

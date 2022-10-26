@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Sphere of Annihilation 
+name: Sphere of Annihilation
 tag: item
 title: Sphere of Annihilation 
 ---
-
 _Wondrous item, legendary_ 
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
@@ -17,6 +16,7 @@ The sphere is stationary until someone controls it. If you are within 60 feet of
 If you attempt to control a sphere that is under another creature's control, you make an Intelligence (Arcana) check contested by the other creature's Intelligence (Arcana) check. The winner of the contest gains control of the sphere and can levitate it as normal.
 
 If the sphere comes into contact with a planar portal, such as that created by the **_gate_** spell, or an extradimensional space, such as that within a **portable hole**, the GM determines randomly what happens, using the following table. 
+
 
 | d100  | Result                                                                                                                             |
 |-------|------------------------------------------------------------------------------------------------------------------------------------|

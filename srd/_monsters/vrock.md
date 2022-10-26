@@ -1,8 +1,10 @@
-name: Vrock
-type: fiend (demon)
-cr: 6
-
-# Vrock 
+---
+layout: page-nontoc
+category: monsters
+title: Vrock
+type: Fiend (demon)
+tag: 6
+---
 _Large fiend (demon), chaotic evil_
 
 **Armor Class** 15 (natural armor)    

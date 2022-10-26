@@ -1,8 +1,10 @@
-name: Giant Boar
-type: beast
-cr: 2
-
-# Giant Boar 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Boar
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

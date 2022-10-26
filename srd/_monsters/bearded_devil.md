@@ -1,8 +1,10 @@
-name: Bearded Devil
-type: fiend (devil)
-cr: 3
-
-# Bearded Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Bearded Devil
+type: Fiend (devil)
+tag: 3
+---
 _Medium fiend (devil), lawful evil_
 
 **Armor Class** 13 (natural armor)    

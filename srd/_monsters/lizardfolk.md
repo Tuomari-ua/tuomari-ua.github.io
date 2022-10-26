@@ -1,8 +1,10 @@
-name: Lizardfolk
-type: humanoid (lizardfolk)
-cr: .5
-
-# Lizardfolk 
+---
+layout: page-nontoc
+category: monsters
+title: Lizardfolk
+type: Humanoid (lizardfolk)
+tag: .5
+---
 _Medium humanoid (lizardfolk), neutral_
 
 **Armor Class** 15 (natural armor, shield)    

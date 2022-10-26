@@ -1,8 +1,10 @@
-name: Mastiff
-type: beast
-cr: .125
-
-# Mastiff 
+---
+layout: page-nontoc
+category: monsters
+title: Mastiff
+type: Beast
+tag: .125
+---
 _Medium beast, unaligned_
 
 **Armor Class** 12    

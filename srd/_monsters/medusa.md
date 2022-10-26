@@ -1,8 +1,10 @@
-name: Medusa
-type: monstrosity
-cr: 6
-
-# Medusa 
+---
+layout: page-nontoc
+category: monsters
+title: Medusa
+type: Monstrosity
+tag: 6
+---
 _Medium monstrosity, lawful evil_
 
 **Armor Class** 15 (natural armor)    

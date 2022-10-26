@@ -1,8 +1,10 @@
-name: Adult Green Dragon
-type: dragon
-cr: 15
-
-# Adult Green Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Green Dragon
+type: Dragon
+tag: 15
+---
 _Huge dragon, lawful evil_
 
 **Armor Class** 19 (natural armor)    

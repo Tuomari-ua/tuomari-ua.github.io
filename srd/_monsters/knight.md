@@ -1,8 +1,10 @@
-name: Knight
-type: humanoid (any race)
-cr: 3
-
-# Knight 
+---
+layout: page-nontoc
+category: monsters
+title: Knight
+type: Humanoid (any race)
+tag: 3
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 18 (plate)    

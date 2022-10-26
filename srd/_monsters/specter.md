@@ -1,8 +1,10 @@
-name: Specter
-type: undead
-cr: 1
-
-# Specter 
+---
+layout: page-nontoc
+category: monsters
+title: Specter
+type: Undead
+tag: 1
+---
 _Medium undead, chaotic evil_
 
 **Armor Class** 12    

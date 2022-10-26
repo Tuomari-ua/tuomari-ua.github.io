@@ -1,8 +1,10 @@
-name: Otyugh
-type: aberration
-cr: 5
-
-# Otyugh 
+---
+layout: page-nontoc
+category: monsters
+title: Otyugh
+type: Aberration
+tag: 5
+---
 _Large aberration, neutral_
 
 **Armor Class** 14 (natural armor)    

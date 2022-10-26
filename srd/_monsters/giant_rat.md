@@ -1,8 +1,10 @@
-name: Giant Rat
-type: beast
-cr: .125
-
-# Giant Rat 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Rat
+type: Beast
+tag: .125
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

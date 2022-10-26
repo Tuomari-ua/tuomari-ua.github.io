@@ -1,8 +1,10 @@
-name: Magma Mephit
-type: elemental
-cr: .5
-
-# Magma Mephit 
+---
+layout: page-nontoc
+category: monsters
+title: Magma Mephit
+type: Elemental
+tag: .5
+---
 _Small elemental, neutral evil_
 
 **Armor Class** 11    

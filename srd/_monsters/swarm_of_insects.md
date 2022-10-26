@@ -1,8 +1,10 @@
-name: Swarm of Insects
-type: swarm of Tiny beasts
-cr: .5
-
-# Swarm of Insects 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Insects
+type: Swarm of Tiny beasts
+tag: .5
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 12 (natural armor)    

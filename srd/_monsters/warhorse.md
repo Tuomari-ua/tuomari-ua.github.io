@@ -1,8 +1,10 @@
-name: Warhorse
-type: beast
-cr: .5
-
-# Warhorse 
+---
+layout: page-nontoc
+category: monsters
+title: Warhorse
+type: Beast
+tag: .5
+---
 _Large beast, unaligned_
 
 **Armor Class** 11    

@@ -1,8 +1,10 @@
-name: Giant Spider
-type: beast
-cr: 1
-
-# Giant Spider 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Spider
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 14 (natural armor)    

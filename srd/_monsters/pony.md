@@ -1,8 +1,10 @@
-name: Pony
-type: beast
-cr: .125
-
-# Pony 
+---
+layout: page-nontoc
+category: monsters
+title: Pony
+type: Beast
+tag: .125
+---
 _Medium beast, unaligned_
 
 **Armor Class** 10    

@@ -1,8 +1,10 @@
-name: Weasel
-type: beast
-cr: 0
-
-# Weasel 
+---
+layout: page-nontoc
+category: monsters
+title: Weasel
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 13    

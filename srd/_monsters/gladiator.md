@@ -1,8 +1,10 @@
-name: Gladiator
-type: humanoid (any race)
-cr: 5
-
-# Gladiator 
+---
+layout: page-nontoc
+category: monsters
+title: Gladiator
+type: Humanoid (any race)
+tag: 5
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 16 (studded leather, shield)    

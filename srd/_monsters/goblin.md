@@ -1,8 +1,10 @@
-name: Goblin
-type: humanoid (goblinoid)
-cr: .25
-
-# Goblin 
+---
+layout: page-nontoc
+category: monsters
+title: Goblin
+type: Humanoid (goblinoid)
+tag: .25
+---
 _Small humanoid (goblinoid), neutral evil_
 
 **Armor Class** 15 (leather armor, shield)    

@@ -1,8 +1,10 @@
-name: Plesiosaurus
-type: beast
-cr: 2
-
-# Plesiosaurus 
+---
+layout: page-nontoc
+category: monsters
+title: Plesiosaurus
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

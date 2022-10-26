@@ -1,8 +1,10 @@
-name: Red Dragon Wyrmling
-type: dragon
-cr: 4
-
-# Red Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Red Dragon Wyrmling
+type: Dragon
+tag: 4
+---
 _Medium dragon, chaotic evil_
 
 **Armor Class** 17 (natural armor)    

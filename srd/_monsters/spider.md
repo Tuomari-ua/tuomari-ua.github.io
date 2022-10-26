@@ -1,8 +1,10 @@
-name: Spider
-type: beast
-cr: 0
-
-# Spider 
+---
+layout: page-nontoc
+category: monsters
+title: Spider
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 12    

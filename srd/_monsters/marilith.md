@@ -1,8 +1,10 @@
-name: Marilith
-type: fiend (demon)
-cr: 16
-
-# Marilith 
+---
+layout: page-nontoc
+category: monsters
+title: Marilith
+type: Fiend (demon)
+tag: 16
+---
 _Large fiend (demon), chaotic evil_
 
 **Armor Class** 18 (natural armor)    

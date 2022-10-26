@@ -1,8 +1,10 @@
-name: Spirit Naga
-type: monstrosity
-cr: 8
-
-# Spirit Naga 
+---
+layout: page-nontoc
+category: monsters
+title: Spirit Naga
+type: Monstrosity
+tag: 8
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 15 (natural armor)    

@@ -1,8 +1,10 @@
-name: Hyena
-type: beast
-cr: 0
-
-# Hyena 
+---
+layout: page-nontoc
+category: monsters
+title: Hyena
+type: Beast
+tag: 0
+---
 _Medium beast, unaligned_
 
 **Armor Class** 11    

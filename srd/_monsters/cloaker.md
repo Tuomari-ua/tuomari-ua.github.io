@@ -1,8 +1,10 @@
-name: Cloaker
-type: aberration
-cr: 8
-
-# Cloaker 
+---
+layout: page-nontoc
+category: monsters
+title: Cloaker
+type: Aberration
+tag: 8
+---
 _Large aberration, chaotic neutral_
 
 **Armor Class** 14 (natural armor)    

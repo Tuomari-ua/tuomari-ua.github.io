@@ -1,8 +1,10 @@
-name: Ice Devil
-type: fiend (devil)
-cr: 14
-
-# Ice Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Ice Devil
+type: Fiend (devil)
+tag: 14
+---
 _Large fiend (devil), lawful evil_
 
 **Armor Class** 18 (natural armor)    

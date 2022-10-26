@@ -1,8 +1,10 @@
-name: Crab
-type: beast
-cr: 0
-
-# Crab 
+---
+layout: page-nontoc
+category: monsters
+title: Crab
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

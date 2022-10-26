@@ -1,8 +1,10 @@
-name: Rakshasa
-type: fiend
-cr: 13
-
-# Rakshasa 
+---
+layout: page-nontoc
+category: monsters
+title: Rakshasa
+type: Fiend
+tag: 13
+---
 _Medium fiend, lawful evil_
 
 **Armor Class** 16 (natural armor)    

@@ -1,8 +1,10 @@
-name: Ancient Copper Dragon
-type: dragon
-cr: 21
-
-# Ancient Copper Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Copper Dragon
+type: Dragon
+tag: 21
+---
 _Gargantuan dragon, chaotic good_
 
 **Armor Class** 21 (natural armor)    

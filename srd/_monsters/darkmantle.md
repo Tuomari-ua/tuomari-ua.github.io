@@ -1,8 +1,10 @@
-name: Darkmantle
-type: monstrosity
-cr: .5
-
-# Darkmantle 
+---
+layout: page-nontoc
+category: monsters
+title: Darkmantle
+type: Monstrosity
+tag: .5
+---
 _Small monstrosity, unaligned_
 
 **Armor Class** 11    

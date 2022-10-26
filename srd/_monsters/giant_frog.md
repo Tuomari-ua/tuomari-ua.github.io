@@ -1,8 +1,10 @@
-name: Giant Frog
-type: beast
-cr: .25
-
-# Giant Frog 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Frog
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 11    

@@ -1,6 +1,8 @@
+---
+layout: page
 description: How to cast a spell from the 5th Edition (5e) SRD (System Reference Document).
-
-# Casting a Spell 
+title: Casting a Spell 
+---
 When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.
 
 Each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect. 

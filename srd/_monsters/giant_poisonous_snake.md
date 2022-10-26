@@ -1,8 +1,10 @@
-name: Giant Poisonous Snake
-type: beast
-cr: .25
-
-# Giant Poisonous Snake 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Poisonous Snake
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 14    

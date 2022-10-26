@@ -1,8 +1,10 @@
-name: Grimlock
-type: humanoid (grimlock)
-cr: .25
-
-# Grimlock 
+---
+layout: page-nontoc
+category: monsters
+title: Grimlock
+type: Humanoid (grimlock)
+tag: .25
+---
 _Medium humanoid (grimlock), neutral evil_
 
 **Armor Class** 11    

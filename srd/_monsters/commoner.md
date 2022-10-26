@@ -1,8 +1,10 @@
-name: Commoner
-type: humanoid (any race)
-cr: 0
-
-# Commoner 
+---
+layout: page-nontoc
+category: monsters
+title: Commoner
+type: Humanoid (any race)
+tag: 0
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 10    

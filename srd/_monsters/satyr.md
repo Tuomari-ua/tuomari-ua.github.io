@@ -1,8 +1,10 @@
-name: Satyr
-type: fey
-cr: .5
-
-# Satyr 
+---
+layout: page-nontoc
+category: monsters
+title: Satyr
+type: Fey
+tag: .5
+---
 _Medium fey, chaotic neutral_
 
 **Armor Class** 14 (leather armor)    

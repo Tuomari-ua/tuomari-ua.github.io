@@ -1,8 +1,10 @@
-name: Wyvern
-type: dragon
-cr: 6
-
-# Wyvern 
+---
+layout: page-nontoc
+category: monsters
+title: Wyvern
+type: Dragon
+tag: 6
+---
 _Large dragon, unaligned_
 
 **Armor Class** 13 (natural armor)    

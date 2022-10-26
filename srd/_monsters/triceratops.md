@@ -1,8 +1,10 @@
-name: Triceratops
-type: beast
-cr: 5
-
-# Triceratops 
+---
+layout: page-nontoc
+category: monsters
+title: Triceratops
+type: Beast
+tag: 5
+---
 _Huge beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

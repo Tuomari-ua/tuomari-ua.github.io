@@ -1,8 +1,10 @@
-name: Adult Red Dragon
-type: dragon
-cr: 17
-
-# Adult Red Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Red Dragon
+type: Dragon
+tag: 17
+---
 _Huge dragon, chaotic evil_
 
 **Armor Class** 19 (natural armor)    

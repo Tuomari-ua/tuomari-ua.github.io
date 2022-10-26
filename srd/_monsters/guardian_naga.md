@@ -1,8 +1,10 @@
-name: Guardian Naga
-type: monstrosity
-cr: 10
-
-# Guardian Naga 
+---
+layout: page-nontoc
+category: monsters
+title: Guardian Naga
+type: Monstrosity
+tag: 10
+---
 _Large monstrosity, lawful good_
 
 **Armor Class** 18 (natural armor)    

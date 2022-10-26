@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Dancing Sword 
+name: Dancing Sword
 tag: weapon
 title: Dancing Sword 
 ---
-
 Weapon (any sword), very rare (requires attunement) 
 
 You can use a bonus action to toss this magic sword into the air and speak the command word. When you do so, the sword begins to hover, flies up to 30 feet, and attacks one creature of your choice within 5 feet of it. The sword uses your attack roll and ability score modifier to damage rolls.

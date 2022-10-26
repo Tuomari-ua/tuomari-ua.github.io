@@ -1,8 +1,10 @@
-name: Young Bronze Dragon
-type: dragon
-cr: 8
-
-# Young Bronze Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Bronze Dragon
+type: Dragon
+tag: 8
+---
 _Large dragon, lawful good_
 
 **Armor Class** 18 (natural armor)    

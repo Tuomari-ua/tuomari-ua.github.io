@@ -1,8 +1,10 @@
-name: Camel
-type: beast
-cr: .125
-
-# Camel 
+---
+layout: page-nontoc
+category: monsters
+title: Camel
+type: Beast
+tag: .125
+---
 _Large beast, unaligned_
 
 **Armor Class** 9    

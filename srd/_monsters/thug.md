@@ -1,8 +1,10 @@
-name: Thug
-type: humanoid (any race)
-cr: .5 
-
-# Thug 
+---
+layout: page-nontoc
+category: monsters
+title: Thug
+type: Humanoid (any race)
+tag: .5 
+---
 _Medium humanoid (any race), any non-good alignment_
 
 **Armor Class** 11 (leather armor)    

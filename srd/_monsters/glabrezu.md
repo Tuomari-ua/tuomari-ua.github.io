@@ -1,8 +1,10 @@
-name: Glabrezu
-type: fiend (demon)
-cr: 9
-
-# Glabrezu 
+---
+layout: page-nontoc
+category: monsters
+title: Glabrezu
+type: Fiend (demon)
+tag: 9
+---
 _Large fiend (demon), chaotic evil_
 
 **Armor Class** 17 (natural armor)    

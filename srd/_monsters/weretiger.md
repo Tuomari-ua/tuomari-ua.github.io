@@ -1,8 +1,10 @@
-name: Weretiger
-type: humanoid (human, shapechanger)
-cr: 4
-
-# Weretiger 
+---
+layout: page-nontoc
+category: monsters
+title: Weretiger
+type: Humanoid (human, shapechanger)
+tag: 4
+---
 _Medium humanoid (human, shapechanger), neutral_
 
 **Armor Class** 12    

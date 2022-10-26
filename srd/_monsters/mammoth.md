@@ -1,8 +1,10 @@
-name: Mammoth
-type: beast
-cr: 6
-
-# Mammoth 
+---
+layout: page-nontoc
+category: monsters
+title: Mammoth
+type: Beast
+tag: 6
+---
 _Huge beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

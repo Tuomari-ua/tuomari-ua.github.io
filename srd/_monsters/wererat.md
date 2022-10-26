@@ -1,8 +1,10 @@
-name: Wererat
-type: humanoid (human, shapechanger)
-cr: 2
-
-# Wererat 
+---
+layout: page-nontoc
+category: monsters
+title: Wererat
+type: Humanoid (human, shapechanger)
+tag: 2
+---
 _Medium humanoid (human, shapechanger), lawful evil_
 
 **Armor Class** 12    

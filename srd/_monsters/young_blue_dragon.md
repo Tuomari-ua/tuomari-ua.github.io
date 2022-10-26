@@ -1,8 +1,10 @@
-name: Young Blue Dragon
-type: dragon
-cr: 9
-
-# Young Blue Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Blue Dragon
+type: Dragon
+tag: 9
+---
 _Large dragon, lawful evil_
 
 **Armor Class** 18 (natural armor)    

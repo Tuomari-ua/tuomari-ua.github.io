@@ -1,8 +1,10 @@
-name: Vampire
-type: undead (shapechanger)
-cr: 13
-
-# Vampire 
+---
+layout: page-nontoc
+category: monsters
+title: Vampire
+type: Undead (shapechanger)
+tag: 13
+---
 _Medium undead (shapechanger), lawful evil_
 
 **Armor Class** 16 (natural armor)    

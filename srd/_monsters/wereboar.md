@@ -1,8 +1,10 @@
-name: Wereboar
-type: humanoid (human, shapechanger)
-cr: 4
-
-# Wereboar 
+---
+layout: page-nontoc
+category: monsters
+title: Wereboar
+type: Humanoid (human, shapechanger)
+tag: 4
+---
 _Medium humanoid (human, shapechanger), neutral evil_
 
 **Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form    

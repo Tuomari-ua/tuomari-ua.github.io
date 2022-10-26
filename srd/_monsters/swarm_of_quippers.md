@@ -1,8 +1,10 @@
-name: Swarm of Quippers
-type: swarm of Tiny beasts
-cr: 1
-
-# Swarm of Quippers 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Quippers
+type: Swarm of Tiny beasts
+tag: 1
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 13    

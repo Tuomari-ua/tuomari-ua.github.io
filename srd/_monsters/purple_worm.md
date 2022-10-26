@@ -1,8 +1,10 @@
-name: Purple Worm
-type: monstrosity
-cr: 15
-
-# Purple Worm 
+---
+layout: page-nontoc
+category: monsters
+title: Purple Worm
+type: Monstrosity
+tag: 15
+---
 _Gargantuan monstrosity, unaligned_
 
 **Armor Class** 18 (natural armor)    

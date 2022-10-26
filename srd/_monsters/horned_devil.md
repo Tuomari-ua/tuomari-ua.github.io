@@ -1,8 +1,10 @@
-name: Horned Devil
-type: fiend (devil)
-cr: 11
-
-# Horned Devil 
+---
+layout: page-nontoc
+category: monsters
+title: Horned Devil
+type: Fiend (devil)
+tag: 11
+---
 _Large fiend (devil), lawful evil_
 
 **Armor Class** 18 (natural armor)    

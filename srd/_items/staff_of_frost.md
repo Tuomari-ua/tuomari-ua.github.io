@@ -3,9 +3,8 @@ category: items
 layout: page
 name: Staff of Frost
 tag: staff
-title: Staff of Frost
+title: Staff of Frost 
 ---
-
 _Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)_ 
 
 You have resistance to cold damage while you hold this staff.

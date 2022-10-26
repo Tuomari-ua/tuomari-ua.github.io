@@ -1,8 +1,10 @@
-name: Hunter Shark
-type: beast
-cr: 2
-
-# Hunter Shark 
+---
+layout: page-nontoc
+category: monsters
+title: Hunter Shark
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

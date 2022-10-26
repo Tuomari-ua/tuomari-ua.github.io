@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Cape of the Mountebank 
+name: Cape of the Mountebank
 tag: item
 title: Cape of the Mountebank 
 ---
-
 _Wondrous item, rare_ 
 
 This cape smells faintly of brimstone. While wearing it, you can use it to cast the **_dimension door_** spell as an action. This property of the cape can't be used again until the next dawn.

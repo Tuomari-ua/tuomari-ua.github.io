@@ -1,8 +1,10 @@
-name: Cult Fanatic
-type: humanoid (any race)
-cr: 2
-
-# Cult Fanatic 
+---
+layout: page-nontoc
+category: monsters
+title: Cult Fanatic
+type: Humanoid (any race)
+tag: 2
+---
 _Medium humanoid (any race), any non-good alignment_
 
 **Armor Class** 13 (leather armor)    

@@ -1,8 +1,10 @@
-name: Rust Monster
-type: monstrosity
-cr: .5
-
-# Rust Monster 
+---
+layout: page-nontoc
+category: monsters
+title: Rust Monster
+type: Monstrosity
+tag: .5
+---
 _Medium monstrosity, unaligned_
 
 **Armor Class** 14 (natural armor)    

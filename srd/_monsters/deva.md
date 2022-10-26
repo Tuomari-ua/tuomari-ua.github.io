@@ -1,8 +1,10 @@
-name: Deva
-cr: 10
-type: celestial
-
-# Deva 
+---
+layout: page-nontoc
+category: monsters
+title: Deva
+tag: 10
+type: Celestial
+---
 _Medium celestial, lawful good_
 
 **Armor Class** 17 (natural armor)    

@@ -1,8 +1,10 @@
-name: Shadow
-type: undead
-cr: .5
-
-# Shadow 
+---
+layout: page-nontoc
+category: monsters
+title: Shadow
+type: Undead
+tag: .5
+---
 _Medium undead, chaotic evil_
 
 **Armor Class** 12    

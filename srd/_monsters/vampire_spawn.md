@@ -1,8 +1,10 @@
-name: Vampire Spawn
-type: undead
-cr: 5
-
-# Vampire Spawn 
+---
+layout: page-nontoc
+category: monsters
+title: Vampire Spawn
+type: Undead
+tag: 5
+---
 _Medium undead, neutral evil_
 
 **Armor Class** 15 (natural armor)    

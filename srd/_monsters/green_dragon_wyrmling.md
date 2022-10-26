@@ -1,8 +1,10 @@
-name: Green Dragon Wyrmling
-type: dragon
-cr: 2
-
-# Green Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Green Dragon Wyrmling
+type: Dragon
+tag: 2
+---
 _Medium dragon, lawful evil_
 
 **Armor Class** 17 (natural armor)    

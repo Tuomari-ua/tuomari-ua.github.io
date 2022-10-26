@@ -1,8 +1,10 @@
-name: Hobgoblin
-type: humanoid (goblinoid)
-cr: .5
-
-# Hobgoblin 
+---
+layout: page-nontoc
+category: monsters
+title: Hobgoblin
+type: Humanoid (goblinoid)
+tag: .5
+---
 _Medium humanoid (goblinoid), lawful evil_
 
 **Armor Class** 18 (chain mail, shield)    

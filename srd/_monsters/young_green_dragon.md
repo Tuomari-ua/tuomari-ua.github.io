@@ -1,8 +1,10 @@
-name: Young Green Dragon
-type: dragon
-cr: 8
-
-# Young Green Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Green Dragon
+type: Dragon
+tag: 8
+---
 _Large dragon, lawful evil_
 
 **Armor Class** 18 (natural armor)    

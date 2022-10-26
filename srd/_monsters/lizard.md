@@ -1,8 +1,10 @@
-name: Lizard
-type: beast
-cr: 0
-
-# Lizard 
+---
+layout: page-nontoc
+category: monsters
+title: Lizard
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 10    

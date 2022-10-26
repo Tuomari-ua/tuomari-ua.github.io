@@ -1,8 +1,10 @@
-name: Lich
-type: undead
-cr: 21
-
-# Lich 
+---
+layout: page-nontoc
+category: monsters
+title: Lich
+type: Undead
+tag: 21
+---
 _Medium undead, any evil alignment_
 
 **Armor Class** 17 (natural armor)    

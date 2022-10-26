@@ -1,8 +1,10 @@
-name: Duergar
-type: humanoid (dwarf)
-cr: 1
-
-# Duergar 
+---
+layout: page-nontoc
+category: monsters
+title: Duergar
+type: Humanoid (dwarf)
+tag: 1
+---
 _Medium humanoid (dwarf), lawful evil_
 
 **Armor Class** 16 (scale mail, shield)    

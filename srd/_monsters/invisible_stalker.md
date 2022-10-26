@@ -1,8 +1,10 @@
-name: Invisible Stalker
-type: elemental
-cr: 6
-
-# Invisible Stalker 
+---
+layout: page-nontoc
+category: monsters
+title: Invisible Stalker
+type: Elemental
+tag: 6
+---
 _Medium elemental, neutral_
 
 **Armor Class** 14    

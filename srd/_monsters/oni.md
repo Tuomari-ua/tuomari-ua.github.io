@@ -1,8 +1,10 @@
-name: Oni
-type: giant
-cr: 7
-
-# Oni 
+---
+layout: page-nontoc
+category: monsters
+title: Oni
+type: Giant
+tag: 7
+---
 _Large giant, lawful evil_
 **Armor Class** 16 (chain mail)    
 **Hit Points** 110 (13d10 + 39)    

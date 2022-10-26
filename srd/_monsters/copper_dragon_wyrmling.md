@@ -1,8 +1,10 @@
-name: Copper Dragon Wyrmling
-type: dragon
-cr: 1
-
-# Copper Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Copper Dragon Wyrmling
+type: Dragon
+tag: 1
+---
 _Medium dragon, chaotic good_
 
 **Armor Class** 16 (natural armor)    

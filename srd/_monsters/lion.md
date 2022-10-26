@@ -1,8 +1,10 @@
-name: Lion
-type: beast
-cr: 1
-
-# Lion 
+---
+layout: page-nontoc
+category: monsters
+title: Lion
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 12    

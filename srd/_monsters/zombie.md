@@ -1,8 +1,10 @@
-name: Zombie
-type: undead
-cr: .25
-
-# Zombie 
+---
+layout: page-nontoc
+category: monsters
+title: Zombie
+type: Undead
+tag: .25
+---
 _Medium undead, neutral evil_
 
 **Armor Class** 8    

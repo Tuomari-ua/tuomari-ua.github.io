@@ -1,8 +1,10 @@
-name: Mummy Lord
-type: undead
-cr: 15
-
-# Mummy Lord 
+---
+layout: page-nontoc
+category: monsters
+title: Mummy Lord
+type: Undead
+tag: 15
+---
 _Medium undead, lawful evil_
 
 **Armor Class** 17 (natural armor)    

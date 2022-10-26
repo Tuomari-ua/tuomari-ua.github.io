@@ -1,8 +1,10 @@
-name: Minotaur
-type: monstrosity
-cr: 3
-
-# Minotaur 
+---
+layout: page-nontoc
+category: monsters
+title: Minotaur
+type: Monstrosity
+tag: 3
+---
 _Large monstrosity, chaotic evil_
 
 **Armor Class** 14 (natural armor)    

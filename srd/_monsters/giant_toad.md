@@ -1,8 +1,10 @@
-name: Giant Toad
-type: beast
-cr: 1
-
-# Giant Toad 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Toad
+type: Beast
+tag: 1
+---
 _Large beast, unaligned_
 
 **Armor Class** 11    

@@ -1,11 +1,10 @@
 ---
 category: items
 layout: page
-name: Potion of Healing 
+name: Potion of Healing
 tag: potion
 title: Potion of Healing 
 ---
-
 _Potion, rarity varies_ 
 
 You regain hit points when you drink this potion. The number of hit points depends on the potion's rarity, as shown in the Potions of Healing table. Whatever its potency, the potion's red liquid glimmers when agitated. 

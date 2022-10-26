@@ -1,8 +1,10 @@
-name: Stone Golem
-type: construct
-cr: 10
-
-# Stone Golem 
+---
+layout: page-nontoc
+category: monsters
+title: Stone Golem
+type: Construct
+tag: 10
+---
 _Large construct, unaligned_
 
 **Armor Class** 17 (natural armor)    

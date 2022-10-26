@@ -1,8 +1,10 @@
-name: Baboon
-type: beast
-cr: 0
-
-# Baboon 
+---
+layout: page-nontoc
+category: monsters
+title: Baboon
+type: Beast
+tag: 0
+---
 _Small beast, unaligned_
 
 **Armor Class** 12    

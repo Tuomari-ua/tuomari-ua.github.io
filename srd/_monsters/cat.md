@@ -1,8 +1,10 @@
-name: Cat
-type: beast
-cr: 0
-
-# Cat 
+---
+layout: page-nontoc
+category: monsters
+title: Cat
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 12    

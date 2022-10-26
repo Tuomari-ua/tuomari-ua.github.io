@@ -1,8 +1,10 @@
-name: Boar
-type: beast
-cr: .25
-
-# Boar 
+---
+layout: page-nontoc
+category: monsters
+title: Boar
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 11 (natural armor)    

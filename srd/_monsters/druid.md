@@ -1,8 +1,10 @@
-name: Druid
-type: humanoid (any race)
-cr: 2
-
-# Druid 
+---
+layout: page-nontoc
+category: monsters
+title: Druid
+type: Humanoid (any race)
+tag: 2
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 11 (16 with barkskin)    

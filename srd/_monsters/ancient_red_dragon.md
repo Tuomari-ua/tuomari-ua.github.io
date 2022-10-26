@@ -1,8 +1,10 @@
-name: Ancient Red Dragon
-type: dragon
-cr: 24
-
-# Ancient Red Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Red Dragon
+type: Dragon
+tag: 24
+---
 _Gargantuan dragon, chaotic evil_
 
 **Armor Class** 22 (natural armor)    

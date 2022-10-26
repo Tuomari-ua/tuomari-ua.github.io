@@ -1,8 +1,10 @@
-name: Warhorse Skeleton
-type: undead
-cr: .5
-
-# Warhorse Skeleton 
+---
+layout: page-nontoc
+category: monsters
+title: Warhorse Skeleton
+type: Undead
+tag: .5
+---
 _Large undead, lawful evil_
 
 **Armor Class** 13 (barding scraps)    

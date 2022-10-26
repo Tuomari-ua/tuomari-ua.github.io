@@ -1,8 +1,10 @@
-name: Deer
-type: beast
-cr: 0
-
-# Deer 
+---
+layout: page-nontoc
+category: monsters
+title: Deer
+type: Beast
+tag: 0
+---
 _Medium beast, unaligned_
 
 **Armor Class** 13    

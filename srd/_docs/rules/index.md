@@ -1,28 +1,28 @@
 ---
-layout: page
+layout: page-nontoc
 category: index
 title: Правила
 ---
 
 ## Загальні правила
 
-* [Бонус досвіду](/rules/proficiency_bonus.html)
-* [Натхнення](/rules/inspiration.html)
-* [Перевага та перешкода](/rules/advantage_and_disadvantage.html)
-* [Підвищення рівня](/rules/leveling_up.html)
-* [Мультиклас](/rules/multiclassing.html)
-* [Уміння](/rules/feats.html)
-* [Стани](/rules/conditions.html)
-* [Витрати](/rules/expenses.html)
+* [Бонус досвіду](/docs/rules/proficiency_bonus.html)
+* [Натхнення](/docs/rules/inspiration.html)
+* [Перевага та перешкода](/docs/rules/advantage_and_disadvantage.html)
+* [Підвищення рівня](/docs/rules/leveling_up.html)
+* [Мультиклас](/docs/rules/multiclassing.html)
+* [Уміння](/docs/rules/feats.html)
+* [Стани](/docs/rules/conditions.html)
+* [Витрати](/docs/rules/expenses.html)
 
 ## Здібності
 
-* [Сила](/rules/abilities/strength.html)
-* [Спритність](/rules/abilities/dexterity.html)
-* [Статура](/rules/abilities/constitution.html)
-* [Інтелект](/rules/abilities/intelligence.html)
-* [Мудрість](/rules/abilities/wisdom.html)
-* [Харизма](/rules/abilities/charisma.html)
-* [Перевірки здібностей](/rules/abilities/ability_checks.html)
-* [Значення здібностей](/rules/abilities/ability_scores.html)
-* [Рятівні кидки](/rules/abilities/saving_throws.html)
+* [Сила](/docs/rules/abilities/strength.html)
+* [Спритність](/docs/rules/abilities/dexterity.html)
+* [Статура](/docs/rules/abilities/constitution.html)
+* [Інтелект](/docs/rules/abilities/intelligence.html)
+* [Мудрість](/docs/rules/abilities/wisdom.html)
+* [Харизма](/docs/rules/abilities/charisma.html)
+* [Перевірки здібностей](/docs/rules/abilities/ability_checks.html)
+* [Значення здібностей](/docs/rules/abilities/ability_scores.html)
+* [Рятівні кидки](/docs/rules/abilities/saving_throws.html)

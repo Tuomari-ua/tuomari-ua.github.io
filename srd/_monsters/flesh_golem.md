@@ -1,8 +1,10 @@
-name: Flesh Golem
-type: construct
-cr: 5
-
-# Flesh Golem 
+---
+layout: page-nontoc
+category: monsters
+title: Flesh Golem
+type: Construct
+tag: 5
+---
 _Medium construct, neutral_
 
 **Armor Class** 9    

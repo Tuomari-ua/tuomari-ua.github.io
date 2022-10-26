@@ -1,8 +1,10 @@
-name: Hell Hound
-type: fiend
-cr: 3
-
-# Hell Hound 
+---
+layout: page-nontoc
+category: monsters
+title: Hell Hound
+type: Fiend
+tag: 3
+---
 _Medium fiend, lawful evil_
 
 **Armor Class** 15 (natural armor)    

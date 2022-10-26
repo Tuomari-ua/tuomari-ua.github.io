@@ -1,8 +1,10 @@
-name: Swarm of Bats
-type: swarm of Tiny beasts
-cr: .25
-
-# Swarm of Bats 
+---
+layout: page-nontoc
+category: monsters
+title: Swarm of Bats
+type: Swarm of Tiny beasts
+tag: .25
+---
 _Medium swarm of Tiny beasts, unaligned_
 
 **Armor Class** 12    

@@ -1,8 +1,10 @@
-name: Panther
-type: beast
-cr: .25
-
-# Panther 
+---
+layout: page-nontoc
+category: monsters
+title: Panther
+type: Beast
+tag: .25
+---
 _Medium beast, unaligned_
 
 **Armor Class** 12    

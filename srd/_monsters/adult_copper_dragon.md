@@ -1,8 +1,10 @@
-name: Adult Copper Dragon
-type: dragon
-cr: 14
-
-# Adult Copper Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Adult Copper Dragon
+type: Dragon
+tag: 14
+---
 _Huge dragon, chaotic good_
 
 **Armor Class** 18 (natural armor)    

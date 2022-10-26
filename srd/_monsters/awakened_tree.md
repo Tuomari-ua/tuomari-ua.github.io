@@ -1,8 +1,10 @@
-name: Awakened Tree
-type: plant
-cr: 2
-
-# Awakened Tree 
+---
+layout: page-nontoc
+category: monsters
+title: Awakened Tree
+type: Plant
+tag: 2
+---
 _Huge plant, unaligned_
 
 **Armor Class** 13 (natural armor)    

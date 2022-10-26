@@ -1,8 +1,10 @@
-name: Giant Bat
-type: beast
-cr: .25
-
-# Giant Bat 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Bat
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 13    

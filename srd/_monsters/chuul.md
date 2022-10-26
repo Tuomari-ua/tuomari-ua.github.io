@@ -1,8 +1,10 @@
-name: Chuul
-type: aberration
-cr: 4
-
-# Chuul 
+---
+layout: page-nontoc
+category: monsters
+title: Chuul
+type: Aberration
+tag: 4
+---
 _Large aberration, chaotic evil_
 
 

@@ -1,27 +1,28 @@
 ---
-layout: page
+layout: page-nontoc
 category: index
 title: Чарування
 ---
 
 ## Загальні правила створення чарів
 
-* [Що таке чари?](/spellcasting/what_is_a_spell.html)
-* [Створення чарів](/spellcasting/casting_a_spell.html)
+* [Що таке чари?](/docs/spellcasting/what_is_a_spell.html)
+* [Створення чарів](/docs/spellcasting/casting_a_spell.html)
 
 ## Списки чарів за типами
 
-* [Чари за рівнями](/spellcasting/spell_indexes/spells_by_level.html)
-* [Чари за назвою](/spellcasting/spell_indexes/spells_by_name.html)
-* [Чари за школами](/spellcasting/spell_indexes/spells_by_school.html)
+* [Чари за рівнями](/docs/spellcasting/indexes/index_all_кря.html)
+* [Чари за назвою](/docs/spellcasting/indexes/index_all_list.html)
+* [Чари за школами](/docs/spellcasting/indexes/index_all_school.html)
+* [Чари за класами](/docs/spellcasting/indexes/index_all_class.html)
 
 ## Списки чарів за класами
 
-* [Бард](/spellcasting/spell_lists/bard_spells.html)
-* [Друїд](/spellcasting/spell_lists/druid_spells.html)
-* [Заклинач](/spellcasting/spell_lists/sorcerer_spells.html)
-* [Клірик](/spellcasting/spell_lists/cleric_spells.html)
-* [Маг](/spellcasting/spell_lists/wizard_spells.html)
-* [Паладин](/spellcasting/spell_lists/paladin_spells.html)
-* [Рейнджер](/spellcasting/spell_lists/ranger_spells.html)
-* [Чаклун](/spellcasting/spell_lists/warlock_spells.html)
+* [Бард](/docs/spellcasting/indexes/index_all_class.html#bard)
+* [Клірик](/docs/spellcasting/indexes/index_all_class.html#cleric)
+* [Друїд](/docs/spellcasting/indexes/index_all_class.html#druid)
+* [Паладин](/docs/spellcasting/indexes/index_all_class.html#paladin)
+* [Рейнджер](/docs/spellcasting/indexes/index_all_class.html#ranger)
+* [Заклинач](/docs/spellcasting/indexes/index_all_class.html#sorcerer)
+* [Чаклун](/docs/spellcasting/indexes/index_all_class.html#warlock)
+* [Маг](/docs/spellcasting/indexes/index_all_class.html#wizard)

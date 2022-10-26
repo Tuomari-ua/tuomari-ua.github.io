@@ -1,8 +1,10 @@
-name: Behir
-type: monstrosity
-cr: 11
-
-# Behir 
+---
+layout: page-nontoc
+category: monsters
+title: Behir
+type: Monstrosity
+tag: 11
+---
 _Huge monstrosity, neutral evil_
 
 **Armor Class** 17 (natural armor)    

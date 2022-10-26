@@ -1,8 +1,10 @@
-name: Death Dog
-type: monstrosity
-cr: 1
-
-# Death Dog 
+---
+layout: page-nontoc
+category: monsters
+title: Death Dog
+type: Monstrosity
+tag: 1
+---
 _Medium monstrosity, neutral evil_
 
 **Armor Class** 12    

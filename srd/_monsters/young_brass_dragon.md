@@ -1,8 +1,10 @@
-name: Young Brass Dragon
-type: dragon
-cr: 6
-
-# Young Brass Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Young Brass Dragon
+type: Dragon
+tag: 6
+---
 _Large dragon, chaotic good_
 
 **Armor Class** 17 (natural armor)    

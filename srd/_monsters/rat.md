@@ -1,8 +1,10 @@
-name: Rat
-type: beast
-cr: 0
-
-# Rat 
+---
+layout: page-nontoc
+category: monsters
+title: Rat
+type: Beast
+tag: 0
+---
 _Tiny beast, unaligned_
 
 **Armor Class** 10    

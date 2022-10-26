@@ -1,8 +1,10 @@
-name: Sprite
-type: fey
-cr: .25
-
-# Sprite 
+---
+layout: page-nontoc
+category: monsters
+title: Sprite
+type: Fey
+tag: .25
+---
 _Tiny fey, neutral good_
 
 **Armor Class** 15 (leather armor)    

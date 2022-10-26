@@ -1,8 +1,10 @@
-name: Bulette
-type: monstrosity
-cr: 5
-
-# Bulette 
+---
+layout: page-nontoc
+category: monsters
+title: Bulette
+type: Monstrosity
+tag: 5
+---
 _Large monstrosity, unaligned_
 
 **Armor Class** 17 (natural armor)    

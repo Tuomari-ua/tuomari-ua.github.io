@@ -1,8 +1,10 @@
-name: Mage
-type: humanoid (any race)
-cr: 6
-
-# Mage 
+---
+layout: page-nontoc
+category: monsters
+title: Mage
+type: Humanoid (any race)
+tag: 6
+---
 _Medium humanoid (any race), any alignment_
 
 **Armor Class** 12 (15 with mage armor)    

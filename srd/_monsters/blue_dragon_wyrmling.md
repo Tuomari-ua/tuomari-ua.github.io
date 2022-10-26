@@ -1,8 +1,10 @@
-name: Blue Dragon Wyrmling
-type: dragon
-cr: 3
-
-# Blue Dragon Wyrmling 
+---
+layout: page-nontoc
+category: monsters
+title: Blue Dragon Wyrmling
+type: Dragon
+tag: 3
+---
 _Medium dragon, lawful evil_
 
 **Armor Class** 17 (natural armor)    

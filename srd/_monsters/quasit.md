@@ -1,8 +1,10 @@
-name: Quasit
-type: fiend (demon)
-cr: 1
-
-# Quasit 
+---
+layout: page-nontoc
+category: monsters
+title: Quasit
+type: Fiend (demon)
+tag: 1
+---
 _Tiny fiend (demon, shapechanger), chaotic evil_
 
 **Armor Class** 13    

@@ -1,8 +1,10 @@
-name: Giant Shark
-type: beast
-cr: 5
-
-# Giant Shark 
+---
+layout: page-nontoc
+category: monsters
+title: Giant Shark
+type: Beast
+tag: 5
+---
 _Huge beast, unaligned_
 
 **Armor Class** 13 (natural armor)    

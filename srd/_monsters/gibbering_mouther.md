@@ -1,8 +1,10 @@
-name: Gibbering Mouther
-type: aberration
-cr: 2
-
-# Gibbering Mouther 
+---
+layout: page-nontoc
+category: monsters
+title: Gibbering Mouther
+type: Aberration
+tag: 2
+---
 _Medium aberration, neutral_
 
 **Armor Class** 9    

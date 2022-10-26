@@ -1,8 +1,10 @@
-name: Elk
-type: beast
-cr: .25
-
-# Elk 
+---
+layout: page-nontoc
+category: monsters
+title: Elk
+type: Beast
+tag: .25
+---
 _Large beast, unaligned_
 
 **Armor Class** 10    

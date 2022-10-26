@@ -1,8 +1,10 @@
-name: Minotaur Skeleton
-type: undead
-cr: 2
-
-# Minotaur Skeleton
+---
+layout: page-nontoc
+category: monsters
+title: Minotaur Skeleton
+type: Undead
+tag: 2
+---
 _Large undead, lawful evil_
 
 **Armor Class** 12 (natural armor)    

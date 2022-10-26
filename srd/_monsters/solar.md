@@ -1,8 +1,10 @@
-name: Solar
-cr: 21
-type: celestial
-
-# Solar 
+---
+layout: page-nontoc
+category: monsters
+title: Solar
+tag: 21
+type: Celestial
+---
 _Large celestial, lawful good_
 
 **Armor Class** 21 (natural armor)    

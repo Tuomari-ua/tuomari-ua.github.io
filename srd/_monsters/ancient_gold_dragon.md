@@ -1,8 +1,10 @@
-name: Ancient Gold Dragon
-type: dragon
-cr: 24
-
-# Ancient Gold Dragon 
+---
+layout: page-nontoc
+category: monsters
+title: Ancient Gold Dragon
+type: Dragon
+tag: 24
+---
 _Gargantuan dragon, lawful good_
 
 **Armor Class** 22 (natural armor)    

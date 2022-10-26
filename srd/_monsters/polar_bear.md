@@ -1,8 +1,10 @@
-name: Polar Bear
-type: beast
-cr: 2
-
-# Polar Bear 
+---
+layout: page-nontoc
+category: monsters
+title: Polar Bear
+type: Beast
+tag: 2
+---
 _Large beast, unaligned_
 
 **Armor Class** 12 (natural armor)    

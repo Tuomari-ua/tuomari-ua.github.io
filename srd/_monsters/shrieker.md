@@ -1,8 +1,10 @@
-name: Shrieker
-type: plant
-cr: 0
-
-# Shrieker 
+---
+layout: page-nontoc
+category: monsters
+title: Shrieker
+type: Plant
+tag: 0
+---
 _Medium plant, unaligned_
 
 **Armor Class** 5    

@@ -1,8 +1,10 @@
-name: Awakened Shrub
-type: plant
-cr: 0
-
-# Awakened Shrub 
+---
+layout: page-nontoc
+category: monsters
+title: Awakened Shrub
+type: Plant
+tag: 0
+---
 _Small plant, unaligned_
 
 **Armor Class** 9    
