@@ -5,7 +5,7 @@ google_analytics_id: G-3YDX4S83WP
 timezone: Europe/Kiev
 
 # Collections
-collections_dir: docs
+collections_dir: srd
 collections:
   docs:
     output: true
