@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: page-nontoc
 category: index
-title: Правила Майстра
+title: Правила майстра
 ---
 
 ## Загальні правила

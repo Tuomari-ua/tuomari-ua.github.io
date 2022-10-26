@@ -1,0 +1,28 @@
+---
+layout: default
+title: Монстри за алфавітом
+---
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+            {% assign sortedPosts = site.monsters | sort: 'title' %}
+            <table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>CR</th>
+    </tr>
+  </thead>
+  <tbody>
+            {% for doc in sortedPosts %}
+              {%- if doc.category == "monsters" -%}
+    <tr>
+      <td><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></td>
+      <td>{{ doc.type | escape }}</td>
+      <td>{{ doc.tag | escape }}</td>
+    </tr>
+              {%- endif -%}
+            {% endfor %}
+            </tbody>
+            </table>
+</div>
