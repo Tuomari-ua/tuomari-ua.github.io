@@ -63,6 +63,20 @@ layout: default
 | [🇺🇦 Здійснення атаки](./combat/making_an_attack.md)         | [🇺🇦 Переміщення та позиція](./combat/movement_and_position.md) |
 | [🇺🇦 Пошкодження та зцілення](./combat/damage_and_healing.md)| [🇺🇦 Укриття](./combat/cover.md)                                |
 
+## Чарування
+
+| Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
+|------------------------------------------------|----------------------------------------|-------------------------------------------|
+| [Створення чарів](./spellcasting/casting_a_spell.md)| [Чари за рівнями](./spellcasting/indexes/spells_by_level.md) | [Бард](./spellcasting/spell_lists/bard_spells.md)         |
+| [🇺🇦 Що таке чари?](./spellcasting/what_is_a_spell.md) | [Чари за назвами](./spellcasting/indexes/spells_by_name.md)   | [Клірик](./spellcasting/spell_lists/cleric_spells.md)     |
+|                                                | [Чари за школами](./spellcasting/indexes/spells_by_school.md) | [Друїд](./spellcasting/spell_lists/druid_spells.md)       |
+|                                                |                                        | [Паладин](./spellcasting/spell_lists/paladin_spells.md)   |
+|                                                |                                        | [Рейнджер](./spellcasting/spell_lists/ranger_spells.md)     |
+|                                                |                                        | [Заклинач](./spellcasting/spell_lists/sorcerer_spells.md) |
+|                                                |                                        | [Чаклун](./spellcasting/spell_lists/warlock_spells.md)   |
+|                                                |                                        | [Маг](./spellcasting/spell_lists/wizard_spells.md)     |
+
+
 # Правила Майстра
 
 | Додаткові обставини                            | Списки предметів                       | Списки монстрів                                   |
