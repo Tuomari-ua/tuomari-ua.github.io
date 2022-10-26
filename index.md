@@ -53,7 +53,7 @@ layout: default
 | 🇺🇦 [Підвищення рівня](./docs/rules/leveling_up.html)           | 🇺🇦 [Перевага та перешкода](./docs/rules/advantage_and_disadvantage.html) |
 | 🇺🇦 [Мультиклас](./docs/rules/multiclassing.html)               | 🇺🇦 [Стани](./docs/rules/conditions.html)|
 | 🇺🇦 [Бонус досвіду](./docs/rules/proficiency_bonus.html)        | 🇺🇦 [Натхнення](./docs/rules/inspiration.html)  |
-| 🇺🇦 [Уміння](/docs/_docs/rules/feats.html)                            | 🇺🇦 [Витрати](./docs/rules/expenses.html) |
+| 🇺🇦 [Уміння](/docs/rules/feats.html)                            | 🇺🇦 [Витрати](./docs/rules/expenses.html) |
 
 # Бій
 
@@ -67,23 +67,23 @@ layout: default
 
 | Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
 |------------------------------------------------|----------------------------------------|-------------------------------------------|
-| [Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./spellcasting/indexes/spells_by_level.html) | [Бард](./spellcasting/spell_lists/bard_spells.html)         |
-| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [Чари за назвами](./spellcasting/indexes/spells_by_name.html)   | [Клірик](./spellcasting/spell_lists/cleric_spells.html)     |
-|                                                | [Чари за школами](./spellcasting/indexes/spells_by_school.html) | [Друїд](./spellcasting/spell_lists/druid_spells.html)       |
-|                                                |                                        | [Паладин](./spellcasting/spell_lists/paladin_spells.html)   |
-|                                                |                                        | [Рейнджер](./spellcasting/spell_lists/ranger_spells.html)     |
-|                                                |                                        | [Заклинач](./spellcasting/spell_lists/sorcerer_spells.html) |
-|                                                |                                        | [Чаклун](./spellcasting/spell_lists/warlock_spells.html)   |
-|                                                |                                        | [Маг](./spellcasting/spell_lists/wizard_spells.html)     |
+| [Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./docs/spellcasting/indexes/index_all_кря.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
+| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
+|                                                | [Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
+|                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
+|                                                |                                        | [Рейнджер](./docs/spellcasting/indexes/index_all_class.html#ranger)     |
+|                                                |                                        | [Заклинач](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
+|                                                |                                        | [Чаклун](./docs/spellcasting/indexes/index_all_class.html#warlock)   |
+|                                                |                                        | [Маг](./docs/spellcasting/indexes/index_all_class.html#wizard)     |
 
 
 # Правила Майстра
 
 | Додаткові обставини                            | Списки предметів                       | Списки монстрів                                   |
 |------------------------------------------------|----------------------------------------|---------------------------------------------------|
-| [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./gamemaster_rules/magic_item_indexes/) | [Монстри за назвою](./gamemaster_rules/monster_indexes/monsters_by_name.html) |
-| [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./gamemaster_rules/magic_item_indexes/) | [Монстри за типом](./gamemaster_rules/monster_indexes/monsters_by_type.html) |
-| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     |                                        | [Монстри за РН](./gamemaster_rules/monster_indexes/monsters_by_cr.html)     |
+| [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
+| [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./docs/gamemaster_rules/indexes/items_typelist.html) | [Монстри за типом](./docs/gamemaster_rules/indexes/monsters_typelist.html) |
+| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     |                                        | [Монстри за РН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
 | [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|                                  |                                                   |
 | [🇺🇦 Правила монстрів](./docs/gamemaster_rules/monster_rules.html) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./docs/gamemaster_rules/nonplayer_characters.html)|                       |                                                   |
