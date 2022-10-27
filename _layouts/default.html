@@ -45,6 +45,17 @@ layout: compress
         textColor: '#fff'
       })</script>
 
+ <script>
+      document
+        .querySelector('.post-content') // your selector for the post body
+        .querySelectorAll('h1,h2,h3,h4,h5,h6')
+        .forEach(function(heading) {
+          if (heading.id) {
+            heading.innerHTML =
+              '<a href="#' + heading.id + '">' + heading.innerText + '<\/a>';
+          }
+        });
+    </script>
 
   </body>
 </html>
