@@ -67,7 +67,7 @@ layout: default
 
 | Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
 |------------------------------------------------|----------------------------------------|-------------------------------------------|
-| [Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./docs/spellcasting/indexes/index_all_кря.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
+| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
 | [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
 |                                                | [Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
 |                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
@@ -83,7 +83,7 @@ layout: default
 |------------------------------------------------|----------------------------------------|---------------------------------------------------|
 | [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
 | [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./docs/gamemaster_rules/indexes/items_typelist.html) | [Монстри за типом](./docs/gamemaster_rules/indexes/monsters_typelist.html) |
-| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     |                                        | [Монстри за РН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
+| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     |                                        | [Монстри за КН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
 | [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|                                  |                                                   |
 | [🇺🇦 Правила монстрів](./docs/gamemaster_rules/monster_rules.html) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./docs/gamemaster_rules/nonplayer_characters.html)|                       |                                                   |
