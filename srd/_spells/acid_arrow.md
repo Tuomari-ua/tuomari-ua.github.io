@@ -6,7 +6,7 @@ level: 2
 classes: wizard
 title: Acid Arrow 
 ---
-_2nd-level evocation_
+_2nd-level evocation_  
 **Casting Time:** 1 action  
 **Range:** 90 feet  
 **Components:** V, S, M (powdered rhubarb leaf and an adder’s stomach)  
