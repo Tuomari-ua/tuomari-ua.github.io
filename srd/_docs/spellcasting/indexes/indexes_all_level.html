@@ -1,31 +1,18 @@
 ---
 layout: default
-title: Чари за класами
+title: Чари за рівнями
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-    {% assign arrs = "0, 1, 2, 3, 4, 5, 6, 7, 8, 9" | split: ", " %}
-    {% assign sortedPosts = site.spells | sort: 'title' %}
-      {% for item in arrs %}
-      <h3 id="{{ item }}">   {% case item %}
-        {% when '1' %}Перший
-        {% when '2' %}Другий
-             {% when '3' %}Третій
-        {% when '4' %}Четвертий     
-        {% when '5' %}П'ятий
-             {% when '6' %}Шостий
-             {% when '7' %}Сьомий
-             {% when '8' %}Восьмий
-        {% when '9' %}Дев'ятий     
-        {% when '0' %}Замовляння
-             
-             {% endcase %}</h3>
-            <ul>
-            {% for doc in sortedPosts %}
-              {%- if doc.classes contains item -%}
-                <li><a class="page-link" href="{{ doc.url | relative_url }}">{{ doc.title | escape }}</a></li>
-              {%- endif -%}
-            {% endfor %}
-            </ul>
-      {%endfor%}
+{% assign tags =  site.spells | map: 'level' | uniq | sort: level %}
+{% for level in levels %}
+  <h3>{{ level }}</h3>
+  <ul>
+  {% for doc in site.spells %}
+    {% if doc.levels contains level %}
+    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
 </div>
