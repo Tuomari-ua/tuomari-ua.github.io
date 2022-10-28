@@ -8,18 +8,19 @@ title: Чари за класами
     {% assign sortedPosts = site.spells | sort: 'title' %}
       {% for item in arrs %}
       <h3 id="{{ item }}">   {% case item %}
-             {% when 'barbarian' %}Варвар
-             {% when 'bard' %}Бард
-             {% when 'cleric' %}Клірик
-             {% when 'druid' %}Друїд
+        {% when 'bard' %}Бард     
              {% when 'fighter' %}Боєць
+        {% when 'barbarian' %}Варвар
+             {% when 'druid' %}Друїд
+        {% when 'sorcerer' %}Заклинач     
+        {% when 'cleric' %}Клірик
+             {% when 'wizard' %}Маг
              {% when 'monk' %}Монах
              {% when 'paladin' %}Паладин
-             {% when 'ranger' %}Рейнджер
-             {% when 'rogue' %}Пройдисвіт
-             {% when 'sorcerer' %}Чародій
-             {% when 'warlock' %}Відьмак
-             {% when 'wizard' %}Чарівник
+        {% when 'rogue' %}Пройдисвіт     
+        {% when 'ranger' %}Рейнджер
+             {% when 'warlock' %}Чаклун
+             
              {% endcase %}</h3>
             <ul>
             {% for doc in sortedPosts %}
