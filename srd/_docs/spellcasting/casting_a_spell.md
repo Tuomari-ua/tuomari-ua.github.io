@@ -1,145 +1,144 @@
----
-layout: page
-description: How to cast a spell from the 5th Edition (5e) SRD (System Reference Document).
-title: Casting a Spell 
----
-When a character casts any spell, the same basic rules are followed, regardless of the character's class or the spell's effects.
+--- layout: page description: Правила чарування title: Створення чарів ---
 
-Each spell description begins with a block of information, including the spell's name, level, school of magic, casting time, range, components, and duration. The rest of a spell entry describes the spell's effect. 
+# Чарування
+Коли персонаж створює будь-які чари, він дотримується тих самих базових правил, незалежно від класу персонажа та ефекту чарів.
 
-## Casting Time 
-Most spells require a single action to cast, but some spells require a bonus action, a reaction, or much more time to cast. 
+Опис кожних чарів починається з блоку інформації, що містить назву чарів, рівень, школу магії, час створення, відстань, складові та тривалість. Решта опису чарів деталізує створені ефекти.
 
-### Bonus Action 
-A spell cast with a bonus action is especially swift. You must use a bonus action on your turn to cast the spell, provided that you haven't already taken a bonus action this turn. You can't cast another spell during the same turn, except for a cantrip with a casting time of 1 action. 
+## Час створення
+Більшість чарів потребують для створення єдиної дії, але деякі можуть вимагати бонусної дії, реакції або ж набагато більше часу для створення.
 
-### Reactions 
-Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so. 
+### Бонусна дія
+Чари, створені бонусною дією, особливо швидкі. Ви повинні використати бонусну дію у свій хід, щоб створити чари, за умови, що ви ще не використали свою бонусну дію в цьому ходу. Ви не можете створити інші чари в цей хід, за винятком замовляння із часом створення 1 дія.
 
-### Longer Casting Times 
-Certain spells (including spells cast as rituals) require more time to cast: minutes or even hours. When you cast a spell with a casting time longer than a single action or reaction, you must spend your action each turn casting the spell, and you must maintain your concentration while you do so. If your concentration is broken, the spell fails, but you don't expend a spell slot. If you want to try casting the spell again, you must start over. 
+### Реакції
+Деякі чари можна створити реакцією. Для створення цих чарів достатньо частки секунди, і вони застосовуються у відповідь на певну подію. Якщо чари можна створити реакцією, опис чарів вкаже вам, коли саме ви можете так зробити.
 
-## Range 
-The target of a spell must be within the spell's range. For a spell like **_magic missile_**, the target is a creature. For a spell like **_fireball_**, the target is the point in space where the ball of fire erupts.
+### Довший час створення
+Певні чари (включно із чарами, створеними як ритуал) вимагають більше часу для створення: хвилини або навіть години. Коли ви застосовуєте чари із часом створення довшим, ніж одна дія чи реакція, ви повинні витрачати свою дію в кожному ходу на чарування, і ви повинні підтримувати концентрацію на цьому. Якщо ваша концентрація порушена, чари провалюються, але ви не витрачаєте чарунку. Якщо ви хочете спробувати створити чари знову, ви повинні починати спочатку.
 
-Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the **_shield_** spell, affect only you. These spells have a range of self.
+## Відстань
+Ціль чарів повинна бути у межах відстані чарування. Для чарів на зразок **_магічних стріл_** ціллю є істота. Для чарів на зразок **_вогняної кулі_** ціллю є точка у просторі, де вибухає вогняна куля.
 
-Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you.
+Більшість чарів мають відстань, виражену у футах. Деякі чари націлюються тільки на істоту (включно з вами), якої ви торкаєтеся. Інші чари, такі як **_щит_**, впливають тільки на вас. Ці чари мають відстань "на себе".
 
-Once a spell is cast, its effects aren't limited by its range, unless the spell's description says otherwise. 
+Чари, що створюють конуси або лінії певного ефекту, що походить від вас, також мають відстань "на себе", вказуючи, що ви повинні бути точкою початку дії ефекту чарів.
 
-## Components 
-A spell's components are the physical requirements you must meet in order to cast it. Each spell's description indicates whether it requires verbal (V), somatic (S), or material (M) components. If you can't provide one or more of a spell's components, you are unable to cast the spell. 
+Щойно чари створено, їхній ефект не обмежується відстанню дії, якщо в описі чарів не вказано інакше.
 
-### Verbal (V) 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the **_silence_** spell, can't cast a spell with a verbal component.
+## Складові
+Складові чарів - це фізичні вимоги, яким ви повинні відповідати, щоб створити чари. Опис кожних чарів вказує, чи потрібні для них вербальні (В), соматичні (С) або матеріальні (М) складові. Якщо ви не можете надати одну або більше складову, ви не можете створити ці чари.
 
-### Somatic (S) 
-Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures. 
+### Вербальна (В)
+Більшість чарів вимагають промовляння містичних слів. Слова самі по собі не є джерелом сили чарів; радше особлива комбінація звуків зі специфічною висотою та резонансом, зрушують нитки магії. Отже, персонаж із кляпом у роті чи в області тиші, такій, яку створюють чари **_тиша_**, не може створювати чари із вербальною складовою.
 
-### Material (M) 
-Casting some spells requires particular objects, specified in parentheses in the component entry. A character can use a **component pouch** or a **spellcasting focus** (found in “Equipment”) in place of the components specified for a spell. But if a cost is indicated for a component, a character must have that specific component before he or she can cast the spell.
+### Соматична (С)
+Чаротворчі жести можуть включати активну жестикуляцію чи складний набір жестів. Якщо чари потребують соматичної складової, чаротворець повинен мати вільною принаймні одну руку, щоб виконати ці жести.
 
-If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell. A spellcaster must have a hand free to access a spell's material components--or to hold a spellcasting focus--but it can be the same hand that he or she uses to perform somatic components. 
+### Матеріальна (М)
+Створення деяких чарів потребує певних предметів, зазначених у дужках в рядку складових. Персонаж може використовувати **торбинку із компонентами** або **чаротворчий фокус** (знаходяться в "Спорядженні") замість складових, зазначених у чарах. Але якщо до складової зазначено вартість, персонаж повинен мати цю конкретну складову, перш ніж чарувати.
 
-## Duration 
-A spell's duration is the length of time the spell persists. A duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spells are dispelled or destroyed. 
+Якщо чари вказують, що матеріальна складова витрачається чарами, чаротворець повинен забезпечити цю складову для кожного чарування. Чаротворець повинен мати принаймні одну вільну руку для доступу до матеріальних складових - або щоб тримати чаротворчий фокус - але це може бути та сама рука, яку він використовує для виконання соматичних складових.
 
-### Instantaneous 
-Many spells are instantaneous. The spell harms, heals, creates, or alters a creature or an object in a way that can't be dispelled, because its magic exists only for an instant. 
+## Тривалість
+Тривалість чарів - це величина часу, під час якого чари діють. Тривалість може бути виражена в раундах, хвилинах, годинах чи навіть роках. Деякі чари вказують, що їхній ефект триває, поки чари не розвіють або не знищать.
 
-### Concentration 
-Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.
+### Миттєво
+Багато чарів є миттєвими. Чари завдають шкоди, зцілюють, створюють або змінюють істоту чи предмет таким чином, що це не можна розвіяти, оскільки магія існувала тут тільки мить.
 
-If a spell must be maintained with concentration, that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end concentration at any time (no action required).
+### Концентрація
+Деякі чари вимагають від вас підтримання концентрації, щоб їхня магія залишалася активною. Якщо ви втрачаєте концентрацію, такі чари закінчуються.
 
-Normal activity, such as moving and attacking, doesn't interfere with concentration. The following factors can break concentration:
+Якщо чари потрібно підтримувати концентрацією, цей факт вказано в записі "Тривалість", і чари визначають, як довго ви можете на них концентруватися. Ви можете припинити концентрацію будь-коли (дія не потрібна).
 
-* **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
+Звичайна діяльність, наприклад, переміщення і атака, не заважають концентрації. Порушити її можуть такі фактори:
 
-* **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
+* **Створення інших чарів, які потребують концентрації.** Ви втрачаєте концентрацію на чарах, якщо створюєте інші чари, які вимагають концентрації. Ви не можете концентруватися на двох чарах одночасно.
 
-* **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+* **Отримання пошкоджень.** Щоразу, отримуючи пошкодження під час концентрації на чарах, ви повинні зробити рятівний кидок Статури, щоб підтримувати концентрацію. КС складає 10 або половину пошкоджень, які ви отримали, залежно від того, яке число більше. Якщо ви отримуєте пошкодження із кількох джерел, наприклад, від стріли та від подиху дракона, ви робите окремі рятівні кидки від кожного джерела пошкоджень.
 
-The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell. 
+* **Недієздатний або вбитий.** Ви втрачаєте концентрацію на чарах, якщо ви недієздатні або якщо ви вмерли.
 
-## Targets 
-A typical spell requires you to pick one or more targets to be affected by the spell's magic. A spell's description tells you whether the spell targets creatures, objects, or a point of origin for an area of effect (described below).
+Майстер може також вирішити, що певні феномени середовища, такі як хвиля під час шторму, яка накриває корабель з вами, вимагають від вас успішного рятівного кидка Статури з КС 10 для підтримання концентрації на чарах.
 
-Unless a spell has a perceptible effect, a creature might not know it was targeted by a spell at all. An effect like crackling lightning is obvious, but a more subtle effect, such as an attempt to read a creature's thoughts, typically goes unnoticed, unless a spell says otherwise. 
+## Цілі
+Типові чари вимагають від вас вибрати одну або більше цілей, на які впливатиме магія чарів. Опис чарів каже вам, чи ви націлюєтеся на істоту, на предмет, чи на початкову точку, звідки поширюватиметься ефект чарів (описано далі).
 
-### A Clear Path to the Target 
-To target something, you must have a clear path to it, so it can't be behind total cover. If you place an area of effect at a point that you can't see and an obstruction, such as a wall, is between you and that point, the point of origin comes into being on the near side of that obstruction. 
+Якщо чари не мають відчутного ефекту, істота може взагалі не знати, що на неї націлено чари. Такий ефект, як тріск блискавки, очевидний, але більш тонкі ефекти, як-от спроба прочитати думки істоти, зазвичай залишається непоміченим, якщо тільки заклинання не вказує інакше.
 
-### Targeting Yourself 
-If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself. Areas of Effect Spells such as burning hands and cone of cold cover an area, allowing them to affect multiple creatures at once.
+### Вільний шлях до цілі
+Щоб націлитися на щось, ви повинні мати вільний шлях до цілі, тож ціль не може бути в повному укритті. Якщо ви розміщуєте зону впливу в точці, яку не бачите, і між вами та цією точкою є перешкода, наприклад, стіна, точка початкового впливу виникне на ближчому до вас боці цієї перешкоди.
 
-## Areas of Effect 
-Spells such as **_burning hands_** and **_cone of cold_** cover an area, allowing them to affect multiple creatures at once.
+### Націлювання на себе
+Якщо чари націлюються на істоту за вашим вибором, ви можете вибрати себе, за винятком випадків, коли істота має бути ворожою або коли вказано, що істота повинна бути відмінною від вас. Якщо ви перебуваєте у зоні дії чарів, ви можете націлитися на себе. Areas of Effect Spells such as burning hands and cone of cold cover an area, allowing them to affect multiple creatures at once.
 
-A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
+## Області впливу
+Такі чари, як **_полум'яні руки_** чи **_конус холоду_**, охоплюють область, дозволяючи впливати на кількох істот одночасно.
 
-A spell's effect expands in straight lines from the point of origin. If no unblocked straight line extends from the point of origin to a location within the area of effect, that location isn't included in the spell's area. To block one of these imaginary lines, an obstruction must provide total cover. 
+Опис чарів вказує їхню область дії, яка зазвичай має одну з п'ятьох різних форм: конус, куб, циліндр, лінія або сфера. Кожна область впливу має **початкову точку** - розташування, звідки поширюється енергія чарів. Правила кожної форми визначають, як розташувати початкову точку. Зазвичай початкова точка - це точка в просторі, але деякі чари мають область, де джерелом є істота або предмет.
 
-### Cone 
-A cone extends in a direction you choose from its point of origin. A cone's width at a given point along its length is equal to that point's distance from the point of origin. A cone's area of effect specifies its maximum length.
+Ефект чарів поширюється прямими лініями від початкової точки. Якщо між початковою точкою та розташуванням в області впливу неможливо провести прямо лінію, це розташування не входить до області чарів. Щоб заблокувати таку уявну лінію, перешкода повинна надавати повне укриття.
 
-A cone's point of origin is not included in the cone's area of effect, unless you decide otherwise. 
+### Конус
+Конус поширюється від початкової точки у напрямку, який ви обираєте. Ширина конуса в даній точці по його довжині дорівнює відстані від цієї точки до початкової точки. Область впливу конусу визначає його максимальну довжину.
 
-### Cube 
-You select a cube's point of origin, which lies anywhere on a face of the cubic effect. The cube's size is expressed as the length of each side.
+Початкова точка конусу не входить до його області впливу, хіба що ви вирішите інакше.
 
-A cube's point of origin is not included in the cube's area of effect, unless you decide otherwise. 
+### Куб
+Ви обираєте початкову точку куба, яка буде на будь-якій грані створеного кубічного ефекту. Розмір куба виражений довжиною кожної сторони.
 
-### Cylinder 
-A cylinder's point of origin is the center of a circle of a particular radius, as given in the spell description. The circle must either be on the ground or at the height of the spell effect. The energy in a cylinder expands in straight lines from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell's effect then shoots up from the base or down from the top, to a distance equal to the height of the cylinder.
+Початкова точка куба не входить до його області впливу, хіба що ви вирішите інакше.
 
-A cylinder's point of origin is included in the cylinder's area of effect. 
+### Циліндр
+Початкова точка циліндра є центром кола із визначеним радіусом, як вказано в описі чарів. Коло має бути або на землі, або на висоті ефекту чарів. Енергія в циліндрі поширюється прямими лініями від початкової точки до периметра кола, формуючи основу циліндра. Потім ефект чарів вистрілює вгору від основи або вниз від горішньої точки, на відстань, що дорівнює висоті циліндра.
 
-### Line 
-A line extends from its point of origin in a straight path up to its length and covers an area defined by its width.
+Початкова точка циліндра входить до області впливу циліндра.
 
-A line's point of origin is not included in the line's area of effect, unless you decide otherwise. 
+### Лінія
+Лінія поширюється з початкової точки по прямій на свою довжину і зачіпає область, визначену шириною лінії.
 
-### Sphere 
-You select a sphere's point of origin, and the sphere extends outward from that point. The sphere's size is expressed as a radius in feet that extends from the point.
+Початкова точка лінії не входить до її області впливу, хіба що ви вирішите інакше.
 
-A sphere's point of origin is included in the sphere's area of effect. 
+### Сфера
+Ви обираєте початкову точку сфери, і сфера розширюється назовні від цієї точки. Розмір сфери виражений радіусом від початкової точки, вказаним у футах.
 
-## Saving Throws 
-Many spells specify that a target can make a saving throw to avoid some or all of a spell's effects. The spell specifies the ability that the target uses for the save and what happens on a success or failure.
+Початкова точка сфери входить до області впливу сфери.
 
-The DC to resist one of your spells equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers. 
+## Рятівні кидки
+Багато чарів вказують, що ціль повинна зробити рятівний кидок, щоб уникнути ефекту чарів повністю або частково. Чари визначають здібність, яку ціль використовує для ряткидка, і що стається в разі успіху або невдачі.
 
-## Attack Rolls 
-Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
+КС для протидії одним із ваших чарів дорівнює 8 + модифікатор вашої чаротворчої характеристики + ваш бонус досвіду + будь-які спеціальні модифікатори.
 
-Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated. 
+## Кидки атаки
+Деякі чари вимагають, щоб чаротворець зробив кидок атаки для визначення, чи мали чари ефект на бажану ціль. Ваш бонус атаки чарами дорівнює модифікатору вашої чаротворчої характеристики + ваш бонус досвіду.
 
-> #### The Schools of Magic 
-> Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
+Більшість чарів, що вимагають кидків атаки, включають далекобійні атаки. Пам'ятайте, що ви маєте перешкоду на кидки далекобійних атак, якщо у межах 5 футів від вас є ворожа істота, яка може вас бачити і не недієздатна.
 
-> The schools of magic help describe spells; they have no rules of their own, although some rules refer to the schools.
+> #### Школи магії 
+> 
+> Академії магії об'єднують чари у вісім категорій, які називають школами магії. Науковці, особливо маги, застосовують ці категорії до всіх чарів, вірячи, що вся магія функціонує за тими самими базовими принципами, байдуже, чи вона походить від ревного вивчення, чи дарована божеством.
 
-> **Abjuration** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.
+> Школи магії допомагають описати чари; вони не мають власних правил, хоча деякі правила можуть посилатися на школи.
 
-> **Conjuration** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.
+> Чари **перешкоджання** захисні по своїй природі, хоча деякі з них мають агресивне застосування. Вони створюють магічні бар'єри, скасовують шкідливі ефекти, шкодять порушникам або виганять істот на інші плани існування.
 
-> **Divination** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.
+> Чари **з'явлення** включають перенесення предметів та істот з одного розташування до іншого. Деякі чари прикликають істот чи предмети до чаротворця, тоді як інші дозволяють чаротворцю телепортуватися до інших розташувань. Деякі з'явлення створюють предмети чи ефекти з нічого.
 
-> **Enchantment** spells affect the minds of others, influencing or controlling their behavior. Such spells can make enemies see the caster as a friend, force creatures to take a course of action, or even control another creature like a puppet.
+> Чари **віщування** розкривають інформацію, чи то у формі давно забутих таємниць, чи проблисків із майбутнього, чи розташування прихованих речей, чи сховану за ілюзією правду, чи бачення далеких людей або місць.
 
-> **Evocation** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.
+> Чари **зачарування** діють на свідомість інших, впливаючи на їхню поведінку або контролюючи її. Такі чари можуть змусити ворога вважати чаротворця другом, присилувати істот змінити напрямок дій, або навіть контролювати іншу істоту, як маріонетку.
 
-> **Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
+> Чари **втілення** маніпулюють магічною енергією, щоб створити бажаний ефект. Деякі викликають вибухи вогню чи блискавку. Інші спрямовують позитивну енергію для зцілення ран.
 
-> **Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
+> Чари **ілюзії** обманюють органи чуттів та свідомість інших. Вони змушують людей бачити речі, яких немає, не бачити те, що є, чути примарні шуми або згадувати події, яких ніколи не було. Деякі ілюзії створюють примарні образи, що бачать усі істоти, але найбільш підступні ілюзії поселяють зображення прямо в свідомості істоти.
 
-> Creating the undead through the use of necromancy spells such as animate dead is not a good act, and only evil casters use such spells frequently.
+> Чари **некромантії** маніпулюють енергіями життя та смерті. Такі чари можуть надати додатковий запас життєвої сили, витягти життєву енергію з іншої істоти, створити невмерлого або навіть повернути мерця у світ живих.
 
-> **Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury. 
+> Створення невмерлих із використанням чарів некромантіїї, таких як повсталий труп, не є добрим вчинком, і тільки злі чаротворці використовують такі чари часто.
 
-## Combining Magical Effects 
-The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect--such as the highest bonus--from those castings applies while their durations overlap.
+> Чари **перетворення** змінюють властивості істоти, предмета чи середовища. Вони можуть перетворити ворога на нешкідливе створіння, примножити сили союзника, примусити предмет рухатися за командою чаротворця або підвищити вроджену здатність істоти до зцілення для швидкого відновлення після поранення.
 
-For example, if two clerics cast bless on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
+## Поєднання магічних ефектів
+Ефекти різних чарів додаються, тоді як тривалість цих чарів накладається одна на одну. Однак ефекти тих самих чарів, створених кілька разів, не додаються. Натомість застосовується найбільш потужний ефект - наприклад, найбільший бонус - хоча тривалість повторних чарувань накладається одна на одну.
+
+Наприклад, якщо два клірики благословляють одну ціль, персонаж отримує привілеї від чарів тільки один раз; він чи вона не кидає дві бонусні кістки.
