@@ -4,15 +4,13 @@ title: Чари за рівнями
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-{% assign tags =  site.spells | map: 'level' | uniq | sort: level %}
-{% for level in levels %}
-  <h3>{{ level }}</h3>
+{% assign groups = site.spells | group_by: "level" | uniq | sort: "name" %}
+{% for group in groups %}
+      <h3>{{ group.name }}</h3>
   <ul>
-  {% for doc in site.spells %}
-    {% if doc.levels contains level %}
-    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+    {% for item in group.items %}
+           <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+    {%endfor%}
   </ul>
 {% endfor %}
 </div>
