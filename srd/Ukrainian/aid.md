@@ -1,12 +1,12 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 classes: cleric paladin
-title: Aid
+title: Підтримка
 ---
 
-_2nd-level abjuration_ **Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a tiny strip of white cloth)   
-**Duration:** 8 hours Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration. **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd. 
+_Перешкоджання, 2 рівень; клірик, паладин_ **Час створення:** 1 дія    
+**Відстань: **30 футів    
+**Складові: **В, С, М (маленька смужка білої тканини)   
+**Тривалість** 8 годин Ваші чари наділяють ваших союзників твердістю й рішучістю. Виберіть до трьох істот в межах відстані. Максимум пунктів здоров'я кожної цілі та поточні пункти здоров'я зростають на 5, поки тривають чари. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, пункти здоров'я цілі зростають додатково на 5 за кожну чарунку вище другої. 
