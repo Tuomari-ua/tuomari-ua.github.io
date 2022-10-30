@@ -11,7 +11,7 @@ title: Чарування
 
 ## Списки чарів за типами
 
-* [Чари за рівнями](/docs/spellcasting/indexes/index_all_кря.html)
+* [Чари за рівнями](/docs/spellcasting/indexes/index_all_level.html)
 * [Чари за назвою](/docs/spellcasting/indexes/index_all_list.html)
 * [Чари за школами](/docs/spellcasting/indexes/index_all_school.html)
 * [Чари за класами](/docs/spellcasting/indexes/index_all_class.html)
