@@ -3,8 +3,7 @@ category: spells
 layout: page
 level: 1 
 school: некромантія 
-classes: заклинач 
-маг
+classes: заклинач, маг
 title: Примарне життя
 ---
 
