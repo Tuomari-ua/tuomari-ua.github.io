@@ -1,15 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
 classes: wizard
-title: Acid Arrow
+title: Кислотна стріла
 ---
 
-_2nd-level evocation_  
-**Casting Time:** 1 action  
-**Range:** 90 feet  
-**Components:** V, S, M (powdered rhubarb leaf and an adder’s stomach)  
-**Duration:** Instantaneous  
-A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn. **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage (both initial and later) increases by 1d4 for each slot level above 2nd.
+_Втілення, 2 рівень, маг_  
+**Час створення:** 1 дія  
+**Відстань:** 90 футів  
+**Складові:** В, С, М (подрібнене листя ревеню та шлунок гадюки)  
+**Тривалість:** Миттєво  
+Мерехтлива зелена стріла летить до цілі в межах відстані й вибухає, розпорошуючи кислоту. Зробіть далекобійну атаку чарами проти цілі. У випадку влучання ціль отримує 4к4 пошкоджень кислотою одразу та 2к4 пошкоджень кислотою в кінці свого наступного ходу. У випадку промаху стріла забризкує ціль кислотою на половину початкових пошкоджень і не завдає пошкоджень в кінці наступного ходу. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, пошкодження (як початкові, так і пізніші) зростають на 1к4 за кожну чарунку вище другої.
