@@ -1,15 +1,13 @@
----
-category: spells
-layout: page
-tag: Necromancy
-classes: sorcerer
-         wizard
-title: False Life 
----
-_1st-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a small amount of alcohol or distilled spirits)    
-**Duration:** 1 hour 
-Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st. 
+name: Примарне життя level: 1 school: некромантія classes: заклинач маг
+
+# Примарне життя
+_Некромантія, 1 рівень_
+
+**Час створення:** 1 дія    
+**Відстань:** На себе     
+**Складові:** В, С, М (трошки алкоголю або дистильованого спирту)    
+**Тривалість:** 1 година
+
+Підкріплюючись некроматійним відбитком життя, ви отримуєте 1к4+4 тимчасових пунктів здоров'я на час дії чарів.
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви отримуєте 5 додаткових тимчасових ПЗ за кожну чарунку вище першої. 

@@ -1,15 +1,13 @@
----
-category: spells
-layout: page
-tag: Transmutation
-classes: wizard
-title: Fabricate 
----
-_4th-level transmutation_ 
-**Casting Time:** 10 minutes    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.    
-Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.    
-Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons, glass, or armor, unless you have proficiency with the type of artisan's tools used to craft such objects. 
+name: Виготовлення level: 4 school: Перетворення classes: маг
+
+# Виготовлення
+_Перетворення, 4 рівень_
+
+**Час створення:** 10 хвилин    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво
+
+Ви перетворюєте сиру матерію на предмети з того ж матеріалу. Наприклад, ви можете виготовити дерев'яний міст із дерев'яної колоди, мотузку із клаптя прядива, одяг із льону чи вовни.    
+Виберіть сировину, яку бачите в межах відстані. Ви можете виготовити предмет розміром "великий" або менший (що вміщується у 10-футовий куб, або вісім пов'язаних 5-футових кубів), за умови, що маєте достатньо сировини. Однак якщо ви працюєте із металом, каменем чи іншою мінеральною речовиною, виготовлений предмет може бути не більш ніж "середнім" (вміщується в один 5-футовий куб). Якість предмета, виготовленого чарами, збігається із якістю сировини.     
+Ці чари не можуть створювати чи перетворювати істот чи магічні предмети. Ви також не можете використовувати їх для створення предметів, які зазвичай потребують високого рівня майстерності, таких як ювелірні прикраси, зброя, скло, обладунки, хіба що ви опанували відповідні ремісничі інструменти й використовуєте їх для створення таких предметів. 

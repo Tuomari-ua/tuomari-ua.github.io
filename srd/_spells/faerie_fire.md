@@ -1,15 +1,12 @@
----
-category: spells
-layout: page
-tag: Evocation
-classes: bard
-         druid
-title: Faerie Fire 
----
-_1st-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V    
-**Duration:** Concentration, up to 1 minute 
-Each object in a 20-foot cube within range is outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed dim light in a 10-foot radius.    
-Any attack roll against an affected creature or object has advantage if the attacker can see it, and the affected creature or object can't benefit from being invisible.
+name: Вогники фей level: 1 school: втілення classes: бард друїд
+
+# Вогники фей
+_Втілення, 1 рівень_
+
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В    
+**Тривалість:** Концентрація, до 1 хвилини
+
+Кожен предмет у 20-футовому кубі в межах відстані окреслений синім, зеленим чи фіолетовим світлом (на ваш вибір). Будь-яка істота, що перебувала в цій області під час створення чарів, також окреслена світлом, якщо вона провалила рятівний кидок Спритності. Поки тривають чари, предмети та вражені істоти випромінюють тьмяне світло у радіусі 10 футів.    
+Будь-які кидки атаки проти враженої істоти чи предмета мають перевагу, якщо нападник може їх бачити, а вражена істота чи предмет не отримують привілеїв від того, що є невидимими.
