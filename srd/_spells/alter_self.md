@@ -1,17 +1,9 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
-classes: sorcerer
-         wizard
-title: Alter Self 
+tag: Перетворення
+classes: sorcerer, wizard
+title: Зміна вигляду [alter self]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour  
-You assume a different form. When you cast the spell, choose one of the following options, the effects of which last for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.    
-**Aquatic Adaptation.** You adapt your body to an aquatic environment, sprouting gills and growing webbing between your fingers. You can breathe underwater and gain a swimming speed equal to your walking speed.    
-**Change Appearance.** You transform your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing characteristics, if any. You can make yourself appear as a member of another race, though none of your statistics change. You also can't appear as a creature of a different size than you, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. At any time for the duration of the spell, you can use your action to change your appearance in this way again.    
-**Natural Weapons.** You grow claws, fangs, spines, horns, or a different natural weapon of your choice. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. Finally, the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it.
+
+*Перетворення, 2 рівень; заклинач, маг* **Час створення:** 1 дія **Відстань:** На себе **Складові:** В, С **Тривалість:** Концентрація, до 1 години Ви набираєте іншої форми. Створюючи ці чари, оберіть одну з наступних можливостей, ефекти якої триватимуть, поки діють чари. Поки чари тривають, ви можете завершити одну обрану можливість дією та скористатися привілеями іншої. **Водне пристосування.** Ви пристосовуєте своє тіло до водного середовища, відкриваючи зябра та відрощуючи перетинки між пальцями. Ви можете дихати під водою і набуваєте швидкості плавання, що дорівнює вашій звичайній швидкості. **Зміна зовнішності.** Ви змінюєте свою зовнішність. Ви вирішуєте, як будете виглядати, включно зі зростом, вагою, рисами обличчя, звучанням голосу, довжиною волосся, забарвленням та видатними особливостями, якщо такі є. Ви можете набути вигляду члена іншої раси, хоча ваша статистика не зміниться. Також ви не можете виглядати як істота іншого розміру, ніж ви є, і ваші загальні обриси залишаються такі самі; наприклад, якщо ви двоногий, ці чари не можуть зробити вас чотириногим. У будь-який момент, поки діють чари, ви можете дією змінити свою зовнішність таким самим чином знову. **Природна зброя.** Ви відрощуєте пазурі, ікла, шипи, роги чи іншу природну зброю за власним вибором. Ваші беззбройні удари завдають 1к6 дробильних, колотих або різаних пошкоджень відповідно до обраної природної зброї, і ви опанували бій беззбройними ударами. Нарешті, природна зброя є магічною, і ви здобуваєте бонус +1 до кидків атак та пошкоджень, коли атакуєте.
