@@ -1,16 +1,14 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
-classes: ranger
-         wizard
-title: Alarm 
+tag: Перешкоджання
+classes: ranger wizard
+title: Тривога
 ---
-_1st‐level abjuration (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a tiny bell and a piece of fine silver wire)    
-**Duration:** 8 hours 
-You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is mental or audible.    
-A mental alarm alerts you with a ping in your mind if you are within 1 mile of the warded area. This ping awakens you if you are sleeping.    
-An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet. 
+
+_Перешкоджання, 1 рівень (ритуал); рейнджер, маг_ **Час створення: **1 хвилина    
+**Відстань: **30 футів    
+**Складові: **В, С, М (крихітний дзвоник і шматочок якісного срібного дроту)    
+**Тривалість: ** 8 годин Ви налаштовуєте тривогу проти небажаного вторгнення. Виберіть двері, вікно, або область не більше 20 куб. футів у межах відстані. Доки чари не закінчаться, тривога попереджає вас, коли захищеної зони торкається або входить в неї істота розміром "крихітна" або більша. Коли ви створюєте чари, ви может визначити істот, на яких тривога не спрацьовуватиме. Ви також обираєте, чи є тривога ментальною чи звуковою.    
+Ментальна тривога надсилає сповіщення вам у свідомість, якщо ви перебуваєте не далі 1 милі від захищеної області. Це сповіщення будить вас, якщо ви спали.    
+Звукова тривога видає звук ручного дзвоника упродовж 10 секунд у межах 60 футів. 

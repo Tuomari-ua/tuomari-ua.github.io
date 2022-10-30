@@ -1,15 +1,13 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
-classes: sorcerer
-         wizard
-title: Acid Splash 
+tag: З'явлення
+classes: sorcerer wizard
+title: Кислотні бризки
 ---
-_Conjuration cantrip_
-**Casting Time:** 1 action  
-**Range:** 60 feet  
-**Components:** V, S  
-**Duration:** Instantaneous  
-You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage. 
-This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+_З'явлення, замовляння; заклинач, маг_ **Час створення:** 1 дія  
+**Відстань:** 60 футів  
+**Складові:** В, С  
+**Тривалість:** Миттєво.  
+Ви випускаєте бульбашку з кислоти. Виберіть одну істоту в межах відстані, або виберіть двох істот в межах відстані, які стоять не далі 5 футів одна від одної. Ціль має здійснити успішний ряткидок Спритності або отримає 1к6 пошкоджень кислотою. Пошкодження цих чарів зростають на 1к6, коли ви досягаєте 5 рівня (2к6), 11 рівня (3к6) та 17 рівня (4к6).
