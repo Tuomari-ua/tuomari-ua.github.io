@@ -2,7 +2,7 @@
 сategory: spells
 layout: page
 level: 1
-school: Втілення
+school: Evocation
 classes: bard, druid
 title: Вогники фей
 ---
