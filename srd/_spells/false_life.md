@@ -3,7 +3,8 @@ category: spells
 layout: page
 level: 1 
 school: Некромантія
-classes: sorcerer, wizard
+classes: sorcerer
+         wizard
 title: Примарне життя
 ---
 
