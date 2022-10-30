@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 1
 classes: ranger, wizard
-title: Тривога
+title: Тривога [alarm]
 ---
 
 _Перешкоджання, 1 рівень (ритуал); рейнджер, маг_  
