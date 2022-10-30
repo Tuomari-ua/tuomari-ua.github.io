@@ -2,9 +2,7 @@
 category: spells
 layout: page
 tag: Втілення
-classes: бард
-         клірик
-         друїд
+classes: бард, клірик, друїд
 title: Цілюще слово 
 ---
 _1st-level evocation_ 
