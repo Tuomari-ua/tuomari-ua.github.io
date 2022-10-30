@@ -1,45 +1,47 @@
 ---
 layout: page
-description: General information about spells from the 5th Edition (5e) SRD (System Reference Document).
-title: What Is a Spell? 
+description: Загальна інформація про чари
+title: Що таке чари?
 ---
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect--in most cases, all in the span of seconds.
 
-Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions, drain life energy away, and restore life to the dead.
+Чари - це окремий магічний ефект, одиничне формування магічних енергій, які наповнюють мультисвіт, у конкретне, обмежене вираження. Створюючи чари, персонаж обережно вищипує невидимі нитки сирої магії, що пронизують світ, закріплює їх у потрібному порядку, налаштовує на вібрацію певним чином, а потім відпускає, щоб звільнити бажаний ефект - у більшості випадків це займає лічені секунди.
 
-Uncounted thousands of spells have been created over the course of the multiverse's history, and many of them are long forgotten. Some might yet lie recorded in crumbling spellbooks hidden in ancient ruins or trapped in the minds of dead gods. Or they might someday be reinvented by a character who has amassed enough power and wisdom to do so. 
+Чари можуть бути універсальними інструментами, зброєю чи захисними стражами. Вони можуть завдавати пошкодження чи зцілювати, накладати або прибирати стани, висмоктувати життєву енергію чи повертати мертвих до життя.
 
-## Spell Level 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) **_magic missile_** at 1st level and the earth-shaking **_wish_** at 9th. Cantrips--simple but powerful spells that characters can cast almost by rote--are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Незліченні тисячі чарів були створені упродовж існування мультисвіту, і багато з них давно забуті. Деякі ще можуть бути записані у крихких книгах чарів, сховані в давніх руїнах чи замкнені в умах мертвих богів. Або одного дня їх винайдуть знову персонажі, котрі накопичили для цього достатньо сили та мудрості.
 
-Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell. 
+## Рівень чарів
+Кожні чари мають рівень від 0 до 9. Рівень чарів - це загальний показник того, наскільки потужними вони є, від слабеньких (але все одно вражаючих) **_магічних стріл_** на першому рівні до надпотужного **_бажання_** на дев'ятому. Замовляння - прості, але потужні чари, які персонаж може створювати майже напам'ять - мають рівень 0. Чим вищий рівень чарів, тим вищого рівня має бути чаротворець, щоб користуватися такими чарами.
 
-## Known and Prepared Spells 
-Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind, or must have access to the spell in a magic item. Members of a few classes, including bards and sorcerers, have a limited list of spells they know that are always fixed in mind. The same thing is true of many magic-using monsters. Other spellcasters, such as clerics and wizards, undergo a process of preparing spells. This process varies for different classes, as detailed in their descriptions.
+Рівень чарів та рівень персонажів не збігаються напряму. Як правило, персонаж повинен бути принаймні 17-го рівня, а не 9-го, щоб створити чари 9-го рівня.
 
-In every case, the number of spells a caster can have fixed in mind at any given time depends on the character's level. 
+## Відомі та підготовлені чари
+Перш ніж чаротворець зможе використати чари, він чи вона повинні надійно вивчити ці чари або мати доступ до чарів через магічний предмет. Члени кількох класів, включно із бардами та заклиначами, мають обмежений список чарів, які вони знають і які завжди є в їхній пам'яті. Те саме стосується і багатьох монстрів, які користуються магією. Інші чаротворці, такі як клірики або маги, проходять через процес підготовки чарів. Цей процес відрізняється у різних класів, як сказано в їхньому описі.
 
-## Spell Slots 
-Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higher- level spells are even more so. Thus, each spellcasting class's description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
+У будь-якому разі кількість чарів, які чаротворець може запам'ятати в будь-який момент часу, залежить від рівня персонажа.
 
-When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size--small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts **_magic missile_**, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+## Чарунки
+Незалежно від того, скільки чарів знає або підготував чаротворець, він чи вона може створити тільки обмежену кількість чарів між відпочинками. Маніпуляції із матерією магії та спрямування її енергії навіть у прості чари є фізично та ментально виснажливим, тим більше для чарів вищих рівнів. Отже, опис кожного чаротворчого класу (крім чаклуна) містить таблицю, яка показує, скільки чарунок за рівнями має персонаж певного рівня. Наприклад, маг Умара 3-го рівня має чотири чарунки 1-го рівня чарів та дві чарунки 2-го рівня.
 
-Finishing a long rest restores any expended spell slots.
+Коли персонаж створює чари, він чи вона витрачає чарунку рівня цих чарів або вищу, фактично "наповнюючи" чарунку чарами. Ви можете уявити чарунку як комірку певного розміру - маленьку для чарів 1-го рівня, і більшу для чарів вищих рівнів. Чари 1-го рівня підходять до чарунок будь-якого рівня, але чари 9-го рівня підходять тільки для чарунок 9-го рівня. Тож коли Умара створює **_магічні стріли_**, чари 1-го рівня, вона витрачає одну з чотирьох чарунок 1-го рівня, і ще три з них залишаються.
 
-Some characters and monsters have special abilities that let them cast spells without using spell slots. For example, a monk who follows the Way of the Four Elements, a warlock who chooses certain eldritch invocations, and a pit fiend from the Nine Hells can all cast spells in such a way. 
+Завершення тривалого відпочинку відновлює всі використані чарунки.
 
-## Casting a Spell at a Higher Level 
-When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell assumes the higher level for that casting. For instance, if Umara casts **_magic missile_** using one of her 2nd-level slots, that **_magic missile_** is 2nd level. Effectively, the spell expands to fill the slot it is put into.
+Деякі персонажі та монстри мають спеціальні здатності, які дозволяють їм створювати чари без використання чарунок. Наприклад, монах, що слідує Шляхом чотирьох стихій, або чаклун, що обирає певні позамежні заклики, та породження з Дев'яти шарів пекла можуть створювати чари таким способом.
 
-Some spells, such as **_magic missile_** and **_cure wounds_**, have more powerful effects when cast at a higher level, as detailed in a spell's description. 
+## Створення чарів на вищих рівнях
+Коли чаротворець використовує для створення чарів чарунку вищого рівня, ніж самі чари, чари набирають сили вищого рівня. Наприклад, якщо Умара створює **_магічні стріли_** з використанням однієї зі своїх чарунок 2-го рівня, ці **_магічні стріли_** є 2-го рівня. По суті, чари розширюються, що заповнити усю чарунку.
 
-> ### Casting in Armor 
-> Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell. You are otherwise too distracted and physically hampered by your armor for spellcasting.
+Деякі чари, такі як **_магічні стріли_** та **_зцілення ран_**, мають більш потужні ефекти, коли створені на вищих рівнях, як вказано в описі чарів.
 
-## Cantrips 
-A cantrip is a spell that can be cast at will, without using a spell slot and without being prepared in advance. Repeated practice has fixed the spell in the caster's mind and infused the caster with the magic needed to produce the effect over and over. A cantrip's spell level is 0. 
+> ### Чарування в обладунках 
+> 
+> Чарування вимагає ментального зосередження та точних жестів, тому ви маєте опанувати обладунки, які носите, щоб могти створювати чари. Інакше обладунок відволікає вас і фізично перешкоджає чаруванню.
 
-## Rituals 
-Certain spells have a special tag: ritual. Such a spell can be cast following the normal rules for spellcasting, or the spell can be cast as a ritual. The ritual version of a spell takes 10 minutes longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.
+## Замовляння
+Замовляння - це чари, які можна створювати за бажанням, без використання чарунок і без попередньої підготовки. Багаторазова практика зафіксувала ці чари у свідомості чаротворця і наповнила його магією, достатньою для відтворення ефекту знову й знову. Рівень замовляння завжди 0.
 
-To cast a spell as a ritual, a spellcaster must have a feature that grants the ability to do so. The cleric and the druid, for example, have such a feature. The caster must also have the spell prepared or on his or her list of spells known, unless the character's ritual feature specifies otherwise, as the wizard's does.
+## Ритуали
+Деякі чари мають спеціальний тег: ритуал. Такі чари можна створювати за нормальними правилами чарування, або ж їх можна створити як ритуал. Ритуальна версія чарів займає на 10 хвилин більше, ніж звичайне створення. Вона також не витрачає чарунки, що означає, що ритуальну версію чарів не можна створити на вищих рівнях.
+
+Щоб створити чари як ритуал, чаротворець повинен мати особливість, яка дозволяє йому робити це. Наприклад, таку особливість мають клірики та друїди. Чаротворець також повинен мати ці чари підготовленими, або вони мають бути у його чи її списку чарів, хіба що особливість персонажа щодо ритуалів вказує інше, як, наприклад, у мага.
