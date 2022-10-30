@@ -1,7 +1,13 @@
-name: Виготовлення level: 4 school: Перетворення classes: маг
+---
+category: spells
+layout: page
+level: 4
+school: Transmutation
+classes: wizard
+title: Виготовлення
+---
+_Перетворення, 4 рівень, маг_
 
-# Виготовлення
-_Перетворення, 4 рівень_
 
 **Час створення:** 10 хвилин    
 **Відстань:** 120 футів    
