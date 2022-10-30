@@ -4,7 +4,7 @@ layout: page
 level: 2
 tag: Перешкоджання
 classes: cleric, paladin
-title: Підтримка
+title: Підтримка [aid]
 ---
 
 _Перешкоджання, 2 рівень; клірик, паладин_  
