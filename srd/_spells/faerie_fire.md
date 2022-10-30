@@ -3,8 +3,7 @@
 layout: page
 level: 1
 school: Втілення
-classes: bard
-         druid
+classes: bard, druid
 title: Вогники фей
 ---
 
