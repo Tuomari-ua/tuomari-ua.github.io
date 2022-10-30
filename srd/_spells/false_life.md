@@ -2,7 +2,7 @@
 category: spells
 layout: page
 level: 1 
-school: некромантія 
+school: Necromancy
 classes: sorcerer
 wizard
 title: Примарне життя
