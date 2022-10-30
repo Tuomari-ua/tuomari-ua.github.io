@@ -1,5 +1,6 @@
 ---
-name: Примарне життя 
+category: spells
+layout: page
 level: 1 
 school: некромантія 
 classes: заклинач маг
