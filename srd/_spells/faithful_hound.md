@@ -2,7 +2,7 @@
 category: spells
 layout: page
 level: 4
-school: Conjuration
+tag: З'явлення
 classes: wizard
 title: Вірний гончак
 ---
