@@ -1,11 +1,11 @@
 ---
 category: spells
 layout: page
-tag: Evocation
-classes: bard
-         cleric
-         druid
-title: Healing Word 
+tag: Втілення
+classes: бард
+         клірик
+         друїд
+title: Цілюще слово 
 ---
 _1st-level evocation_ 
 **Casting Time:** 1 bonus action    
