@@ -2,7 +2,7 @@
 category: spells
 layout: page
 level: 4
-school: Transmutation
+tag: Перетворення
 classes: wizard
 title: Виготовлення
 ---
