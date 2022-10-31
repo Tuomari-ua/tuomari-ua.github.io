@@ -1,27 +1,31 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
-classes: bard
-         sorcerer
-         wizard
-title: Animate Objects 
+tag: Перетворення
+level: 5
+classes: bard, sorcerer, wizard
+title: Оживлення предметів [animate objects]
 ---
-_5th-level transmutation_ 
-**Casting Time:** 1 action   
-**Range:** 120 feet   
-**Components:** V, S   
-**Duration:** Concentration, up to 1 minute 
-Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can't animate any object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.    
-As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. 
-### Animated Object Statistics 
-| Size   | HP | AC | Str | Dex | Attack                     |
+_Перетворення, 5 рівень; бард, заклинач, маг_ 
+**Час створення::** 1 дія   
+**Відстань:** 120 футів   
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 1 хвилини  
+
+Предмети оживають за вашою командою. Виберіть  до 10 немагічних предметів у межах відстані, які ніхто не несе і не носить. Цілі серерднього розміру вважаються двома предметами, цілі великого розміру - чотирма предметами, цілі величезного розміру вважаються вісьмома предметами. Ви не можете оживити предмет, розмір якого більший за "величезний". Кожна ціль оживає і стає істотою під вашим контролем, доки тривають чари або доки їхні пункти здоров'я не зменшаться до 0.   
+Бонусною дією ви можете віддати ментальний наказ створеній цими чарами істоті, якщо істота перебуває у межах 500 футів від вас (якщо ви контролюєте кількох істот, ви можете наказувати будь-якій із них або всім одночасно, віддаючи кожній істоті той самий наказ). Ви вирішуєте, яку дію виконуватиме істота і куди вона рухатиметься у свій наступний хід, або ж ви можете віддати загальний наказ, наприклад, вартувати певну кімнату або коридор. Якщо ви не віддаєте наказів, істота тільки захищається від ворожих істот. Щойно віддано наказ, істота продовжує виконувати його, поки задачу не буде виконано.  
+### Статистика оживлених предметів
+
+| Розмір | ПЗ | КЗ | Сил | Спр | Атака                      |
 |--------|----|----|-----|-----|----------------------------|
-| Tiny   | 20 | 18 | 4   | 18  | +8 to hit, 1d4 + 4 damage  |
-| Small  | 25 | 16 | 6   | 14  | +6 to hit, 1d8 + 2 damage  |
-| Medium | 40 | 13 | 10  | 12  | +5 to hit, 2d6 + 1 damage  |
-| Large  | 50 | 10 | 14  | 10  | +6 to hit, 2d10 + 2 damage |
-| Huge   | 80 | 10 | 18  | 6   | +8 to hit, 2d12 + 4 damage |
-An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.    
-If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The GM might rule that a specific object inflicts slashing or piercing damage based on its form. 
-**At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th. 
+| Крихітний | 20 | 18 | 4   | 18  | +8 до влучання, 1к4 + 4 пошкоджень  |
+| Малий  | 25 | 16 | 6   | 14  | +6 до влучання, 1к8 + 2 пошкоджень  |
+| Середній | 40 | 13 | 10  | 12  | +5 до влучання, 2к6 + 1 пошкоджень  |
+| Великий  | 50 | 10 | 14  | 10  | +6 до влучання, 2к10 + 2 пошкоджень |
+| Величезний   | 80 | 10 | 18  | 6   | +8 до влучання, 2к12 + 4 пошкоджень |
+
+Оживлений предмет - це конструкт із КЗ, пунктами здоров'я, атаками, Силою та Спритністю, визначеними його розміром. Його Статура складає 10, Інтелект та Мудрість 3, а Харизма складає 1. Його швидкість 30 футів; якщо у предмета немає ніг або інших кінцівок, які він міг би використовувати для пересування, він натомість має швидкість польоту 30 футів і може зависати. Якщо цей предмет надійно прикріплений на поверхні більшого предмтеа, наприклад, ланцюг, прикручений до стіни, його швидкість дорівнює 0. Він має сліпий зір із радіусом 30 футів, і не бачить далі цієї відстані. Коли пункти здоров'я оживленого предмета знижуються до 0, він повертається до початкової форми, і будь-які надмірні пошкодження також переносяться на початкову форму предмета.  
+
+Якщо ви наказуєте предмету атакувати, він виконує одиничну атаку ближнього бою проти істоти в межах 5 футів від себе. Він завдає удару із бонусом атаки та дробильними пошкодженнями, визначеними його розміром. Майстер може постановити, що конкретний предмет завдає колоті або рубані пошкодження на основі його форми.  
+
+**На виших рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ви можете оживляти два додаткові предмети за кожну чарунку вище п'ятої.

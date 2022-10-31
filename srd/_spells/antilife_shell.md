@@ -1,15 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+level: 5
+tag: Перешкоджання
 classes: druid
-title: Antilife Shell 
+title: Мушля проти живих [antilife shell] 
 ---
-_5th-level abjuration_ 
-**Casting Time:** 1 action   
-**Range:** Self (10-foot radius)    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-A shimmering barrier extends out from you in a 10- foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.    
-The barrier prevents an affected creature from passing or reaching through. An affected creature can cast spells or make attacks with ranged or reach weapons through the barrier.    
-If you move so that an affected creature is forced to pass through the barrier, the spell ends.
+_Перешкоджання, 5 рівень; друїд_ 
+**Час створення:** 1 дія   
+**Відстань::** На себе (10-футовий радіус)    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години  
+
+Мерехтливий бар'єр виникає навколо вас у межах 10 футів і рухається разом із вами, залишаючись відцентрованим на вас і перешкоджаючи істотам, окрім невмерлих та конструктів. Бар'єр існує, поки діють чари.    
+Бар'єр заважає істоті пройти чи дотягнутися наскрізь. Істота під дією цих чарів може створювати чари чи виконувати крізь бар'єр атаки далекобійною зброєю чи зброєю із досяжністю.  
+Якщо ви рухаєтеся так, що істота під дією чарів мусить пройти крізь бар'єр, чари закінчуються.
