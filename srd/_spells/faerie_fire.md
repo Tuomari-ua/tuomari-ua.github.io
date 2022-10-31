@@ -4,7 +4,7 @@ layout: page
 level: 1
 tag: Втілення
 classes: bard, druid
-title: Вогники фей
+title: Вогники фей [faerie fire]
 ---
 
 _Втілення, 1 рівень; бард, друїд_

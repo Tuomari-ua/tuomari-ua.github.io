@@ -4,7 +4,7 @@ layout: page
 level: 4
 tag: Перетворення
 classes: wizard
-title: Виготовлення
+title: Виготовлення [fabricate]
 ---
 
 _Перетворення, 4 рівень, маг_

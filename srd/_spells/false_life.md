@@ -5,7 +5,7 @@ level: 1
 tag: Некромантія
 classes: sorcerer
          wizard
-title: Примарне життя
+title: Примарне життя [false life]
 ---
 
 _Некромантія, 1 рівень; заклинач, маг_

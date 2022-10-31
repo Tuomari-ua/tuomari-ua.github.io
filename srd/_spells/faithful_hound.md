@@ -4,7 +4,7 @@ layout: page
 level: 4
 tag: З'явлення
 classes: wizard
-title: Вірний гончак
+title: Вірний гончак [faithful hound]
 ---
 
 _З'явлення, 4 рівень; маг_
