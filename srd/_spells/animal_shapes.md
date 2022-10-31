@@ -1,15 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 classes: druid
-title: Animal Shapes 
+title: Тіло звіра [animal shapes]
 ---
-_8th-level transmutation_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet    
-**Components:** V, S   
-**Duration:** Concentration, up to 24 hours 
-Your magic turns others into beasts. Choose any number of willing creatures that you can see within range. You transform each target into the form of a Large or smaller beast with a challenge rating of 4 or lower. On subsequent turns, you can use your action to transform affected creatures into new forms.    
-The transformation lasts for the duration for each target, or until the target drops to 0 hit points or dies. You can choose a different form for each target. A target's game statistics are replaced by the statistics of the chosen beast, though the target retains its alignment and Intelligence, Wisdom, and Charisma scores. The target assumes the hit points of its new form, and when it reverts to its normal form, it returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious. The creature is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells.    
-The target's gear melds into the new form. The target can't activate, wield, or otherwise benefit from any of its equipment. 
+
+_Перетворення, 8 рівень; друїд_ **Час створення:** 1 дія  
+**Відстань:** 30 футів  
+**Складові:** В, С  
+**Тривалість:** Концентрація, до 24 годин.  
+Ваша магія перетворює інших на звірів. Виберіть будь-яку кількість згодних істот, яких ви бачите в межах відстані. Ви перетворюєте кожну ціль на звіра розміром "великий" або менший та з класом небезпеки 4 або нижче. У наступні ходи ви можете використати свою дію, щоб перетворити цих істот на нові форми.    
+Перетворення триває на кожну з істот, поки діють чари, або поки пункти здоров'я цілі не знизяться до нуля або істота не помре. Ви можете обрати окрему форму для кожної цілі. Ігрова статистика цілі замінюється статистикою звіра, хоча ціль зберігає власний світогляд і значення Інтелекту, Мудрості та Харизми. Ціль отримує пункти здоров'я нового тіла, і коли повертається до нормальної форми, то повертає і кількість пунктів здоров'я, яку ціль мала перед перетворенням. Якщо перетворення сталося унаслідок зниження пунктів здоров'я до 0, усі надмірні пошкодження переходять до нормальної форми. Допоки надлишок пошкоджень не знижує здоров'я нормальної форми істоти до 0, вона не непритомна. Істота обмежена у діях тими, які може виконати за природою свого нового тіла, вона не може говорити чи чарувати.    
+Спорядження істоти зливається з її новим тілом. Істота не може активувати, тримати чи якось інакше отримати привілеї від свого спорядження, яким би воно не було. 
