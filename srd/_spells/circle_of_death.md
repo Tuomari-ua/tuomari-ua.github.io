@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 6
 classes: sorcerer
          warlock
          wizard
