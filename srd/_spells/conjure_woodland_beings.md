@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 4
 classes: druid
          ranger
 title: Conjure Woodland Beings 
