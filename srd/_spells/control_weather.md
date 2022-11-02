@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 8
 classes: cleric
          druid
          wizard
