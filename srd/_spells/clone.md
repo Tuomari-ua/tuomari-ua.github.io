@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 8
 classes: wizard
 title: Clone 
 ---
