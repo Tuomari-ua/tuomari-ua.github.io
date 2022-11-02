@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 3
 classes: druid
          ranger
 title: Conjure Animals 
