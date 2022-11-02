@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 7
 classes: sorcerer
          wizard
 title: Delayed Blast Fireball 
