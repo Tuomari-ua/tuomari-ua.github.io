@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 5
 classes: druid
          ranger
 title: Commune with Nature 
