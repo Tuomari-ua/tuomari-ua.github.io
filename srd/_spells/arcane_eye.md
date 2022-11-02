@@ -1,6 +1,7 @@
 ---
 category: spells
 layout: page
+level: 4
 tag: Divination
 classes: wizard
 title: Arcane Eye 
