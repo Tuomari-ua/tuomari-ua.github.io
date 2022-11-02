@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 1
 classes: cleric
          paladin
 title: Bless 
