@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 4
 classes: druid
          sorcerer
 title: Dominate Beast 
