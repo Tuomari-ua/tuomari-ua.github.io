@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 2
 classes: cleric
 title: Augury 
 ---
