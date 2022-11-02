@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 3
 classes: cleric
 title: Beacon of Hope 
 ---
