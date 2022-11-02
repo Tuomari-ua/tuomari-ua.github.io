@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 1
 classes: bard
          sorcerer
          warlock
