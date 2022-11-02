@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 4
 classes: druid
          wizard
 title: Conjure Minor Elementals 
