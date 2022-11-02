@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 3
 classes: cleric
          paladin
 title: Create Food and Water 
