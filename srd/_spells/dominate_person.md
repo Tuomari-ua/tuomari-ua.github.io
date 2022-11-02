@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 5
 classes: bard
          sorcerer
          wizard
