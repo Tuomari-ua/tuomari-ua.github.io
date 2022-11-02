@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 6
 classes: druid
          warlock
 title: Conjure Fey 
