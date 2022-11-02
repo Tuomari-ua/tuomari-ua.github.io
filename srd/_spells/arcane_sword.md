@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 7
 classes: bard
          wizard
 title: Arcane Sword 
