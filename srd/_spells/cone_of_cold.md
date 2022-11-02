@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 5
 classes: sorcerer
          wizard
 title: Cone of Cold
