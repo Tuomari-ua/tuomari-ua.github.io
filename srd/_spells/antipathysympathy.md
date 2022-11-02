@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 8
 classes: druid
          wizard
 title: Antipathy/Sympathy 
