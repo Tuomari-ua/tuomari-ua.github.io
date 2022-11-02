@@ -1,6 +1,7 @@
 ---
 category: spells
 layout: page
+level: 2
 tag: Abjuration
 classes: wizard
 title: Arcane Lock 
