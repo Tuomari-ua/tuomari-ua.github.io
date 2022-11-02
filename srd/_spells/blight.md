@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 4
 classes: druid
          sorcerer
          warlock
