@@ -1,6 +1,7 @@
 ---
 category: spells
 layout: page
+level: 5
 tag: Transmutation
 classes: bard
          druid
