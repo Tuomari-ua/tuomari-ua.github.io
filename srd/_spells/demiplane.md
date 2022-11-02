@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 8
 classes: warlock
          wizard
 title: Demiplane 
