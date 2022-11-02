@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 5
 classes: cleric
          paladin
 title: Dispel Evil and Good 
