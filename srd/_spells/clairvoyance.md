@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 3
 classes: bard
          cleric
          sorcerer
