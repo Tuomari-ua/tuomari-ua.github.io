@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 5
 classes: cleric
          druid
 title: Contagion 
