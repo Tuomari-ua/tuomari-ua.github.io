@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Basilisk
+title: Василіск
 type: Monstrosity
 tag: 3
 ---
-_Medium monstrosity, unaligned_    
-**Armor Class** 15 (natural armor)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 20 ft. 
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 16 (+3)  | 8 (-1)  | 15 (+2)  | 2 (-4)  | 8 (-1)  | 7 (-2)  |
+_Середнє чудовисько, невизначене_    
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 52 (8к8 + 16)    
+**Швидкість** 20 ф.
+
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |
 
 
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 3 (700 XP) 
+**Чуття** темний зір 60 ф., пасивне Сприйняття 9    
+**Мови** --    
+**Небезпек ** 3 (700 ПД)
 
-**Petrifying Gaze.** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.    
-A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.    
-If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze. 
+**Скам'янілий погляд.** Якщо істота починає хід у межах 30 футів від василіска і вони обоє бачать одне одного, василіск може змусити істоту зробити рятівний кидок Статури з КС 12, якщо василіск не недієздатний. У випадку невдачі істота магічним чином починає перетворюватися на камінь і стає скутою. Вона повинна повторити рятівний кидок в кінці свого наступного ходу. За умови успіху ефект завершується. У випадку невдачі, істота скам'яніла, доки не звільниться чарами "покращене відновлення" чи іншою магією.    
+Істота, що не захоплена зненацька, може відвести очі, щоб уникнути рятівного кидка на початку свого ходу. Якщо вона робить так, то не бачить василіска до початку свого наступного ходу, коли вона зможе відвести очі знову.    
+Якщо вона дивиться на василіска, то повинна негайно зробити рятівний кидок. Якщо василіск бачить своє відображення у межах 30 футів у яскравому світлі, він вважає себе за суперника й націлюється на себе власним поглядом.
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих пошкоджень плюс 7 (2к6) пошкоджень отрутою.

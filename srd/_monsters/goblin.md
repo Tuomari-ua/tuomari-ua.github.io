@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Goblin
+title: Ґоблін
 type: Humanoid (goblinoid)
-tag: .25
+tag: 0,25
 ---
+
 _Small humanoid (goblinoid), neutral evil_
 
-**Armor Class** 15 (leather armor, shield)    
-**Hit Points** 7 (2d6)    
-**Speed** 30 ft. 
+**Клас захисту** 15 (шкіряна броня, щит)    
+**Пункти здоров'я** 7 (2к6)    
+**Швидкість** 30 ф.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 14 (+2) | 10 (+0) | 10 (+0) | 8 (−1)  | 8 (−1)  |
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР    | ХАР    |
+| ------ | ------- | ------- | ------- | ------ | ------ |
+| 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |
 
-**Skills** Stealth +6    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** Common, Goblin    
-**Challenge** 1/4 (50 XP) 
+**Навички** Непомітність +6    
+**Чуття** темний зір 60 ф., пасивне Сприйняття 9    
+**Мови** Спільна, ґоблінська    
+**Небезпека** 1/4 (50 ПД)
 
-**Nimble Escape.** The goblin can take the Disengage or Hide action as a bonus action on each of its turns. 
+**Спритна втеча.** Ґоблін може Відступити чи Затаїтися бонусною дією в кожний свій хід.
 
-### Actions 
-**Scimitar.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+### Дії
+**Скимитар.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна дія. _Влучання:_ 5 (1к6 + 2) рубаних пошкоджень.    
+**Короткий лук.** _ Далекобійна атака зброєю:_ +4 до влучання, відстань 80/320 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих пошкоджень.
