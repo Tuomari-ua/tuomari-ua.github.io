@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
-level: j2
+level: 2
 classes: druid
          ranger
 title: Barkskin 
