@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 6
 classes: warlock
          wizard
 title: Flesh to Stone 
