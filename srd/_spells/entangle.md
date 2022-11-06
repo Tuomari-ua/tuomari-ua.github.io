@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 1
 classes: druid
 title: Entangle 
 ---
