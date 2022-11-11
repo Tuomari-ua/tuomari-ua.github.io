@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 6
 classes: bard
          wizard
 title: Guards and Wards 

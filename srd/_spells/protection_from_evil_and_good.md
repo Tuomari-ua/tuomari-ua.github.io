@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 1
 classes: cleric
          paladin
          warlock

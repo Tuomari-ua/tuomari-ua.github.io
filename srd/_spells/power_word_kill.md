@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 9
 classes: bard
          sorcerer
          warlock

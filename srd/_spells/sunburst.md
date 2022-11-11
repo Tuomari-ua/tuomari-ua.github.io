@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 8
 classes: druid
          sorcerer
          wizard

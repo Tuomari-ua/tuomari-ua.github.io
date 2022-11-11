@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 1
 classes: cleric
 title: Inflict Wounds 
 ---

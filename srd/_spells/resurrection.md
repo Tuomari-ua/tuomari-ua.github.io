@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 7
 classes: bard
          cleric
 title: Resurrection 

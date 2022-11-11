@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 9
 classes: bard
          druid
          warlock

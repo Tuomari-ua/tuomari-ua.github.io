@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 9
 classes: sorcerer
          wizard
 title: Wish 

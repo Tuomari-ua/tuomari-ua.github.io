@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 1
 classes: sorcerer
          wizard
 title: Magic Missile 

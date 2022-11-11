@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 3
 classes: bard
          cleric
 title: Speak with Dead 

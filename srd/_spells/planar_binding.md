@@ -1,18 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
-classes: bard
-         cleric
-         druid
-         wizard
-title: Planar Binding 
+tag: Перешкоджання
+level: 5
+classes: bard, cleric, druid, wizard
+title: Планарний зв'язок [Planar Binding]
 ---
-_5th-level abjuration_ 
-**Casting Time:** 1 hour    
-**Range:** 60 feet    
-**Components:** V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)    
-**Duration:** 24 hours 
-With this spell, you attempt to bind a celestial, an elemental, a fey, or a fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of an inverted magic circle in order to keep it trapped while this spell is cast.) At the completion of the casting, the target must make a Charisma saving throw. On a failed save, it is bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.    
-A bound creature must follow your instructions to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. The creature obeys the letter of your instructions, but if the creature is hostile to you, it strives to twist your words to achieve its own objectives. If the creature carries out your instructions completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane of existence, it returns to the place where you bound it and remains there until the spell ends. 
-**At Higher Levels.** When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, to 30 days with a 7th- level slot, to 180 days with an 8th-level slot, and to a year and a day with a 9th-level spell slot. 
+
+_Перешкоджання, 5 рівень; бард, друїд, маг, клірик_   
+**Час створення:** 1 година    
+**Відстань: **60 футів    
+**Складові: **В, С, М (дорогоцінний камінь вартістю принаймні 1000 зм, який поглинається чарами)    
+**Тривалість** 24 години За допомогою цих чарів ви намагаєтеся прив’язати до себе небожителя, елементаля, фею чи погань. Ця істота має бути в межах дії чарів весь час їх створення. (Зазвичай істота спершу прикликається в центр інвертованого магічного кола, щоб утримувати її в пастці під час створення чарів.) Після завершення чарування ціль повинна зробити рятівний кидок Харизми. При провалі істота мусить служити вам на час дії чарів. Якщо істоту було прикликано або створено іншими чарами, тривалість тих чарів подовжується відповідно до тривалості цих чарів.    
+Підкорена істота повинна слідувати вашим інструкціям, докладаючи максимальних зусиль. Ви можете змусити істоту супроводжувати вас у пригоді, охороняти місце або доставити повідомлення. Істота чітко виконує ваші інструкції, однак, якщо вона налаштована вороже до вас, то шукатиме прогалини у словах аб иперекрутити наказ для власних цілей. Якщо істота виконає ваші вказівки повністю до закінчення дії чарів, вона переміститься до вас аби повідомити про цей факт, якщо ви в одному і тому ж плані існування. Якщо ви перебуваєте на іншому плані, істота повертається до місця, де ви підкорили її, і залишається там, поки дія чарів не закінчиться.   
+**На вищих рівнях.** Коли ви створюєте ці чари за допомогою чарунки вищого рівня, тривалість збільшується до 10 днів з 6-го рівня, до 30 днів з 7-го рівня, до 180 днів з чарункою 8-го рівня, і до року з одним днем за чарунку 9-го рівня. 

@@ -1,14 +1,14 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
+level: 4
 classes: wizard
-title: Phantasmal Killer 
+title: Фантомний вбивця [phantasmal killer]
 ---
-_4th-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its deepest fears, visible only to that creature. The target must make a Wisdom saving throw. On a failed save, the target becomes frightened for the duration. At the end of each of the target's turns before the spell ends, the target must succeed on a Wisdom saving throw or take 4d10 psychic damage. On a successful save, the spell ends. 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d10 for each slot level above 4th.
+
+_Ілюзія, 4 рівень; маг_   
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини. Ви зазираєте до кошмарів істоти, яку можете бачити в межах відстані, і створюєте ілюзорний прояв її найглибших страхів, видимий лише цій істоті. Ціль мусить зробити рятівний кидок Мудрості. При провалі ціль стає наляканою на час дії чарів. Наприкінці кожного з ходів цілі, до закінчення заклинання, ціль повинна досягти успіху в ряткидку Мудрості або отримати 4к10 психічних ушкоджень. При успішному результаті - чари закінчуються. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 5 рівня або вище, ушкодження зростають на 1к10 за кожну чарунку вище четвертої.

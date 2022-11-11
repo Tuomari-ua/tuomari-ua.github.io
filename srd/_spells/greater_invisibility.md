@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
+level: 4
 classes: bard
          sorcerer
          wizard

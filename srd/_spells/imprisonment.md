@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 9
 classes: warlock
          wizard
 title: Imprisonment 

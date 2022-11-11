@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 5
 classes: sorcerer
          wizard
 title: Telekinesis 

@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 0
 classes: bard
 title: Vicious Mockery 
 ---

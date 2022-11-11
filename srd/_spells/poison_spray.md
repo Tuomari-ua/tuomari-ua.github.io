@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 0
 classes: druid
          sorcerer
          warlock

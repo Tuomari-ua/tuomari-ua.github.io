@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 4
 classes: bard
          cleric
          druid

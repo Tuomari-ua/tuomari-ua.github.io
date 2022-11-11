@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 2
 classes: druid
 title: Moonbeam 
 ---

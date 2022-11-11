@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 6
 classes: cleric
 title: Word of Recall 
 ---

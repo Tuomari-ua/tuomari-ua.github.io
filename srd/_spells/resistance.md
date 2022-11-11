@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 0
 classes: cleric
          druid
 title: Resistance 

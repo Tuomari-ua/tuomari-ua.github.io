@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 9
 classes: bard
          warlock
          wizard

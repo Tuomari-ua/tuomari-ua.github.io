@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 4
 classes: wizard
 title: Resilient Sphere 
 ---

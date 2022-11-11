@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 0
 classes: sorcerer
          wizard
 title: Shocking Grasp 

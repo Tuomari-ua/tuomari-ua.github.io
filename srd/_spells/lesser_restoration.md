@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Abjuration
+level: 2
 classes: bard
          cleric
          druid

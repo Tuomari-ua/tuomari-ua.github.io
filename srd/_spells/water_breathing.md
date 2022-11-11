@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 3
 classes: druid
          ranger
          sorcerer

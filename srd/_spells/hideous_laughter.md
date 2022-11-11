@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Enchantment
+level: 1
 classes: bard
          wizard
 title: Hideous Laughter 

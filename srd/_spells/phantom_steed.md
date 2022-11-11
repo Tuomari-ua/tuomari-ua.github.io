@@ -1,14 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
+level: 3
 classes: wizard
-title: Phantom Steed 
+title: Фантомний скакун [phantom steed]
 ---
-_3rd-level illusion (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 1 hour 
-A Large quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, but it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.    
-For the duration, you or a creature you choose can ride the steed. The creature uses the statistics for a riding horse, except it has a speed of 100 feet and can travel 10 miles in an hour, or 13 miles at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an action to dismiss it or if the steed takes any damage.
+
+_Ілюзія, 3 рівень (ритуал); маг_   
+**Час створення:** 1 хвилина    
+**Відстань: **30 футів    
+**Складові: **В, С    
+**Тривалість** 1 година Велика квазіареальна істота, схожа на коня, з’являється на землі у незайнятому просторі у межахі дії чарів, за вашим вибором. Ви обираєте вигляд істоти, але вона оснащена сідлом, стременом та вуздечкою. Будь-яке спорядження, створене чарами, зникне у хмарі диму, якщо його віднести більше ніж на 10 футів від скакуна.    
+На час дії чарів ви або істота за вашим вибором можете скористатися скакуном. Ця істота використовує блок статистики їздового коня, за виключенням того, що він має швидкість  100 футів і може проїхати 10 миль за годину, або 13 миль у швидкому темпі. Коли дія чарів закінчується, скакун поступово зникає, даючи вершнику 1 хвилину для того, щоб спішитися. Чари закінчують дію, якщо ви скасовуєте їх дією або якщо скакун отримає будь-які ушкодження.

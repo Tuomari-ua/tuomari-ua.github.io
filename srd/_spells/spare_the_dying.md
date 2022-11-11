@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 0
 classes: cleric
 title: Spare the Dying 
 ---

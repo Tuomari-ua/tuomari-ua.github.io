@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 2
 classes: sorcerer
          warlock
          wizard

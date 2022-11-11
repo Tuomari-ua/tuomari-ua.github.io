@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 2
 classes: cleric
          wizard
 title: Gentle Repose 

@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
+level: 7
 classes: bard
          wizard
 title: Project Image 

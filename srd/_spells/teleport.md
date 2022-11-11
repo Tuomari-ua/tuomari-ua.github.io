@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Conjuration
+level: 7
 classes: bard
          sorcerer
          wizard

@@ -1,14 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
+level: 5
 classes: wizard
-title: Passwall 
+title: Створити прохід/отвір [Passwall]
 ---
-_5th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a pinch of sesame seeds)    
-**Duration:** 1 hour 
-A passage appears at a point of your choice that you can see on a wooden, plaster, or stone surface (such as a wall, a ceiling, or a floor) within range, and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.    
-When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
+
+_Перетворення, 5 рівень; маг_  
+**Час створення:** 1 дія    
+**Відстань: **30 футів    
+**Складові: **В, С, М (щіпка насіння кунжуту)    
+**Тривалість** 1 годину Прохід з’являється у вибраній вами точці, яку ви можете побачити на дерев’яній, гіпсовій або кам’яній поверхні (наприклад, на стіні, стелі чи підлозі) у межах відстані, і існує на час дії чарів. Ви обираєте розміри отвору: до 5 футів у ширину, 8 футів у висоту, а також 20 футів у глибину. Цей прохід не створює нестабільності в конструкції, що її оточує.    
+Під час зникнення проходу будь-які істоти або об'єкти, які досі в проході створеному заклинанням - безпечно викидаються до незайнятого простору, найближчого до поверхні, на якій створювали чари.

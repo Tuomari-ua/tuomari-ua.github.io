@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+level: 6
+tag: З'явлення
 classes: cleric
-title: Planar Ally 
+title: Планарний союзник [Planar Ally]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 10 minutes    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You beseech an otherworldly entity for aid. The being must be known to you: a god, a primordial, a demon prince, or some other being of cosmic power. That entity sends a celestial, an elemental, or a fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (GM's choice).    
-When the creature appears, it is under no compulsion to behave in any particular way. You can ask the creature to perform a service in exchange for payment, but it isn't obliged to do so. The requested task could range from simple (fly us across the chasm, or help us fight a battle) to complex (spy on our enemies, or protect us during our foray into the dungeon). You must be able to communicate with the creature to bargain for its services.    
-Payment can take a variety of forms. A celestial might require a sizable donation of gold or magic items to an allied temple, while a fiend might demand a living sacrifice or a gift of treasure. Some creatures might exchange their service for a quest undertaken by you.    
-As a rule of thumb, a task that can be measured in minutes requires a payment worth 100 gp per minute. A task measured in hours requires 1,000 gp per hour. And a task measured in days (up to 10 days) requires 10,000 gp per day. The GM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.    
-After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you, if appropriate to the task and if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.    
-A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded. 
+
+_З'явлення, 6 рівень; клірик_   
+**Час створення:** 10 хвилин  
+**Відстань:** 60 футів  
+**Складові:** В, С  
+**Тривалість:** Миттєво.  
+Ви просите допомоги у потойбічної сутності. Сутність має бути відома вам: бог, принц демонів, первинна або інша сутність, наділена космічними силами. Ця сутність відправляє небожителя, елементаля або погань, вірного вам. Ця істота з'являється у незайнятому просторі у межах дії чарів. Якщо ви знаєте ім'я певної істоти, ви можете проговорити це імʼя, коли створюєте ці чари, щоб викликати цю істоту, хоча ви все одно можете отримати іншу істоту (вибір Майстра).    
+Коли з’являється істота, вона не змушена поводитися будь-яким конкретним чином. Ви можете попросити істоту виконати послугу в обмін на оплату, але вона не зобов'язана цього робити. Визначене завдання може варіюватися від простого (перенесіть нас через прірву або допоможіть нам у битві) до складного (шпигуйте за нашими ворогами або захистіть нас під час нашого набігу в підземелля). Ви повинні бути в змозі спілкуватися з істотою, щоб торгуватися за її послуги.    
+Оплата може набувати різних форм. Небожитель може вимагати на пожертву золото або магічні предмети для союзного храму, тоді як погань може вимагати живої жертви чи скарбів. Деякі істоти можуть обміняти свої послуги на завдання, виконане вами.    
+Як правило, завдання, яке можна виконати за хвилини, вимагає плати вартістю 100 зм на хвилину. Завдання, що вимірюється годинами, вимагає 1000 зм за годину. І завдання, що виконується днями (до 10 днів) вимагає 10000 зм в день. Майстер може коригувати ці вимоги в залежності від обставин, за яких ви створюєте чари. Якщо це завдання узгоджується зі світоглядом істоти, платіж може бути знижений удвічі або анульований. Безпечні завдання зазвичай вимагають лише половини запропонованої оплати, тоді як особливо небезпечні завдання можуть вимагати більшого дарунка. Істоти рідко беруть завдання, які здаються самогубними.    
+Після виконання завдання істотою або після закінчення умовленого терміну завдання істота повертається до свого домашнього плану, відзвітувавши вам, якщо це доречно та якщо це можливо. Якщо ви не можете домовитися щодо ціни послуги істоти, вона відразу повертається до свого домашнього плану.    
+Істота, приєднавшись до вашої групи, вважається її учасником, отримуючи свою частку пунктів досвіду. 

@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 1
 classes: druid
          ranger
 title: Goodberry 

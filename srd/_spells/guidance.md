@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Divination
+level: 0
 classes: cleric
          druid
 title: Guidance 

@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
+level: 1
 classes: cleric
 title: Guiding Bolt 
 ---

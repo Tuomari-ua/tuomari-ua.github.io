@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Necromancy
+level: 9
 classes: cleric
          druid
 title: True Resurrection 

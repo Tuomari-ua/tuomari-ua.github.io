@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Illusion
+level: 6
 classes: bard
          wizard
 title: Programmed Illusion 

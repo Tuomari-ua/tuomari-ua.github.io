@@ -2,6 +2,7 @@
 category: spells
 layout: page
 tag: Transmutation
+level: 0
 classes: bard
          sorcerer
          wizard
