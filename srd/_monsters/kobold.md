@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Kobold
-type: Humanoid (kobold)
-tag: .125
+title: Кобольд
+type: Гуманоїд (кобольд)
+tag: 0.125
 ---
-_Small humanoid (kobold), lawful evil_
 
-**Armor Class** 12    
-**Hit Points** 5 (2d6 − 2)    
-**Speed** 30 ft. 
+_Малий гуманоїд (кобольд), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 15 (+2) | 9 (−1)  | 8 (−1)  | 7 (−2)  | 8 (−1)  |
+**Клас захисту** 12    
+**Пункти здоров'я** 5 (2к6-2)    
+**Швидкість** 30 ф.  
 
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** Common, Draconic    
-**Challenge** 1/8 (25 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 7 (-2) | 15 (+2) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |
 
-**Sunlight Sensitivity.** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.    
-**Pack Tactics.** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Чуття** темний зір 60 ф., пасивне Сприйняття 8    
+**Мови** Спільна, Драконівська    
+**Небезпека ** 1/8 (25 ПД)  
 
-### Actions 
-**Dagger.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Sling.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage.
+**Чутливість до сонячного світла.** Перебуваючи на сонячному світлі, кобольд має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.    
+**Тактика зграї.** Кобольд має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників кобольда перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.  
+
+### Дії
+**Кинджал.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф., одна ціль. _Влучання:_ 4 (1к4+2) колотих ушкоджень.    
+**Праща.** _Атака далекобійною зброєю:_ +4 до влучання, відстань 30/120 ф., одна ціль. _Влучання:_ 4 (1к4+2) дробильних ушкоджень.
