@@ -4,11 +4,10 @@ title: Предмети за рідкісністю
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-    {% assign arrs = "common, uncommon, rare, very rare, legendary, artifact" | split: ", " %}
+    {% assign arrs = "uncommon, rare, very rare, legendary, artifact" | split: ", " %}
     {% assign sortedPosts = site.items | sort: 'title' %}
       {% for item in arrs %}
       <h3 id="{{ item }}">   {% case item %}
-        {% when 'common' %}Звичні     
         {% when 'uncommon' %}Незвичні
         {% when 'rare' %}Рідкісні
         {% when 'very rare' %}Дуже рідкісні
