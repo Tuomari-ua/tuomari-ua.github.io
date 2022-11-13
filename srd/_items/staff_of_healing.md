@@ -3,7 +3,7 @@ category: items
 layout: page
 name: Staff of Healing
 tag: staff
-title:Staff of Healing
+title: Staff of Healing
 --- 
 _Staff, rare (requires attunement by a bard, cleric, or druid)_ 
 
