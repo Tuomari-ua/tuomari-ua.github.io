@@ -21,7 +21,7 @@ title: Правила майстра
 
 * [Предмети за назвою](/docs/gamemaster_rules/indexes/items_alllist.html)
 * [Предмети за типом](/docs/gamemaster_rules/indexes/items_typelist.html)
-* [Предмети за рідкісністю](./docs/gamemaster_rules/indexes/items_raritylist.html)
+* [Предмети за рідкісністю](/docs/gamemaster_rules/indexes/items_raritylist.html)
 
 ## Списки монстрів
 
