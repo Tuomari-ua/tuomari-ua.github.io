@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Staff of Healing
+type: Рідкісний
 tag: staff
 title: Staff of Healing
 --- 
