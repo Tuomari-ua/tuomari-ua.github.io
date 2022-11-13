@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Gem of Brightness
+type: uncommon
 tag: item
 title: Gem of Brightness 
 ---

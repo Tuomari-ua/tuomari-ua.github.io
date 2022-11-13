@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Restorative Ointment
+type: uncommon
 tag: item
 title: Restorative Ointment 
 ---

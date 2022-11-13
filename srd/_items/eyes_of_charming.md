@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Eyes of Charming
+type: uncommon
 tag: item
 title: Eyes of Charming 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Free Action
+type: rare
 tag: ring
 title: Ring of Free Action 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Pearl of Power
+type: uncommon
 tag: item
 title: Pearl of Power 
 ---

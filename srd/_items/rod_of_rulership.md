@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rod of Rulership
+type: rare
 tag: rod
 title: Rod of Rulership 
 ---

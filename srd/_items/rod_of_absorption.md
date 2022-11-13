@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rod of Absorption
+type: vert rare
 tag: rod
 title: Rod of Absorption 
 ---

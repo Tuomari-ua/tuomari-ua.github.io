@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bowl of Command Water Elementals
+type: rare
 tag: item
 title: Bowl of Commanding Water Elementals 
 ---

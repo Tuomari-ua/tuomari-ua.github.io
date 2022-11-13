@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Demon Armor
+type: very rare
 tag: armor
 title: Demon Armor 
 ---

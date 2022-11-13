@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Shield, +1, +2, or +3
+type: uncommon, rare, very rare
 tag: armor
 title: Shield, +1, +2, or +3 
 ---

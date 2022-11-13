@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Djinni
+type: legendary
 tag: ring
 title: Ring of Djinni Summoning 
 ---

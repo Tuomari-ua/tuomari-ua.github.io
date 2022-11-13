@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Robe of Stars
+type: very rare
 tag: item
 title: Robe of Stars 
 ---

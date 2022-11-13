@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dust of Disappearance
+type: uncommon
 tag: item
 title: Dust of Disappearance 
 ---

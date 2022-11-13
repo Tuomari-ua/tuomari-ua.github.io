@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Boots of Speed
+type: rare
 tag: item
 title: Boots of Speed 
 ---

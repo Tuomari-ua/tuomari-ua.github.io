@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Sovereign Glue
+type: legendary
 tag: item
 title: Sovereign Glue 
 ---

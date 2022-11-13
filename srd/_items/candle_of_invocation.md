@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Candle of Invocation
+type: very rare
 tag: item
 title: Candle of Invocation 
 ---

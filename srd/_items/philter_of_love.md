@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Philter of Love
+type: uncommon
 tag: potion
 title: Philter of Love 
 ---

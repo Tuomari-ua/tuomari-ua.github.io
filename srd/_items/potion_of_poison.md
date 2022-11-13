@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Poison
+type: uncommon
 tag: potion
 title: Potion of Poison 
 ---

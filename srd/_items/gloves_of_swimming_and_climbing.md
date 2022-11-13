@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Gloves of Swimming and Climbing
+type: uncommon
 tag: item
 title: Gloves of Swimming and Climbing 
 ---

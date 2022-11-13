@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Iron Bands of Binding
+type: rare
 tag: item
 title: Iron Bands of Binding 
 ---

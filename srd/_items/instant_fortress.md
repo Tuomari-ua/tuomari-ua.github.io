@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Instant Fortress
+type: rare
 tag: item
 title: Instant Fortress 
 ---

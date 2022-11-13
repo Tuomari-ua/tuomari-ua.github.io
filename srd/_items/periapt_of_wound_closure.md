@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Periapt of Wound Closure
+type: uncommon
 tag: item
 title: Periapt of Wound Closure 
 ---

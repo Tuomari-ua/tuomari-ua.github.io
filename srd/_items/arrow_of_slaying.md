@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Arrow of Slaying
+type: very rare
 tag: weapon
 title: Arrow of Slaying 
 ---

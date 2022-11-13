@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Helm of Telepathy
+type: uncommon
 tag: item
 title: Helm of Telepathy 
 ---

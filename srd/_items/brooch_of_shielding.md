@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Brooch of Shielding
+type: uncommon
 tag: item
 title: Brooch of Shielding 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Mace of Disruption
+type: rare
 tag: weapon
 title: Mace of Disruption 
 ---

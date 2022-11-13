@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Animal Friendship
+type: uncommon
 tag: potion
 title: Potion of Animal Friendship 
 ---

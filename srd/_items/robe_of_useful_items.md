@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Robe of Useful Items
+type: uncommon
 tag: item
 title: Robe of Useful Items 
 ---

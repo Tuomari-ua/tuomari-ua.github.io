@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Invisibility
+type: very rare
 tag: potion
 title: Potion of Invisibility 
 ---

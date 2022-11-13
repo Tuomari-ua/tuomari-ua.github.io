@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of the Ram
+type: rare
 tag: ring
 title: Ring of the Ram 
 ---

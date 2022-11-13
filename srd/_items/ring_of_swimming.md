@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Swimming
+type: uncommon
 tag: ring
 title: Ring of Swimming 
 ---

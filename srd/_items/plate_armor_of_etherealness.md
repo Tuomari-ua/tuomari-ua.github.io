@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Plate Armor of Etherealness
+type: legendary
 tag: armor
 title: Plate Armor of Etherealness 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Speed
+type: very rare
 tag: potion
 title: Potion of Speed 
 ---

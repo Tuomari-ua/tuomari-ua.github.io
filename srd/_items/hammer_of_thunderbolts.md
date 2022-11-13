@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Hammer of Thunderbolts
+type: legendary
 tag: weapon
 title: Hammer of Thunderbolts 
 ---

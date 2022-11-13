@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Mithral Armor
+type: uncommon
 tag: armor
 title: Mithral Armor 
 ---

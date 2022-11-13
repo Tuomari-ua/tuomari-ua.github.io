@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Defender
+type: legendary
 tag: weapon
 title: Defender 
 ---

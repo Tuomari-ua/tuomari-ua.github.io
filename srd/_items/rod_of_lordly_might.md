@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rod of Lordly Might
+type: legendary
 tag: rod
 title: Rod of Lordly Might 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dimensional Shackles
+type: rare
 tag: item
 title: Dimensional Shackles 
 ---

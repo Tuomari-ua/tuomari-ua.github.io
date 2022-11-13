@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Elemental Gem
+type: uncommon
 tag: item
 title: Elemental Gem 
 ---

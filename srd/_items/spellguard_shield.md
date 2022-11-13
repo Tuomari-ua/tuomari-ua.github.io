@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Spellguard Shield
+type: very rare
 tag: armor
 title: Spellguard Shield 
 ---

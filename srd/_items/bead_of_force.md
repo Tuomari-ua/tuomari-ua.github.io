@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bead of Force
+type: rare
 tag: item
 title: Bead of Force 
 ---

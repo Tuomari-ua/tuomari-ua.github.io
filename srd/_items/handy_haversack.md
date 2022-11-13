@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Handy Haversack
+type: rare
 tag: item
 title: Handy Haversack 
 ---

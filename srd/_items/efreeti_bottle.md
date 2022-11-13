@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Efreeti Bottle
+type: very rare
 tag: item
 title: Efreeti Bottle 
 ---

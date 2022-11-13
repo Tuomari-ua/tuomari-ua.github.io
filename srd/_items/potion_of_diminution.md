@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Diminution
+type: rare
 tag: potion
 title: Potion of Diminution 
 ---

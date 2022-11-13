@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Helm of Brilliance
+type: very rare
 tag: item
 title: Helm of Brilliance 
 ---

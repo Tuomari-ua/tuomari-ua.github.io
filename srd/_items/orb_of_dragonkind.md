@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Orb of Dragonkind
+type: artifact
 tag: artifact
 title: Orb of Dragonkind 
 ---

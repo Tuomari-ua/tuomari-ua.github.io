@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Giant Slayer
+type: rare
 tag: weapon
 title: Giant Slayer 
 ---

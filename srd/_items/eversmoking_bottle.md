@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Eversmoking Bottle
+type: uncommon
 tag: item
 title: Eversmoking Bottle 
 ---

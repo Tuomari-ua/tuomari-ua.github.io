@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dwarven Plate
+type: very rare
 tag: armor
 title: Dwarven Plate 
 ---

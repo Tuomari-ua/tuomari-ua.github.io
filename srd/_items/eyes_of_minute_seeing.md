@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Eyes of Minute Seeing
+type: uncommon
 tag: item
 title: Eyes of Minute Seeing 
 ---

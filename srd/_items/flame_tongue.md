@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Flame Tongue
+type: rare
 tag: weapon
 title: Flame Tongue 
 ---

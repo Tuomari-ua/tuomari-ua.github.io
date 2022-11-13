@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Spell Turning
+type: legendary
 tag: ring
 title: Ring of Spell Turning 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Necklace of Prayer Beads
+type: rare
 tag: item
 title: Necklace of Prayer Beads 
 ---

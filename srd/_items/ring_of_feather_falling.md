@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Feather Falling
+type: rare
 tag: ring
 title: Ring of Feather Falling 
 ---

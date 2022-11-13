@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ioun Stone
+type: rare, very rare, legendary
 tag: item
 title: Ioun Stone 
 ---

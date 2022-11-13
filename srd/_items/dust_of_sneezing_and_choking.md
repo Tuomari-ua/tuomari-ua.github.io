@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dust of Sneezing and Choking
+type: uncommon
 tag: item
 title: Dust of Sneezing and Choking 
 ---

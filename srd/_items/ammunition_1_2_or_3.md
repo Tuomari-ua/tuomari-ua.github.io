@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ammunition, +1, +2 or +3
+type: uncommon, rare, very rare
 tag: weapon
 title: Ammunition, +1, +2, or +3 
 ---

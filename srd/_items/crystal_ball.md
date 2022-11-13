@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Crystal Ball
+type: very rare, legendary
 tag: item
 title: Crystal Ball 
 ---

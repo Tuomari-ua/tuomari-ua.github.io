@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Headband of Intellect
+type: uncommon
 tag: item
 title: Headband of Intellect 
 ---

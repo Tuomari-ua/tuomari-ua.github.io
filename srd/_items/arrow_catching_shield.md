@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Arrow-Catching Shield
+type: rare
 tag: armor
 title: Arrow-Catching Shield 
 ---

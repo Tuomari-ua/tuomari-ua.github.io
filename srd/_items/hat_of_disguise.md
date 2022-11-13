@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Hat of Disguise
+type: uncommon
 tag: item
 title: Hat of Disguise 
 ---

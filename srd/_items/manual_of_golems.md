@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Manual of Golems
+type: very rare
 tag: item
 title: Manual of Golems 
 ---

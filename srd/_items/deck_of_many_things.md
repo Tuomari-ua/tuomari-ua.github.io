@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Deck of Many Things
+type: legendary
 tag: item
 title: Deck of Many Things 
 ---

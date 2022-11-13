@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Mind Shielding
+type: uncommon
 tag: ring
 title: Ring of Mind Shielding 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Censer of Controlling Air Elementals
+type: rare
 tag: item
 title: Censer of Controlling Air Elementals 
 ---

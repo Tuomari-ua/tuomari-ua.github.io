@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Staff of Charming
+type: rare
 tag: staff
 title: Staff of Charming 
 ---

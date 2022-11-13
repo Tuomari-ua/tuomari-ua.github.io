@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Clairvoyance
+type: rare
 tag: potion
 title: Potion of Clairvoyance 
 ---

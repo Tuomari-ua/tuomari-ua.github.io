@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Horseshoes of a Zephyr
+type: very rare
 tag: item
 title: Horseshoes of a Zephyr 
 ---

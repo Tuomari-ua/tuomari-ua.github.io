@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Growth
+type: uncommon
 tag: potion
 title: Potion of Growth 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Oil of Sharpness
+type: very rare
 tag: potion
 title: Oil of Sharpness 
 ---

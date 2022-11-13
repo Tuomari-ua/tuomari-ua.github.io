@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Animated Shield
+type: very rare
 tag: armor
 title: Animated Shield 
 ---

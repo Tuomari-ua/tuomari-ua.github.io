@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dragon Slayer
+type: rare
 tag: weapon
 title: Dragon Slayer 
 ---

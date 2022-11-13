@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Sphere of Annihilation
+type: legendary
 tag: item
 title: Sphere of Annihilation 
 ---

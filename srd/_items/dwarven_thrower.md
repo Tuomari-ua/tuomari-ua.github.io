@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dwarven Thrower
+type: very rare
 tag: weapon
 title: Dwarven Thrower 
 ---

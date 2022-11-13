@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Horn of Valhalla
+type: rare, very rare, legendary
 tag: item
 title: Horn of Valhalla 
 ---

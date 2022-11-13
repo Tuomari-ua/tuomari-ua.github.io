@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dust of Dryness
+type: uncommon
 tag: item
 title: Dust of Dryness 
 ---

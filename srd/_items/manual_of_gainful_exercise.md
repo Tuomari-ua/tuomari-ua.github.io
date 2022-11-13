@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Manual of Gainful Exercise
+type: very rare
 tag: item
 title: Manual of Gainful Exercise 
 ---

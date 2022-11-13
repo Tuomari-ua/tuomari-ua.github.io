@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Slippers of Spider Climbing
+type: uncommon
 tag: item
 title: Slippers of Spider Climbing 
 ---

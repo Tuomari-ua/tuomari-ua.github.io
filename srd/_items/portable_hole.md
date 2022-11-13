@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Portable Hole
+type: rare
 tag: item
 title: Portable Hole 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Invisibility
+type: legendary
 tag: ring
 title: Ring of Invisibility 
 ---

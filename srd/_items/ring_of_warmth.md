@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Warmth
+type: uncommon
 tag: ring
 title: Ring of Warmth 
 ---

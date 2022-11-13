@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Periapt of Health
+type: uncommon
 tag: item
 title: Periapt of Health 
 ---

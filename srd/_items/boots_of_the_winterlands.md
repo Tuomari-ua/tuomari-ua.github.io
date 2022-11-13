@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Boots of the Winterlands
+type: uncommon
 tag: item
 title: Boots of the Winterlands 
 ---

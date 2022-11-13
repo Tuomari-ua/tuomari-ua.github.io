@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Helm of Teleportation
+type: rare
 tag: item
 title: Helm of Teleportation 
 ---

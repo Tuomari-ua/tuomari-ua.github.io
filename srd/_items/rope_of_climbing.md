@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rope of Climbing
+type: uncommon
 tag: item
 title: Rope of Climbing 
 ---

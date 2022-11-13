@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bag of Devouring
+type: very rare
 tag: item
 title: Bag of Devouring 
 ---

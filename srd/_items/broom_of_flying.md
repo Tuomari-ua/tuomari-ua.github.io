@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Broom of Flying
+type: uncommon
 tag: item
 title: Broom of Flying 
 ---

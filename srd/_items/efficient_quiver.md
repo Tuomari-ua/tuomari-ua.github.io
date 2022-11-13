@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Efficient Quiver
+type: uncommon
 tag: item
 title: Efficient Quiver 
 ---

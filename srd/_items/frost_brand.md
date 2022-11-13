@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Frost Brand
+type: very rare
 tag: weapon
 title: Frost Brand 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Mirror of Life Trapping
+type: very rare
 tag: item
 title: Mirror of Life Trapping 
 ---

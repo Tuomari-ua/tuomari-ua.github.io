@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Iron Flask
+type: legendary
 tag: item
 title: Iron Flask 
 ---

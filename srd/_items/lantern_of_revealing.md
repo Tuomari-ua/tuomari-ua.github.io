@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Lantern of Revealing
+type: uncommon
 tag: item
 title: Lantern of Revealing 
 ---

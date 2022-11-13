@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Adamantine Armor
+type: uncommon
 tag: armor
 title: Adamantine Armor 
 ---

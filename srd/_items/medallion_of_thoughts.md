@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Medallion of Thoughts
+type: uncommon
 tag: item
 title: Medallion of Thoughts 
 ---

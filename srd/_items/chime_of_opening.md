@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Chime of Opening
+type: rare
 tag: item
 title: Chime of Opening 
 ---

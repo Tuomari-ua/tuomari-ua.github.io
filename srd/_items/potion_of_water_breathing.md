@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Water Breathing
+type: uncommon
 tag: potion
 title: Potion of Water Breathing 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bracers of Defense
+type: rare
 tag: item
 title: Bracers of Defense 
 ---

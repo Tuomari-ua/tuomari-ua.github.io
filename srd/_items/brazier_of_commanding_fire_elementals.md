@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Brazier of Commanding Fire Elementals
+type: rare
 tag: item
 title: Brazier of Commanding Fire Elementals 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dagger of Venom
+type: rare
 tag: weapon
 title: Dagger of Venom 
 ---

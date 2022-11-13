@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Robe of the Archmagi
+type: legendary
 tag: item
 title: Robe of the Archmagi 
 ---

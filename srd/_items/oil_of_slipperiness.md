@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Oil of Slipperiness
+type: uncommon
 tag: potion
 title: Oil of Slipperiness 
 ---

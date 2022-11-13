@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Circlet of Blasting
+type: uncommon
 tag: item
 title: Circlet of Blasting 
 ---

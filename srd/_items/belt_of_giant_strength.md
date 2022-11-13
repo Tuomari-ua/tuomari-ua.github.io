@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Belt of Giant Strength
+type: rare, very rare, legendary
 tag: item
 title: Belt of Giant Strength 
 ---

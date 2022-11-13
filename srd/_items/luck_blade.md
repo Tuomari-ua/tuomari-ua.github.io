@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Luck Blade
+type: legendary
 tag: weapon
 title: Luck Blade 
 ---

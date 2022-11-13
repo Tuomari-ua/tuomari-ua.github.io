@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Flying
+type: very rare
 tag: potion
 title: Potion of Flying 
 ---

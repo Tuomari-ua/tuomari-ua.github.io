@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Three Wishes
+type: legendary
 tag: ring
 title: Ring of Three Wishes 
 ---

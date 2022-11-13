@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bag of Beans
+type: rare
 tag: item
 title: Bag of Beans 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cape of the Mountebank
+type: rare
 tag: item
 title: Cape of the Mountebank 
 ---

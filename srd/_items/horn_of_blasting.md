@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Horn of Blasting
+type: rare
 tag: item
 title: Horn of Blasting 
 ---

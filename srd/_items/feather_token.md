@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Feather Token
+type: rare
 tag: item
 title: Feather Token 
 ---

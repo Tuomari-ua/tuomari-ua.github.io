@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Oathbow
+type: very rare
 tag: weapon
 title: Oathbow 
 ---

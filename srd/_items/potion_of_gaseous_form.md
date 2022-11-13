@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Gaseous Form
+type: rare
 tag: potion
 title: Potion of Gaseous Form 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Robe of Eyes
+type: rare
 tag: item
 title: Robe of Eyes 
 ---

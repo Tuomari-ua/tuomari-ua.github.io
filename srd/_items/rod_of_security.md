@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rod of Security
+type: very rare
 tag: rod
 title: Rod of Security 
 ---

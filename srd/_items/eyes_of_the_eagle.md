@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Eyes of the Eagle
+type: uncommon
 tag: item
 title: Eyes of the Eagle 
 ---

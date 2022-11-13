@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Gauntlets of Ogre Power
+type: uncommon
 tag: item
 title: Gauntlets of Ogre Power 
 ---

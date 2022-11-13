@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Periapt of Proof against Poison
+type: rare
 tag: item
 title: Periapt of Proof against Poison 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bracers of Archery
+type: uncommon
 tag: item
 title: Bracers of Archery 
 ---

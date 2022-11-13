@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Necklace of Adaption
+type: uncommon
 tag: item
 title: Necklace of Adaptation 
 ---

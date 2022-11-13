@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Water Walking
+type: uncommon
 tag: ring
 title: Ring of Water Walking 
 ---

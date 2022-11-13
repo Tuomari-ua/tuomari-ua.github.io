@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Immovable Rod
+type: uncommon
 tag: rod
 title: Immovable Rod 
 ---

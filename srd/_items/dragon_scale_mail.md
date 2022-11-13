@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dragon Scale Mail
+type: very rare
 tag: armor
 title: Dragon Scale Mail 
 ---

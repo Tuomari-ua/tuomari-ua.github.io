@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Helm of Comprehending Languages
+type: uncommon
 tag: item
 title: Helm of Comprehending Languages 
 ---

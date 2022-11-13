@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Healing
+type: common, uncommon, rare, very rare
 tag: potion
 title: Potion of Healing 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Mind Reading
+type: rare
 tag: potion
 title: Potion of Mind Reading 
 ---

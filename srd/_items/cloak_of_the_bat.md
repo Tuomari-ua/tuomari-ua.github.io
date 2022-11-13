@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cloak of the Bat
+type: rare
 tag: item
 title: Cloak of the Bat 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Apparatus of the Crab
+type: legendary
 tag: item
 title: Apparatus of the Crab 
 ---

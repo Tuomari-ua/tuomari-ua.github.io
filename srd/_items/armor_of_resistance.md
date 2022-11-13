@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Armor of Resistance
+type: rare
 tag: armor
 title: Armor of Resistance 
 ---

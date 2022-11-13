@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Goggles of Night
+type: uncommon
 tag: item
 title: Goggles of Night 
 ---

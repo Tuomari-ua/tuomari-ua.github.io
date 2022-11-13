@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Boots of Levitation
+type: rare
 tag: item
 title: Boots of Levitation 
 ---

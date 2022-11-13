@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Scimitar of Speed
+type: very rare
 tag: weapon
 title: Scimitar of Speed 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Evasion
+type: rare
 tag: ring
 title: Ring of Evasion 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of X-ray Vision
+type: rare
 tag: ring
 title: Ring of X-ray Vision 
 ---

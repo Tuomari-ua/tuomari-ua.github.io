@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Folding Boat
+type: rare
 tag: item
 title: Folding Boat 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Manual of Quickness of Action
+type: very rare
 tag: item
 title: Manual of Quickness of Action 
 ---

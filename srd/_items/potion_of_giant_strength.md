@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Giant Strength
+type: uncommon, rare, very rare, legendary
 tag: potion
 title: Potion of Giant Strength 
 ---

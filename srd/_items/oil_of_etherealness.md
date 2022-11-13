@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Oil of Etherealness
+type: rare
 tag: potion
 title: Oil of Etherealness 
 ---

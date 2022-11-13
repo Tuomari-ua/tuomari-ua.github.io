@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Deck of Illusions
+type: uncommon
 tag: item
 title: Deck of Illusions 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bag of Holding
+type: uncommon
 tag: item
 title: Bag of Holding 
 ---

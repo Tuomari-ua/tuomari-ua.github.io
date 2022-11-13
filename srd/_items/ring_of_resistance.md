@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Resistance
+type: rare
 tag: ring
 title: Ring of Resistance 
 ---

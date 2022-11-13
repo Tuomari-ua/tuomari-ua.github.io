@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cloak of Protection
+type: uncommon
 tag: item
 title: Cloak of Protection 
 ---

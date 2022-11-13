@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Amulet of the Planes
+type: very rare
 tag: item
 title: Amulet of the Planes 
 ---

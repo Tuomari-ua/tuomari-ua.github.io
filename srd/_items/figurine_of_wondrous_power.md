@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Figurine of Wondrous Power
+type: rare, very rare, Uncommon
 tag: item
 title: Figurine of Wondrous Power 
 ---

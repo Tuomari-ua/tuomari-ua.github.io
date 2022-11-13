@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Amulet of Proof against Detection and Location
+type: uncommon
 tag: item
 title: Amulet of Proof against Detection and Location 
 ---

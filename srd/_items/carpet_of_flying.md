@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Carpet of Flying
+type: very rare
 tag: item
 title: Carpet of Flying 
 ---

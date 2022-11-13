@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Decanter of Endless Water
+type: uncommon
 tag: item
 title: Decanter of Endless Water 
 ---

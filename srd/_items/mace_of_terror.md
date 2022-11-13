@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Mace of Terror
+type: rare
 tag: weapon
 title: Mace of Terror 
 ---

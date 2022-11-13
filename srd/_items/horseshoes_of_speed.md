@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Horseshoes of Speed
+type: rare
 tag: item
 title: Horseshoes of Speed 
 ---

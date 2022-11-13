@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Armor, +1, +2, or +3
+type: rare, very rare, legendary
 tag: armor
 title: Armor, +1, +2, or +3 
 ---

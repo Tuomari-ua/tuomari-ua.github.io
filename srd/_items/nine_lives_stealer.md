@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Nine Lives Stealer
+type: very rare
 tag: weapon
 title: Nine Lives Stealer 
 ---

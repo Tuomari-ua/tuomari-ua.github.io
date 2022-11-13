@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Robe of Scintillating Colors
+type: very rare
 tag: item
 title: Robe of Scintillating Colors 
 ---

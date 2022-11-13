@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cloak of Displacement
+type: rare
 tag: item
 title: Cloak of Displacement 
 ---

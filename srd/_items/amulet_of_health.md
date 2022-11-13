@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Amulet of Health
+type: rare
 tag: item
 title: Amulet of Health 
 ---

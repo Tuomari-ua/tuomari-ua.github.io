@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Necklace of Fireballs
+type: rare
 tag: item
 title: Necklace of Fireballs 
 ---

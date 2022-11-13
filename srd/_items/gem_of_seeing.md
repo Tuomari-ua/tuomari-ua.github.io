@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Gem of Seeing
+type: rare
 tag: item
 title: Gem of Seeing 
 ---

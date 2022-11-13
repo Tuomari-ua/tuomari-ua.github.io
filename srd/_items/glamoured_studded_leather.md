@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Glamoured Studded Leather
+type: rare
 tag: armor
 title: Glamoured Studded Leather 
 ---

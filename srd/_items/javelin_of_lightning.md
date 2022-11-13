@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Javelin of Lightning
+type: uncommon
 tag: weapon
 title: Javelin of Lightning 
 ---

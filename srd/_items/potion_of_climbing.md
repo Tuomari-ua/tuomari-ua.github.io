@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Climbing
+type: common
 tag: potion
 title: Potion of Climbing 
 ---

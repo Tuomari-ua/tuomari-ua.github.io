@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cloak of Arachnida
+type: very rare
 tag: item
 title: Cloak of Arachnida 
 ---

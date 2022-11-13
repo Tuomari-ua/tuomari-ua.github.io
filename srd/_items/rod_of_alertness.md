@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rod of Alertness
+type: very rare
 tag: rod
 title: Rod of Alertness 
 ---

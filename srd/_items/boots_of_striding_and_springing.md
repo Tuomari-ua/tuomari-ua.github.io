@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Boots of Striding and Springing
+type: uncommon
 tag: item
 title: Boots of Striding and Springing 
 ---

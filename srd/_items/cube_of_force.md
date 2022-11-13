@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cube of Force
+type: rare
 tag: item
 title: Cube of Force 
 ---

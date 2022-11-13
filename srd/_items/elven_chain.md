@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Elven Chain
+type: rare
 tag: armor
 title: Elven Chain 
 ---

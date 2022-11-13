@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Scarab of Protection
+type: legendary
 tag: item
 title: Scarab of Protection 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Marvelous Pigments
+type: very rare
 tag: item
 title: Marvelous Pigments 
 ---

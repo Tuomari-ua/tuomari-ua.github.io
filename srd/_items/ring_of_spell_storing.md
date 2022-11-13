@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Spell Storing
+type: rare
 tag: ring
 title: Ring of Spell Storing 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cloak of Elvenkind
+type: uncommon
 tag: item
 title: Cloak of Elvenkind 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Mantle of Spell Resistance
+type: rare
 tag: item
 title: Mantle of Spell Resistance 
 ---

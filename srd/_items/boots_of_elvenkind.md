@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Boots of Elvenkind
+type: uncommon
 tag: item
 title: Boots of Elvenkind 
 ---

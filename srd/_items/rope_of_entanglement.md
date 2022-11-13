@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Rope of Entanglement
+type: rare
 tag: item
 title: Rope of Entanglement 
 ---

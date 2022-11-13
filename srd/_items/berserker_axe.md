@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Berserker Axe
+type: rare
 tag: weapon
 title: Berserker Axe 
 ---

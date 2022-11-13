@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Resistance
+type: uncommon
 tag: potion
 title: Potion of Resistance 
 ---

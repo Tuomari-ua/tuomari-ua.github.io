@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Shield of Missile Attraction
+type: rare
 tag: armor
 title: Shield of Missile Attraction 
 ---

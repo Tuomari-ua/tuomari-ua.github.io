@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Cubic Gate
+type: legendary
 tag: item
 title: Cubic Gate 
 ---

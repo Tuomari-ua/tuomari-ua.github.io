@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Animal Influence
+type: rare
 tag: ring
 title: Ring of Animal Influence 
 ---

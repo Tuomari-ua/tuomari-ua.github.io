@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Pipes of the Sewers
+type: uncommon
 tag: item
 title: Pipes of the Sewers 
 ---

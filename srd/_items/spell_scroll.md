@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Spell Scroll
+type: common, uncommon, rare, very rare, legendary
 tag: scroll
 title: Spell Scroll 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Bag of Tricks
+type: uncommon
 tag: item
 title: Bag of Tricks 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Belt of Dwarvenkind
+type: rare
 tag: item
 title: Belt of Dwarvenkind 
 ---

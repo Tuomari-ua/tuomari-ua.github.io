@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Elemental Command
+type: legendary
 tag: ring
 title: Ring of Elemental Command 
 ---

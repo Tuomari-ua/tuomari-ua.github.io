@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Holy Avenger
+type: legendary
 tag: weapon
 title: Holy Avenger 
 ---

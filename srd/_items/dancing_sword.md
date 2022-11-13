@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Dancing Sword
+type: very rare
 tag: weapon
 title: Dancing Sword 
 ---

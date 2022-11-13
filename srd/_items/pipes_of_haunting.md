@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Pipes of Haunting
+type: uncommon
 tag: item
 title: Pipes of Haunting 
 ---

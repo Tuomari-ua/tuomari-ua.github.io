@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Ring of Shooting Stars
+type: very rare
 tag: ring
 title: Ring of Shooting Stars 
 ---

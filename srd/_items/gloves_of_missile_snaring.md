@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Gloves of Missile Snaring
+type: uncommon
 tag: item
 title: Gloves of Missile Snaring 
 ---

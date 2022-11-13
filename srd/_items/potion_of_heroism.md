@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Potion of Heroism
+type: rare
 tag: potion
 title: Potion of Heroism 
 ---
