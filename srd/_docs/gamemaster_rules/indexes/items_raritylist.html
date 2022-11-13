@@ -9,13 +9,13 @@ title: Предмети за рідкісністю
       {% for item in arrs %}
       <h3 id="{{ item }}">   {% case item %}
         {% when 'comomon' %}Звичні     
-             {% when 'uncommon' %}Незвичні
+        {% when 'uncommon' %}Незвичні
         {% when 'rare' %}Рідкісні
-             {% when 'very rare' %}Дуже рідкісні
+        {% when 'very rare' %}Дуже рідкісні
         {% when 'legendary' %}Легендарні     
         {% when 'artifact' %}Артефакт
-                          
-             {% endcase %}</h3>
+        
+        {% endcase %}</h3>
             <ul>
             {% for doc in sortedPosts %}
               {%- if doc.items contains item -%}
