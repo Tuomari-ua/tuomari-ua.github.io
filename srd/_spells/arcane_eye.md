@@ -2,15 +2,15 @@
 category: spells
 layout: page
 level: 4
-tag: Divination
+tag: Віщування
 classes: wizard
-title: Arcane Eye 
+title: Арканне око [Arcane eye]
 ---
-_4th-level divination_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S, M (a bit of bat fur)   
-**Duration:** Concentration, up to 1 hour 
-You create an invisible, magical eye within range that hovers in the air for the duration.    
-You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.    
-As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can't enter another plane of existence. A solid barrier blocks the eye's movement, but the eye can pass through an opening as small as 1 inch in diameter. 
+
+_Віщування, 4 рівень; маг_ **Час створення:** 1 дія   
+ю **Відстань:** 30 футів   
+**Складові:** В, С, М (клапоть шерсті кажана)   
+**Тривалість:** Концентрація, до 1 години   
+У межах відстані ви створюєте невидиме магічне око, що висить у повітрі, поки діють чари.    
+Ви ментально отримуєте візуальну інформацію від ока, яке має нормальний і темний зір у межах 30 футів. Око може дивитися в будь-якому напрямку.    
+Дією ви можете перемістити око на відстань до 30 футів у будь-якому напрямку. Обмежень щодо відстані, на яку ви можете відсунути від себе око, немає, але воно не може увійти до іншого плану існування. Суцільні бар'єри блокують переміщення ока, але око може пройти крізь отвір діаметром принаймні 1 дюйм. 

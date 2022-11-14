@@ -1,20 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 8
-classes: druid
-         wizard
-title: Antipathy/Sympathy 
+classes: druid, wizard
+title: Антипатія/Симпатія [Antipathy/Sympathy]
 ---
-_8th-level enchantment_ 
-**Casting Time:** 1 hour    
-**Range:** 60 feet   
-**Components:** V, S, M (either a lump of alum soaked in vinegar for the **antipathy** effect or a drop of honey for the **sympathy** effect)   
-**Duration:** 10 days 
-This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 200-foot cube. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura's effect.    
-**Antipathy.** The enchantment causes creatures of the kind you designated to feel an intense urge to leave the area and avoid the target. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or become frightened. The creature remains frightened while it can see the target or is within 60 feet of it. While frightened by the target, the creature must use its movement to move to the nearest safe spot from which it can't see the target. If the creature moves more than 60 feet from the target and can't see it, the creature is no longer frightened, but the creature becomes frightened again if it regains sight of the target or moves within 60 feet of it.   
-**Sympathy.** The enchantment causes the specified creatures to feel an intense urge to approach the target while within 60 feet of it or able to see it. When such a creature can see the target or comes within 60 feet of it, the creature must succeed on a Wisdom saving throw or use its movement on each of its turns to enter the area or move within reach of the target. When the creature has done so, it can't willingly move away from the target.    
-If the target damages or otherwise harms an affected creature, the affected creature can make a Wisdom saving throw to end the effect, as described below.    
-**Ending the Effect.** If an affected creature ends its turn while not within 60 feet of the target or able to see it, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target and recognizes the feeling of repugnance or attraction as magical. In addition, a creature affected by the spell is allowed another Wisdom saving throw every 24 hours while the spell persists.    
-A creature that successfully saves against this effect is immune to it for 1 minute, after which time it can be affected again. 
+
+_Зачарування 8-го рівня; друїд, маг_ **Час створення:** 1 година    
+**Відстань:** 60 футів   
+**Складові:** В, С, М (шмат галуна, змоченого в оцті, для ефекту **антипатії** або крапля меду для ефекту **симпатії)**   
+**Тривалість:** 10 днів Ці чари приваблюють або віднаджують істот за вашим вибором. Ви обираєте ціль у межах відстані, предмет або істоту, чий розмір "величезний" або менший, або область розміром не більше 200-футового куба. Після цього вкажіть тип розумної істоти, такої як червоні дракони, гобліни або вампіри. Ви наділяєте ціль аурою, яка або приваблює, або відштовхує вказаних істот на час дії чарів. Виберіть антипатію або симпатію як ефект аури.    
+**Антипатія.** Зачарування змушує істоту обраного вами типу відчувати потужне бажання покинути область та уникати цілі. Коли така істота бачить ціль чи опиняється у межах 60 футів від неї, істота повинна зробити рятівний кидок Мудрості, або стане наляканою. Істота залишається наляканою, поки може бачити ціль або поки перебуває у межах 60 футів від неї. Поки істота налякана таким чином, вона повинна використовувати все своє переміщення, щоб рухатися до найближчого безпечного місця, де вона не зможе бачити ціль. Якщо істота переміщується більш як на 60 футів від цілі і не може її бачити, істота більше не налякана, але стає наляканою знову, якщо побачить ціль чи наблизиться до неї менш як на 60 футів.   
+**Симпатія.** Зачарування змушує визначених істот відчувати потужне бажання наблизитися до цілі, коли вони опиняються у межах 60 футів від цілі або можуть її бачити. Коли така істота бачить ціль чи переміщується менш як на 60 футів від цілі, істота повинна зробити рятівний кидок Мудрості, або витратити все своє переміщення на кожному зі своїх ходів, щоб увійти в область або переміститися у межі досяжності цілі. Коли істота робить це, вона не може добровільно відійти від цілі.    
+Якщо ціль завдає ушкоджень або інакше шкодить враженій істоті, істота під дією чарів може зробити рятівний кидок Мудрості, щоб завершити ефект на собі, як описано далі.    
+**Завершення ефекту.** Якщо вражена чарами істота завершує свій хід далі 60 футів від цілі чи не може бачити ціль, істота робить рятівний кидок Мудрості. У разі успішного ряткидка істота позбувається дії чарів і розуміє відчуття відрази чи притягання як магічні. Крім того, істоті під дією чарів дозволяється новий рятівний кидок Мудрості кожні 24 години, поки чари існують.    
+Істота, що зробила успішний ряткидок проти ефекту, має імунітет до нього на 1 хвилину, після чого ефект може подіяти на істоту знову. 

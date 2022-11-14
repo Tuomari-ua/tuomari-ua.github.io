@@ -1,21 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 5
 classes: wizard
-title: Arcane Hand 
+title: Арканна рука [Arcane Hand]
 ---
-_5th-level evocation_ 
-**Casting Time:** 1 action   
-**Range:** 120 feet   
-**Components:** V, S, M (an eggshell and a snakeskin glove)   
-**Duration:** Concentration, up to 1 minute 
-You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. The hand lasts for the spell's duration, and it moves at your command, mimicking the movements of your own hand.    
-The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space.    
-When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.    
-**Clenched Fist.** The hand strikes one creature or object within 5 feet of it. Make a melee spell attack for the hand using your game statistics. On a hit, the target takes 4d8 force damage.    
-**Forceful Hand.** The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target to remain within 5 feet of it.   
-**Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your spellcasting ability modifier.   
-**Interposing Hand.** The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the target can move toward you through the hand's space, but that space is difficult terrain for the target. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th. 
+
+_Втілення, 5 рівень; маг_ **Час створення:** 1 дія   
+**Відстань:** 120 футів   
+**Складові:** В, С, М (яєчна шкаралупа та рукавичка зі зміїної шкіри)   
+**Тривалість:** Концентрація, до 1 хвилини   
+Ви створюєте велику руку з мерехтливої, прозорої енергії у незайнятому просторі, який ви можете бачити в межах відстані. Рука існує, поки тривають чари, і рухається за вашою командою, повторюючи рухи вашої власної руки.    
+Рука є предметом із КЗ 20 та пунктами здоров'я, що дорівнюють максимуму ваших ПЗ. Якщо її пункти здоров'я знижуються до 0, чари завершуються. Вона має Силу 26 (+8) і Спритність 10 (+0). Рука не заповнює свій простір.    
+Під час створення цих чарів та бонусною дією в наступні ходи ви можете переміщувати руку на відстань до 60 футів і потім виконати з нею один із наступних ефектів.    
+**Стиснутий кулак.** Рука б'є одну істоту чи предмет у межах 5 футів від себе. Виконайте атаку ближнього бою чарами для руки, використовуючи свою ігрову статистику. У разі влучання ціль отримує 4к8 ушкоджень чистою енергією.    
+**Сильна рука.** Рука намагається штовхнути істоту в межах 5 футів від себе в напрямку, який ви обрали. Зробіть перевірку Сили руки проти перевірки Сили (Атлетика) цілі. Якщо ціль має розмір "середній" або менший, вона робить цю перевірку з перевагою. Якщо ви досягаєте успіху, рука штовхає істоту на 5 футів плюс кількість футів, що дорівнює модифікатору вашої чаротворчої здібності, помноженому на 5. Рука рухається разом із ціллю, щоб залишатися у межах 5 футів від неї.   
+**Хапальна рука.** Рука намагається схопити істоту, чий розмір "величезний" або менший, у межах 5 футів від себе. Ви використовуєте значення Сили руки для здійснення захвату. Якщо ціль має розмір "середній" або менший, вона робить свою перевірку із перевагою. Поки рука тримає ціль, ви можете стискати ціль, використовуючи бонусну дію. Коли ви це робите, ціль отримує дробильні ушкодження, що дорівнюють 2к6 + модифікатор вашої чаротворчої здібності.   
+**Обмежувальна рука.** Рука зупиняється між вами там істотою за вашим вибором, поки ви не дасте руці іншу команду. Рука переміщується, щоб залишатися між вами та ціллю, даючи вам половинне укриття проти цілі. Ціль не може пройти крізь простір руки, якщо її значення Сили менше або дорівнює значенню Сили руки. Якщо значення Сили цілі більше, ніж значення Сили руки, ціль може переміститися до вас крізь простір руки, але цей простір вважатиметься для цілі важкопрохідною місцевістю. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ушкодження від команди "стиснутий кулак" зростають на 3к8, і ушкодження від хапаючої руки зростають на 2к6 за кожну чарунку вище п'ятої. 
