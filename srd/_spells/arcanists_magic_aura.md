@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
 classes: wizard
-title: Arcanist's Magic Aura 
+title: Магічна аура арканіста [Arcanist's Magic Aura]
 ---
-_2nd-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Touch   
-**Components:** V, S, M (a small square of silk)   
-**Duration:** 24 hours 
-You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn't being carried or worn by another creature.    
-When you cast the spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.    
-**False Aura.** You change the way the target appears to spells and magical effects, such as **_detect magic_**, that detect magical auras. You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose. When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.    
-**Mask.** You change the way the target appears to spells and magical effects that detect creature types, such as a paladin's Divine Sense or the trigger of a **_symbol_** spell. You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment. 
+
+_Ілюзія, 2 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик   
+**Складові:** В, С, М (маленький квадратик шовку)   
+**Тривалість:** 24 години    
+Ви створюєте ілюзію на істоту чи предмет, якого торкаєтеся, так, щоб чари віщування виказували неправдиву інформацію щодо цієї істоти чи предмета. Ціль може бути згодною істотою або предметом, який не несе й не носить інша істота.    
+Коли ви створюєте чари, виберіть один або обидва з наступних ефектів. Ефект триває, поки існують чари. Якщо ви створюєте ці чари на ту саму істоту чи предмет щодня упродовж 30 днів, застосовуючи щоразу той самий ефект, ілюзія триває, поки не буде розвіяна.    
+**Підробна аура.** Ви змінюєте вигляд цілі для чарів та магічних ефектів, таких як **_виявлення магії_**, що визначають магічні аури. Ви можете змусити немагічний предмет виглядати, як магічний; магічний предмет виглядати немагічним; або змінити магічну ауру предмета так, щоб він належав до певної школи магії, яку ви обираєте. Коли ви застосовуєте цей ефект на предмет, ви можете зробити підробну магію очевидною для будь-якої істоти, яка тримає цей предмет.    
+**Маска.** Ви змінюєте вигляд цілі для чарів та магічних ефектів, які визначають тип істот, наприклад, Божественне чуття паладина або тригер чарів **_символ_**. Ви вказуєте тип істоти, а інші чари та магічні ефекти діють на ціль так, ніби це істота такого типу чи такого світогляду. 

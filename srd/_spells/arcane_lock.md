@@ -2,14 +2,14 @@
 category: spells
 layout: page
 level: 2
-tag: Abjuration
+tag: Перешкоджання
 classes: wizard
-title: Arcane Lock 
+title: Арканний замок [Arcane Lock]
 ---
-_2nd-level abjuration_ 
-**Casting Time:** 1 action   
-**Range:** Touch   
-**Components:** V, S, M (gold dust worth at least 25 gp, which the spell consumes)   
-**Duration:** Until dispelled 
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting **_knock_** on the object suppresses **_arcane lock_** for 10 minutes.    
-While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10. 
+
+_Перешкоджання, 2 рівень; маг_   
+**Час створення:** 1 дія **Відстань:** Дотик   
+**Складові:** В, С, М (золотий пил вартістю принаймні 25 зм, який чари поглинають)   
+**Тривалість:** Поки не розвіють   
+Ви торкаєтеся закритих дверей, вікна, воріт, скрині чи іншого шляху входу, і вони стають замкненими на час дії чарів. Ви та істоти, яких ви визначаєте під час створення цих чарів, можуть відчинити предмет, як звичайно. Ви також можете встановити пароль, промовляння якого у межах 5 футів від предмета пригнічує ці чари на 1 хвилину. Інакше предмет непрохідний, поки його не зламають, або поки чари не розвіють чи не пригнітять. Створення **_стуку_** на предмет пригнічує **_арканний замок_** на 10 хвилин.    
+Поки діють чари, предмет важче зламати чи відкрити силою; КС до ламання чи відмикання будь-якого замка зростає на 10. 

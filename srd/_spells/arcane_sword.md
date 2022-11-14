@@ -3,14 +3,14 @@ category: spells
 layout: page
 tag: Evocation
 level: 7
-classes: bard
-         wizard
-title: Arcane Sword 
+classes: bard, wizard
+title: Арканний меч [Arcane Sword]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 action   
-**Range:** 60 feet   
-**Components:** V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)   
-**Duration:** Concentration, up to 1 minute 
-You create a sword-shaped plane of force that hovers within range. It lasts for the duration.    
-When the sword appears, you make a melee spell attack against a target of your choice within 5 feet of the sword. On a hit, the target takes 3d10 force damage. Until the spell ends, you can use a bonus action on each of your turns to move the sword up to 20 feet to a spot you can see and repeat this attack against the same target or a different one. 
+
+_Втілення, 7 рівень; бард, маг_   
+**Час створення:** 1 дія   
+**Відстань:** 60 футів   
+**Складові:** В, С, М (мініатюрний платиновий меч із рукояткою та навершям з міді та цинку, вартістю 250 зм)   
+**Тривалість:** Концентрація, до 1 хвилини   
+Ви створюєте вимір чистої енергії у формі меча, що зависає в повітрі у межах відстані. Він існує, поки діють чари.    
+Коли меч виникає, ви робите атаку ближнього бою чарами проти істоти за своїм вибором у межах 5 футів від меча. У випадку влучання ціль отримує 3к10 ушкоджень чистою енергією. Поки чари не закінчаться, ви можете використовувати бонусну дію в кожен свій хід, щоб переміщувати меч на відстань до 20 футів у простір, який ви можете бачити, і повторити атаку проти тієї самої або іншої цілі. 
