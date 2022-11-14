@@ -1,21 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 9
-classes: cleric
-         warlock
-         wizard
-title: Astral Projection 
+classes: cleric, warlock, wizard
+title: Астральна проєкція [Astral Projection]
 ---
-_9th-level necromancy_ 
-**Casting Time:** 1 hour   
-**Range:** 10 feet   
-**Components:** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes)   
-**Duration:** Special 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn't need food or air and doesn't age.   
-Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut--something that can happen only when an effect specifically states that it does--your soul and body are separated, killing you instantly.   
-Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.   
-The spell ends for you and your companions when you use your action to dismiss it. When the spell ends, the affected creature returns to its physical body, and it awakens.   
-The spell might also end early for you or one of your companions. A successful **_dispel magic_** spell used against an astral or physical body ends the spell for that creature. If a creature's original body or its astral form drops to 0 hit points, the spell ends for that creature. If the spell ends and the silver cord is intact, the cord pulls the creature's astral form back to its body, ending its state of suspended animation.   
-If you are returned to your body prematurely, your companions remain in their astral forms and must find their own way back to their bodies, usually by dropping to 0 hit points. 
+
+_Некромантія, 9 рівень; клірик, маг, чаклун_   
+**Час створення:** 1 година   
+**Відстань:** 10 футів   
+**Складові:** В, С, М (для кожної істоти, на яку ви впливаєте цими чарами, ви повинні надати один гіацинт вартістю принаймні 1000 зм та один вишуканий різьблений злиток срібла вартістю принаймні 100 зм, і чари поглинають всі складові)   
+**Тривалість:** Особлива   
+Ви та ще до восьми згодних істот у межах відстані проєктують свої астральні тіла до Астрального плану (чари провалюються і чарування витрачене, якщо ви вже на цьому плані). Матеріальне тіло, яке ви залишаєте, непритомне й у стані завмерлого існування; воно не потребує ані їжі, ані повітря, і не старішає.   
+Ваше астральне тіло повторює вашу смертну форму майже повністю, відтворюючи вашу ігрову статистику та майно. Основною відмінністю є сріблястий шнур, який тягнеться за вами від точки між лопатками, розчиняючись до невидимості через 1 фут. Цей шнур є вашим зв'язком із матеріальним тілом. Поки цей зв'язок залишається неушкодженим, ви можете знайти шлях додому. Якщо шнур перерізано - таке може статися лише тоді, коли ефект спеціально вказує на це — ваші душа й тіло розділяються, що миттєво вбиває вас.   
+Ваша астральна форма може вільно подорожувати через астральний план і проходити через портали, що ведуть до будь-якого іншого плану. Якщо ви входите до нового плану або повертаєтеся на план, де створювали ці чари, ваше тіло та майно переносяться разом зі срібним шнуром, що дозволяє вам знову увійти до свого тіла, коли ви входите в новий план. Ваша астральна форма є окремим втіленням. Будь-які ушкодження чи інші ефекти, застосовані до нього, не мають жодного впливу на ваше фізичне тіло, і вони не зберігаються, коли ви повертаєтеся до свого тіла.   
+Чари завершуються для вас і ваших супутників, коли ви використовуєте дію для їх завершення. Коли чари завершуються, істоти під дією чарів повертаються до своїх фізичних тіл, і ті прокидаються.   
+Чари можуть також завершитися раніше для вас чи одного з ваших супутників. Успішні чари **_розвіювання магії_**, використані проти астрального чи фізичного тіла, завершують чари для цієї істоти. Якщо початкове тіло істоти чи його астальна форма втрачають пункти здоров'я до 0, чари для цієї істоти завершуються. Якщо чари завершуються і срібний шнур недоторканний, він витягує астральну форму істоти назад до її тіла, завершуючи її стан завмерлого існування.   
+Якщо ви повертаєтеся у своє тіло передчасно, ваші супутники залишаються у своїх астральних формах і мусять знайти власний шлях назад до своїх тіл, зазвичай шляхом зниження пунктів здоров'я до 0. 
