@@ -4,6 +4,7 @@ description: 'Переклад System Reference Document на основі Open 
 locale: uk_UA
 google_analytics_id: G-3YDX4S83WP
 timezone: Europe/Kiev
+url: https://5esrd.kyiv.ua/
 
 exclude:
   - work
@@ -31,7 +32,7 @@ instagram_username: inrium_ua
 linkedin_username: 
 xing_username: 
 pinterest_username: 
-youtube_username: 
+youtube_username: @inrium
 orcid_username: 
 googlescholar_username:
 telegram_username: inrium
