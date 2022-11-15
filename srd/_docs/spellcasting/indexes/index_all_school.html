@@ -4,7 +4,7 @@ title: Чари за школами
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-{% assign tags =  site.spells | map: 'tags' | uniq | sort: tag %}
+{% assign tags =  site.spells | map: 'tags' | uniq | sort: title %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
   <ul>
