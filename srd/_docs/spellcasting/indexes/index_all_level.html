@@ -4,7 +4,7 @@ title: Чари за рівнями
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-{% assign groups = site.spells | group_by: "level" | uniq | sort: "name" %}
+{% assign groups = site.spells | group_by: "level" | uniq | sort: "title" %}
 {% for group in groups %}
       <h3>{{ group.name }}</h3>
   <ul>
