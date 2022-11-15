@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 5
 classes: wizard
-title: Створити прохід/отвір [Passwall]
+title: Створити прохід [Passwall]
 ---
 
 _Перетворення, 5 рівень; маг_  
