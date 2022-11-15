@@ -1,20 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 2
 classes: cleric
-title: Augury 
+title: Передбачення [Augury]
 ---
-_2nd-level divination (ritual)_   
-**Casting Time:** 1 minute   
-**Range**: Self   
-**Components:** V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)   
-**Duration:** Instantaneous   
-By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The GM chooses from the following possible omens:
-* **Weal**, for good results
-* **Woe**, for bad results
-* **Weal and woe**, for both good and bad results
-* **Nothing**, for results that aren't especially good or bad 
-The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.    
-If you cast the spell two or more times before completing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret. 
+
+_Віщування, 2 рівень (ритуал); клірик_   
+**Час створення:** 1 хвилина   
+**Відстань:** На себе   
+**Складові:** В, С, М (спеціально позначені палички, кістки чи подібні жетони вартістю не менше 25 зм)   
+**Тривалість:** Миттєво   
+Підкидаючи палички, інкрустовані дорогоцінним камінням, катаючи кістки дракона, розкладаючи вишукані карти або використовуючи якийсь інший інструмент для ворожіння, ви отримуєте знак від потойбічної сутності про результати певних дій, які ви плануєте виконати протягом наступних 30 хвилин. Майстер обирає одну з наступних можливих прикмет:
+* **Благо**, для добрих результатів
+* **Лихо**, для поганих результатів
+* **Благо та лихо**, для добрих і поганих результатів
+* **Нічого**, якщо результати ані добрі, ані погані. Чари не беруть до уваги будь-які можливі обставини, що можуть змінити результат, такі як створення додаткових чарів чи втрату або здобуття союзників.    
+  Якщо ви створюєте чари двічі чи більше разів перед завершенням свого наступного тривалого відпочинку, є накопичувальний шанс 25% для кожного чарування після першого, що ви отримаєте випадковий знак. Майстер робить кидок таємно. 
