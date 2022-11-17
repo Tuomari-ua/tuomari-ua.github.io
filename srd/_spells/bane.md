@@ -1,16 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 1
-classes: bard
-         cleric
-title: Bane 
+classes: bard, cleric
+title: Зурочення [Bane]
 ---
-_1st-level enchantment_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S, M (a drop of blood)   
-**Duration:** Concentration, up to 1 minute 
-Up to three creatures of your choice that you can see within range must make Charisma saving throws. Whenever a target that fails this saving throw makes an attack roll or a saving throw before the spell ends, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. 
+
+_Зачарування, 1 рівень; бард, клірик_   
+**Час створення:** 1 дія   
+**Відстань:** 30 футів   
+**Складові:** В, С, М (крапля крові)   
+**Тривалість:** Концентрація, до 1 хвилини   
+До трьох істот за вашим вибором, яких ви можете бачити в межах відстані, повинні зробити рятівний кидок Харизми. Щоразу, коли ціль, яка провалила ряткидок, робить кидок атаки або рятівний кидок до завершення цих чарів, ціль мусить кинути к4 та відняти число, що випало, від результату свого кидка атаки чи рятівного кидка. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище першої. 
