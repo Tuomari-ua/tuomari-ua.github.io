@@ -1,17 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 4
-classes: cleric
-         paladin
-title: Death Ward 
+classes: cleric, paladin
+title: Захист від смерті [death ward]
 ---
-_4th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** 8 hours 
-You touch a creature and grant it a measure of protection from death.    
-The first time the target would drop to 0 hit points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends.    
-If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends. 
+
+_Перешкоджання, 4 рівень; клірик, паладин_     
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** 8 годин    
+Ви торкаєтесь істоти та вживаєте щодо неї засоби захисту від смерті.     
+Коли пункти здоров'я цілі вперше знижуються до 0 внаслідок отриманих ушкоджень, пункти здоров'я цілі натомість знижуються до 1, і чари завершуються.    
+Якщо чари ще діють, коли ціль потрапляє під дію ефекту, що повинен миттєво її вбити без завдання ушкоджень, цей ефект проти цілі зводиться нанівець, і чари завершуються. 

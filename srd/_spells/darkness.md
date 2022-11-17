@@ -1,18 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
-classes: sorcerer
-         warlock
-         wizard
-title: Darkness 
+classes: sorcerer, warlock, wizard
+title: Темрява [darkness]
 ---
-_2nd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, M (bat fur and a drop of pitch or piece of coal)    
-**Duration:** Concentration, up to 10 minutes 
-Magical darkness spreads from a point you choose within range to fill a 15-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it.    
-If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.    
-If any of this spell's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled. 
+
+_Втілення, 2 рівень; заклинач, маг, чаклун_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, М (хутро кажана і крапля смоли або шматочок вугілля)    
+**Тривалість:** Концентрація до 10 хвилин.    
+З точки, обраної вами в межах дистанції, розповзається магічна темрява і заповнює сферу радіусом 15 футів на час дії чарів. Темрява огинає кути. Істоти з темним зором не можуть бачити крізь цю темряву, а немагічне світло не може її розвіяти.    
+Якщо обрана точка знаходиться на предметі, який ви тримаєте або на предметі, який не несуть і не носять, то темрява походить з предмета і рухається разом з ним. Якщо повністю накрити джерело темряви непрозорим предметом, наприклад, чашею або шоломом, темрява буде заблокована.    
+Якщо будь-яка частина області цих чарів накладається на область світла, створеного чарункою 2 рівня або меншою, то чари, які створили світло, розвіюються. 

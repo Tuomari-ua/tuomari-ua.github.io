@@ -1,17 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: druid
-         ranger
-         sorcerer
-         wizard
-title: Darkvision 
+classes: druid, ranger, sorcerer, wizard
+title: Темний зір [darkvision]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (either a pinch of dried carrot or an agate)    
-**Duration:** 8 hours 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet. 
+
+_Перетворення, 2 рівень; друїд, рейнджер, заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (щіпка сушеної моркви або агат)    
+**Тривалість:** 8 годин    
+Ви торкаєтеся згодної істоти і надаєте їй здатність бачити у темряві. Поки чари активні, ця істота має темний зір у межах 60 футів. 

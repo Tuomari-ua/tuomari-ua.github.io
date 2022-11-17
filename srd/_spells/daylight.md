@@ -1,20 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 3
-classes: cleric
-         druid
-         paladin
-         ranger
-         sorcerer
-title: Daylight 
+classes: сleric, druid, paladin, ranger, sorcerer
+title: Денне світло [daylight]
 ---
-_3rd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** 1 hour 
-A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.    
-If you chose a point on an object you are holding or one that isn't being worn or carried, the light shines from the object and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.    
-If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled. 
+
+_Втілення, 3 рівень; клірик, друїд, паладин, рейнджер, заклинач_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** 1 година   
+З точки, вибраної вами в межах дистанції, поширюється сфера світла з радіусом 60 футів. Це сфера яскравого світла, і вона випромінює тьмяне світло ще на 60 футів.    
+Якщо обрана вами точка знаходиться на предметі, який ви тримаєте або на предметі, який не несуть і не носять, світло виходить з цього предмета і переміщується разом з ним.  Якщо повністю накрити джерело світла непрозорим предметом, наприклад, чашею або шоломом, світло буде заблоковане.    
+Якщо будь-яка частина області цих чарів накладається на область темряви, створеної чарункою 3 рівня або меншою, то чари, які створили темряву, розвіюються. 
