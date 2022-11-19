@@ -1,17 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 0
-classes: bard
-         sorcerer
-         wizard
-title: Dancing Lights 
+classes: bard, sorcerer, wizard
+title: Мерехтливі вогники [Dancing Lights]
 ---
-_Evocation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)    
-**Duration:** Concentration, up to 1 minute 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10- foot radius.    
-As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+
+_Втілення, замовляння; бард, заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (шматочок фосфору або вихового дерева, або світлячок)    
+**Тривалість:** Концентрація, до 1 хвилини    
+Ви створюєте до чотирьох вогників розміром як смолоскип у межах відстані, роблячи їх схожими на смолоскипи, ліхтарі або сфери світла, що висять у повітрі, поки діють чари. Ви також можете поєднати чотири вогники в одну сяючу, подібну на гуманоїда, форму середнього розміру. Яку б форму ви не вибрали, кожен вогник випромінює тьмяне світло в радіусі 10 футів.    
+Бонусною дією у свій хід ви можете перемістити вогні на 60 футів у нове місце в межах відстані. Вогник має бути в межах 20 футів від іншого вогника, створеного цими чарами, і він гасне, якщо виходить за межі дії чарів.
