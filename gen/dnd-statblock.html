@@ -164,32 +164,32 @@
                         <td>
                             <label for="type-input">Тип: <br>
                                 <select id="type-input" onchange="FormFunctions.ShowHideTypeOther()">
-                                    <option value="aberration">Aberration</option>
-                                    <option value="beast">Beast</option>
-                                    <option value="celestial">Celestial</option>
-                                    <option value="construct">Construct</option>
-                                    <option value="dragon">Dragon</option>
-                                    <option value="elemental">Elemental</option>
-                                    <option value="fey">Fey</option>
-                                    <option value="fiend">Fiend</option>
-                                    <option value="giant">Giant</option>
-                                    <option value="humanoid" selected>Humanoid</option>
-                                    <option value="monstrosity">Monstrosity</option>
-                                    <option value="ooze">Ooze</option>
-                                    <option value="plant">Plant</option>
-                                    <option value="undead">Undead</option>
-                                    <option value="*">Other</option>
+                                    <option value="aberration">Аберація</option>
+                                    <option value="beast">Звір</option>
+                                    <option value="celestial">Небожитель</option>
+                                    <option value="construct">Конструкт</option>
+                                    <option value="dragon">Дракон</option>
+                                    <option value="elemental">Елементаль</option>
+                                    <option value="fey">Фея</option>
+                                    <option value="fiend">Погань</option>
+                                    <option value="giant">Велет</option>
+                                    <option value="humanoid" selected>Гуманоїд</option>
+                                    <option value="monstrosity">Чудовисько</option>
+                                    <option value="ooze">Твань</option>
+                                    <option value="plant">Рослина</option>
+                                    <option value="undead">Невмерлий</option>
+                                    <option value="*">Інше</option>
                                 </select>
                             </label>
-                            <div><input id="other-type-input" type="text" value="swarm of Tiny beasts"></div>
+                            <div><input id="other-type-input" type="text" value="рій крихітний звірів"></div>
                         </td>
                         <td>
-                            <label for="tag-input">Tag: <br>
+                            <label for="tag-input">Мітка: <br>
                                 <input id="tag-input" type="text"></label>
                         </td>
                         <td>
-                            <label for="alignment-input">Alignment: <br>
-                                <input id="alignment-input" type="text" value="any alignment"></label>
+                            <label for="alignment-input">Світогляд: <br>
+                                <input id="alignment-input" type="text" value="будь-який"></label>
                         </td>
                     </tr>
                 </table>
@@ -198,44 +198,44 @@
                     <tr>
                         <td></td>
                         <td>
-                            <div id="hitdice-input-prompt"><label for="hitdice-input">Hit Dice: <br><input type="number"
+                            <div id="hitdice-input-prompt"><label for="hitdice-input">Кістка здоров'я: <br><input type="number"
                                         id="hitdice-input" min="1" max="99" value="5"></label></div>
-                            <div id="hp-text-input-prompt"><label for="hp-text-input">Hit Points:<br><input
+                            <div id="hp-text-input-prompt"><label for="hp-text-input">Пункти здоров'я:<br><input
                                         id="hp-text-input" value="4 (1d8)"></label></div>
-                            <div id="custom-hp-box-prompt" class="box-note"><label for="custom-hp-input">(Custom HP:
+                            <div id="custom-hp-box-prompt" class="box-note"><label for="custom-hp-input">(Особливі ПЗ:
                                     <input id="custom-hp-input" type="checkbox"
                                         onchange="FormFunctions.ShowHideCustomHP()">)</label></div>
                         </td>
                         <td>
-                            <label for="armor-input">Armor Type: <br>
+                            <label for="armor-input">Тип броні: <br>
                                 <select id="armor-input" onchange="FormFunctions.ShowHideOtherArmor()">
-                                    <option value="none" selected>None</option>
-                                    <option value="natural armor">Natural Armor</option>
-                                    <option value="mage armor">Mage Armor</option>
-                                    <option value="padded armor">Padded</option>
-                                    <option value="leather armor">Leather</option>
-                                    <option value="studded leather">Studded Leather</option>
-                                    <option value="hide armor">Hide</option>
-                                    <option value="chain shirt">Chain Shirt</option>
-                                    <option value="scale mail">Scale Mail</option>
-                                    <option value="breastplate">Breastplate</option>
-                                    <option value="half plate">Half Plate</option>
-                                    <option value="ring mail">Ring Mail</option>
-                                    <option value="chain mail">Chain Mail</option>
-                                    <option value="splint">Splint</option>
-                                    <option value="plate">Plate</option>
-                                    <option value="other">Other</option>
+                                    <option value="none" selected>Немає</option>
+                                    <option value="natural armor">Природна броня</option>
+                                    <option value="mage armor">Магічна броня</option>
+                                    <option value="padded armor">Гамбесон</option>
+                                    <option value="leather armor">Шкіряна</option>
+                                    <option value="studded leather">Шипована шкіра</option>
+                                    <option value="hide armor">Шкура</option>
+                                    <option value="chain shirt">Кольчужна сорочка</option>
+                                    <option value="scale mail">Луската броня</option>
+                                    <option value="breastplate">Нагрудник</option>
+                                    <option value="half plate">Напівлати</option>
+                                    <option value="ring mail">Байдана</option>
+                                    <option value="chain mail">Кольчуга</option>
+                                    <option value="splint">Бригантина</option>
+                                    <option value="plate">Лати</option>
+                                    <option value="other">Інше</option>
                                 </select></label>
-                            <div id="shield-box-note" class="box-note"><label for="shield-input">(Shield: <input
+                            <div id="shield-box-note" class="box-note"><label for="shield-input">(Щит <input
                                         id="shield-input" type="checkbox">)</label></div>
                         </td>
                         <td colspan="2">
-                            <div id="natarmor-prompt"><label for="natarmor-input">Natural Armor Bonus:<br><input
+                            <div id="natarmor-prompt"><label for="natarmor-input">Бонус натуральної броні:<br><input
                                         type="number" id="natarmor-input" min="1" max="99" value="3"></label></div>
                             <div id="otherarmor-prompt">
-                                <label for="otherarmor-input">Description: <input id="otherarmor-input" type="text"
+                                <label for="otherarmor-input">Опис: <input id="otherarmor-input" type="text"
                                         value="10 (armor)"></label><br>
-                                <div id="otherarmor-box-note" class="box-note"><i>Use _ to italicize</i></div>
+                                <div id="otherarmor-box-note" class="box-note"><i>Вставте _ для курсиву</i></div>
                             </div>
                         </td>
                     </tr>
@@ -243,30 +243,30 @@
                 <br>
                 <table id="monster-speed-form">
                     <tr>
-                        <td class="normal-speed-col"><label for="speed-input">Speed:<br><input type="number"
-                                    id="speed-input" min="0" max="995" step="5" value="30"> ft.</label></td>
-                        <td class="normal-speed-col"><label for="burrow-speed-input">Burrow Speed:<br><input
+                        <td class="normal-speed-col"><label for="speed-input">Швидкість:<br><input type="number"
+                                    id="speed-input" min="0" max="995" step="5" value="30"> ф.</label></td>
+                        <td class="normal-speed-col"><label for="burrow-speed-input">Швидкість риття:<br><input
                                     type="number" id="burrow-speed-input" min="0" max="995" step="5" value="0">
-                                ft.</label></td>
-                        <td class="normal-speed-col"><label for="climb-speed-input">Climb Speed:<br><input type="number"
-                                    id="climb-speed-input" min="0" max="995" step="5" value="0"> ft.</label></td>
+                                ф.</label></td>
+                        <td class="normal-speed-col"><label for="climb-speed-input">Швидкість лазіння:<br><input type="number"
+                                    id="climb-speed-input" min="0" max="995" step="5" value="0"> ф.</label></td>
                         <td class="normal-speed-col">
-                            <label for="fly-speed-input">Fly Speed:<br><input type="number" id="fly-speed-input" min="0"
+                            <label for="fly-speed-input">Швидкість польоту:<br><input type="number" id="fly-speed-input" min="0"
                                     max="995" step="5" value="0" onchange="FormFunctions.ShowHideHoverBox()">
-                                ft.</label>
-                            <div id="hover-box-note" class="box-note"><label for="hover-input">(Hover: <input
+                                ф.</label>
+                            <div id="hover-box-note" class="box-note"><label for="hover-input">(Зависання: <input
                                         type="checkbox" id="hover-input">)</label></div>
                         </td>
-                        <td class="normal-speed-col"><label for="swim-speed-input">Swim Speed:<br><input type="number"
-                                    id="swim-speed-input" min="0" max="995" step="5" value="0"> ft.</label></td>
+                        <td class="normal-speed-col"><label for="swim-speed-input">Швидкість плавання:<br><input type="number"
+                                    id="swim-speed-input" min="0" max="995" step="5" value="0"> ф.</label></td>
                         <td colspan="5" class="custom-speed-col">
-                            <label for="custom-speed-prompt" style="width: 100%;">Speed: <input id="custom-speed-prompt"
+                            <label for="custom-speed-prompt" style="width: 100%;">Швидкість: <input id="custom-speed-prompt"
                                     type="text" value="30 ft."></label><br>
                         </td>
                         <td>
                             <br>
                             <div class="box-note">
-                                <label for="custom-speed-input">(Custom Speed: <input id="custom-speed-input"
+                                <label for="custom-speed-input">(Особлива швидкість: <input id="custom-speed-input"
                                         type="checkbox" onchange="FormFunctions.ShowHideCustomSpeed()"> )</label>
                             </div>
                         </td>
@@ -275,22 +275,22 @@
                 <hr>
                 <table id="monster-stats-form">
                     <tr>
-                        <td><label for="str-input">STR: <br><input type="number" id="str-input" min="1" max="99"
+                        <td><label for="str-input">СИЛ: <br><input type="number" id="str-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('str')"> (<span
                                     id="strbonus"></span>)</label></td>
-                        <td><label for="dex-input">DEX: <br><input type="number" id="dex-input" min="1" max="99"
+                        <td><label for="dex-input">СПР: <br><input type="number" id="dex-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('dex')"> (<span
                                     id="dexbonus"></span>)</label></td>
-                        <td><label for="con-input">CON: <br><input type="number" id="con-input" min="1" max="99"
+                        <td><label for="con-input">СТА: <br><input type="number" id="con-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('con')"> (<span
                                     id="conbonus"></span>)</label></td>
-                        <td><label for="int-input">INT: <br><input type="number" id="int-input" min="1" max="99"
+                        <td><label for="int-input">ІНТ: <br><input type="number" id="int-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('int')"> (<span
                                     id="intbonus"></span>)</label></td>
-                        <td><label for="wis-input">WIS: <br><input type="number" id="wis-input" min="1" max="99"
+                        <td><label for="wis-input">МДР: <br><input type="number" id="wis-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('wis')"> (<span
                                     id="wisbonus"></span>)</label></td>
-                        <td><label for="cha-input">CHA: <br><input type="number" id="cha-input" min="1" max="99"
+                        <td><label for="cha-input">ХАР: <br><input type="number" id="cha-input" min="1" max="99"
                                     value="10" onchange="FormFunctions.ChangeBonus('cha')"> (<span
                                     id="chabonus"></span>)</label></td>
                     </tr>
@@ -299,68 +299,68 @@
                 <table id="properties-lists-form">
                     <tr>
                         <td id="sthrows-form">
-                            <label for="sthrows-input">Saving Throws:</label><br>
+                            <label for="sthrows-input">Рятівні кидки:</label><br>
                             <select id="sthrows-input">
-                                <option value="str">Strength</option>
-                                <option value="dex">Dexterity</option>
-                                <option value="con">Constitution</option>
-                                <option value="int">Intelligence</option>
-                                <option value="wis">Wisdom</option>
-                                <option value="cha">Charisma</option>
+                                <option value="str">Сила</option>
+                                <option value="dex">Спритність</option>
+                                <option value="con">Статура</option>
+                                <option value="int">Інтелект</option>
+                                <option value="wis">Мудрість</option>
+                                <option value="cha">Харизма</option>
                             </select>
-                            <button type="button" onclick="InputFunctions.AddSthrowInput()">Proficient</button>
+                            <button type="button" onclick="InputFunctions.AddSthrowInput()">Опановані навички</button>
                             <div id="sthrows-input-section">
                                 <ul id="sthrows-input-list" class="statblock-list"></ul>
                             </div>
                         </td>
                         <td id="skills-form">
-                            <label for="skills-input">Skills:</label><br>
+                            <label for="skills-input">Навички:</label><br>
                             <select id="skills-input">
-                                <option value="acrobatics">Acrobatics</option>
-                                <option value="animal Handling">Animal Handling</option>
-                                <option value="arcana">Arcana</option>
-                                <option value="athletics">Athletics</option>
-                                <option value="deception">Deception</option>
-                                <option value="history">History</option>
-                                <option value="insight">Insight</option>
-                                <option value="intimidation">Intimidation</option>
-                                <option value="investigation">Investigation</option>
-                                <option value="medicine">Medicine</option>
-                                <option value="nature">Nature</option>
-                                <option value="perception">Perception</option>
-                                <option value="performance">Performance</option>
-                                <option value="persuasion">Persuasion</option>
-                                <option value="religion">Religion</option>
-                                <option value="sleight of Hand">Sleight of Hand</option>
-                                <option value="stealth">Stealth</option>
-                                <option value="survival">Survival</option>
+                                <option value="acrobatics">Акробатика</option>
+                                <option value="arcana">Aркана</option>
+                                <option value="performance">Артистичність</option>
+								<option value="athletics">Атлетика</option>
+                                <option value="survival">Виживання</option>
+								<option value="intimidation">Залякування</option>
+                                <option value="insight">Здогадливість</option>
+								<option value="history">Історія</option>                           
+                                <option value="medicine">Медицина</option>
+                                <option value="stealth">Непомітність</option>
+                                <option value="deception">Обман</option>
+								<option value="persuasion">Переконливість</option>
+								<option value="animal Handling">Приборкання тварин</option>
+								<option value="nature">Природа</option>
+								<option value="religion">Релігія</option>
+								<option value="investigation">Розслідування</option>
+                                <option value="perception">Сприйняття</option>
+								<option value="sleight of Hand">Спритність рук</option>
                             </select>
-                            <button type="button" onclick="InputFunctions.AddSkillInput()">Proficient</button>
-                            <button type="button" onclick="InputFunctions.AddSkillInput(' (ex)')">Expert</button>
+                            <button type="button" onclick="InputFunctions.AddSkillInput()">Опановані</button>
+                            <button type="button" onclick="InputFunctions.AddSkillInput(' (ex)')">Експерт</button>
                             <div id="skills-input-section">
                                 <ul id="skills-input-list" class="statblock-list"></ul>
                             </div>
                         </td>
                         <td id="conditions-form">
-                            <label for="conditions-input">Condition Immunities: </label><br>
+                            <label for="conditions-input">Імунітет до станів: </label><br>
                             <select id="conditions-input">
-                                <option value="blinded">Blinded</option>
-                                <option value="charmed">Charmed</option>
-                                <option value="deafened">Deafened</option>
-                                <option value="exhaustion">Exhaustion</option>
-                                <option value="frightened">Frightened</option>
-                                <option value="grappled">Grappled</option>
-                                <option value="incapacitated">Incapacitated</option>
-                                <option value="invisible">Invisible</option>
-                                <option value="paralyzed">Paralyzed</option>
-                                <option value="petrified">Petrified</option>
-                                <option value="poisoned">Poisoned</option>
-                                <option value="prone">Prone</option>
-                                <option value="restrained">Restrained</option>
-                                <option value="stunned">Stunned</option>
-                                <option value="unconscious">Unconscious</option>
-                            </select>
-                            <button type="button" onclick="InputFunctions.AddConditionInput()">Immune</button>
+                                <option value="exhaustion">Виснажений</option>
+								<option value="prone">Збитий з ніг</option>
+								<option value="frightened">Наляканий</option>
+								<option value="invisible">Невидимий</option>
+								<option value="incapacitated">Недієздатний</option>
+								<option value="unconscious">Непритомний</option>
+								<option value="deafened">Оглушений</option>
+								<option value="blinded">Осліплений</option>
+                                <option value="poisoned">Отруєний</option>
+								<option value="paralyzed">Паралізований</option>
+								<option value="stunned">Приголомшений</option>
+								<option value="charmed">Причарований</option>
+                                <option value="petrified">Скам'янілий</option>
+                                <option value="restrained">Скутий</option>
+                                <option value="grappled">Схоплений</option>
+                                </select>
+                            <button type="button" onclick="InputFunctions.AddConditionInput()">Імунітет</button>
                             <div id="conditions-input-section">
                                 <ul id="conditions-input-list" class="statblock-list"></ul>
                             </div>
@@ -371,80 +371,80 @@
                 <table>
                     <tr>
                         <td id="damagetypes-form">
-                            <label for="damagetypes-input">Damage Types:<br>
+                            <label for="damagetypes-input">Тип ушкоджень:<br>
                                 <select id="damagetypes-input" onchange="FormFunctions.ShowHideDamageOther()">
-                                    <option value="acid">Acid</option>
-                                    <option value="bludgeoning">Bludgeoning</option>
-                                    <option value="cold">Cold</option>
-                                    <option value="fire">Fire</option>
-                                    <option value="force">Force</option>
-                                    <option value="lightning">Lightning</option>
-                                    <option value="necrotic">Necrotic</option>
-                                    <option value="piercing">Piercing</option>
-                                    <option value="poison">Poison</option>
-                                    <option value="psychic">Psychic</option>
-                                    <option value="radiant">Radiant</option>
-                                    <option value="slashing">Slashing</option>
-                                    <option value="thunder">Thunder</option>
+                                    <option value="lightning">Блискавка</option>
+									<option value="radiant">Випромінювання</option>
+									<option value="fire">Вогонь</option>
+									<option value="thunder">Громом</option>
+									<option value="bludgeoning">Дробильні</option>
+									<option value="acid">Кислота</option>
+                                    <option value="piercing">Колоті</option>
+                                    <option value="necrotic">Некротична енергія</option>
+									<option value="poison">Отрута</option>
+									<option value="psychic">Психічна енергія</option>
+									<option value="slashing">Рубані</option>
+									<option value="cold">Холод</option>
+                                    <option value="force">Чиста енергія</option>
                                     <option value="bludgeoning, piercing, and slashing from nonmagical attacks">
-                                        Nonmagical Attacks</option>
+                                        Немагічні атаки</option>
                                     <option
                                         value="bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered">
-                                        Non-Silvered Attacks</option>
+                                        Непосріблені атаки</option>
                                     <option
                                         value="bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine">
-                                        Non-Adamantine Attacks</option>
-                                    <option value="*">Other</option>
+                                        Неадамантинові атаки</option>
+                                    <option value="*">Інше</option>
                                 </select>
                             </label>
                             <div><input id="other-damage-input" type="text" value=""></div>
                             <div>
                                 <button type="button"
-                                    onclick="InputFunctions.AddDamageTypeInput('v')">Vulnerable</button>
+                                    onclick="InputFunctions.AddDamageTypeInput('v')">Вразливість</button>
                                 <button type="button"
-                                    onclick="InputFunctions.AddDamageTypeInput('r')">Resistant</button>
-                                <button type="button" onclick="InputFunctions.AddDamageTypeInput('i')">Immune</button>
+                                    onclick="InputFunctions.AddDamageTypeInput('r')">Стійкість</button>
+                                <button type="button" onclick="InputFunctions.AddDamageTypeInput('i')">Імунітет</button>
                             </div>
                             <div id="damage-input-section">
                                 <ul id="damage-input-list" class="statblock-list"></ul>
                             </div>
                         </td>
                         <td id="languages-form">
-                            <label for="languages-input">Languages:<br>
+                            <label for="languages-input">Мови:<br>
                                 <select id="languages-input" onchange="FormFunctions.ShowHideLanguageOther()">
-                                    <option value="All">All</option>
-                                    <option value="Abyssal">Abyssal</option>
-                                    <option value="Aquan">Aquan</option>
-                                    <option value="Auran">Auran</option>
-                                    <option value="Celestial">Celestial</option>
-                                    <option value="Common">Common</option>
-                                    <option value="Deep Speech">Deep Speech</option>
-                                    <option value="Draconic">Draconic</option>
-                                    <option value="Dwarvish">Dwarvish</option>
-                                    <option value="Elvish">Elvish</option>
-                                    <option value="Giant">Giant</option>
-                                    <option value="Gnomish">Gnomish</option>
-                                    <option value="Goblin">Goblin</option>
-                                    <option value="Halfling">Halfling</option>
-                                    <option value="Ignan">Ignan</option>
-                                    <option value="Infernal">Infernal</option>
-                                    <option value="Orc">Orc</option>
-                                    <option value="Primordial">Primordial</option>
-                                    <option value="Sylvan">Sylvan</option>
-                                    <option value="Terran">Terran</option>
-                                    <option value="Undercommon">Undercommon</option>
-                                    <option value="*">Other</option>
+                                    <option value="All">Усі</option>
+                                    <option value="Aquan">Акван</option>
+                                    <option value="Auran">Aуран</option>
+                                    <option value="Abyssal">Безоднева</option>
+									<option value="Giant">Велетова</option>
+									<option value="Deep Speech">Глибинна</option>
+									<option value="Gnomish">Гномська</option>
+									<option value="Goblin">Гоблінська</option>
+									<option value="Dwarvish">Дварфська</option>
+									<option value="Draconic">Драконова</option>
+									<option value="Elvish">Ельфійська</option>
+									<option value="Ignan">Ігнан</option>
+                                    <option value="Infernal">Інфернальна</option>
+									<option value="Halfling">Напівросликова</option>
+									<option value="Celestial">Небесна</option>
+                                    <option value="Common">Спільна</option>
+                                    <option value="Orc">Оркська</option>
+                                    <option value="Primordial">Первинна</option>
+                                    <option value="Undercommon">Підтемна</option>
+									<option value="Sylvan">Сильван</option>
+                                    <option value="Terran">Терран</option>
+                                    <option value="*">Інша</option>
                                 </select>
                             </label>
-                            <label for="telepathy-input" style="margin-left: .5rem;">Telepathy:<br><input type="number"
-                                    id="telepathy-input" min="0" max="995" step="5" value="0"> ft.</label>
+                            <label for="telepathy-input" style="margin-left: .5rem;">Телепатія:<br><input type="number"
+                                    id="telepathy-input" min="0" max="995" step="5" value="0"> ф.</label>
                             <div>
                                 <input id="other-language-input" type="text" value="">
                             </div>
                             <div>
-                                <button type="button" onclick="InputFunctions.AddLanguageInput(true)">Speaks</button>
+                                <button type="button" onclick="InputFunctions.AddLanguageInput(true)">Говорить</button>
                                 <button type="button"
-                                    onclick="InputFunctions.AddLanguageInput(false)">Understands</button> but
+                                    onclick="InputFunctions.AddLanguageInput(false)">Розуміє</button> але
                                 <input id="understands-but-input" type="text" value="can't speak">
                             </div>
                             <div id="languages-input-section">
@@ -457,32 +457,32 @@
                 <table id="senses-form">
                     <tr>
                         <td>
-                            <label for="blindsight-input">Blindsight: <input type="number" id="blindsight-input" min="0"
+                            <label for="blindsight-input">Сліпий зір: <input type="number" id="blindsight-input" min="0"
                                     max="995" step="5" value="0" onchange="FormFunctions.ShowHideBlindBox()">
-                                ft.</label><br>
-                            <div id="blind-box-note" class="box-note"><label for="blindness-input">(Blind beyond: <input
+                                ф.</label><br>
+                            <div id="blind-box-note" class="box-note"><label for="blindness-input">(Сліпий за межами: <input
                                         type="checkbox" id="blindness-input">)</label></div>
                         </td>
-                        <td><label for="darkvision-input">Darkvision: <input type="number" id="darkvision-input" min="0"
-                                    max="995" step="5" value="0"> ft.</label></td>
-                        <td><label for="tremorsense-input">Tremorsense: <input type="number" id="tremorsense-input"
-                                    min="0" max="995" step="5" value="0"> ft.</label></td>
-                        <td><label for="truesight-input">Truesight: <input type="number" id="truesight-input" min="0"
-                                    max="995" step="5" value="0"> ft.</label></td>
+                        <td><label for="darkvision-input">Темний зір: <input type="number" id="darkvision-input" min="0"
+                                    max="995" step="5" value="0"> ф.</label></td>
+                        <td><label for="tremorsense-input">Чуття вібрацій: <input type="number" id="tremorsense-input"
+                                    min="0" max="995" step="5" value="0"> ф.</label></td>
+                        <td><label for="truesight-input">Істинний зір: <input type="number" id="truesight-input" min="0"
+                                    max="995" step="5" value="0"> ф.</label></td>
                     </tr>
                 </table>
                 <br>
                 <div id="cr-form">
-                    <label for="cr-input">Challenge Rating:
+                    <label for="cr-input">Клас небезпеки:
                         <select id="cr-input" onchange="InputFunctions.InputCR()"></select>
                     </label>
                     <br>
                     <div id="prof-bonus"></div>
                     <div id="custom-cr">
-                        <label for="custom-cr-input">CR Text: <input id="custom-cr-input" type="text" value="1 (200 XP)"
+                        <label for="custom-cr-input">КН Тект: <input id="custom-cr-input" type="text" value="1 (200 XP)"
                                 placeholder="Leave blank to hide" style="width: 16rem;"></label>
                         <br>
-                        <label for="custom-prof-input">Proficiency Bonus: <input type="number" id="custom-prof-input"
+                        <label for="custom-prof-input">Бонус досвіду: <input type="number" id="custom-prof-input"
                                 min="-99" max="99" value="2"></label>
                     </div>
                     <br>
@@ -492,13 +492,11 @@
                     <tr>
 
                         <td>
-                            <label for="short-name-input" style="width: 100%; text-align: right;">Shortened
-                                Name:</label>
+                            <label for="short-name-input" style="width: 100%; text-align: right;">Скорочене ім'я:</label>
                         </td>
                         <td>
                             <input id="short-name-input" type="text" value="" placeholder="None" style="width: 30%;">
-                            <div class="tooltip">?<span class="tooltiptext">This will replace [MON] in ability text,
-                                    unless left blank.</span>
+                            <div class="tooltip">?<span class="tooltiptext">Це замінить [MON] в тексті здібності, якщо не залишити порожнім.</span>
                             </div>
                         </td>
                     </tr>
@@ -508,8 +506,7 @@
                         </td>
                         <td>
                             <input id="plural-name-input" type="text" value="" placeholder="None" style="width: 30%;">
-                            <div class="tooltip">?<span class="tooltiptext">This will replace [MONS] in ability
-                                    text, unless left blank.</span>
+                            <div class="tooltip">?<span class="tooltiptext">Це замінить [MONS] в тексті здібності, якщо не залишити порожнім.</span>
                             </div>
                         </td>
                         </label>
@@ -517,42 +514,39 @@
                 </table>
                 <br>
                 <div>
-                    <label for="is-legendary-input"><b>Legendary Creature:</b> <input type="checkbox"
+                    <label for="is-legendary-input"><b>Легендарна істота:</b> <input type="checkbox"
                             id="is-legendary-input" onclick="FormFunctions.ShowHideLegendaryCreature()"></label>
                 </div>
                 <div id="legendary-actions-form">
                     <br>
-                    <label for="is-mythic-input"><b>Mythic:</b> <input type="checkbox" id="is-mythic-input"
+                    <label for="is-mythic-input"><b>Мітична:</b> <input type="checkbox" id="is-mythic-input"
                             onclick="FormFunctions.ShowHideMythicCreature()"></label>
-                    <label for="has-lair-input"><b>Lair:</b> <input type="checkbox" id="has-lair-input"
+                    <label for="has-lair-input"><b>Лігво:</b> <input type="checkbox" id="has-lair-input"
                             onclick="FormFunctions.ShowHideLair()"></label>
-                    <label for="has-regional-input"><b>Regional:</b> <input type="checkbox" id="has-regional-input"
+                    <label for="has-regional-input"><b>Регіон:</b> <input type="checkbox" id="has-regional-input"
                             onclick="FormFunctions.ShowHideRegional()"></label>
                     <br><br>
-                    <b>Legendary Actions Description:</b>
+                    <b>Опис легендарних дій:</b>
                     <div><label for="legendaries-descsection-input" style="width: 100%"><textarea
                                 id="legendaries-descsection-input" rows="4"></textarea></label></div>
-                    <div><button type="button" onclick="InputFunctions.LegendaryDescriptionDefaultInput()">Reset to
-                            Default</button></div>
+                    <div><button type="button" onclick="InputFunctions.LegendaryDescriptionDefaultInput()">Скинути до замовчання</button></div>
                 </div>
                 <div id="mythic-actions-form">
                     <br>
-                    <b>Mythic Actions Description:</b>
+                    <b>Опис мітичних дій:</b>
                     <div><label for="mythic-descsection-input" style="width: 100%"><textarea
                                 id="mythic-descsection-input" rows="4"></textarea></label></div>
-                    <div><button type="button" onclick="InputFunctions.MythicDescriptionDefaultInput()">Reset to
-                            Default</button></div>
+                    <div><button type="button" onclick="InputFunctions.MythicDescriptionDefaultInput()">Скинути до замовчання</button></div>
                 </div>
                 <div id="lair-actions-form">
                     <br>
-                    <b>Lair Actions Description:</b>
+                    <b>Опис легендарних дій:</b>
                     <div><label for="lair-descsection-input" style="width: 100%"><textarea id="lair-descsection-input"
                                 rows="4"></textarea></label></div>
-                    <b>Lair Actions End Note Description:</b>
+                    <b>Опис кінцевої примітки до дії лігва:</b>
                     <div><label for="lair-end-descsection-input" style="width: 100%"><textarea
                                 id="lair-end-descsection-input" rows="4"></textarea></label></div>
-                    <div><button type="button" onclick="InputFunctions.LairDescriptionDefaultInput()">Reset to
-                            Default</button></div>
+                    <div><button type="button" onclick="InputFunctions.LairDescriptionDefaultInput()">Скинути до замовчання</button></div>
                 </div>
                 <div id="regional-actions-form">
                     <br>
@@ -562,85 +556,83 @@
                     <b>Regional Effects End Note Description:</b>
                     <div><label for="regional-end-descsection-input" style="width: 100%"><textarea
                                 id="regional-end-descsection-input" rows="4"></textarea></label></div>
-                    <div><button type="button" onclick="InputFunctions.RegionalDescriptionDefaultInput()">Reset to
-                            Default</button></div>
+                    <div><button type="button" onclick="InputFunctions.RegionalDescriptionDefaultInput()">Скинути до замовчання</button></div>
                 </div>
                 <br>
-                <b>Abilities:</b>
-                <div><label for="abilities-name-input" style="width: 100%;">Name: <input id="abilities-name-input"
+                <b>Здібності:</b>
+                <div><label for="abilities-name-input" style="width: 100%;">Назва: <input id="abilities-name-input"
                             type="text" value="" style="margin-right: 40px; width: 30%;"></label></div>
                 <div><textarea id="abilities-desc-input" style="height: 10em;"></textarea></div>
                 <div>
                     <button type="button" id="add-ability-button"
-                        onclick="InputFunctions.AddAbilityInput('abilities')">Add Ability</button>
+                        onclick="InputFunctions.AddAbilityInput('abilities')">Додати здібність</button>
                     <button type="button" id="add-action-button"
-                        onclick="InputFunctions.AddAbilityInput('actions')">Add Action</button>
+                        onclick="InputFunctions.AddAbilityInput('actions')">Додати дію</button>
                     <button type="button" id="add-bonus-action-button"
-                        onclick="InputFunctions.AddAbilityInput('bonusActions')">Add Bonus Action</button>
+                        onclick="InputFunctions.AddAbilityInput('bonusActions')">Додату бонусну дію</button>
                     <button type="button" id="add-reaction-button"
-                        onclick="InputFunctions.AddAbilityInput('reactions')">Add Reaction</button>
+                        onclick="InputFunctions.AddAbilityInput('reactions')">Додати реакцію</button>
                     <button type="button" id="add-legendary-button"
-                        onclick="InputFunctions.AddAbilityInput('legendaries')">Add Legendary Action</button>
+                        onclick="InputFunctions.AddAbilityInput('legendaries')">Додати легендарну дію</button>
                     <button type="button" id="add-mythic-button"
-                        onclick="InputFunctions.AddAbilityInput('mythics')">Add Mythic Action</button>
+                        onclick="InputFunctions.AddAbilityInput('mythics')">Додати мітичну дію</button>
                     <button type="button" id="add-lair-button"
-                        onclick="InputFunctions.AddAbilityInput('lairs')">Add Lair Action</button>
+                        onclick="InputFunctions.AddAbilityInput('lairs')">Додати дію лігва</button>
                     <button type="button" id="add-regional-button"
-                        onclick="InputFunctions.AddAbilityInput('regionals')">Add Regional Effect</button>
+                        onclick="InputFunctions.AddAbilityInput('regionals')">Додати ефект місцевості</button>
                 </div>
                 <div>
                     <select id="common-ability-input"></select>
                     <button type="button" id="add-common-ability-button"
-                        onclick="InputFunctions.AddCommonAbilityInput()">Use Preset</button>
+                        onclick="InputFunctions.AddCommonAbilityInput()">Використати преген</button>
                 </div>
                 <div>
-                    <label for="format-helper-checkbox">Show Formatting Help: <input type="checkbox"
+                    <label for="format-helper-checkbox">Показати підказки форматування: <input type="checkbox"
                             id="format-helper-checkbox" onclick="FormFunctions.ShowHideFormatHelper()"></label>
                 </div>
                 <div id="format-helper" style="text-align: left; padding: 0 2rem;">
                     <br>
-                    <div>Use _ to italicize and ** to bold. For Spellcasting lists, use > to reverse-indent.</div>
+                    <div>Вставте _ для курсиву та ** для півжирного. Для списку Чарування використовуйте > для зворотного відступу.</div>
                     <br>
-                    <div><b>[MON]</b>: Shows the monster's name.</div>
-                    <div><b>[CHA]</b>: Shows the monster's charisma modifier.</div>
-                    <div><b>[3D6]</b>: Computes 3d6.</div>
-                    <div><b>[STR ATK]</b>: Calculates the modifier to the monster's attack roll for a strength-based
-                        attack.</div>
-                    <div><b>[DEX 2D8]</b>: Calculates the damage roll for a dexterity-based attack with damage dice 2d8.
+                    <div><b>[MON]</b>: Показує ім'я монстра.</div>
+                    <div><b>[CHA]</b>: Показує модифікатор харизми монстра.</div>
+                    <div><b>[3D6]</b>: Додає 3d6.</div>
+                    <div><b>[STR ATK]</b>: Обчислює модифікатор кидка атаким монстра для атаки з Силою.</div>
+                    <div><b>[DEX 2D8]</b>: Обчислює кидок ушкоджень для атаки зі Спритністю з кісткою пошкоджень 2d8.
                     </div>
-                    <div><b>[WIS SAVE]</b>: Calculates the save DC vs the monster's wisdom.</div>
-                    <div><b>[3D6 + 1], [STR ATK - 2], [WIS SAVE + 3]</b>: Adds a modifier to the given values.</div>
+                    <div><b>[WIS SAVE]</b>: Обчислює КС рятунку проти мудрості монстра.</div>
+                    <div><b>[3D6 + 1], [STR ATK - 2], [WIS SAVE + 3]</b>: Додає модифікатор до вказаних значень.</div>
                     <br>
                 </div>
                 <div style="text-align: left; min-height: 5rem;">
-                    <div id="abilities-input-section"><b>Abilities:</b><br>
+                    <div id="abilities-input-section"><b>Здібності:</b><br>
                         <ul id="abilities-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="actions-input-section"><b>Actions:</b><br>
+                    <div id="actions-input-section"><b>Дії:</b><br>
                         <ul id="actions-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="bonusActions-input-section"><b>Bonus Actions:</b><br>
+                    <div id="bonusActions-input-section"><b>Бонусна дія:</b><br>
                         <ul id="bonusActions-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="reactions-input-section"><b>Reactions:</b><br>
+                    <div id="reactions-input-section"><b>Реакції:</b><br>
                         <ul id="reactions-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="legendaries-input-section"><b>Legendary Actions:</b><br>
+                    <div id="legendaries-input-section"><b>Легендарні дії:</b><br>
                         <ul id="legendaries-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="mythic-input-section"><b>Mythic Actions:</b><br>
+                    <div id="mythic-input-section"><b>Мітичні дії:</b><br>
                         <ul id="mythics-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="lairs-input-section"><b>Lair Actions:</b><br>
+                    <div id="lairs-input-section"><b>Дії лігва:</b><br>
                         <ul id="lairs-input-list" class="statblock-list"></ul>
                     </div>
-                    <div id="regionals-input-section"><b>Regional Effects:</b><br>
+                    <div id="regionals-input-section"><b>Ефекти місцевості:</b><br>
                         <ul id="regionals-input-list" class="statblock-list"></ul>
                     </div>
                 </div>
                 <br>
             </div>
-            <div class="footer"><a href="https://github.com/Tetra-cube/Tetra-cube.github.io">GitHub Repo</a></div>
+            <div class="footer"><a href="https://github.com/Tetra-cube/Tetra-cube.github.io">Генератор взято тут</a></div>
         </div>
     </div>
 </body>
