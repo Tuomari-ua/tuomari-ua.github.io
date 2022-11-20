@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 8
-classes: warlock
-         wizard
-title: Demiplane 
+classes: warlock, wizard
+title: Напівплан [Demiplane]
 ---
-_8th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** S    
-**Duration:** 1 hour 
-You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered. When opened, the door leads to a demiplane that appears to be an empty room 30 feet in each dimension, made of wood or stone. When the spell ends, the door disappears, and any creatures or objects inside the demiplane remain trapped there, as the door also disappears from the other side.    
-Each time you cast this spell, you can create a new demiplane, or have the shadowy door connect to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can have the shadowy door connect to its demiplane instead. 
+
+_З'явлення, 8 рівень; чаклун, маг_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** С    
+**Тривалість:** 1 година    
+Ви створюєте тіняві двері на твердій пласкій поверхні, які ви бачите в межах дистанції. Двері досить великі, щоб істоти Середнього розміру могли вільно проходити крізь них. Якщо двері відчинити, вони вестимуть у напівплан, який виглядає як порожня кімната розміром 30 футів у всіх вимірах, побудована з дерева або каменю. Коли чари закінчуються, двері зникають, а будь-які істоти і предмети всередині напівплану залишаються там у пастці, оскільки двері зникають і з іншого боку.    
+Щоразу, коли ви створюєте ці чари, ви можете створити новий напівплан або ж пов'язати тіняві двері з напівпланом, створеним вами під час попереднього чарування. Крім того, якщо ви знаєте природу та вміст напівплану, створеного цими чарами іншою істотою, ви можете натомість з'єднати свої двері з цим напівпланом. 

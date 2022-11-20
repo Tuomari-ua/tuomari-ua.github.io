@@ -1,19 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
-classes: sorcerer
-         wizard
-title: Delayed Blast Fireball 
+classes: sorcerer, wizard
+title: Вогнекуля відкладеної дії [Delayed Blast Fireball]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (a tiny ball of bat guano and sulfur)    
-**Duration:** Concentration, up to 1 minute 
-A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.    
-The spell's base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.    
-If the glowing bead is touched before the interval has expired, the creature touching it must make a Dexterity saving throw. On a failed save, the spell ends immediately, causing the bead to erupt in flame. On a successful save, the creature can throw the bead up to 40 feet. When it strikes a creature or a solid object, the spell ends, and the bead explodes.    
-The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th. 
+
+_Втілення, 7 рівень; заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складовs:** В, С, М (крихітна кулька з гуано кажана та сірка)    
+**Тривалість:** Концентрація, до 1 хвилини    
+Промінь жовтого світла злітає з вашого вказівного пальця та ущільнюється, затримуючись у вибраній точці в межах відстані як сяюча намистина, поки діють чари. Коли зари завершуються - чи через вашу втрату концентрації, чи тому що ви так вирішили - намистина з низьким ревом розцвітає у вибух полум'я, яке огинає кути. Усі істоти у сфері з радіусом 20 футів із центром у цій точці мають зробити рятівний кидок Спритності. У разі невдачі істота отримує ушкодження вогнем, що дорівнює накопиченій силі ушкоджень чарів, або половину цих ушкоджень у разі успішного ряткидка.    
+Базові ушкодження від цих чарів складають 12к6. Наприкінці кожного вашого ходу, поки намистина ще не здетонувала, ушкодження збільшуються на 1к6.    
+Якщо до сяючої намистини торкнутися, перш ніж завершиться відлік часу, істота, котра доторкнулася до неї, повинна зробити рятівний кидок Спритності. У випадку невдачі чари миттєво закінчуються, змушуючи намистину вибухнути. У разі успіху ісота може відкинути намистину на 40 футів. Коли вона влучає в істоту чи твердий предмет, чари завершуються, і намистина вибухає.    
+Вогонь ушкоджує предмети в області впливу й підпалює займисті предмети, які ніхто не несе й не носить. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 8 рівня або вищої, базові ушкодження зростають на 1к6 за кожну чарунку вище сьомої. 
