@@ -495,7 +495,7 @@ function PrintMarkdownProperty(isV3Markdown, name, value) {
 
 function AddMarkdownAttributesTable(markdown) {
     markdown.push(
-        `|STR|DEX|CON|INT|WIS|CHA|`,
+        `|СИЛ|СПР|СТА|ІНТ|МУД|ХАР|`,
         `|:---:|:---:|:---:|:---:|:---:|:---:|`,
         `|${mon.strPoints} (${StringFunctions.BonusFormat(MathFunctions.PointsToBonus(mon.strPoints))})|` +
         `${mon.dexPoints} (${StringFunctions.BonusFormat(MathFunctions.PointsToBonus(mon.dexPoints))})|` +
@@ -855,7 +855,7 @@ var FormFunctions = {
                     ":</b> " + StringFunctions.FormatString(element.desc, isBlock) : "</b>");
 
             let functionArgs = arrName + "\", " + index + ", " + capitalize + ", " + isBlock,
-                imageHTML = "<img class='statblock-image' src='dndimages/x-icon.png' alt='Видалити' title=Видалити' onclick='FormFunctions.RemoveDisplayListItem(\"" + functionArgs + ")'>";
+                imageHTML = "<img class='statblock-image' src='dndimages/x-icon.png' alt='Видалити' title='Видалити' onclick='FormFunctions.RemoveDisplayListItem(\"" + functionArgs + ")'>";
             if (isBlock)
                 imageHTML += " <img class='statblock-image' src='dndimages/edit-icon.png' alt='Редагувати' title='Редагувати' onclick='FormFunctions.EditDisplayListItem(\"" + functionArgs + ")'>" +
                     " <img class='statblock-image' src='dndimages/up-icon.png' alt='Вище' title='Вище' onclick='FormFunctions.SwapDisplayListItem(\"" + arrName + "\", " + index + ", -1)'>" +
@@ -904,10 +904,10 @@ var FormFunctions = {
     InitForms: function () {
         let dropdownBuffer = [
             "<option value=*>Довільний КН</option>",
-            "<option value=0>0 (", data.crs["0"].xp, " XP)</option>",
-            "<option value=1/8>1/8 (", data.crs["1/8"].xp, " XP)</option>",
-            "<option value=1/4>1/4 (", data.crs["1/4"].xp, " XP)</option>",
-            "<option value=1/2>1/2 (", data.crs["1/2"].xp, " XP)</option>"
+            "<option value=0>0 (", data.crs["0"].xp, " ПД)</option>",
+            "<option value=1/8>1/8 (", data.crs["1/8"].xp, " ПД)</option>",
+            "<option value=1/4>1/4 (", data.crs["1/4"].xp, " ПД)</option>",
+            "<option value=1/2>1/2 (", data.crs["1/2"].xp, " ПД)</option>"
         ];
         for (let cr = 1; cr <= 30; cr++)
             dropdownBuffer.push("<option value=", cr, ">", cr, " (", data.crs[cr].xp, " ПД)</option>");
@@ -1697,11 +1697,11 @@ var StringFunctions = {
         if (mon.truesight > 0) sensesDisplayArr.push("truesight " + mon.truesight + " ft.");
 
         // Passive Perception
-        let ppData = ArrayFunctions.FindInList(mon.skills, "Perception"),
+        let ppData = ArrayFunctions.FindInList(mon.skills, "Сприйняття"),
             pp = 10 + MathFunctions.PointsToBonus(mon.wisPoints);
         if (ppData != null)
             pp += CrFunctions.GetProf() * (ppData.hasOwnProperty("note") ? 2 : 1);
-        sensesDisplayArr.push("passive Perception " + pp);
+        sensesDisplayArr.push("пасивне Сприйняття " + pp);
         return sensesDisplayArr.join(", ");
     },
 
