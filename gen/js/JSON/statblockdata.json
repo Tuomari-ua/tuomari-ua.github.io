@@ -449,19 +449,19 @@
 			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? damage."
 		},
 		{
-			"name": "Melee Spell Attack (INT)",
+			"name": "Атака чарами ближнього бою (INT)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [INT ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [INT ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
 		},
 		{
-			"name": "Melee Spell Attack (WIS)",
+			"name": "Атака чарами ближнього бою (WIS)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [WIS ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [WIS ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
 		},
 		{
-			"name": "Melee Spell Attack (CHA)",
+			"name": "Атака чарами ближнього бою (CHA)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [CHA ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [CHA ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
 		},
 		{
 			"name": "Далекобійна атака зброєю (STR)",
@@ -474,19 +474,19 @@
 			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? damage."
 		},
 		{
-			"name": "Ranged Spell Attack (INT)",
+			"name": "Далекобійна атака чарами (INT)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [INT ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [INT ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
 		},
 		{
-			"name": "Ranged Spell Attack (WIS)",
+			"name": "Далекобійна атака чарами (WIS)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [WIS ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [WIS ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
 		},
 		{
-			"name": "Ranged Spell Attack (CHA)",
+			"name": "Далекобійна атака чарами (CHA)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [CHA ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [CHA ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
 		},
 		{
 			"name": "Melee or Далекобійна атака зброєю (STR)",
@@ -503,42 +503,42 @@
 			"desc": null
 		},
 		{
-			"name": "Multiattack (Action)",
+			"name": "Мультикатака (Дія)",
 			"realname": "Multiattack",
 			"desc": "The [MON] makes two attacks."
 		},
 		{
-			"name": "Legendary Resistance",
+			"name": "Легендарна стійкість",
 			"realname": "Legendary Resistance (3/day)",
 			"desc": "If the [MON] fails a saving throw, it can choose to succeed instead."
 		},
 		{
-			"name": "Spellcasting (INT)",
+			"name": "Чарування (ІНТ)",
 			"realname": "Spellcasting",
 			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
-			"name": "Spellcasting (WIS)",
+			"name": "Чарування (МДР)",
 			"realname": "Spellcasting",
 			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
-			"name": "Spellcasting (CHA)",
+			"name": "Чарування (ХАР)",
 			"realname": "Spellcasting",
 			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (INT)",
+			"name": "Вроджене чарування (ІНТ)",
 			"realname": "Innate Spellcasting",
 			"desc": "The [MON]'s innate spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (WIS)",
+			"name": "Вроджене чарування (МДР)",
 			"realname": "Innate Spellcasting",
 			"desc": "The [MON]'s innate spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (CHA)",
+			"name": "Вроджене чарування (ХАР)",
 			"realname": "Innate Spellcasting",
 			"desc": "The [MON]'s innate spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
@@ -580,7 +580,7 @@
 			"desc": "During its first turn, the [MON] has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the [MON] scores against a surprised creature is a critical hit."
 		},
 		{
-			"name": "Attack (Legendary Action)",
+			"name": "Атака (Легендарна дія)",
 			"realname": "??? Attack",
 			"desc": "The [MON] makes a ??? attack."
 		},
@@ -874,7 +874,7 @@
 		{
 			"name": "Life Drain (Action)",
 			"realname": "Life Drain",
-			"desc": "_Melee Spell Attack:_ +??? до влучання, досяжність ??? ф.,  one creature. _Влучання:_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+			"desc": "_Атака чарами ближнього бою:_ +??? до влучання, досяжність ??? ф.,  one creature. _Влучання:_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
 		},
 		{
 			"name": "Limited Amphibiousness",
@@ -1099,22 +1099,22 @@
 		},
 		{
 			"name": "Кинджал (СИЛ)",
-			"realname": "Dagger",
+			"realname": "Кинджал",
 			"desc": "_Melee or Далекобійна атака зброєю:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф.,одна ціль. _Влучання:_ [STR 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Кинджал (СПР)",
-			"realname": "Dagger",
+			"realname": "Кинджал",
 			"desc": "_Melee or Далекобійна атака зброєю:_ [DEX ATK] до влучання, досяжність 5 ft. or range 20/60 ф.,одна ціль. _Влучання:_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Дротик (СИЛ)",
-			"realname": "Dart",
+			"realname": "Дротик",
 			"desc": "_Далекобійна атака зброєю:_ [STR ATK] до влучання, range 20/60 ф.,одна ціль. _Влучання:_ [STR 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Дротик (СПР)",
-			"realname": "Dart",
+			"realname": "Дротик",
 			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, range 20/60 ф.,одна ціль. _Влучання:_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
@@ -1203,22 +1203,22 @@
 		},
 		{
 			"name": "Рапіра (СИЛ)",
-			"realname": "Rapier",
+			"realname": "Рапіра",
 			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Рапіра (СПР)",
-			"realname": "Rapier",
+			"realname": "Рапіра",
 			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Скимитар (СИЛ)",
-			"realname": "Scimitar",
+			"realname": "Скимитар",
 			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] рубаних ушкоджень."
 		},
 		{
 			"name": "Скимитар (СПР)",
-			"realname": "Scimitar",
+			"realname": "Скимитар",
 			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D6] рубаних ушкоджень."
 		},
 		{
@@ -1227,12 +1227,12 @@
 		},
 		{
 			"name": "Короткий меч (СИЛ)",
-			"realname": "Shortsword",
+			"realname": "Короткий меч",
 			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Короткий меч (СПР)",
-			"realname": "Shortsword",
+			"realname": "Короткий меч",
 			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
@@ -1265,12 +1265,12 @@
 		},
 		{
 			"name": "Батіг (СИЛ)",
-			"realname": "Whip",
+			"realname": "Батіг",
 			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф.,одна ціль. _Влучання:_ [STR 1D4] рубаних ушкоджень."
 		},
 		{
 			"name": "Батіг (СПР)",
-			"realname": "Whip",
+			"realname": "Батіг",
 			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 10 ф.,одна ціль. _Влучання:_ [DEX 1D4] рубаних ушкоджень."
 		}
 	]
