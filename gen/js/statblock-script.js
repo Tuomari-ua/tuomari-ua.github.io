@@ -1,16 +1,16 @@
 var data;
 
 var mon = {
-    name: "Монстр",
-    size: "середній",
-    type: "гуманоїд",
+    name: "Monster",
+    size: "medium",
+    type: "humanoid",
     tag: "",
-    alignment: "будь-який",
+    alignment: "any alignment",
     hitDice: 5,
-    armorName: "немає",
+    armorName: "none",
     shieldBonus: 0,
     natArmorBonus: 3,
-    otherArmorDesc: "10 (броня)",
+    otherArmorDesc: "10 (armor)",
     speed: 30,
     burrowSpeed: 0,
     climbSpeed: 0,
@@ -20,7 +20,7 @@ var mon = {
     customHP: false,
     customSpeed: false,
     hpText: "4 (1d8)",
-    speedDesc: "30 ф.",
+    speedDesc: "30 ft.",
     strPoints: 10,
     dexPoints: 10,
     conPoints: 10,
@@ -93,7 +93,7 @@ var TryLoadFile = () => {
 // Print function
 function TryPrint() {
     let printWindow = window.open();
-    printWindow.document.write('<html><head><meta charset="utf-8"/><title>' + mon.name + '</title><link rel="shortcut icon" type="image/x-icon" href="./public/favicon.ico" /><link rel="stylesheet" type="text/css" href="css/statblock-style.css"><link rel="stylesheet" type="text/css" href="css/libre-baskerville.css"><link rel="stylesheet" type="text/css" href="css/noto-sans.css"></head><body><div id="print-block" class="content">');
+    printWindow.document.write('<html><head><meta charset="utf-8"/><title>' + mon.name + '</title><link rel="shortcut icon" type="image/x-icon" href="./dndimages/favicon.ico" /><link rel="stylesheet" type="text/css" href="css/statblock-style.css"><link rel="stylesheet" type="text/css" href="css/libre-baskerville.css"><link rel="stylesheet" type="text/css" href="css/noto-sans.css"></head><body><div id="print-block" class="content">');
     printWindow.document.write($("#stat-block-wrapper").html());
     printWindow.document.write('</div></body></html>');
 }
@@ -219,27 +219,27 @@ function UpdateStatblock(moveSeparationPoint) {
     let traitsHTML = [];
 
     if (mon.abilities.length > 0) AddToTraitList(traitsHTML, mon.abilities);
-    if (mon.actions.length > 0) AddToTraitList(traitsHTML, mon.actions, "<h3>Дії</h3>");
-    if (mon.bonusActions.length > 0) AddToTraitList(traitsHTML, mon.bonusActions, "<h3>Бонусні дії</h3>");
-    if (mon.reactions.length > 0) AddToTraitList(traitsHTML, mon.reactions, "<h3>Реакції</h3>");
+    if (mon.actions.length > 0) AddToTraitList(traitsHTML, mon.actions, "<h3>Actions</h3>");
+    if (mon.bonusActions.length > 0) AddToTraitList(traitsHTML, mon.bonusActions, "<h3>Bonus Actions</h3>");
+    if (mon.reactions.length > 0) AddToTraitList(traitsHTML, mon.reactions, "<h3>Reactions</h3>");
     if (mon.isLegendary && (mon.legendaries.length > 0 || mon.legendariesDescription.length > 0))
         AddToTraitList(traitsHTML, mon.legendaries, mon.legendariesDescription == "" ?
-            "<h3>Легендарні дії</h3><div class='property-block'></div>" :
-            ["<h3>Легендарні дії</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.legendariesDescription))), "</div></br>"], true);
+            "<h3>Legendary Actions</h3><div class='property-block'></div>" :
+            ["<h3>Legendary Actions</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.legendariesDescription))), "</div></br>"], true);
     if (mon.isMythic && mon.isLegendary && (mon.mythics.length > 0 || mon.mythicDescription.length > 0))
         AddToTraitList(traitsHTML, mon.mythics, mon.mythicDescription == "" ?
-            "<h3>Мітичні дії</h3><div class='property-block'></div>" :
-            ["<h3>Мітичні дії</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.mythicDescription))), "</div></br>"], true);    
+            "<h3>Mythic Actions</h3><div class='property-block'></div>" :
+            ["<h3>Mythic Actions</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.mythicDescription))), "</div></br>"], true);    
     if (mon.isLair && mon.isLegendary && (mon.lairs.length > 0 || mon.lairDescription.length > 0 || mon.lairDescriptionEnd.length > 0)) {
         AddToTraitList(traitsHTML, mon.lairs, mon.lairDescription == "" ?
-            "<h3>Дії лігва</h3><div class='property-block'></div>" :
-            ["<h3>Дії лігва</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.lairDescription))), "</div></br><ul>"], false, true);
+            "<h3>Lair Actions</h3><div class='property-block'></div>" :
+            ["<h3>Lair Actions</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.lairDescription))), "</div></br><ul>"], false, true);
         traitsHTML.push("</ul>" + StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.lairDescriptionEnd))));
     }
     if (mon.isRegional && mon.isLegendary && (mon.regionals.length > 0 || mon.regionalDescription.length > 0 || mon.regionalDescriptionEnd.length > 0)) {
         AddToTraitList(traitsHTML, mon.regionals, mon.regionalDescription == "" ?
-            "<h3>Місцеві ефекти</h3><div class='property-block'></div>" :
-            ["<h3>Місцеві ефекти</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.regionalDescription))), "</div></br><ul>"], false, true);
+            "<h3>Regional Effects</h3><div class='property-block'></div>" :
+            ["<h3>Regional Effects</h3><div class='property-block'>", StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.regionalDescription))), "</div></br><ul>"], false, true);
         traitsHTML.push("</ul>" + StringFunctions.FormatString(ReplaceTags(StringFunctions.RemoveHtmlTags(mon.regionalDescriptionEnd))));
     }
 
@@ -458,19 +458,19 @@ function BuildMarkdown(isV3Markdown) {
     }
 
     markdownLines.push(
-        PrintMarkdownProperty(isV3Markdown, "Небезпека", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} XP)`),
+        PrintMarkdownProperty(isV3Markdown, "Challenge", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} XP)`),
         "___");
 
     AddMarkdownTraitSection(markdownLines, isV3Markdown, null, mon.abilities);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Дії", mon.actions);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Бонусні дії", mon.bonusActions);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Реакції", mon.reactions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Actions", mon.actions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Bonus Actions", mon.bonusActions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Reactions", mon.reactions);
 
     if (mon.isLegendary) {
-        AddMarkdownTraitSection(markdownLines, isV3Markdown, "Легендарні дії", mon.legendaries, mon.legendariesDescription, null, LEGENDARY);
-        if (mon.isMythic) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Мітичні дії", mon.mythics, mon.mythicDescription, null, MYTHIC);
-        if (mon.isLair) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Дії лігва", mon.lairs, mon.lairDescription, mon.lairDescriptionEnd, LAIR);
-        if (mon.isRegional) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Місцеві ефекти", mon.regionals, mon.regionalDescription, mon.regionalDescriptionEnd, REGIONAL);
+        AddMarkdownTraitSection(markdownLines, isV3Markdown, "Legendary Actions", mon.legendaries, mon.legendariesDescription, null, LEGENDARY);
+        if (mon.isMythic) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Mythic Actions", mon.mythics, mon.mythicDescription, null, MYTHIC);
+        if (mon.isLair) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Lair Actions", mon.lairs, mon.lairDescription, mon.lairDescriptionEnd, LAIR);
+        if (mon.isRegional) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Regional Effects", mon.regionals, mon.regionalDescription, mon.regionalDescriptionEnd, REGIONAL);
     }
 
     if (isV3Markdown) {
@@ -495,7 +495,7 @@ function PrintMarkdownProperty(isV3Markdown, name, value) {
 
 function AddMarkdownAttributesTable(markdown) {
     markdown.push(
-        `|СИЛ|СПР|СТА|ІНТ|МУД|ХАР|`,
+        `|STR|DEX|CON|INT|WIS|CHA|`,
         `|:---:|:---:|:---:|:---:|:---:|:---:|`,
         `|${mon.strPoints} (${StringFunctions.BonusFormat(MathFunctions.PointsToBonus(mon.strPoints))})|` +
         `${mon.dexPoints} (${StringFunctions.BonusFormat(MathFunctions.PointsToBonus(mon.dexPoints))})|` +
@@ -612,12 +612,12 @@ var FormFunctions = {
         this.ShowHideCustomSpeed();
 
         // Stats
-        this.SetStatForm("сил", mon.strPoints);
-        this.SetStatForm("спр", mon.dexPoints);
-        this.SetStatForm("ста", mon.conPoints);
-        this.SetStatForm("інт", mon.intPoints);
-        this.SetStatForm("муд", mon.wisPoints);
-        this.SetStatForm("хар", mon.chaPoints);
+        this.SetStatForm("str", mon.strPoints);
+        this.SetStatForm("dex", mon.dexPoints);
+        this.SetStatForm("con", mon.conPoints);
+        this.SetStatForm("int", mon.intPoints);
+        this.SetStatForm("wis", mon.wisPoints);
+        this.SetStatForm("cha", mon.chaPoints);
 
         // Senses
         $("#blindsight-input").val(mon.blindsight);
@@ -855,11 +855,11 @@ var FormFunctions = {
                     ":</b> " + StringFunctions.FormatString(element.desc, isBlock) : "</b>");
 
             let functionArgs = arrName + "\", " + index + ", " + capitalize + ", " + isBlock,
-                imageHTML = "<img class='statblock-image' src='dndimages/x-icon.png' alt='Видалити' title='Видалити' onclick='FormFunctions.RemoveDisplayListItem(\"" + functionArgs + ")'>";
+                imageHTML = "<img class='statblock-image' src='dndimages/x-icon.png' alt='Remove' title='Remove' onclick='FormFunctions.RemoveDisplayListItem(\"" + functionArgs + ")'>";
             if (isBlock)
-                imageHTML += " <img class='statblock-image' src='dndimages/edit-icon.png' alt='Редагувати' title='Редагувати' onclick='FormFunctions.EditDisplayListItem(\"" + functionArgs + ")'>" +
-                    " <img class='statblock-image' src='dndimages/up-icon.png' alt='Вище' title='Вище' onclick='FormFunctions.SwapDisplayListItem(\"" + arrName + "\", " + index + ", -1)'>" +
-                    " <img class='statblock-image' src='dndimages/down-icon.png' alt='Нижче' title='Нижче' onclick='FormFunctions.SwapDisplayListItem(\"" + arrName + "\", " + index + ", 1)'>";
+                imageHTML += " <img class='statblock-image' src='dndimages/edit-icon.png' alt='Edit' title='Edit' onclick='FormFunctions.EditDisplayListItem(\"" + functionArgs + ")'>" +
+                    " <img class='statblock-image' src='dndimages/up-icon.png' alt='Up' title='Up' onclick='FormFunctions.SwapDisplayListItem(\"" + arrName + "\", " + index + ", -1)'>" +
+                    " <img class='statblock-image' src='dndimages/down-icon.png' alt='Down' title='Down' onclick='FormFunctions.SwapDisplayListItem(\"" + arrName + "\", " + index + ", 1)'>";
             displayArr.push("<li> " + imageHTML + " " + content + "</li>");
         }
         $(arrElement).html(displayArr.join(""));
@@ -903,14 +903,14 @@ var FormFunctions = {
     // Initialize Forms
     InitForms: function () {
         let dropdownBuffer = [
-            "<option value=*>Довільний КН</option>",
-            "<option value=0>0 (", data.crs["0"].xp, " ПД)</option>",
-            "<option value=1/8>1/8 (", data.crs["1/8"].xp, " ПД)</option>",
-            "<option value=1/4>1/4 (", data.crs["1/4"].xp, " ПД)</option>",
-            "<option value=1/2>1/2 (", data.crs["1/2"].xp, " ПД)</option>"
+            "<option value=*>Custom CR</option>",
+            "<option value=0>0 (", data.crs["0"].xp, " XP)</option>",
+            "<option value=1/8>1/8 (", data.crs["1/8"].xp, " XP)</option>",
+            "<option value=1/4>1/4 (", data.crs["1/4"].xp, " XP)</option>",
+            "<option value=1/2>1/2 (", data.crs["1/2"].xp, " XP)</option>"
         ];
         for (let cr = 1; cr <= 30; cr++)
-            dropdownBuffer.push("<option value=", cr, ">", cr, " (", data.crs[cr].xp, " ПД)</option>");
+            dropdownBuffer.push("<option value=", cr, ">", cr, " (", data.crs[cr].xp, " XP)</option>");
         $("#cr-input").html(dropdownBuffer.join(""));
     }
 }
@@ -1230,16 +1230,16 @@ var GetVariablesFunctions = {
         // Speeds
         let GetSpeed = (speedList, speedType) => speedList.hasOwnProperty(speedType) ? parseInt(speedList[speedType]) : 0;
 
-        mon.speed = GetSpeed(preset.speed, "ходьба");
-        mon.burrowSpeed = GetSpeed(preset.speed, "риття");
-        mon.climbSpeed = GetSpeed(preset.speed, "лазіння");
-        mon.flySpeed = GetSpeed(preset.speed, "політ");
-        mon.swimSpeed = GetSpeed(preset.speed, "плавання");
-        mon.hover = preset.speed.hasOwnProperty("зависання");
+        mon.speed = GetSpeed(preset.speed, "walk");
+        mon.burrowSpeed = GetSpeed(preset.speed, "burrow");
+        mon.climbSpeed = GetSpeed(preset.speed, "climb");
+        mon.flySpeed = GetSpeed(preset.speed, "fly");
+        mon.swimSpeed = GetSpeed(preset.speed, "swim");
+        mon.hover = preset.speed.hasOwnProperty("hover");
 
         if (preset.speed.hasOwnProperty("notes")) {
             mon.customSpeed = true;
-            mon.speedDesc = preset.speed.walk + " ф. (" + preset.speed.notes + ")";
+            mon.speedDesc = preset.speed.walk + " ft. (" + preset.speed.notes + ")";
         } else {
             mon.customSpeed = false;
             mon.speedDesc = StringFunctions.GetSpeed();
@@ -1248,17 +1248,17 @@ var GetVariablesFunctions = {
         // Saving Throws
         mon.sthrows = [];
         if (preset.strength_save)
-            this.AddSthrow("сил");
+            this.AddSthrow("str");
         if (preset.dexterity_save)
-            this.AddSthrow("спр");
+            this.AddSthrow("dex");
         if (preset.constitution_save)
-            this.AddSthrow("ста");
+            this.AddSthrow("con");
         if (preset.intelligence_save)
-            this.AddSthrow("інт");
+            this.AddSthrow("int");
         if (preset.wisdom_save)
-            this.AddSthrow("мдр");
+            this.AddSthrow("wis");
         if (preset.charisma_save)
-            this.AddSthrow("хар");
+            this.AddSthrow("cha");
 
         // Skills
         mon.skills = [];
@@ -1545,9 +1545,9 @@ var GetVariablesFunctions = {
         if (arrName == "abilities" && abilityName.toLowerCase().includes("spellcasting") && abilityDesc.includes("\n")) {
             abilityDesc = abilityDesc.split("\u2022").join(""), // Remove bullet points
                 spellcastingAbility =
-                abilityDesc.toLowerCase().includes("intelligence") ? "ІНТ" :
-                    abilityDesc.toLowerCase().includes("wisdom") ? "МУД" :
-                        abilityDesc.toLowerCase().includes("charisma") ? "ХАР" : null;
+                abilityDesc.toLowerCase().includes("intelligence") ? "INT" :
+                    abilityDesc.toLowerCase().includes("wisdom") ? "WIS" :
+                        abilityDesc.toLowerCase().includes("charisma") ? "CHA" : null;
 
             if (spellcastingAbility != null) {
                 abilityDesc = abilityDesc
@@ -1697,11 +1697,11 @@ var StringFunctions = {
         if (mon.truesight > 0) sensesDisplayArr.push("truesight " + mon.truesight + " ft.");
 
         // Passive Perception
-        let ppData = ArrayFunctions.FindInList(mon.skills, "Сприйняття"),
+        let ppData = ArrayFunctions.FindInList(mon.skills, "Perception"),
             pp = 10 + MathFunctions.PointsToBonus(mon.wisPoints);
         if (ppData != null)
             pp += CrFunctions.GetProf() * (ppData.hasOwnProperty("note") ? 2 : 1);
-        sensesDisplayArr.push("пасивне Сприйняття " + pp);
+        sensesDisplayArr.push("passive Perception " + pp);
         return sensesDisplayArr.join(", ");
     },
 
@@ -1796,14 +1796,14 @@ var StringFunctions = {
                 "arr": arr
             })
         };
-        pushArr("Рятівні кидки", sthrowsDisplayArr);
-        pushArr("Навички", skillsDisplayArr);
-        pushArr("Вразливість до ушкоджень", vulnerableDisplayString);
-        pushArr("Стійкість до ушкоджень", resistantDisplayString);
-        pushArr("Імунітет до ушкоджень", immuneDisplayString);
-        pushArr("Імунітет до станів", conditionsDisplayArr);
-        pushArr("Чуття", sensesDisplayString);
-        pushArr("Мови", languageDisplayArr);
+        pushArr("Saving Throws", sthrowsDisplayArr);
+        pushArr("Skills", skillsDisplayArr);
+        pushArr("Damage Vulnerabilities", vulnerableDisplayString);
+        pushArr("Damage Resistances", resistantDisplayString);
+        pushArr("Damage Immunities", immuneDisplayString);
+        pushArr("Condition Immunities", conditionsDisplayArr);
+        pushArr("Senses", sensesDisplayString);
+        pushArr("Languages", languageDisplayArr);
 
         return propertiesDisplayArr;
     },
