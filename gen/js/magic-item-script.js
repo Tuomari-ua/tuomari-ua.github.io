@@ -47,12 +47,12 @@ function GenerateHomebrew() {
 function GetItemType() {
     let type = RandomFromArray(itemTypes);
     if (type == "armor")
-        return "<b>Armor (" + RandomFromArray(armorTypes) + ")</b>";
+        return "<b>Броня (" + RandomFromArray(armorTypes) + ")</b>";
     if (type == "weapon")
-        return "<b>Weapon (" + RandomFromArray(weaponTypes) + ")</b>";
+        return "<b>Зброя (" + RandomFromArray(weaponTypes) + ")</b>";
     if (type == "other")
         return "<b>" + RandomFromArray(otherTypes) + "</b>";
-    return "<b>Wondrous Item</b>";
+    return "<b>Дивовижний предмет</b>";
 }
 
 function GetSecondProperty(table, firstprop) {
