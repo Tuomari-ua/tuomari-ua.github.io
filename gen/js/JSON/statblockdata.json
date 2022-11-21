@@ -107,7 +107,7 @@
 			"stat": "мдр"
 		}
 	],
-	"allNormalDamageTypes": [
+	"allNormalушкодженьTypes": [
 		"кислота",
 		"дробильні",
 		"холод",
@@ -403,9 +403,9 @@
 		"wisdom_save": null,
 		"charisma_save": null,
 		"skills": {},
-		"damage_vulnerabilities": "",
-		"damage_resistances": "",
-		"damage_immunities": "",
+		"ушкоджень_vulnerabilities": "",
+		"ушкоджень_resistances": "",
+		"ушкоджень_immunities": "",
 		"condition_immunities": "",
 		"senses": "пасивне Сприйняття 10",
 		"languages": "",
@@ -441,62 +441,62 @@
 		{
 			"name": "Атака зброєю ближнього бою (STR)",
 			"realname": "",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Атака зброєю ближнього бою (DEX)",
 			"realname": "",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Атака чарами ближнього бою (INT)",
 			"realname": "",
-			"desc": "_Атака чарами ближнього бою:_ [INT ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [INT ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Атака чарами ближнього бою (WIS)",
 			"realname": "",
-			"desc": "_Атака чарами ближнього бою:_ [WIS ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [WIS ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Атака чарами ближнього бою (CHA)",
 			"realname": "",
-			"desc": "_Атака чарами ближнього бою:_ [CHA ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [CHA ATK] до влучання, досяжність ??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Далекобійна атака зброєю (STR)",
 			"realname": "",
-			"desc": "_Далекобійна атака зброєю:_ [STR ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? damage."
+			"desc": "_Далекобійна атака зброєю:_ [STR ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Далекобійна атака зброєю (DEX)",
 			"realname": "",
-			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? damage."
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Далекобійна атака чарами (INT)",
 			"realname": "",
-			"desc": "_Далекобійна атака чарами:_ [INT ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [INT ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [INT ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Далекобійна атака чарами (WIS)",
 			"realname": "",
-			"desc": "_Далекобійна атака чарами:_ [WIS ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [WIS ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Далекобійна атака чарами (CHA)",
 			"realname": "",
-			"desc": "_Далекобійна атака чарами:_ [CHA ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [CHA ATK] до влучання, range ???/??? ф.,одна ціль. _Влучання:_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee or Далекобійна атака зброєю (STR)",
+			"name": "Атака зброєю ближнього бою або далекобійна (STR)",
 			"realname": "",
-			"desc": "_Melee or Далекобійна атака зброєю:_ [STR ATK] до влучання, досяжність ??? ft. or range ???/??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність ??? ft. або відстань ???/??? ф.,одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee or Далекобійна атака зброєю (DEX)",
+			"name": "Атака зброєю ближнього бою або далекобійна (DEX)",
 			"realname": "",
-			"desc": "_Melee or Далекобійна атака зброєю:_ [DEX ATK] до влучання, досяжність ??? ft. or range ???/??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [DEX ATK] до влучання, досяжність ??? ft. or range ???/??? ф.,одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "",
@@ -504,43 +504,43 @@
 		},
 		{
 			"name": "Мультикатака (Дія)",
-			"realname": "Multiattack",
-			"desc": "The [MON] makes two attacks."
+			"realname": "Мультиатака",
+			"desc": "[MON] здійснює дві атаки."
 		},
 		{
 			"name": "Легендарна стійкість",
-			"realname": "Legendary Resistance (3/day)",
-			"desc": "If the [MON] fails a saving throw, it can choose to succeed instead."
+			"realname": "Легендарна стійкість (3/день)",
+			"desc": "Якщо [MON] провалює рятівний кидок, то може натомість вибрати успіх."
 		},
 		{
 			"name": "Чарування (ІНТ)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"realname": "Чарування",
+			"desc": "[MON] є чаротворцем ??? рівня. Для чарування використовується Інтелект (КС рятунку від чарів [INT SAVE], [INT ATK] до влучання чарами). [MON] має наступні підготовлені чари: \n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
 			"name": "Чарування (МДР)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"realname": "Чарування",
+			"desc": "[MON]  є чаротворцем ??? рівня. Для чарування використовується Мудрість (КС рятунку від чарів [WIS SAVE], [WIS ATK] до влучання чарами). The [MON] has the following ??? spells prepared:\n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
 			"name": "Чарування (ХАР)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"realname": "Чарування",
+			"desc": "[MON]  є чаротворцем ??? рівня. Для чарування використовується Харзима (КС рятунку від чарів DC [CHA SAVE], [CHA ATK] до влучання чарами). The [MON] has the following ??? spells prepared:\n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
 		},
 		{
 			"name": "Вроджене чарування (ІНТ)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"realname": "Вроджене чарування",
+			"desc": "Вродженою чаротворчою здібністю [MON] є Інтелект (КС рятунку від чарів [INT SAVE], [INT ATK] до влучання чарами). It can innately cast the following spells, requiring no material components:\n\n> За бажанням: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
 		{
 			"name": "Вроджене чарування (МДР)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"realname": "Вроджене чарування",
+			"desc": "Вродженою чаротворчою здібністю [MON] є Мудрість (КС рятунку від чарів [WIS SAVE], [WIS ATK] до влучання чарами). It can innately cast the following spells, requiring no material components:\n\n> За бажаннямl: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
 		{
 			"name": "Вроджене чарування (ХАР)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"realname": "Вроджене чарування",
+			"desc": "Вродженою чаротворчою здібністю [MON] є Харизма (КС рятунку від чарів [CHA SAVE], [CHA ATK] до влучання чарами). It can innately cast the following spells, requiring no material components:\n\n> За бажанням: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
 		},
 		{
 			"name": "",
@@ -564,7 +564,7 @@
 		},
 		{
 			"name": "Angelic Weapons",
-			"desc": "The [MON]'s weapon attacks are magical. When the [MON] hits with any weapon, the weapon deals an extra [???D???] radiant damage (included in the attack)."
+			"desc": "The [MON]'s weapon attacks are magical. When the [MON] hits with any weapon, the weapon deals an extra [???D???] radiant ушкоджень (included in the attack)."
 		},
 		{
 			"name": "Animal Telepathy",
@@ -585,9 +585,9 @@
 			"desc": "The [MON] makes a ??? attack."
 		},
 		{
-			"name": "Aversion to Damage",
+			"name": "Aversion to ушкоджень",
 			"realname": "Aversion to ???",
-			"desc": "If the [MON] takes ??? damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+			"desc": "If the [MON] takes ??? ушкоджень, it has disadvantage on attack rolls and ability checks until the end of its next turn."
 		},
 		{
 			"name": "Beast of Burden",
@@ -612,16 +612,16 @@
 		{
 			"name": "Breath Weapon (Cone, Action)",
 			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot cone. Each creature in that area must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"desc": "The [MON] exhales ??? in a ???-foot cone. Each creature in that area must make a DC ??? Dexterity saving throw, taking [???D???] ??? ушкоджень on a failed save, or half as much ушкоджень on a successful one."
 		},
 		{
 			"name": "Breath Weapon (Line, Action)",
 			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot line that is ??? feet wide. Each creature in that line must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"desc": "The [MON] exhales ??? in a ???-foot line that is ??? feet wide. Each creature in that line must make a DC ??? Dexterity saving throw, taking [???D???] ??? ушкоджень on a failed save, or half as much ушкоджень on a successful one."
 		},
 		{
 			"name": "Brute",
-			"desc": "A melee weapon deals one extra die of its damage when the [MON] hits with it (included in the attack)."
+			"desc": "A melee weapon deals one extra die of its ушкоджень when the [MON] hits with it (included in the attack)."
 		},
 		{
 			"name": "Camouflage",
@@ -640,12 +640,12 @@
 		},
 		{
 			"name": "Charge",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone."
+			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? ушкоджень. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone."
 		},
 		{
 			"name": "Confer Resistance",
 			"realname": "Confer ??? Resistance",
-			"desc": "The [MON] can grant resistance to ??? damage to anyone riding it."
+			"desc": "The [MON] can grant resistance to ??? ушкоджень to anyone riding it."
 		},
 		{
 			"name": "Constrict (Action)",
@@ -654,20 +654,20 @@
 		},
 		{
 			"name": "Corrode Metal",
-			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing damage.\nThe [MON] can eat through 2-inch-thick, nonmagical metal in 1 round."
+			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing ушкоджень, the weapon takes a permanent and cumulative -1 penalty to ушкоджень rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing ушкоджень.\nThe [MON] can eat through 2-inch-thick, nonmagical metal in 1 round."
 		},
 		{
 			"name": "Cunning Action",
 			"desc": "On each of its turns, the [MON] can use a bonus action to take the Dash, Disengage, or Hide action."
 		},
 		{
-			"name": "Damage Absorption",
+			"name": "ушкоджень Absorption",
 			"realname": "??? Absorption",
-			"desc": "Whenever the [MON] is subjected to ??? damage, it takes no damage and instead regains a number of hit points equal to the ??? damage dealt."
+			"desc": "Whenever the [MON] is subjected to ??? ушкоджень, it takes no ушкоджень and instead regains a number of hit points equal to the ??? ушкоджень dealt."
 		},
 		{
-			"name": "Damage Transfer",
-			"desc": "While it is grappling a creature, the [MON] takes only half the damage dealt to it, and the creature grappled by the [MON] takes the other half."
+			"name": "ушкоджень Transfer",
+			"desc": "While it is grappling a creature, the [MON] takes only half the ушкоджень dealt to it, and the creature grappled by the [MON] takes the other half."
 		},
 		{
 			"name": "Dark Devotion",
@@ -675,7 +675,7 @@
 		},
 		{
 			"name": "Death Burst",
-			"desc": "When the [MON] dies, it explodes in a burst of ???. Each creature within ??? ft. of it must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"desc": "When the [MON] dies, it explodes in a burst of ???. Each creature within ??? ft. of it must make a DC ??? Dexterity saving throw, taking [???D???] ??? ушкоджень on a failed save, or half as much ушкоджень on a successful one."
 		},
 		{
 			"name": "Detect (Legendary Action)",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Divine Eminence",
-			"desc": "As a bonus action, the [MON] can expend a spell slot to cause its Атака зброєю ближнього боюs to magically deal an extra [???D???] radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the [MON] expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+			"desc": "As a bonus action, the [MON] can expend a spell slot to cause its Атака зброєю ближнього боюs to magically deal an extra [???D???] radiant ушкоджень to a target on a hit. This benefit lasts until the end of the turn. If the [MON] expends a spell slot of 2nd level or higher, the extra ушкоджень increases by 1d6 for each level above 1st."
 		},
 		{
 			"name": "Duergar Resilience",
@@ -738,7 +738,7 @@
 		},
 		{
 			"name": "Evasion",
-			"desc": "If the [MON] is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the [MON] instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+			"desc": "If the [MON] is subjected to an effect that allows it to make a Dexterity saving throw to take only half ушкоджень, the [MON] instead takes no ушкоджень if it succeeds on the saving throw, and only half ушкоджень if it fails."
 		},
 		{
 			"name": "False Appearance",
@@ -784,15 +784,15 @@
 		},
 		{
 			"name": "Heated Body",
-			"desc": "A creature that touches the [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] fire damage."
+			"desc": "A creature that touches the [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] fire ушкоджень."
 		},
 		{
 			"name": "Heated Weapons",
-			"desc": "Any metal melee weapon the [MON] wields deals an extra [???D???] fire damage on a hit (included in the attack)."
+			"desc": "Any metal melee weapon the [MON] wields deals an extra [???D???] fire ушкоджень on a hit (included in the attack)."
 		},
 		{
 			"name": "Hellish Weapons",
-			"desc": "The [MON]'s weapon attacks are magical and deal an extra [???D???] poison damage on a hit (included in the attacks)."
+			"desc": "The [MON]'s weapon attacks are magical and deal an extra [???D???] poison ушкоджень on a hit (included in the attacks)."
 		},
 		{
 			"name": "Hold Breath",
@@ -817,7 +817,7 @@
 		},
 		{
 			"name": "Incorporeal",
-			"desc": "The [MON] can move through other creatures and objects as if they were difficult terrain. It takes [???D???] force damage if it ends its turn inside an object."
+			"desc": "The [MON] can move through other creatures and objects as if they were difficult terrain. It takes [???D???] force ушкоджень if it ends its turn inside an object."
 		},
 		{
 			"name": "Innate Spellcasting (Single Spell)",
@@ -874,7 +874,7 @@
 		{
 			"name": "Life Drain (Action)",
 			"realname": "Life Drain",
-			"desc": "_Атака чарами ближнього бою:_ +??? до влучання, досяжність ??? ф.,  one creature. _Влучання:_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+			"desc": "_Атака чарами ближнього бою:_ +??? до влучання, досяжність ??? ф.,  one creature. _Влучання:_ [???D??? + ???] necrotic ушкоджень. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the ушкоджень taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
 		},
 		{
 			"name": "Limited Amphibiousness",
@@ -902,7 +902,7 @@
 		},
 		{
 			"name": "Martial Advantage",
-			"desc": "Once per turn, the [MON] can deal an extra [???D???] damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the [MON] that isn't incapacitated."
+			"desc": "Once per turn, the [MON] can deal an extra [???D???] ушкоджень to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the [MON] that isn't incapacitated."
 		},
 		{
 			"name": "Mimicry",
@@ -931,7 +931,7 @@
 		},
 		{
 			"name": "Pounce",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
+			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? ушкоджень. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
 		},
 		{
 			"name": "Rampage",
@@ -957,20 +957,20 @@
 		{
 			"name": "Regeneration (Troll)",
 			"realname": "Regeneration",
-			"desc": "The [MON] regains ??? hit points at the start of its turn. If the [MON] takes acid or fire damage, this trait doesn't function at the start of the [MON]'s next turn. The [MON] dies only if it starts its turn with 0 hit points and doesn't regenerate."
+			"desc": "The [MON] regains ??? hit points at the start of its turn. If the [MON] takes acid or fire ушкоджень, this trait doesn't function at the start of the [MON]'s next turn. The [MON] dies only if it starts its turn with 0 hit points and doesn't regenerate."
 		},
 		{
 			"name": "Relentless",
 			"realname": "Relentless (Recharges after a Short or Long Rest)",
-			"desc": "If the [MON] takes ??? damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+			"desc": "If the [MON] takes ??? ушкоджень or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
 		},
 		{
 			"name": "Rust Metal",
-			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing damage."
+			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing ушкоджень, the weapon takes a permanent and cumulative -1 penalty to ушкоджень rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing ушкоджень."
 		},
 		{
 			"name": "Savage Attacks",
-			"desc": "When the [MON] scores a critical hit with a Атака зброєю ближнього бою, it can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+			"desc": "When the [MON] scores a critical hit with a Атака зброєю ближнього бою, it can roll one of the weapon’s ушкоджень dice one additional time and add it to the extra ушкоджень of the critical hit."
 		},
 		{
 			"name": "Sense Magic",
@@ -995,12 +995,12 @@
 		},
 		{
 			"name": "Siege Monster",
-			"desc": "The [MON] deals double damage to objects and structures."
+			"desc": "The [MON] deals double ушкоджень to objects and structures."
 		},
 		{
 			"name": "Sneak Attack",
 			"realname": "Sneak Attack (1/Turn)",
-			"desc": "The [MON] deals an extra [???D???] damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the [MON] that isn't incapacitated and the [MON] doesn't have disadvantage on the attack roll."
+			"desc": "The [MON] deals an extra [???D???] ушкоджень when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the [MON] that isn't incapacitated and the [MON] doesn't have disadvantage on the attack roll."
 		},
 		{
 			"name": "Speak With Plants and Beasts",
@@ -1033,7 +1033,7 @@
 		},
 		{
 			"name": "Surprise Attack",
-			"desc": "If the [MON] surprises a creature and hits it with an attack during the first round of combat, the target takes an extra [???D???] damage from the attack."
+			"desc": "If the [MON] surprises a creature and hits it with an attack during the first round of combat, the target takes an extra [???D???] ушкоджень from the attack."
 		},
 		{
 			"name": "Swarm",
@@ -1046,7 +1046,7 @@
 		},
 		{
 			"name": "Trampling Charge",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
+			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? ушкоджень. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
 		},
 		{
 			"name": "Tunneler",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "Undead Fortitude",
-			"desc": "If damage reduces the [MON] to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the [MON] drops to 1 hit point instead."
+			"desc": "If ушкоджень reduces the [MON] to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the ушкоджень taken, unless the ушкоджень is radiant or from a critical hit. On a success, the [MON] drops to 1 hit point instead."
 		},
 		{
 			"name": "Water Breathing",
