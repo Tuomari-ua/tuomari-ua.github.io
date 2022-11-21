@@ -612,12 +612,12 @@ var FormFunctions = {
         this.ShowHideCustomSpeed();
 
         // Stats
-        this.SetStatForm("str", mon.strPoints);
-        this.SetStatForm("dex", mon.dexPoints);
-        this.SetStatForm("con", mon.conPoints);
-        this.SetStatForm("int", mon.intPoints);
-        this.SetStatForm("wis", mon.wisPoints);
-        this.SetStatForm("cha", mon.chaPoints);
+        this.SetStatForm("сил", mon.strPoints);
+        this.SetStatForm("спр", mon.dexPoints);
+        this.SetStatForm("ста", mon.conPoints);
+        this.SetStatForm("інт", mon.intPoints);
+        this.SetStatForm("муд", mon.wisPoints);
+        this.SetStatForm("хар", mon.chaPoints);
 
         // Senses
         $("#blindsight-input").val(mon.blindsight);
@@ -1230,16 +1230,16 @@ var GetVariablesFunctions = {
         // Speeds
         let GetSpeed = (speedList, speedType) => speedList.hasOwnProperty(speedType) ? parseInt(speedList[speedType]) : 0;
 
-        mon.speed = GetSpeed(preset.speed, "walk");
-        mon.burrowSpeed = GetSpeed(preset.speed, "burrow");
-        mon.climbSpeed = GetSpeed(preset.speed, "climb");
-        mon.flySpeed = GetSpeed(preset.speed, "fly");
-        mon.swimSpeed = GetSpeed(preset.speed, "swim");
-        mon.hover = preset.speed.hasOwnProperty("hover");
+        mon.speed = GetSpeed(preset.speed, "ходьба");
+        mon.burrowSpeed = GetSpeed(preset.speed, "риття");
+        mon.climbSpeed = GetSpeed(preset.speed, "лазіння");
+        mon.flySpeed = GetSpeed(preset.speed, "політ");
+        mon.swimSpeed = GetSpeed(preset.speed, "плавання");
+        mon.hover = preset.speed.hasOwnProperty("зависання");
 
         if (preset.speed.hasOwnProperty("notes")) {
             mon.customSpeed = true;
-            mon.speedDesc = preset.speed.walk + " ft. (" + preset.speed.notes + ")";
+            mon.speedDesc = preset.speed.walk + " ф. (" + preset.speed.notes + ")";
         } else {
             mon.customSpeed = false;
             mon.speedDesc = StringFunctions.GetSpeed();
@@ -1545,9 +1545,9 @@ var GetVariablesFunctions = {
         if (arrName == "abilities" && abilityName.toLowerCase().includes("spellcasting") && abilityDesc.includes("\n")) {
             abilityDesc = abilityDesc.split("\u2022").join(""), // Remove bullet points
                 spellcastingAbility =
-                abilityDesc.toLowerCase().includes("intelligence") ? "INT" :
-                    abilityDesc.toLowerCase().includes("wisdom") ? "WIS" :
-                        abilityDesc.toLowerCase().includes("charisma") ? "CHA" : null;
+                abilityDesc.toLowerCase().includes("intelligence") ? "ІНТ" :
+                    abilityDesc.toLowerCase().includes("wisdom") ? "МУД" :
+                        abilityDesc.toLowerCase().includes("charisma") ? "ХАР" : null;
 
             if (spellcastingAbility != null) {
                 abilityDesc = abilityDesc
