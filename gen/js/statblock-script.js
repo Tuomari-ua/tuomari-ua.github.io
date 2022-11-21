@@ -1,16 +1,16 @@
 var data;
 
 var mon = {
-    name: "Монстр",
-    size: "середній",
-    type: "гуманоїд",
+    name: "Monster",
+    size: "medium",
+    type: "humanoid",
     tag: "",
-    alignment: "будь-який світогляд",
+    alignment: "any alignment",
     hitDice: 5,
     armorName: "none",
     shieldBonus: 0,
     natArmorBonus: 3,
-    otherArmorDesc: "10 (броня)",
+    otherArmorDesc: "10 (armor)",
     speed: 30,
     burrowSpeed: 0,
     climbSpeed: 0,
@@ -20,7 +20,7 @@ var mon = {
     customHP: false,
     customSpeed: false,
     hpText: "4 (1d8)",
-    speedDesc: "30 ф.",
+    speedDesc: "30 ft.",
     strPoints: 10,
     dexPoints: 10,
     conPoints: 10,
@@ -441,9 +441,9 @@ function BuildMarkdown(isV3Markdown) {
         `## ${mon.name}`,
         `*${StringFunctions.StringCapitalize(mon.size)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
         `___`,
-        PrintMarkdownProperty(isV3Markdown, "Клас захисту", StringFunctions.FormatString(StringFunctions.GetArmorData())),
-        PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()), 
-        PrintMarkdownProperty(isV3Markdown, "Швидкість", StringFunctions.GetSpeed()),
+        PrintMarkdownProperty(isV3Markdown, "Armor Class", StringFunctions.FormatString(StringFunctions.GetArmorData())),
+        PrintMarkdownProperty(isV3Markdown, "Hit Points", StringFunctions.GetHP()), 
+        PrintMarkdownProperty(isV3Markdown, "Speed", StringFunctions.GetSpeed()),
         `___`);
     AddMarkdownAttributesTable(markdownLines);
     markdownLines.push("___");
@@ -458,19 +458,19 @@ function BuildMarkdown(isV3Markdown) {
     }
 
     markdownLines.push(
-        PrintMarkdownProperty(isV3Markdown, "Небезпека", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} XP)`),
+        PrintMarkdownProperty(isV3Markdown, "Challenge", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} XP)`),
         "___");
 
     AddMarkdownTraitSection(markdownLines, isV3Markdown, null, mon.abilities);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Дії", mon.actions);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Бонусні дії", mon.bonusActions);
-    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Реакції", mon.reactions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Actions", mon.actions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Bonus Actions", mon.bonusActions);
+    AddMarkdownTraitSection(markdownLines, isV3Markdown, "Reactions", mon.reactions);
 
     if (mon.isLegendary) {
-        AddMarkdownTraitSection(markdownLines, isV3Markdown, "Легендарні дії", mon.legendaries, mon.legendariesDescription, null, LEGENDARY);
-        if (mon.isMythic) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Мітичні дії", mon.mythics, mon.mythicDescription, null, MYTHIC);
-        if (mon.isLair) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Дії лігва", mon.lairs, mon.lairDescription, mon.lairDescriptionEnd, LAIR);
-        if (mon.isRegional) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Ефекти місцевості", mon.regionals, mon.regionalDescription, mon.regionalDescriptionEnd, REGIONAL);
+        AddMarkdownTraitSection(markdownLines, isV3Markdown, "Legendary Actions", mon.legendaries, mon.legendariesDescription, null, LEGENDARY);
+        if (mon.isMythic) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Mythic Actions", mon.mythics, mon.mythicDescription, null, MYTHIC);
+        if (mon.isLair) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Lair Actions", mon.lairs, mon.lairDescription, mon.lairDescriptionEnd, LAIR);
+        if (mon.isRegional) AddMarkdownTraitSection(markdownLines, isV3Markdown, "Regional Effects", mon.regionals, mon.regionalDescription, mon.regionalDescriptionEnd, REGIONAL);
     }
 
     if (isV3Markdown) {
@@ -1207,12 +1207,12 @@ var GetVariablesFunctions = {
             mon.armorName = (armorAcData == MathFunctions.GetAC("none") ? "none" : "other");
 
         // In case it's an unknown armor type
-        if (mon.armorName == "інше") {
+        if (mon.armorName == "other") {
             if (armorDescData)
                 mon.otherArmorDesc = armorDescData[0].includes("(") ? armorDescData :
                     armorAcData + " (" + armorDescData + ")";
             else
-                mon.otherArmorDesc = armorAcData + " (невідомий тип броні)";
+                mon.otherArmorDesc = armorAcData + " (unknown armor type)";
 
             // Set the nat armor bonus for convenience- often the AC is for natural armor, but doesn't have it in the armor description
             let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("none");
@@ -1231,11 +1231,11 @@ var GetVariablesFunctions = {
         let GetSpeed = (speedList, speedType) => speedList.hasOwnProperty(speedType) ? parseInt(speedList[speedType]) : 0;
 
         mon.speed = GetSpeed(preset.speed, "walk");
-        mon.burrowSpeed = GetSpeed(preset.speed, "риття");
-        mon.climbSpeed = GetSpeed(preset.speed, "лазіння");
-        mon.flySpeed = GetSpeed(preset.speed, "політ");
-        mon.swimSpeed = GetSpeed(preset.speed, "плавання");
-        mon.hover = preset.speed.hasOwnProperty("зависання");
+        mon.burrowSpeed = GetSpeed(preset.speed, "burrow");
+        mon.climbSpeed = GetSpeed(preset.speed, "climb");
+        mon.flySpeed = GetSpeed(preset.speed, "fly");
+        mon.swimSpeed = GetSpeed(preset.speed, "swim");
+        mon.hover = preset.speed.hasOwnProperty("hover");
 
         if (preset.speed.hasOwnProperty("notes")) {
             mon.customSpeed = true;
@@ -1248,17 +1248,17 @@ var GetVariablesFunctions = {
         // Saving Throws
         mon.sthrows = [];
         if (preset.strength_save)
-            this.AddSthrow("сил");
+            this.AddSthrow("str");
         if (preset.dexterity_save)
-            this.AddSthrow("спр");
+            this.AddSthrow("dex");
         if (preset.constitution_save)
-            this.AddSthrow("ста");
+            this.AddSthrow("con");
         if (preset.intelligence_save)
-            this.AddSthrow("інт");
+            this.AddSthrow("int");
         if (preset.wisdom_save)
-            this.AddSthrow("мдр");
+            this.AddSthrow("wis");
         if (preset.charisma_save)
-            this.AddSthrow("хар");
+            this.AddSthrow("cha");
 
         // Skills
         mon.skills = [];
@@ -1291,11 +1291,11 @@ var GetVariablesFunctions = {
         mon.languages = [];
         mon.telepathy = 0;
         mon.understandsBut = "";
-        if (preset.languages.includes("розуміє")) {
-            let speaksUnderstandsArr = preset.languages.split("розуміє"),
+        if (preset.languages.includes("understands")) {
+            let speaksUnderstandsArr = preset.languages.split("understands"),
                 speaks = speaksUnderstandsArr[0].length > 0 ? speaksUnderstandsArr[0].trim().split(",") : [],
-                understands = speaksUnderstandsArr[1].split(" але "),
-                understandsLangs = understands[0].replace(", і ", ",").replace(" і ", ",").split(","),
+                understands = speaksUnderstandsArr[1].split(" but "),
+                understandsLangs = understands[0].replace(", and ", ",").replace(" and ", ",").split(","),
                 understandsBut = understands.length > 1 ? understands[1].trim() : "";
 
             for (let index = 0; index < speaks.length; index++)
@@ -1303,7 +1303,7 @@ var GetVariablesFunctions = {
             for (let index = 0; index < understandsLangs.length; index++)
                 this.AddLanguage(understandsLangs[index], false);
 
-            if (understandsBut.toLowerCase().includes("телепатія")) {
+            if (understandsBut.toLowerCase().includes("telepathy")) {
                 mon.telepathy = parseInt(understandsBut.replace(/\D/g, ''));
                 understandsBut = understandsBut.substr(0, understandsBut.lastIndexOf(","));
             }
@@ -1313,7 +1313,7 @@ var GetVariablesFunctions = {
             let languagesPresetArr = preset.languages.split(",");
             for (let index = 0; index < languagesPresetArr.length; index++) {
                 let languageName = languagesPresetArr[index].trim();
-                languageName.toLowerCase().includes("телепатія") ?
+                languageName.toLowerCase().includes("telepathy") ?
                     mon.telepathy = parseInt(languageName.replace(/\D/g, '')) :
                     this.AddLanguage(languageName, true);
             }
@@ -1331,17 +1331,17 @@ var GetVariablesFunctions = {
                 senseName = senseString.split(" ")[0],
                 senseDist = StringFunctions.GetNumbersOnly(senseString);
             switch (senseName) {
-                case "сліпий зір":
+                case "blindsight":
                     mon.blindsight = senseDist;
-                    mon.blind = senseString.toLowerCase().includes("сліпий за межами");
+                    mon.blind = senseString.toLowerCase().includes("blind beyond");
                     break;
-                case "темний зір":
+                case "darkvision":
                     mon.darkvision = senseDist;
                     break;
-                case "чуття вібрацій":
+                case "tremorsense":
                     mon.tremorsense = senseDist;
                     break;
-                case "істинний зір":
+                case "truesight":
                     mon.truesight = senseDist;
                     break;
             }
@@ -1418,18 +1418,18 @@ var GetVariablesFunctions = {
                 }
             }
 
-        AbilityPresetLoop(abilitiesPresetArr, "здібності");
-        AbilityPresetLoop(actionsPresetArr, "дії");
-        AbilityPresetLoop(bonusActionsPresetArr, "бонусні дії");
-        AbilityPresetLoop(reactionsPresetArr, "реакції");
+        AbilityPresetLoop(abilitiesPresetArr, "abilities");
+        AbilityPresetLoop(actionsPresetArr, "actions");
+        AbilityPresetLoop(bonusActionsPresetArr, "bonusActions");
+        AbilityPresetLoop(reactionsPresetArr, "reactions");
         if (mon.isLegendary)
-            AbilityPresetLoop(legendariesPresetArr, "легендарні");
+            AbilityPresetLoop(legendariesPresetArr, "legendaries");
         if (mon.isMythic)
-            AbilityPresetLoop(mythicPresetArr, "мітичні");
+            AbilityPresetLoop(mythicPresetArr, "mythics");
         if (mon.isLair)
-            AbilityPresetLoop(lairsPresetArr, "лігва");
+            AbilityPresetLoop(lairsPresetArr, "lairs");
         if (mon.isRegional)
-            AbilityPresetLoop(regionalsPresetArr, "місцеві");
+            AbilityPresetLoop(regionalsPresetArr, "regionals");
 
         mon.separationPoint = undefined; // This will make the separation point be automatically calculated in UpdateStatblock
     },
@@ -1479,11 +1479,11 @@ var GetVariablesFunctions = {
                     return;
             }
         }
-        note = type == 'v' ? " (Vulnerable)" : type == 'i' ? " (Імунітет)" : " (Стійкість)";
+        note = type == 'v' ? " (Vulnerable)" : type == 'i' ? " (Immune)" : " (Resistant)";
         ArrayFunctions.ArrayInsert(mon[special ? "specialdamage" : "damagetypes"], {
-            "назва": damageName,
+            "name": damageName,
             "note": note,
-            "тип": type
+            "type": type
         }, true);
     },
 
@@ -1503,7 +1503,7 @@ var GetVariablesFunctions = {
 
     AddCondition: function (conditionName) {
         ArrayFunctions.ArrayInsert(mon.conditions, {
-            "назва": conditionName
+            "name": conditionName
         }, true);
     },
 
@@ -1518,8 +1518,8 @@ var GetVariablesFunctions = {
                 mon.languages = [];
         }
         ArrayFunctions.ArrayInsert(mon.languages, {
-            "навза": languageName.trim(),
-            "говорить": speaks
+            "name": languageName.trim(),
+            "speaks": speaks
         }, true);
     },
 
@@ -1529,7 +1529,7 @@ var GetVariablesFunctions = {
     AddAbility: function (arrName, abilityName, abilityDesc) {
         let arr = mon[arrName];
         ArrayFunctions.ArrayInsert(arr, {
-            "назва": abilityName.trim(),
+            "name": abilityName.trim(),
             "desc": abilityDesc.trim()
         }, false);
     },
@@ -1610,12 +1610,12 @@ var GetVariablesFunctions = {
 
     // Return the default legendary description
     LegendaryDescriptionDefault: function () {
-        mon.legendariesDescription = mon.name.toLowerCase() + " може зробити 3 легендарні дії, вибравши одну з можливостей, наведених нижче. За один раз можна використати тільки одну легендарну дію і тільки в кінці ходу іншої істоти." + mon.name.toLowerCase() + " Відновлює витрачені легендарні дії на початку свого ходу.";
+        mon.legendariesDescription = "The " + mon.name.toLowerCase() + " can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The " + mon.name.toLowerCase() + " regains spent legendary actions at the start of its turn.";
     },
 
     // Return the default mythic description
     MythicDescriptionDefault: function () {
-        mon.mythicDescription = "Якщо мітична здібність " + mon.name.toLowerCase() + "активна, він може використовувати наведені нижче можливості як легендарні дії упродовж 1 години після використання {Some Ability}.";
+        mon.mythicDescription = "If the " + mon.name.toLowerCase() + "'s mythic trait is active, it can use the options below as legendary actions for 1 hour after using {Some Ability}.";
     },
 
     // Return the default lair description
@@ -1635,7 +1635,7 @@ var GetVariablesFunctions = {
 
     // Return the default regional end description
     RegionalDescriptionEndDefault: function () {
-        mon.regionalDescriptionEnd = "Якщо " + mon.name.toLowerCase() + " гине, перші два ефекти зникають упродовж 3d10 днів.";
+        mon.regionalDescriptionEnd = "If the " + mon.name.toLowerCase() + " dies, the first two effects fade over the course of 3d10 days.";
     }
 }
 
@@ -1650,17 +1650,17 @@ var StringFunctions = {
             return mon.otherArmorDesc;
         if (mon.armorName == "mage armor") {
             let mageAC = MathFunctions.GetAC(mon.armorName);
-            return mageAC + " (" + (mon.shieldBonus > 0 ? "щит, " : "") + (mageAC + 3) + " with _mage armor_)";
+            return mageAC + " (" + (mon.shieldBonus > 0 ? "shield, " : "") + (mageAC + 3) + " with _mage armor_)";
         }
         if (mon.armorName == "none")
-            return MathFunctions.GetAC(mon.armorName) + (mon.shieldBonus > 0 ? " (щит)" : "");
+            return MathFunctions.GetAC(mon.armorName) + (mon.shieldBonus > 0 ? " (shield)" : "");
         return this.GetArmorString(mon.armorName, MathFunctions.GetAC(mon.armorName));
     },
 
     // Add a shield to the string if the monster has one
     GetArmorString: function (name, ac) {
         if (mon.shieldBonus > 0)
-            return ac + " (" + name + ", щит)";
+            return ac + " (" + name + ", shield)";
         return ac + " (" + name + ")"
     },
 
@@ -1682,26 +1682,26 @@ var StringFunctions = {
         if (mon.customSpeed)
             return mon.speedDesc;
         let speedsDisplayArr = [mon.speed + " ft."];
-        if (mon.burrowSpeed > 0) speedsDisplayArr.push("риття " + mon.burrowSpeed + " ф.");
-        if (mon.climbSpeed > 0) speedsDisplayArr.push("лазіння " + mon.climbSpeed + " fф");
-        if (mon.flySpeed > 0) speedsDisplayArr.push("політ " + mon.flySpeed + " ф." + (mon.hover ? " (зависання)" : ""));
-        if (mon.swimSpeed > 0) speedsDisplayArr.push("плавання " + mon.swimSpeed + " ф.");
+        if (mon.burrowSpeed > 0) speedsDisplayArr.push("burrow " + mon.burrowSpeed + " ft.");
+        if (mon.climbSpeed > 0) speedsDisplayArr.push("climb " + mon.climbSpeed + " ft.");
+        if (mon.flySpeed > 0) speedsDisplayArr.push("fly " + mon.flySpeed + " ft." + (mon.hover ? " (hover)" : ""));
+        if (mon.swimSpeed > 0) speedsDisplayArr.push("swim " + mon.swimSpeed + " ft.");
         return speedsDisplayArr.join(", ")
     },
 
     GetSenses: function () {
         let sensesDisplayArr = [];
-        if (mon.blindsight > 0) sensesDisplayArr.push("сліпий зір " + mon.blindsight + " ф." + (mon.blind ? " (сліпий за межами радіусу)" : ""));
-        if (mon.darkvision > 0) sensesDisplayArr.push("темний зір " + mon.darkvision + " ф.");
-        if (mon.tremorsense > 0) sensesDisplayArr.push("чуття вібрацій " + mon.tremorsense + " ф.");
-        if (mon.truesight > 0) sensesDisplayArr.push("Істинний зір " + mon.truesight + " ф.");
+        if (mon.blindsight > 0) sensesDisplayArr.push("blindsight " + mon.blindsight + " ft." + (mon.blind ? " (blind beyond this radius)" : ""));
+        if (mon.darkvision > 0) sensesDisplayArr.push("darkvision " + mon.darkvision + " ft.");
+        if (mon.tremorsense > 0) sensesDisplayArr.push("tremorsense " + mon.tremorsense + " ft.");
+        if (mon.truesight > 0) sensesDisplayArr.push("truesight " + mon.truesight + " ft.");
 
         // Passive Perception
-        let ppData = ArrayFunctions.FindInList(mon.skills, "Сприйняття"),
+        let ppData = ArrayFunctions.FindInList(mon.skills, "Perception"),
             pp = 10 + MathFunctions.PointsToBonus(mon.wisPoints);
         if (ppData != null)
             pp += CrFunctions.GetProf() * (ppData.hasOwnProperty("note") ? 2 : 1);
-        sensesDisplayArr.push("пасивне Сприйняття " + pp);
+        sensesDisplayArr.push("passive Perception " + pp);
         return sensesDisplayArr.join(", ");
     },
 
@@ -1770,22 +1770,22 @@ var StringFunctions = {
         if (understandsLanguages.length > 0) {
             if (understandsLanguages.length > 1) {
                 if (understandsLanguages.length > 2) {
-                    languageDisplayArr.push("розуміє " + understandsLanguages[0].name);
+                    languageDisplayArr.push("understands " + understandsLanguages[0].name);
                     for (let index = 1; index < understandsLanguages.length; index++)
                         languageDisplayArr.push(understandsLanguages[index].name);
-                    languageDisplayArr[languageDisplayArr.length - 1] = " і " + languageDisplayArr[languageDisplayArr.length - 1];
+                    languageDisplayArr[languageDisplayArr.length - 1] = " and " + languageDisplayArr[languageDisplayArr.length - 1];
                 }
                 else
-                    languageDisplayArr.push("розуміє " + understandsLanguages[0].name + " і " + understandsLanguages[1].name);
+                    languageDisplayArr.push("understands " + understandsLanguages[0].name + " and " + understandsLanguages[1].name);
             }
             else
-                languageDisplayArr.push("розуміє " + understandsLanguages[0].name);
+                languageDisplayArr.push("understands " + understandsLanguages[0].name);
             if (mon.understandsBut && mon.understandsBut.trim().length > 0)
-                languageDisplayArr[languageDisplayArr.length - 1] += " але " + mon.understandsBut.trim();
+                languageDisplayArr[languageDisplayArr.length - 1] += " but " + mon.understandsBut.trim();
         }
 
         if (mon.telepathy > 0)
-            languageDisplayArr.push("телепатія " + mon.telepathy + " ф.");
+            languageDisplayArr.push("telepathy " + mon.telepathy + " ft.");
         else if (languageDisplayArr.length == 0)
             languageDisplayArr.push("&mdash;");
 
@@ -1796,14 +1796,14 @@ var StringFunctions = {
                 "arr": arr
             })
         };
-        pushArr("Рятівні кидки", sthrowsDisplayArr);
-        pushArr("Навички", skillsDisplayArr);
-        pushArr("Вразливість до ушкоджень", vulnerableDisplayString);
-        pushArr("Стійкість до ушкоджень", resistantDisplayString);
-        pushArr("Імунітет до ушкоджень", immuneDisplayString);
-        pushArr("Імунітет до станів", conditionsDisplayArr);
-        pushArr("Чуття", sensesDisplayString);
-        pushArr("Мови", languageDisplayArr);
+        pushArr("Saving Throws", sthrowsDisplayArr);
+        pushArr("Skills", skillsDisplayArr);
+        pushArr("Damage Vulnerabilities", vulnerableDisplayString);
+        pushArr("Damage Resistances", resistantDisplayString);
+        pushArr("Damage Immunities", immuneDisplayString);
+        pushArr("Condition Immunities", conditionsDisplayArr);
+        pushArr("Senses", sensesDisplayString);
+        pushArr("Languages", languageDisplayArr);
 
         return propertiesDisplayArr;
     },
