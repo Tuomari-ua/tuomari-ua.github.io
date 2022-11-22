@@ -441,12 +441,12 @@
 		{
 			"name": "Melee Weapon Attack (STR)",
 			"realname": "",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach ??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach ??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
 		},
 		{
-			"name": "Melee Weapon Attack (DEX)",
+			"name": "Атака зброєю ближнього бою (DEX)",
 			"realname": "",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach ??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach ??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
 		},
 		{
 			"name": "Melee Spell Attack (INT)",
@@ -504,13 +504,13 @@
 		},
 		{
 			"name": "Multiattack (Action)",
-			"realname": "Multiattack",
-			"desc": "The [MON] makes two attacks."
+			"realname": "Мультиатака",
+			"desc": "[MON] здійснює дві атаки."
 		},
 		{
 			"name": "Legendary Resistance",
 			"realname": "Легендарна стійкість (3/день)",
-			"desc": "If the [MON] fails a saving throw, it can choose to succeed instead."
+			"desc": "Якщо [MON] робить невдалий рятівний кидок, то може натомість обрати успіх."
 		},
 		{
 			"name": "Spellcasting (INT)",
@@ -560,7 +560,7 @@
 		},
 		{
 			"name": "Amphibious",
-			"desc": "The [MON] can breathe air and water."
+			"desc": "[MON] може дихати у воді й повітрі."
 		},
 		{
 			"name": "Angelic Weapons",
@@ -568,8 +568,8 @@
 		},
 		{
 			"name": "Animal Telepathy",
-			"realname": "??? Telepathy",
-			"desc": "The [MON] can magically command any ??? within 120 feet of it, using a limited telepathy."
+			"realname": "??? телепатія",
+			"desc": "[MON] може магічним чином наказувати будь-яким ??? у межах 120 футів навколо себе, використовуючи обмежену телепатію."
 		},
 		{
 			"name": "Antimagic Susceptibility",
@@ -650,7 +650,7 @@
 		{
 			"name": "Constrict (Action)",
 			"realname": "Constrict",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one creature. _Hit:_ [STR ???D???] bludgeoning damage, and the target is grappled (escape DC ???). Until this grapple ends, the creature is restrained, and the [MON] can't constrict another target."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one creature. _Hit:_ [STR ???D???] bludgeoning damage, and the target is grappled (escape DC ???). Until this grapple ends, the creature is restrained, and the [MON] can't constrict another target."
 		},
 		{
 			"name": "Corrode Metal",
@@ -692,7 +692,7 @@
 		},
 		{
 			"name": "Divine Eminence",
-			"desc": "As a bonus action, the [MON] can expend a spell slot to cause its melee weapon attacks to magically deal an extra [???D???] radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the [MON] expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+			"desc": "As a bonus action, the [MON] can expend a spell slot to cause its Атака зброєю ближнього боюs to magically deal an extra [???D???] radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the [MON] expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
 		},
 		{
 			"name": "Duergar Resilience",
@@ -948,7 +948,7 @@
 		},
 		{
 			"name": "Reckless",
-			"desc": "At the start of its turn, the [MON] can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
+			"desc": "At the start of its turn, the [MON] can gain advantage on all Атака зброєю ближнього бою rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
 		},
 		{
 			"name": "Regeneration",
@@ -970,7 +970,7 @@
 		},
 		{
 			"name": "Savage Attacks",
-			"desc": "When the [MON] scores a critical hit with a melee weapon attack, it can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+			"desc": "When the [MON] scores a critical hit with a Атака зброєю ближнього бою, it can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
 		},
 		{
 			"name": "Sense Magic",
@@ -1087,7 +1087,7 @@
 		},
 		{
 			"name": "Battleaxe",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
 		},
 		{
 			"name": "Blowgun",
@@ -1095,7 +1095,7 @@
 		},
 		{
 			"name": "Club",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
 		},
 		{
 			"name": "Dagger (STR)",
@@ -1119,27 +1119,27 @@
 		},
 		{
 			"name": "Flail",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
 		},
 		{
 			"name": "Glaive",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
 		},
 		{
 			"name": "Greataxe",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D12] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D12] slashing damage."
 		},
 		{
 			"name": "Greatclub",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
 		},
 		{
 			"name": "Greatsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] slashing damage."
 		},
 		{
 			"name": "Halberd",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
 		},
 		{
 			"name": "Handaxe",
@@ -1159,7 +1159,7 @@
 		},
 		{
 			"name": "Lance",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D12] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D12] piercing damage."
 		},
 		{
 			"name": "Light Crossbow",
@@ -1175,19 +1175,19 @@
 		},
 		{
 			"name": "Longsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
 		},
 		{
 			"name": "Mace",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage."
 		},
 		{
 			"name": "Maul",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] bludgeoning damage."
 		},
 		{
 			"name": "Morningstar",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
 		},
 		{
 			"name": "Net",
@@ -1195,31 +1195,31 @@
 		},
 		{
 			"name": "Pike",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] piercing damage."
 		},
 		{
 			"name": "Quarterstaff",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage, or [STR 1D8] bludgeoning damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage, or [STR 1D8] bludgeoning damage if used with two hands."
 		},
 		{
 			"name": "Rapier (STR)",
 			"realname": "Rapier",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
 		},
 		{
 			"name": "Rapier (DEX)",
 			"realname": "Rapier",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
 		},
 		{
 			"name": "Scimitar (STR)",
 			"realname": "Scimitar",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] slashing damage."
 		},
 		{
 			"name": "Scimitar (DEX)",
 			"realname": "Scimitar",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] slashing damage."
 		},
 		{
 			"name": "Shortbow",
@@ -1228,16 +1228,16 @@
 		{
 			"name": "Shortsword (STR)",
 			"realname": "Shortsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] piercing damage."
 		},
 		{
 			"name": "Shortsword (DEX)",
 			"realname": "Shortsword",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
 		},
 		{
 			"name": "Sickle",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] slashing damage."
 		},
 		{
 			"name": "Sling",
@@ -1253,25 +1253,25 @@
 		},
 		{
 			"name": "Unarmed Strike",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1] bludgeoning damage."
 		},
 		{
 			"name": "Warhammer",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage, or [STR 1D10] bludgeoning damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage, or [STR 1D10] bludgeoning damage if used with two hands."
 		},
 		{
 			"name": "War Pick",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
 		},
 		{
 			"name": "Whip (STR)",
 			"realname": "Whip",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D4] slashing damage."
 		},
 		{
 			"name": "Whip (DEX)",
 			"realname": "Whip",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 10 ft., one target. _Hit:_ [DEX 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 10 ft., one target. _Hit:_ [DEX 1D4] slashing damage."
 		}
 	]
 }
