@@ -1078,7 +1078,7 @@
 		},
 		{
 			"name": "Wing Attack (Legendary Action)",
-			"realname": "Wing Attack (Costs 2 Actions)",
+			"realname": "Атака крилами (варта 2 дій)",
 			"desc": "The [MON] beats its wings. Each creature within ??? ft. of the [MON] must succeed on a DC ??? Dexterity saving throw or take [STR ???D???] bludgeoning damage and be knocked prone. The [MON] can then fly up to half its flying speed."
 		},
 		{
