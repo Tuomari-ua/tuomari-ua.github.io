@@ -108,10 +108,10 @@
 		}
 	],
 	"allNormalDamageTypes": [
-		"acid",
-		"bludgeoning",
-		"cold",
-		"fire",
+		"кислота",
+		"дробильні",
+		"холод",
+		"вогонь",
 		"force",
 		"lightning",
 		"necrotic",
