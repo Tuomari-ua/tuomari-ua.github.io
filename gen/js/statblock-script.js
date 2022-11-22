@@ -1610,32 +1610,32 @@ var GetVariablesFunctions = {
 
     // Return the default legendary description
     LegendaryDescriptionDefault: function () {
-        mon.legendariesDescription = "The " + mon.name.toLowerCase() + " can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The " + mon.name.toLowerCase() + " regains spent legendary actions at the start of its turn.";
+        mon.legendariesDescription = mon.name.toLowerCase() + " може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти." + mon.name.toLowerCase() + " відновлює використані легендарні дії на початку свого ходу.";
     },
 
     // Return the default mythic description
     MythicDescriptionDefault: function () {
-        mon.mythicDescription = "If the " + mon.name.toLowerCase() + "'s mythic trait is active, it can use the options below as legendary actions for 1 hour after using {Some Ability}.";
+        mon.mythicDescription = "Якщо мітичні дії" + mon.name.toLowerCase() + " активні, це надає можливість використовувати наведені нижче дії можливості як легендарні дії упродовж 1 години після використання {Some Ability}.";
     },
 
     // Return the default lair description
     LairDescriptionDefault: function () {
-        mon.lairDescription = "When fighting inside its lair, the " + mon.name.toLowerCase() + " can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the " + mon.name.toLowerCase() + " can take one lair action to cause one of the following effects:";
+        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toLowerCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
     },
 
     // Return the default lair end description
     LairDescriptionEndDefault: function () {
-        mon.lairDescriptionEnd = "The " + mon.name.toLowerCase() + " can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.";
+        mon.lairDescriptionEnd = mon.name.toLowerCase() + " не може повторити ефект, поки не використає всі доступні, і не може використовувати той самий ефект два раунди під ряд.";
     },
 
     // Return the default regional description
     RegionalDescriptionDefault: function () {
-        mon.regionalDescription = "The region containing the " + mon.name.toLowerCase() + "'s lair is warped by the creature's presence, which creates one or more of the following effects:";
+        mon.regionalDescription = "Місцевість, де " + mon.name.toLowerCase() + " влаштовує лігво, просочена присутністю істоти, що створює один або більше наступних ефектів:";
     },
 
     // Return the default regional end description
     RegionalDescriptionEndDefault: function () {
-        mon.regionalDescriptionEnd = "If the " + mon.name.toLowerCase() + " dies, the first two effects fade over the course of 3d10 days.";
+        mon.regionalDescriptionEnd = "Якщо " + mon.name.toLowerCase() + " вмирає, перші два ефекти розвіюються упровдож 3к10 днів.";
     }
 }
 
