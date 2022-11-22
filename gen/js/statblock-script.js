@@ -1796,14 +1796,14 @@ var StringFunctions = {
                 "arr": arr
             })
         };
-        pushArr("Saving Throws", sthrowsDisplayArr);
-        pushArr("Skills", skillsDisplayArr);
-        pushArr("Damage Vulnerabilities", vulnerableDisplayString);
-        pushArr("Damage Resistances", resistantDisplayString);
-        pushArr("Damage Immunities", immuneDisplayString);
-        pushArr("Condition Immunities", conditionsDisplayArr);
-        pushArr("Senses", sensesDisplayString);
-        pushArr("Languages", languageDisplayArr);
+        pushArr("Рятівні кидки", sthrowsDisplayArr);
+        pushArr("Навички", skillsDisplayArr);
+        pushArr("Вразливість до ушкоджень", vulnerableDisplayString);
+        pushArr("Стійкість до ушкоджень", resistantDisplayString);
+        pushArr("Імунітет до ушкоджень", immuneDisplayString);
+        pushArr("Імунітет до станів", conditionsDisplayArr);
+        pushArr("Чуття", sensesDisplayString);
+        pushArr("Мови", languageDisplayArr);
 
         return propertiesDisplayArr;
     },
