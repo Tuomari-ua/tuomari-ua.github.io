@@ -509,7 +509,7 @@
 		},
 		{
 			"name": "Legendary Resistance",
-			"realname": "Legendary Resistance (3/day)",
+			"realname": "Легендарна стійкість (3/день)",
 			"desc": "If the [MON] fails a saving throw, it can choose to succeed instead."
 		},
 		{
@@ -830,12 +830,12 @@
 		},
 		{
 			"name": "Invisibility (Action)",
-			"realname": "Invisibility",
+			"realname": "Невидимість",
 			"desc": "The [MON] magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the [MON] wears or carries is invisible with it."
 		},
 		{
 			"name": "Invisibility (Permanent)",
-			"realname": "Invisibility",
+			"realname": "Невидимість",
 			"desc": "The [MON] is invisible."
 		},
 		{
