@@ -1230,12 +1230,12 @@ var GetVariablesFunctions = {
         // Speeds
         let GetSpeed = (speedList, speedType) => speedList.hasOwnProperty(speedType) ? parseInt(speedList[speedType]) : 0;
 
-        mon.speed = GetSpeed(preset.speed, "ходьба");
-        mon.burrowSpeed = GetSpeed(preset.speed, "риття");
-        mon.climbSpeed = GetSpeed(preset.speed, "лазіння");
-        mon.flySpeed = GetSpeed(preset.speed, "політ");
-        mon.swimSpeed = GetSpeed(preset.speed, "плавання");
-        mon.hover = preset.speed.hasOwnProperty("зависання");
+        mon.speed = GetSpeed(preset.speed, "walk");
+        mon.burrowSpeed = GetSpeed(preset.speed, "burrow");
+        mon.climbSpeed = GetSpeed(preset.speed, "climb");
+        mon.flySpeed = GetSpeed(preset.speed, "fly");
+        mon.swimSpeed = GetSpeed(preset.speed, "swim");
+        mon.hover = preset.speed.hasOwnProperty("hover");
 
         if (preset.speed.hasOwnProperty("notes")) {
             mon.customSpeed = true;
