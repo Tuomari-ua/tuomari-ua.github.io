@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 6
 classes: cleric
-title: Blade Barrier 
+title: Клинковий бар'єр [Blade Barrier]
 ---
-_6th-level evocation_ 
-**Casting Time:** 1 action   
-**Range:** 90 feet   
-**Components:** V, S   
-**Duration:** Concentration, up to 10 minutes 
-You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides three-quarters cover to creatures behind it, and its space is difficult terrain.    
-When a creature enters the wall's area for the first time on a turn or starts its turn there, the creature must make a Dexterity saving throw. On a failed save, the creature takes 6d10 slashing damage. On a successful save, the creature takes half as much damage. 
+
+_Втілення, 6 рівень; клірик_    
+**Час створення:** 1 дія   
+**Відстань:** 90 футів   
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 10 хвилин   
+
+Ви створюєте вертикальну стіну з вихору гострих, як бритва, клинків із магічної енергії. Стіна з'являється в межах відстані й існує, поки діють чари. Ви можете створити пряму стіну довжиною до 100 футів, заввишки 20 футів і завтовшки 5 футів, або кільцеву стіну діаметром до 60 футів, заввишки 20 футів і завтовшки 5 футів. Стіна надає укриття на три чверті істотам, що перебувають за нею, а її область є важкопрохідною місцевістю.    
+
+Коли істота вперше за хід входить у простір стіни або починає там хід, вона повинна зробити рятівний кидок Спритності. У разі невдачі істота отримує 6к10 рубаних ушкоджень. При успішному рятівному кидку істота отримує лише половину цих ушкоджень. 

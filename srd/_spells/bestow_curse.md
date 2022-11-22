@@ -1,22 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 3
-classes: bard
-         cleric
-         wizard
-title: Bestow Curse 
+classes: bard, cleric, wizard
+title: Наділити прокляттям [Bestow Curse]
 ---
-_3rd-level necromancy_ 
-**Casting Time:** 1 action   
-**Range:** Touch   
-**Components:** V, S   
-**Duration:** Concentration, up to 1 minute 
-You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
-* Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
-* While cursed, the target has disadvantage on attack rolls against you.
-* While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing. 
-* While the target is cursed, your attacks and spells deal an extra 1d8 necrotic damage to the target.    
-A **_remove curse_** spell ends this effect. At the GM's option, you may choose an alternative curse effect, but it should be no more powerful than those described above. The GM has final say on such a curse's effect. 
-**At Higher Levels.** If you cast this spell using a spell slot of 4th level or higher, the duration is concentration, up to 10 minutes. If you use a spell slot of 5th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a duration that doesn't require concentration. 
+
+_Некромантія, 3 рівень; бард, клірик, маг_    
+**Час створення:** 1 дія   
+**Відстань:** Дотик   
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 1 хвилини   
+
+Ви торкаєтеся істоти, і вона повинна зробити успішний рятівний кидок Мудрості, або буде проклятою на час дії чарів. Створюючи ці чари, оберіть природу прокляття з наступного списку:
+* Виберіть одну здібність. Поки ціль проклята, вона має перешкоду на перевірки та рятівні кидки, що покладаються на цю здібність.
+* Поки ціль проклята, вона має перешкоду на кидки атаки проти вас.
+* Поки ціль проклята, вона повинна здійснювати рятівні кидки Мудрості на початку кожного свого ходу. У разі невдачі ціль нічого не робить у цей хід.
+* Поки ціль проклята, ваші атаки й чари завдають їй додатково 1к8 ушкоджень некротичною енергією.     
+
+Чари **_Зняття прокляття_** завершують цей ефект. За згодою Майстра ви можете вибрати альтернативний ефект прокляття, але він не повинен бути потужнішим за описані вище. Остаточне рішення про ефект прокляття залишається за Майстром.     
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4-го рівня або вищої, тривалість концентрації на чарах збільшується до 10 хвилин. Якщо ви використовуєте чарунку 5-го або вищого рівня, тривалість концентрації збільшується до 8 годин. Якщо ви використовуєте чарунку 7 або вищого рівня, тривалість концентрації збільшується до 24 годин. Якщо ви використовуєте чарунку 9 рівня, чари діють, поки їх не розсіють. Використання чарунки 5 рівня або вищої дає чарам тривалість, яка не потребує концентрації. 

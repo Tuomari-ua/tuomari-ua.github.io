@@ -1,19 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 2
-classes: sorcerer
-         wizard
-title: Web 
+classes: sorcerer, wizard
+title: Павутиння [Web]
 ---
-_2nd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of spiderweb)    
-**Duration:** Concentration, up to 1 hour 
-You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20- foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.    
-If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.    
-Each creature that starts its turn in the webs or that enters them during its turn must make a Dexterity saving throw. On a failed save, the creature is restrained as long as it remains in the webs or until it breaks free.    
-A creature restrained by the webs can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained.    
-The webs are flammable. Any 5-foot cube of webs exposed to fire burns away in 1 round, dealing 2d4 fire damage to any creature that starts its turn in the fire. 
+
+_З'явлення, 2 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (трошки павутиння)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви прикликаєте масу товстого, липкого павутиння у точку за власним вибором у межах дистанції. Павутиння заповнює 20-футовий куб від цієї точки на час дії чарів. Павутиння є важкопрохідної місцевістю, а його область є важкопроглядною.    
+
+Якщо павутиння не закріплене між двома твердими предметами (наприклад, стінами чи деревами) чи не вкриває підлогу, стіни або стелю, прикликане павутиння руйнується під своєю вагою, і чари завершуються на початку вашого наступного ходу. Павутиння, що вкриває пласку поверхню, має глибину 5 футів.    
+
+Кожна істота, що починає свій хід у павутинні або входить до павутиння у свій хід, повинна зробити рятівний кидок Спритності. У разі невдачі істота скута, поки залишається у павутинні або поки не вирветься з нього.    
+
+Істота, скута павутинням, може використати дію, щоб зробити перевірку Сили проти вашого КС чарів. Коли вона досягає успіху, то перестає бути скутою.    
+
+Павутиння є займистим. Будь-який 5-футовий куб павутиння, підданий вогню, вигорає за 1 раунд, завдаючи 2к4 ушкоджень вогнем будь-яким істотам, що починають свій хід у полум'ї. 
