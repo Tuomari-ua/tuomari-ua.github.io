@@ -1681,27 +1681,27 @@ var StringFunctions = {
     GetSpeed: function () {
         if (mon.customSpeed)
             return mon.speedDesc;
-        let speedsDisplayArr = [mon.speed + " ft."];
-        if (mon.burrowSpeed > 0) speedsDisplayArr.push("burrow " + mon.burrowSpeed + " ft.");
-        if (mon.climbSpeed > 0) speedsDisplayArr.push("climb " + mon.climbSpeed + " ft.");
-        if (mon.flySpeed > 0) speedsDisplayArr.push("fly " + mon.flySpeed + " ft." + (mon.hover ? " (hover)" : ""));
-        if (mon.swimSpeed > 0) speedsDisplayArr.push("swim " + mon.swimSpeed + " ft.");
+        let speedsDisplayArr = [mon.speed + " ф."];
+        if (mon.burrowSpeed > 0) speedsDisplayArr.push("риття " + mon.burrowSpeed + " ф.");
+        if (mon.climbSpeed > 0) speedsDisplayArr.push("лазіння " + mon.climbSpeed + " ф.");
+        if (mon.flySpeed > 0) speedsDisplayArr.push("політ " + mon.flySpeed + " ф." + (mon.hover ? " (зависання)" : ""));
+        if (mon.swimSpeed > 0) speedsDisplayArr.push("плавання " + mon.swimSpeed + " ф.");
         return speedsDisplayArr.join(", ")
     },
 
     GetSenses: function () {
         let sensesDisplayArr = [];
-        if (mon.blindsight > 0) sensesDisplayArr.push("blindsight " + mon.blindsight + " ft." + (mon.blind ? " (blind beyond this radius)" : ""));
-        if (mon.darkvision > 0) sensesDisplayArr.push("darkvision " + mon.darkvision + " ft.");
-        if (mon.tremorsense > 0) sensesDisplayArr.push("tremorsense " + mon.tremorsense + " ft.");
-        if (mon.truesight > 0) sensesDisplayArr.push("truesight " + mon.truesight + " ft.");
+        if (mon.blindsight > 0) sensesDisplayArr.push("сліпий зір " + mon.blindsight + " ф." + (mon.blind ? " (сліпий за межами цього радіусу)" : ""));
+        if (mon.darkvision > 0) sensesDisplayArr.push("темний зір " + mon.darkvision + " ф.");
+        if (mon.tremorsense > 0) sensesDisplayArr.push("чуття вібрацій " + mon.tremorsense + " ф.");
+        if (mon.truesight > 0) sensesDisplayArr.push("істинний зір " + mon.truesight + " ф.");
 
         // Passive Perception
-        let ppData = ArrayFunctions.FindInList(mon.skills, "Perception"),
+        let ppData = ArrayFunctions.FindInList(mon.skills, "Сприйняття"),
             pp = 10 + MathFunctions.PointsToBonus(mon.wisPoints);
         if (ppData != null)
             pp += CrFunctions.GetProf() * (ppData.hasOwnProperty("note") ? 2 : 1);
-        sensesDisplayArr.push("passive Perception " + pp);
+        sensesDisplayArr.push("пасивне Сприйняття " + pp);
         return sensesDisplayArr.join(", ");
     },
 
@@ -1770,22 +1770,22 @@ var StringFunctions = {
         if (understandsLanguages.length > 0) {
             if (understandsLanguages.length > 1) {
                 if (understandsLanguages.length > 2) {
-                    languageDisplayArr.push("understands " + understandsLanguages[0].name);
+                    languageDisplayArr.push("розуміє " + understandsLanguages[0].name);
                     for (let index = 1; index < understandsLanguages.length; index++)
                         languageDisplayArr.push(understandsLanguages[index].name);
-                    languageDisplayArr[languageDisplayArr.length - 1] = " and " + languageDisplayArr[languageDisplayArr.length - 1];
+                    languageDisplayArr[languageDisplayArr.length - 1] = " і " + languageDisplayArr[languageDisplayArr.length - 1];
                 }
                 else
-                    languageDisplayArr.push("understands " + understandsLanguages[0].name + " and " + understandsLanguages[1].name);
+                    languageDisplayArr.push("розуміє" + understandsLanguages[0].name + " і " + understandsLanguages[1].name);
             }
             else
-                languageDisplayArr.push("understands " + understandsLanguages[0].name);
+                languageDisplayArr.push("розуміє " + understandsLanguages[0].name);
             if (mon.understandsBut && mon.understandsBut.trim().length > 0)
-                languageDisplayArr[languageDisplayArr.length - 1] += " but " + mon.understandsBut.trim();
+                languageDisplayArr[languageDisplayArr.length - 1] += " але " + mon.understandsBut.trim();
         }
 
         if (mon.telepathy > 0)
-            languageDisplayArr.push("telepathy " + mon.telepathy + " ft.");
+            languageDisplayArr.push("телепатія " + mon.telepathy + " ф.");
         else if (languageDisplayArr.length == 0)
             languageDisplayArr.push("&mdash;");
 
