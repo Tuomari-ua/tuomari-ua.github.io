@@ -1230,16 +1230,16 @@ var GetVariablesFunctions = {
         // Speeds
         let GetSpeed = (speedList, speedType) => speedList.hasOwnProperty(speedType) ? parseInt(speedList[speedType]) : 0;
 
-        mon.speed = GetSpeed(preset.speed, "walk");
-        mon.burrowSpeed = GetSpeed(preset.speed, "burrow");
-        mon.climbSpeed = GetSpeed(preset.speed, "climb");
-        mon.flySpeed = GetSpeed(preset.speed, "fly");
-        mon.swimSpeed = GetSpeed(preset.speed, "swim");
-        mon.hover = preset.speed.hasOwnProperty("hover");
+        mon.speed = GetSpeed(preset.speed, "ходьба");
+        mon.burrowSpeed = GetSpeed(preset.speed, "риття");
+        mon.climbSpeed = GetSpeed(preset.speed, "лазіння");
+        mon.flySpeed = GetSpeed(preset.speed, "політ");
+        mon.swimSpeed = GetSpeed(preset.speed, "плавання");
+        mon.hover = preset.speed.hasOwnProperty("зависання");
 
         if (preset.speed.hasOwnProperty("notes")) {
             mon.customSpeed = true;
-            mon.speedDesc = preset.speed.walk + " ft. (" + preset.speed.notes + ")";
+            mon.speedDesc = preset.speed.walk + " ф. (" + preset.speed.notes + ")";
         } else {
             mon.customSpeed = false;
             mon.speedDesc = StringFunctions.GetSpeed();
@@ -1269,7 +1269,7 @@ var GetVariablesFunctions = {
                 if (preset.skills[skillCheck]) {
                     let expectedExpertise = MathFunctions.PointsToBonus(mon[currentSkill.stat + "Points"]) + Math.ceil(CrFunctions.GetProf() * 1.5),
                         skillVal = preset.skills[skillCheck];
-                    this.AddSkill(data.allSkills[index].name, (skillVal >= expectedExpertise ? " (ex)" : null));
+                    this.AddSkill(data.allSkills[index].name, (skillVal >= expectedExpertise ? " (екс)" : null));
                 }
             }
         }
