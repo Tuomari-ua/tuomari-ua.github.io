@@ -1,21 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 4
-classes: paladin
-         cleric
-         sorcerer
-         warlock
-         wizard
-title: Banishment 
+classes: paladin, cleric, sorcerer, warlock, wizard
+title: Вигнання [Banishment]
 ---
-_4th-level abjuration_   
-**Casting Time:** 1 action   
-**Range:** 60 feet   
-**Components:** V, S, M (an item distasteful to the target)   
-**Duration:** Concentration, up to 1 minute 
-You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished.    
-If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.    
-If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return. 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. 
+
+_Перешкоджання, 4 рівень; паладин, клірик, заклинач, чаклун, маг_   
+**Час створення:** 1 дія   
+**Відстань:** 60 футів   
+**Складові:** В, С, М (неприємний для цілі предмет)   
+**Тривалість:** Концентрація, до 1 хвилини   
+Ви намагаєтеся відправити одну істоту, яку ви бачите в межах відстані, на інший план існування. Ціль повинна зробити успішний рятівний кидок Харизми, інакше буде вигнана.    
+Якщо ціль родом із того плану існування, на якому ви зараз перебуваєте, ви виганяєте її в безпечний напівплан. Поки ціль перебуває там, вона недієздатна. Ціль залишається там, поки діють чари, після чого повертається до місця, з якого зникла, або найближчого вільного простору, якщо її простір зайнятий.    
+Якщо план існування, де ви перебуваєте, не рідний для цілі, вона виганяється з тихим потріскуванням, повертаючись на свій рідний план. Якщо чари завершаться менш ніж за хвилину, ціль з'являється у місці, з якого зникла, або найближчому вільному просторі, якщо її простір зайнятий. В іншому випадку ціль не повертається. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 5 рівня або вищої, ви можете обрати ціллю одну додаткову істоту за кожну чарунку вище четвертої. 

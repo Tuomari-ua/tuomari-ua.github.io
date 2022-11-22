@@ -1,15 +1,13 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: druid
-         ranger
-title: Barkskin 
+classes: druid, ranger
+title: Дубова шкіра [Barkskin]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a handful of oak bark)    
-**Duration:** Concentration, up to 1 hour 
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+
+_Перетворення, 2 рівень; друїд, рейнджер_ ** Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (жменя дубової кори)    
+**Тривалість:** Концентрація, до 1 години. <2/> Ви торкаєтеся згодної істоти. Поки чари не завершаться, шкіра цілі матиме грубий, короподібний вигляд, і КЗ цілі не може бути меншим, ніж 16, незалежно від типу броні, яку вона носить.

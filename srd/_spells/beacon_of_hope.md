@@ -1,14 +1,13 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
 classes: cleric
-title: Beacon of Hope 
+title: Маяк надії [Beacon of Hope]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing. 
+
+_Перешкоджання, 3 рівень; клірик_ <br> **Час створення:** 1 дія   
+**Відстань:** 30 футів   
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини.<br> Ці чари дарують надію та енергію. Виберіть будь-яку кількість істот в межах відстані. Поки чари тривають, кожна ціль має перевагу на рятівні кидки Мудрості та рятунки від смерті, а також відновлює максимально можливу кількість пунктів здоров'я від будь-якого зцілення. 
