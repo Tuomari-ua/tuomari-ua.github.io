@@ -1479,7 +1479,7 @@ var GetVariablesFunctions = {
                     return;
             }
         }
-        note = type == 'v' ? " (Vulnerable)" : type == 'i' ? " (Immune)" : " (Resistant)";
+        note = type == 'v' ? " (Вразливість)" : type == 'i' ? " (Імунітет)" : " (Стійкість)";
         ArrayFunctions.ArrayInsert(mon[special ? "specialdamage" : "damagetypes"], {
             "name": damageName,
             "note": note,
@@ -1551,8 +1551,8 @@ var GetVariablesFunctions = {
 
             if (spellcastingAbility != null) {
                 abilityDesc = abilityDesc
-                    .replace(/DC \d+/g.exec(abilityDesc), "DC [" + spellcastingAbility + " SAVE]")
-                    .replace(/[\+\-]\d+ to hit/g.exec(abilityDesc), "[" + spellcastingAbility + " ATK] to hit");
+                    .replace(/DC \d+/g.exec(abilityDesc), "КС [" + spellcastingAbility + " SAVE]")
+                    .replace(/[\+\-]\d+ to hit/g.exec(abilityDesc), "[" + spellcastingAbility + " ATK] до влучання");
             }
 
             // For hag covens

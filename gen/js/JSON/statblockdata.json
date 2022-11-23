@@ -431,7 +431,7 @@
 	],
 	"commonAbilities": [
 		{
-			"name": "Select Preset",
+			"name": "Оберіть преген",
 			"desc": null
 		},
 		{
@@ -439,64 +439,64 @@
 			"desc": null
 		},
 		{
-			"name": "Melee Weapon Attack (STR)",
+			"name": "Атака зброєю ближнього бою (СИЛ)",
 			"realname": "",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach ??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність ??? ф., одна ціль _Влучання_ [STR ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Атака зброєю ближнього бою (DEX)",
 			"realname": "",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach ??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність ??? ф., одна ціль _Влучання_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Melee Spell Attack (INT)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [INT ATK] to hit, reach ??? ft., one target. _Hit:_ [INT ???D???] ??? damage."
+			"desc": "_Melee Spell Attack:_ [INT ATK] до влучання, досяжність ??? ф., одна ціль _Влучання_ [INT ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Melee Spell Attack (WIS)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [WIS ATK] to hit, reach ??? ft., one target. _Hit:_ [WIS ???D???] ??? damage."
+			"desc": "_Melee Spell Attack:_ [WIS ATK] до влучання, досяжність ??? ф., одна ціль _Влучання_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Melee Spell Attack (CHA)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [CHA ATK] to hit, reach ??? ft., one target. _Hit:_ [CHA ???D???] ??? damage."
+			"desc": "_Melee Spell Attack:_ [CHA ATK] до влучання, досяжність ??? ф., одна ціль _Влучання_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Ranged Weapon Attack (STR)",
 			"realname": "",
-			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range ???/??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range ???/??? ф., одна ціль _Влучання_ [STR ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Ranged Weapon Attack (DEX)",
 			"realname": "",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range ???/??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range ???/??? ф., одна ціль _Влучання_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Ranged Spell Attack (INT)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [INT ATK] to hit, range ???/??? ft., one target. _Hit:_ [INT ???D???] ??? damage."
+			"desc": "_Ranged Spell Attack:_ [INT ATK] to hit, range ???/??? ф., одна ціль _Влучання_ [INT ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Ranged Spell Attack (WIS)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [WIS ATK] to hit, range ???/??? ft., one target. _Hit:_ [WIS ???D???] ??? damage."
+			"desc": "_Ranged Spell Attack:_ [WIS ATK] to hit, range ???/??? ф., одна ціль _Влучання_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Ranged Spell Attack (CHA)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [CHA ATK] to hit, range ???/??? ft., one target. _Hit:_ [CHA ???D???] ??? damage."
+			"desc": "_Ranged Spell Attack:_ [CHA ATK] to hit, range ???/??? ф., одна ціль _Влучання_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Melee or Ranged Weapon Attack (STR)",
 			"realname": "",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach ??? ft. or range ???/??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність ??? ft. or range ???/??? ф., одна ціль _Влучання_ [STR ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "Melee or Ranged Weapon Attack (DEX)",
 			"realname": "",
-			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] to hit, reach ??? ft. or range ???/??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] до влучання, досяжність ??? ft. or range ???/??? ф., одна ціль _Влучання_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "",
@@ -564,7 +564,7 @@
 		},
 		{
 			"name": "Angelic Weapons",
-			"desc": "The [MON]'s weapon attacks are magical. When the [MON] hits with any weapon, the weapon deals an extra [???D???] radiant damage (included in the attack)."
+			"desc": "The [MON]'s weapon attacks are magical. When the [MON] hits with any weapon, the weapon deals an extra [???D???] radiant ушкоджень (included in the attack)."
 		},
 		{
 			"name": "Animal Telepathy",
@@ -587,7 +587,7 @@
 		{
 			"name": "Aversion to Damage",
 			"realname": "Aversion to ???",
-			"desc": "If the [MON] takes ??? damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+			"desc": "If the [MON] takes ??? ушкоджень, it has disadvantage on attack rolls and ability checks until the end of its next turn."
 		},
 		{
 			"name": "Beast of Burden",
@@ -612,16 +612,16 @@
 		{
 			"name": "Breath Weapon (Cone, Action)",
 			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot cone. Each creature in that area must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"desc": "The [MON] exhales ??? in a ???-foot cone. Each creature in that area must make a DC ??? Dexterity saving throw, taking [???D???] ??? ушкоджень on a failed save, or half as much ушкоджень on a successful one."
 		},
 		{
 			"name": "Breath Weapon (Line, Action)",
 			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot line that is ??? feet wide. Each creature in that line must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"desc": "The [MON] exhales ??? in a ???-foot line that is ??? feet wide. Each creature in that line must make a DC ??? Dexterity saving throw, taking [???D???] ??? ушкоджень on a failed save, or half as much ушкоджень on a successful one."
 		},
 		{
 			"name": "Brute",
-			"desc": "A melee weapon deals one extra die of its damage when the [MON] hits with it (included in the attack)."
+			"desc": "A melee weapon deals one extra die of its ушкоджень when the [MON] hits with it (included in the attack)."
 		},
 		{
 			"name": "Camouflage",
@@ -640,17 +640,17 @@
 		},
 		{
 			"name": "Charge",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone."
+			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? ушкоджень. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone."
 		},
 		{
 			"name": "Confer Resistance",
 			"realname": "Confer ??? Resistance",
-			"desc": "The [MON] can grant resistance to ??? damage to anyone riding it."
+			"desc": "The [MON] can grant resistance to ??? ушкоджень to anyone riding it."
 		},
 		{
 			"name": "Constrict (Action)",
 			"realname": "Constrict",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one creature. _Hit:_ [STR ???D???] bludgeoning damage, and the target is grappled (escape DC ???). Until this grapple ends, the creature is restrained, and the [MON] can't constrict another target."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ft., one creature. _Влучання_ [STR ???D???] bludgeoning damage, and the target is grappled (escape DC ???). Until this grapple ends, the creature is restrained, and the [MON] can't constrict another target."
 		},
 		{
 			"name": "Corrode Metal",
@@ -784,15 +784,15 @@
 		},
 		{
 			"name": "Heated Body",
-			"desc": "A creature that touches the [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] fire damage."
+			"desc": "A creature that touches the [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] ушкоджень вогнем."
 		},
 		{
 			"name": "Heated Weapons",
-			"desc": "Any metal melee weapon the [MON] wields deals an extra [???D???] fire damage on a hit (included in the attack)."
+			"desc": "Any metal melee weapon the [MON] wields deals an extra [???D???] ушкоджень вогнем on a hit (included in the attack)."
 		},
 		{
 			"name": "Hellish Weapons",
-			"desc": "The [MON]'s weapon attacks are magical and deal an extra [???D???] poison damage on a hit (included in the attacks)."
+			"desc": "The [MON]'s weapon attacks are magical and deal an extra [???D???] ушкоджень отрутою on a hit (included in the attacks)."
 		},
 		{
 			"name": "Hold Breath",
@@ -817,7 +817,7 @@
 		},
 		{
 			"name": "Incorporeal",
-			"desc": "The [MON] can move through other creatures and objects as if they were difficult terrain. It takes [???D???] force damage if it ends its turn inside an object."
+			"desc": "The [MON] can move through other creatures and objects as if they were difficult terrain. It takes [???D???] ушкоджень чистою енергією if it ends its turn inside an object."
 		},
 		{
 			"name": "Innate Spellcasting (Single Spell)",
@@ -844,23 +844,23 @@
 		},
 		{
 			"name": "Keen Sight",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on sight."
+			"desc": "The [MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на sight."
 		},
 		{
 			"name": "Keen Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on smell."
+			"desc": "The [MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на smell."
 		},
 		{
 			"name": "Keen Hearing and Sight",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+			"desc": "The [MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на hearing or sight."
 		},
 		{
 			"name": "Keen Hearing and Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+			"desc": "The [MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на hearing or smell."
 		},
 		{
 			"name": "Keen Sight and Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on sight or smell."
+			"desc": "The [MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на sight or smell."
 		},
 		{
 			"name": "Labyrinthine Recall",
@@ -874,7 +874,7 @@
 		{
 			"name": "Life Drain (Action)",
 			"realname": "Life Drain",
-			"desc": "_Melee Spell Attack:_ +??? to hit, reach ??? ft., one creature. _Hit:_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+			"desc": "_Melee Spell Attack:_ +??? до влучання, досяжність ??? ft., one creature. _Влучання_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
 		},
 		{
 			"name": "Limited Amphibiousness",
@@ -957,7 +957,7 @@
 		{
 			"name": "Regeneration (Troll)",
 			"realname": "Regeneration",
-			"desc": "The [MON] regains ??? hit points at the start of its turn. If the [MON] takes acid or fire damage, this trait doesn't function at the start of the [MON]'s next turn. The [MON] dies only if it starts its turn with 0 hit points and doesn't regenerate."
+			"desc": "The [MON] regains ??? hit points at the start of its turn. If the [MON] takes acid or ушкоджень вогнем, this trait doesn't function at the start of the [MON]'s next turn. The [MON] dies only if it starts its turn with 0 hit points and doesn't regenerate."
 		},
 		{
 			"name": "Relentless",
@@ -1079,7 +1079,7 @@
 		{
 			"name": "Wing Attack (Legendary Action)",
 			"realname": "Атака крилами (варта 2 дій)",
-			"desc": "The [MON] beats its wings. Each creature within ??? ft. of the [MON] must succeed on a DC ??? Dexterity saving throw or take [STR ???D???] bludgeoning damage and be knocked prone. The [MON] can then fly up to half its flying speed."
+			"desc": "The [MON] beats its wings. Each creature within ??? ft. of the [MON] must succeed on a DC ??? Dexterity saving throw or take [STR ???D???] дробильних ушкоджень and be knocked prone. The [MON] can then fly up to half its flying speed."
 		},
 		{
 			"name": "",
@@ -1087,191 +1087,191 @@
 		},
 		{
 			"name": "Battleaxe",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] рубаних ушкоджень, or [STR 1D10] рубаних ушкоджень if used with two hands."
 		},
 		{
 			"name": "Blowgun",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 25/100 ft., one target. _Hit:_ [DEX 1] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 25/100 ф., одна ціль _Влучання_ [DEX 1] колотих ушкоджень."
 		},
 		{
 			"name": "Club",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D4] дробильних ушкоджень."
 		},
 		{
 			"name": "Dagger (STR)",
 			"realname": "Dagger",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D4] piercing damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [STR 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Dagger (DEX)",
 			"realname": "Dagger",
-			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [DEX 1D4] piercing damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Dart (STR)",
 			"realname": "Dart",
-			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range 20/60 ft., one target. _Hit:_ [STR 1D4] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range 20/60 ф., одна ціль _Влучання_ [STR 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Dart (DEX)",
 			"realname": "Dart",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 20/60 ft., one target. _Hit:_ [DEX 1D4] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 20/60 ф., одна ціль _Влучання_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
 			"name": "Flail",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] дробильних ушкоджень."
 		},
 		{
 			"name": "Glaive",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [STR 1D10] рубаних ушкоджень."
 		},
 		{
 			"name": "Greataxe",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D12] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D12] рубаних ушкоджень."
 		},
 		{
 			"name": "Greatclub",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] дробильних ушкоджень."
 		},
 		{
 			"name": "Greatsword",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 2D6] рубаних ушкоджень."
 		},
 		{
 			"name": "Halberd",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [STR 1D10] рубаних ушкоджень."
 		},
 		{
 			"name": "Handaxe",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] slashing damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [STR 1D6] рубаних ушкоджень."
 		},
 		{
 			"name": "Hand Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ф., одна ціль _Влучання_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Heavy Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 100/400 ft., one target. _Hit:_ [DEX 1D10] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 100/400 ф., одна ціль _Влучання_ [DEX 1D10] колотих ушкоджень."
 		},
 		{
 			"name": "Javelin",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ [STR 1D6] piercing damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 30/120 ф., одна ціль _Влучання_ [STR 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Lance",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D12] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [STR 1D12] колотих ушкоджень."
 		},
 		{
 			"name": "Light Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ф., одна ціль _Влучання_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Light Hammer",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [STR 1D4] дробильних ушкоджень."
 		},
 		{
 			"name": "Longbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 150/600 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 150/600 ф., одна ціль _Влучання_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Longsword",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] рубаних ушкоджень, or [STR 1D10] рубаних ушкоджень if used with two hands."
 		},
 		{
 			"name": "Mace",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D6] дробильних ушкоджень."
 		},
 		{
 			"name": "Maul",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 2D6] дробильних ушкоджень."
 		},
 		{
 			"name": "Morningstar",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Net",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 5/15 ft., one Large or smaller creature. _Hit:_ The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 5/15 ft., one Large or smaller creature. _Влучання_ The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 рубаних ушкоджень to the net (AC 10) frees the target without harming it and destroys the net."
 		},
 		{
 			"name": "Pike",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [STR 1D10] колотих ушкоджень."
 		},
 		{
 			"name": "Quarterstaff",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage, or [STR 1D8] bludgeoning damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D6] дробильних ушкоджень, or [STR 1D8] дробильних ушкоджень if used with two hands."
 		},
 		{
 			"name": "Rapier (STR)",
 			"realname": "Rapier",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Rapier (DEX)",
 			"realname": "Rapier",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Scimitar (STR)",
 			"realname": "Scimitar",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D6] рубаних ушкоджень."
 		},
 		{
 			"name": "Scimitar (DEX)",
 			"realname": "Scimitar",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [DEX 1D6] рубаних ушкоджень."
 		},
 		{
 			"name": "Shortbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ф., одна ціль _Влучання_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Shortsword (STR)",
 			"realname": "Shortsword",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Shortsword (DEX)",
 			"realname": "Shortsword",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
 			"name": "Sickle",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D4] рубаних ушкоджень."
 		},
 		{
 			"name": "Sling",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ft., one target. _Hit:_ [DEX 1D4] bludgeoning damage."
+			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ф., одна ціль _Влучання_ [DEX 1D4] дробильних ушкоджень."
 		},
 		{
 			"name": "Spear",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] piercing damage, or [STR 1D8] piercing damage if used with two hands to make a melee attack."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [STR 1D6] колотих ушкоджень, or [STR 1D8] колотих ушкоджень if used with two hands to make a melee attack."
 		},
 		{
 			"name": "Trident",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] piercing damage, or [STR 1D8] piercing damage if used with two hands to make a melee attack."
+			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] до влучання, досяжність 5 ft. or range 20/60 ф., одна ціль _Влучання_ [STR 1D6] колотих ушкоджень, or [STR 1D8] колотих ушкоджень if used with two hands to make a melee attack."
 		},
 		{
 			"name": "Unarmed Strike",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1] bludgeoning damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1] дробильних ушкоджень."
 		},
 		{
 			"name": "Warhammer",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage, or [STR 1D10] bludgeoning damage if used with two hands."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] дробильних ушкоджень, or [STR 1D10] дробильних ушкоджень if used with two hands."
 		},
 		{
 			"name": "War Pick",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль _Влучання_ [STR 1D8] колотих ушкоджень."
 		},
 		{
 			"name": "Whip (STR)",
 			"realname": "Whip",
-			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [STR 1D4] рубаних ушкоджень."
 		},
 		{
 			"name": "Whip (DEX)",
 			"realname": "Whip",
-			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] to hit, reach 10 ft., one target. _Hit:_ [DEX 1D4] slashing damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 10 ф., одна ціль _Влучання_ [DEX 1D4] рубаних ушкоджень."
 		}
 	]
 }
