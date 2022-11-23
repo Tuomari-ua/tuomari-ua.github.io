@@ -1,11 +1,11 @@
 var data;
 
 var mon = {
-    name: "Монстр",
-    size: "середній",
-    type: "гуманоїд",
+    name: "Monster",
+    size: "medium",
+    type: "humanoid",
     tag: "",
-    alignment: "any alignment",
+    alignment: "any",
     hitDice: 5,
     armorName: "none",
     shieldBonus: 0,
