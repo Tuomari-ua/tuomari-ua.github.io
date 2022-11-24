@@ -26,12 +26,12 @@
 		}
 	],
 	"statNames": [
-		"str",
-		"dex",
-		"con",
-		"int",
-		"wis",
-		"cha"
+		"сил",
+		"спр",
+		"ста",
+		"інт",
+		"муд",
+		"хар"
 	],
 	"allSkills": [
 		{
@@ -39,105 +39,105 @@
 			"stat": "dex"
 		},
 		{
-			"name": "animal Handling",
+			"name": "приборкання тварин",
 			"stat": "wis"
 		},
 		{
-			"name": "arcana",
+			"name": "аркана",
 			"stat": "int"
 		},
 		{
-			"name": "athletics",
+			"name": "атлетика",
 			"stat": "str"
 		},
 		{
-			"name": "deception",
+			"name": "обман",
 			"stat": "cha"
 		},
 		{
-			"name": "history",
+			"name": "історія",
 			"stat": "int"
 		},
 		{
-			"name": "insight",
+			"name": "здогадливість",
 			"stat": "wis"
 		},
 		{
-			"name": "intimidation",
+			"name": "залякування",
 			"stat": "cha"
 		},
 		{
-			"name": "investigation",
+			"name": "розслідування",
 			"stat": "int"
 		},
 		{
-			"name": "medicine",
+			"name": "медицина",
 			"stat": "wis"
 		},
 		{
-			"name": "nature",
+			"name": "природа",
 			"stat": "int"
 		},
 		{
-			"name": "perception",
+			"name": "сприйняття",
 			"stat": "wis"
 		},
 		{
-			"name": "performance",
+			"name": "сприйняття",
 			"stat": "cha"
 		},
 		{
-			"name": "persuasion",
+			"name": "переконливість",
 			"stat": "cha"
 		},
 		{
-			"name": "religion",
+			"name": "релігія",
 			"stat": "int"
 		},
 		{
-			"name": "sleight of Hand",
+			"name": "спритність рук",
 			"stat": "dex"
 		},
 		{
-			"name": "stealth",
+			"name": "непомітність",
 			"stat": "dex"
 		},
 		{
-			"name": "survival",
+			"name": "виживання",
 			"stat": "wis"
 		}
 	],
 	"allNormalDamageTypes": [
-		"acid",
-		"bludgeoning",
-		"cold",
-		"fire",
-		"force",
-		"lightning",
-		"necrotic",
-		"piercing",
-		"poison",
-		"psychic",
-		"radiant",
-		"slashing",
-		"thunder"
+		"кислота",
+		"дробильні",
+		"холод",
+		"вогонь",
+		"чиста енергія",
+		"блискавка",
+		"некротична енергія",
+		"колоті",
+		"отрута",
+		"психічна енергія",
+		"промениста енергія",
+		"колоті",
+		"грім"
 	],
 	"allConditions": [
-		"blinded",
-		"charmed",
-		"deafened",
-		"exhaustion",
-		"frightened",
-		"grappled",
-		"incapacitated",
-		"invisible",
-		"paralyzed",
-		"petrified",
-		"poisoned",
-		"prone",
-		"restrained",
-		"stunned",
-		"unconscious"
+		"осліплений",
+		"причарований",
+		"оглушений",
+		"виснажений",
+		"наляканий",
+		"схоплений",
+		"недієздатний",
+		"невидимий",
+		"паралізований",
+		"скам'янілий",
+		"отруєний",
+		"збитий з ніг",
+		"скутий",
+		"приголомшений",
+		"непритомний"
 	],
 	"sizes": {
 		"tiny": {
@@ -160,20 +160,20 @@
 		}
 	},
 	"types": [
-		"aberration",
-		"beast",
-		"celestial",
-		"construct",
-		"dragon",
-		"elemental",
-		"fey",
-		"fiend",
-		"giant",
-		"humanoid",
-		"monstrosity",
-		"ooze",
-		"plant",
-		"undead"
+		"аберація",
+		"звір",
+		"небожитель",
+		"конструкт",
+		"дракон",
+		"елементаль",
+		"фея",
+		"погань",
+		"велет",
+		"гуманоїд",
+		"чудовисько",
+		"твань",
+		"рослина",
+		"невмерлий"
 	],
 	"crs": {
 		"0": {
