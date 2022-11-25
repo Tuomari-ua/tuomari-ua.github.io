@@ -1,16 +1,16 @@
 var data;
 
 var mon = {
-    name: "Monster",
-    size: "medium",
-    type: "humanoid",
+    name: "Монстр",
+    size: "середній",
+    type: "гуманоїд",
     tag: "",
-    alignment: "any",
+    alignment: "будь-який світогляд",
     hitDice: 5,
     armorName: "none",
     shieldBonus: 0,
     natArmorBonus: 3,
-    otherArmorDesc: "10 (armor)",
+    otherArmorDesc: "10 (броня)",
     speed: 30,
     burrowSpeed: 0,
     climbSpeed: 0,
