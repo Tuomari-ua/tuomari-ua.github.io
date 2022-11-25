@@ -1,62 +1,62 @@
 {
 	"stats": [
 		{
-			"name": "tuo",
+			"name": "str",
 			"order": 0
 		},
 		{
-			"name": "спр",
+			"name": "dex",
 			"order": 1
 		},
 		{
-			"name": "ста",
+			"name": "con",
 			"order": 2
 		},
 		{
-			"name": "інт",
+			"name": "int",
 			"order": 3
 		},
 		{
-			"name": "муд",
+			"name": "wis",
 			"order": 4
 		},
 		{
-			"name": "хар",
+			"name": "cha",
 			"order": 5
 		}
 	],
 	"statNames": [
-		"tuo",
-		"спр",
-		"ста",
-		"інт",
-		"муд",
-		"хар"
+		"str",
+		"dex",
+		"con",
+		"int",
+		"wis",
+		"cha"
 	],
 	"allSkills": [
 		{
 			"name": "акробатика",
-			"stat": "tuo"
+			"stat": "dex"
 		},
 		{
 			"name": "приборкання тварин",
-			"stat": "муд"
+			"stat": "wis"
 		},
 		{
 			"name": "аркана",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "атлетика",
-			"stat": "tuo"
+			"stat": "str"
 		},
 		{
 			"name": "обман",
-			"stat": "хар"
+			"stat": "cha"
 		},
 		{
 			"name": "історія",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "здогадливість",
