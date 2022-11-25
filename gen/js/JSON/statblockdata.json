@@ -36,75 +36,75 @@
 	"allSkills": [
 		{
 			"name": "акробатика",
-			"stat": "спр"
+			"stat": "dex"
 		},
 		{
 			"name": "приборкання тварин",
-			"stat": "муд"
+			"stat": "wis"
 		},
 		{
 			"name": "аркана",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "атлетика",
-			"stat": "сил"
+			"stat": "str"
 		},
 		{
 			"name": "обман",
-			"stat": "хар"
+			"stat": "cha"
 		},
 		{
 			"name": "історія",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "здогадливість",
-			"stat": "муд"
+			"stat": "wis"
 		},
 		{
 			"name": "залякування",
-			"stat": "хар"
+			"stat": "cha"
 		},
 		{
 			"name": "розслідування",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "медицина",
-			"stat": "муд"
+			"stat": "wis"
 		},
 		{
 			"name": "природа",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "сприйняття",
-			"stat": "муд"
+			"stat": "wis"
 		},
 		{
 			"name": "сприйняття",
-			"stat": "хар"
+			"stat": "cha"
 		},
 		{
 			"name": "переконливість",
-			"stat": "хар"
+			"stat": "cha"
 		},
 		{
 			"name": "релігія",
-			"stat": "інт"
+			"stat": "int"
 		},
 		{
 			"name": "спритність рук",
-			"stat": "спр"
+			"stat": "dex"
 		},
 		{
 			"name": "непомітність",
-			"stat": "спр"
+			"stat": "dex"
 		},
 		{
 			"name": "виживання",
-			"stat": "муд"
+			"stat": "wis"
 		}
 	],
 	"allNormalDamageTypes": [

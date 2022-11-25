@@ -1545,9 +1545,9 @@ var GetVariablesFunctions = {
         if (arrName == "abilities" && abilityName.toLowerCase().includes("spellcasting") && abilityDesc.includes("\n")) {
             abilityDesc = abilityDesc.split("\u2022").join(""), // Remove bullet points
                 spellcastingAbility =
-                abilityDesc.toLowerCase().includes("intelligence") ? "INT" :
-                    abilityDesc.toLowerCase().includes("wisdom") ? "WIS" :
-                        abilityDesc.toLowerCase().includes("charisma") ? "CHA" : null;
+                abilityDesc.toLowerCase().includes("intelligence") ? "ІНТ" :
+                    abilityDesc.toLowerCase().includes("wisdom") ? "МУД" :
+                        abilityDesc.toLowerCase().includes("charisma") ? "ХАР" : null;
 
             if (spellcastingAbility != null) {
                 abilityDesc = abilityDesc
