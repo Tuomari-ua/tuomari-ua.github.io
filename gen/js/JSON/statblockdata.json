@@ -1,7 +1,7 @@
 {
 	"stats": [
 		{
-			"name": "str",
+			"name": "сил",
 			"order": 0
 		},
 		{
@@ -26,85 +26,85 @@
 		}
 	],
 	"statNames": [
-		"str",
-		"dex",
-		"con",
-		"int",
-		"wis",
-		"cha"
+		"сил",
+		"спр",
+		"ста",
+		"інт",
+		"муд",
+		"хар"
 	],
 	"allSkills": [
 		{
 			"name": "акробатика",
-			"stat": "dex"
+			"stat": "сил"
 		},
 		{
 			"name": "приборкання тварин",
-			"stat": "wis"
+			"stat": "муд"
 		},
 		{
 			"name": "аркана",
-			"stat": "int"
+			"stat": "інт"
 		},
 		{
 			"name": "атлетика",
-			"stat": "str"
+			"stat": "сил"
 		},
 		{
 			"name": "обман",
-			"stat": "cha"
+			"stat": "хар"
 		},
 		{
 			"name": "історія",
-			"stat": "int"
+			"stat": "інт"
 		},
 		{
 			"name": "здогадливість",
-			"stat": "wis"
+			"stat": "муд"
 		},
 		{
 			"name": "залякування",
-			"stat": "cha"
+			"stat": "хар"
 		},
 		{
 			"name": "розслідування",
-			"stat": "int"
+			"stat": "інт"
 		},
 		{
 			"name": "медицина",
-			"stat": "wis"
+			"stat": "муд"
 		},
 		{
 			"name": "природа",
-			"stat": "int"
+			"stat": "інт"
 		},
 		{
 			"name": "сприйняття",
-			"stat": "wis"
+			"stat": "муд"
 		},
 		{
 			"name": "сприйняття",
-			"stat": "cha"
+			"stat": "хар"
 		},
 		{
 			"name": "переконливість",
-			"stat": "cha"
+			"stat": "хар"
 		},
 		{
 			"name": "релігія",
-			"stat": "int"
+			"stat": "інт"
 		},
 		{
 			"name": "спритність рук",
-			"stat": "dex"
+			"stat": "спр"
 		},
 		{
 			"name": "непомітність",
-			"stat": "dex"
+			"stat": "спр"
 		},
 		{
 			"name": "виживання",
-			"stat": "wis"
+			"stat": "муд"
 		}
 	],
 	"allNormalDamageTypes": [
