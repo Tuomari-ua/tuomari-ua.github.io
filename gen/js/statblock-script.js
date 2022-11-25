@@ -1248,7 +1248,7 @@ var GetVariablesFunctions = {
         // Saving Throws
         mon.sthrows = [];
         if (preset.strength_save)
-            this.AddSthrow("tuo");
+            this.AddSthrow("сил");
         if (preset.dexterity_save)
             this.AddSthrow("спр");
         if (preset.constitution_save)
