@@ -612,7 +612,7 @@ var FormFunctions = {
         this.ShowHideCustomSpeed();
 
         // Stats
-        this.SetStatForm("сил", mon.strPoints);
+        this.SetStatForm("tuo", mon.strPoints);
         this.SetStatForm("спр", mon.dexPoints);
         this.SetStatForm("ста", mon.conPoints);
         this.SetStatForm("інт", mon.intPoints);
@@ -1248,7 +1248,7 @@ var GetVariablesFunctions = {
         // Saving Throws
         mon.sthrows = [];
         if (preset.strength_save)
-            this.AddSthrow("сил");
+            this.AddSthrow("tuo");
         if (preset.dexterity_save)
             this.AddSthrow("спр");
         if (preset.constitution_save)
