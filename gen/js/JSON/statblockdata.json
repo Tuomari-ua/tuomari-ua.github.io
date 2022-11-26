@@ -1,27 +1,27 @@
 {
 	"stats": [
 		{
-			"name": "str",
+			"name": "сил",
 			"order": 0
 		},
 		{
-			"name": "dex",
+			"name": "спр",
 			"order": 1
 		},
 		{
-			"name": "con",
+			"name": "ста",
 			"order": 2
 		},
 		{
-			"name": "int",
+			"name": "інт",
 			"order": 3
 		},
 		{
-			"name": "wis",
+			"name": "муд",
 			"order": 4
 		},
 		{
-			"name": "cha",
+			"name": "хар",
 			"order": 5
 		}
 	],
