@@ -1223,7 +1223,7 @@ var GetVariablesFunctions = {
             mon.otherArmorDesc = armorAcData + (preset.armor_desc ? " (" + preset.armor_desc + ")" : "");
 
         // Hit Dice
-        mon.hitDice = parseInt(preset.hit_dice.split("d")[0]);
+        mon.hitDice = parseInt(preset.hit_dice.split("к")[0]);
         mon.hpText = mon.hitDice.toString();
         mon.customHP = false;
 
@@ -1672,10 +1672,10 @@ var StringFunctions = {
         hitDieSize = data.sizes[mon.size].hitDie,
             avgHP = Math.floor(mon.hitDice * ((hitDieSize + 1) / 2)) + (mon.hitDice * conBonus);
         if (conBonus > 0)
-            return avgHP + " (" + mon.hitDice + "d" + hitDieSize + " + " + (mon.hitDice * conBonus) + ")";
+            return avgHP + " (" + mon.hitDice + "к" + hitDieSize + " + " + (mon.hitDice * conBonus) + ")";
         if (conBonus == 0)
-            return avgHP + " (" + mon.hitDice + "d" + hitDieSize + ")";
-        return Math.max(avgHP, 1) + " (" + mon.hitDice + "d" + hitDieSize + " - " + -(mon.hitDice * conBonus) + ")";
+            return avgHP + " (" + mon.hitDice + "к" + hitDieSize + ")";
+        return Math.max(avgHP, 1) + " (" + mon.hitDice + "к" + hitDieSize + " - " + -(mon.hitDice * conBonus) + ")";
     },
 
     GetSpeed: function () {
