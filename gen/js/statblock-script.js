@@ -2,7 +2,7 @@ var data;
 
 var mon = {
     name: "Монстр",
-    size: "середній",
+    size: "medium",
     type: "гуманоїд",
     tag: "",
     alignment: "будь-який світогляд",
@@ -19,7 +19,7 @@ var mon = {
     swimSpeed: 0,
     customHP: false,
     customSpeed: false,
-    hpText: "4 (1d8)",
+    hpText: "4 (1к8)",
     speedDesc: "30 ф.",
     strPoints: 10,
     dexPoints: 10,
@@ -175,7 +175,7 @@ function UpdateStatblock(moveSeparationPoint) {
 
     // Name and type
     $("#monster-name").html(StringFunctions.RemoveHtmlTags(mon.name));
-    $("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(mon.size) + " " + mon.type +
+    $("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(data.sizes[mon.size].localizedName) + " " + mon.type +
         (mon.tag == "" ? ", " : " (" + mon.tag + "), ") + mon.alignment));
 
     // Armor Class
@@ -1223,7 +1223,7 @@ var GetVariablesFunctions = {
             mon.otherArmorDesc = armorAcData + (preset.armor_desc ? " (" + preset.armor_desc + ")" : "");
 
         // Hit Dice
-        mon.hitDice = parseInt(preset.hit_dice.split("d")[0]);
+        mon.hitDice = parseInt(preset.hit_dice.split("к")[0]);
         mon.hpText = mon.hitDice.toString();
         mon.customHP = false;
 
@@ -1672,10 +1672,10 @@ var StringFunctions = {
         hitDieSize = data.sizes[mon.size].hitDie,
             avgHP = Math.floor(mon.hitDice * ((hitDieSize + 1) / 2)) + (mon.hitDice * conBonus);
         if (conBonus > 0)
-            return avgHP + " (" + mon.hitDice + "d" + hitDieSize + " + " + (mon.hitDice * conBonus) + ")";
+            return avgHP + " (" + mon.hitDice + "к" + hitDieSize + " + " + (mon.hitDice * conBonus) + ")";
         if (conBonus == 0)
-            return avgHP + " (" + mon.hitDice + "d" + hitDieSize + ")";
-        return Math.max(avgHP, 1) + " (" + mon.hitDice + "d" + hitDieSize + " - " + -(mon.hitDice * conBonus) + ")";
+            return avgHP + " (" + mon.hitDice + "к" + hitDieSize + ")";
+        return Math.max(avgHP, 1) + " (" + mon.hitDice + "к" + hitDieSize + " - " + -(mon.hitDice * conBonus) + ")";
     },
 
     GetSpeed: function () {
