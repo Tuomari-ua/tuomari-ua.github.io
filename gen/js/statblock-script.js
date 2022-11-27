@@ -612,7 +612,7 @@ var FormFunctions = {
         this.ShowHideCustomSpeed();
 
         // Stats
-        this.SetStatForm("сил", mon.strPoints);
+        this.SetStatForm("str", mon.strPoints);
         this.SetStatForm("dex", mon.dexPoints);
         this.SetStatForm("con", mon.conPoints);
         this.SetStatForm("int", mon.intPoints);

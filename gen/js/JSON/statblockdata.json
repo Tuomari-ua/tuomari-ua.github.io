@@ -140,22 +140,22 @@
 		"непритомний"
 	],
 	"sizes": {
-		"tiny": {
+		"крихітний": {
 			"hitDie": 4
 		},
-		"small": {
+		"малий": {
 			"hitDie": 6
 		},
-		"medium": {
+		"середній": {
 			"hitDie": 8
 		},
-		"large": {
+		"великий": {
 			"hitDie": 10
 		},
-		"huge": {
+		"величезний": {
 			"hitDie": 12
 		},
-		"gargantuan": {
+		"гігантський": {
 			"hitDie": 20
 		}
 	},
@@ -378,7 +378,7 @@
 	"defaultPreset": {
 		"slug": "",
 		"name": "Монстр",
-		"size": "Medium",
+		"size": "Середній",
 		"type": "гуманоїд",
 		"subtype": "",
 		"group": null,
