@@ -1212,10 +1212,10 @@ var GetVariablesFunctions = {
                 mon.otherArmorDesc = armorDescData[0].includes("(") ? armorDescData :
                     armorAcData + " (" + armorDescData + ")";
             else
-                mon.otherArmorDesc = armorAcData + " (unknown armor type)";
+                mon.otherArmorDesc = armorAcData + " (невідомий тип броні)";
 
             // Set the nat armor bonus for convenience- often the AC is for natural armor, but doesn't have it in the armor description
-            let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("none");
+            let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("немає");
 
             if (natArmorBonusCheck > 0)
                 mon.natArmorBonus = natArmorBonusCheck;
