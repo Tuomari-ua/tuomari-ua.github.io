@@ -1452,6 +1452,7 @@ var GetVariablesFunctions = {
             }
         }
         if (!inserted)
+            sthrowData.name = data.statNames[sthrowData.order]
             mon.sthrows.push(sthrowData);
     },
 
