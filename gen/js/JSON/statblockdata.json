@@ -147,22 +147,28 @@
 	],
 	"sizes": {
 		"tiny": {
-			"hitDie": 4
+			"hitDie": 4,
+			"localizedName": "Крихітний"
 		},
 		"small": {
-			"hitDie": 6
+			"hitDie": 6,
+			"localizedName": "Малий"
 		},
 		"medium": {
-			"hitDie": 8
+			"hitDie": 8,
+			"localizedName": "Середній"
 		},
 		"large": {
-			"hitDie": 10
+			"hitDie": 10,
+			"localizedName": "Великий"
 		},
 		"huge": {
-			"hitDie": 12
+			"hitDie": 12,
+			"localizedName": "Величезний"
 		},
 		"gargantuan": {
-			"hitDie": 20
+			"hitDie": 20,
+			"localizedName": "Гігантський"
 		}
 	},
 	"types": [

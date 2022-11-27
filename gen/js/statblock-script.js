@@ -2,7 +2,7 @@ var data;
 
 var mon = {
     name: "Монстр",
-    size: "середній",
+    size: "medium",
     type: "гуманоїд",
     tag: "",
     alignment: "будь-який світогляд",
@@ -19,7 +19,7 @@ var mon = {
     swimSpeed: 0,
     customHP: false,
     customSpeed: false,
-    hpText: "4 (1d8)",
+    hpText: "4 (1к8)",
     speedDesc: "30 ф.",
     strPoints: 10,
     dexPoints: 10,
@@ -175,7 +175,7 @@ function UpdateStatblock(moveSeparationPoint) {
 
     // Name and type
     $("#monster-name").html(StringFunctions.RemoveHtmlTags(mon.name));
-    $("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(mon.size) + " " + mon.type +
+    $("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(data.sizes[mon.size].localizedName) + " " + mon.type +
         (mon.tag == "" ? ", " : " (" + mon.tag + "), ") + mon.alignment));
 
     // Armor Class
