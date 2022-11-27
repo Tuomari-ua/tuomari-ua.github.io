@@ -612,12 +612,12 @@ var FormFunctions = {
         this.ShowHideCustomSpeed();
 
         // Stats
-        this.SetStatForm("str", mon.strPoints);
-        this.SetStatForm("dex", mon.dexPoints);
-        this.SetStatForm("con", mon.conPoints);
-        this.SetStatForm("int", mon.intPoints);
-        this.SetStatForm("wis", mon.wisPoints);
-        this.SetStatForm("cha", mon.chaPoints);
+        this.SetStatForm("сил", mon.strPoints);
+        this.SetStatForm("спр", mon.dexPoints);
+        this.SetStatForm("ста", mon.conPoints);
+        this.SetStatForm("інт", mon.intPoints);
+        this.SetStatForm("муд", mon.wisPoints);
+        this.SetStatForm("хар", mon.chaPoints);
 
         // Senses
         $("#blindsight-input").val(mon.blindsight);
