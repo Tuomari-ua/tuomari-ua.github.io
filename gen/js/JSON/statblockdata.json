@@ -1,27 +1,33 @@
 {
 	"stats": [
 		{
-			"name": "сил",
+			"name": "str",
+			"localizedName": "сил",
 			"order": 0
 		},
 		{
-			"name": "спр",
+			"name": "dex",
+			"localizedName": "спр",
 			"order": 1
 		},
 		{
-			"name": "ста",
+			"name": "con",
+			"localizedName": "ста",
 			"order": 2
 		},
 		{
-			"name": "інт",
+			"name": "int",
+			"localizedName": "інт",
 			"order": 3
 		},
 		{
-			"name": "муд",
+			"name": "wis",
+			"localizedName": "муд",
 			"order": 4
 		},
 		{
-			"name": "хар",
+			"name": "cha",
+			"localizedName": "хар",
 			"order": 5
 		}
 	],

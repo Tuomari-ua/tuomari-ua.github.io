@@ -1248,17 +1248,17 @@ var GetVariablesFunctions = {
         // Saving Throws
         mon.sthrows = [];
         if (preset.strength_save)
-            this.AddSthrow("сил");
+            this.AddSthrow("str");
         if (preset.dexterity_save)
-            this.AddSthrow("спр");
+            this.AddSthrow("dex");
         if (preset.constitution_save)
-            this.AddSthrow("ста");
+            this.AddSthrow("con");
         if (preset.intelligence_save)
-            this.AddSthrow("інт");
+            this.AddSthrow("int");
         if (preset.wisdom_save)
-            this.AddSthrow("муд");
+            this.AddSthrow("wis");
         if (preset.charisma_save)
-            this.AddSthrow("хар");
+            this.AddSthrow("cha");
 
         // Skills
         mon.skills = [];
@@ -1718,7 +1718,7 @@ var StringFunctions = {
 
         // Saving Throws
         for (let index = 0; index < mon.sthrows.length; index++)
-            sthrowsDisplayArr.push(StringFunctions.StringCapitalize(mon.sthrows[index].name) + " " +
+            sthrowsDisplayArr.push(StringFunctions.StringCapitalize(mon.sthrows[index].localizedName) + " " +
                 StringFunctions.BonusFormat((MathFunctions.PointsToBonus(mon[mon.sthrows[index].name + "Points"]) + CrFunctions.GetProf())));
 
         // Skills
