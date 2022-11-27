@@ -378,7 +378,7 @@
 	"defaultPreset": {
 		"slug": "",
 		"name": "Монстр",
-		"size": "Середній",
+		"size": "Medium",
 		"type": "гуманоїд",
 		"subtype": "",
 		"group": null,
