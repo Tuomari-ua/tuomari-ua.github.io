@@ -1182,7 +1182,7 @@ var GetVariablesFunctions = {
 
                 // Is it natural armor?
                 if (mon.armorName == "natural armor") {
-                    let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("none");
+                    let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("немає");
                     if (natArmorBonusCheck > 0)
                         mon.natArmorBonus = natArmorBonusCheck;
 
@@ -1204,7 +1204,7 @@ var GetVariablesFunctions = {
                     mon.armorName = "other";
             }
         } else
-            mon.armorName = (armorAcData == MathFunctions.GetAC("none") ? "none" : "other");
+            mon.armorName = (armorAcData == MathFunctions.GetAC("немає") ? "немає" : "інше");
 
         // In case it's an unknown armor type
         if (mon.armorName == "other") {
@@ -1909,8 +1909,8 @@ var MathFunctions = {
             if (armor.type == "light") return armor.ac + dexBonus + mon.shieldBonus;
             if (armor.type == "medium") return armor.ac + Math.min(dexBonus, 2) + mon.shieldBonus;
             if (armor.type == "heavy") return armor.ac + mon.shieldBonus;
-            if (armorNameCheck == "natural armor") return 10 + dexBonus + mon.natArmorBonus + mon.shieldBonus;
-            if (armorNameCheck == "other") return "other";
+            if (armorNameCheck == "природна броня") return 10 + dexBonus + mon.natArmorBonus + mon.shieldBonus;
+            if (armorNameCheck == "інше") return "інше";
         }
         return 10 + dexBonus + mon.shieldBonus;
     },
