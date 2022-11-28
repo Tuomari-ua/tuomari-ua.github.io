@@ -750,69 +750,69 @@
 		},
 		{
 			"name": "Ухилення",
-			"desc": "If [MON] is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, [MON] instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+			"desc": "Якщо [MON] є ціллю ефекта, який дозволяє зробити рятівний кидок Спритності для отримання половини ушкоджень, [MON] натомість зовсім не отримує ушкоджень за умови успішного рятівного кидка, і отримує половину, якщо зазнає невдачі."
 		},
 		{
 			"name": "Фальшива зовнішність",
-			"desc": "While [MON] remains motionless, it is indistinguishable from ???."
+			"desc": "Поки [MON] залишається непорушним, його неможливо відрізнити від ???."
 		},
 		{
 			"name": "Аура страху",
-			"desc": "Any creature hostile to [MON] that starts its turn within ??? feet of [MON] must make a DC ??? Wisdom saving throw, unless [MON] is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to [MON]'s Fear Aura for the next 24 hours."
+			"desc": "Будь-яка істота, ворожа до [MON], що починає свій хід у межах ??? футів від [MON], повинна зробити рятівний кидок Мудрості з КС ???, якщо тільки [MON] не недієздатний. У разі невдачі істот налякана до кінця свого наступного ходу. Якщо рятівний кидок успішний, істота має імунітет до аури страху [MON] на наступні 24 години."
 		},
 		{
-			"name": "Fey Ancestry",
-			"desc": "[MON] has advantage on saving throws against being charmed, and magic can't put [MON] to sleep."
+			"name": "Спадщина фей",
+			"desc": "[MON] має перевагу на рятівні кидки проти причарування, і магія не може приспати [MON]."
 		},
 		{
 			"name": "Пролітання",
-			"desc": "[MON] doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+			"desc": "[MON] не провокує атаки при нагоді, коли відлітає за межі досяжності ворога."
 		},
 		{
 			"name": "Свобода рухів",
-			"desc": "[MON] ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled."
+			"desc": "[MON] ігнорує важкопрохідну місцевість, і магічні ефекти не можуть зменшити його швидкість чи зробити його скутим. Він може витратити 5 футів переміщення, щоб уникнути магічних пут чи схоплення."
 		},
 		{
 			"name": "Загрозлива присутність (дія)",
 			"realname": "Загрозлива присутність",
-			"desc": "Each creature of [MON]'s choice that is within 120 feet of [MON] and aware of it must succeed on a DC ??? Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to [MON]'s Frightful Presence for the next 24 hours."
+			"desc": "Кожна істота за вибором [MON], що перебуває у межах 120 футів від [MON] і свідома його присутності, повинна зробити рятівний кидок Мудрості з КС ???, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок у кінці кожного свого ходу, завершуючи ефект в разі успіху. Якщо рятівний кидок істоти успішний або ефект для неї завершився, ця істота отримує імунітет до загрозливої присутності [MON] на наступні 24 години."
 		},
 		{
 			"name": "Гномська хитрість",
-			"desc": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+			"desc": "Гном має перевагу на рятівні кидки Інтелекту, Мудрості та Харизми проти магії."
 		},
 		{
 			"name": "Схоплювач",
-			"desc": "[MON] has advantage on attack rolls against any creature grappled by it."
+			"desc": "[MON] має перевагу на кидки атаки проти будь-якої істоти, яку схопив."
 		},
 		{
 			"name": "Цілющий дотик (дія)",
-			"realname": "Healing Touch (???/day)",
-			"desc": "[MON] touches another creature. The target magically regains [???D??? + ???] hit points and is freed from any curse, disease, poison, blindness, or deafness."
+			"realname": "Цілющий дотик (???/день)",
+			"desc": "[MON] торкається іншої істоти. Ціль магічним чином відновлює [???D??? + ???] пунктів здоров'я і звільняється від будь-якого прокляття, хвороби, отрути, сліпоти чи глухоти."
 		},
 		{
 			"name": "Моторність напіврослика",
-			"desc": "The halfling can move through the space of any creature that is of a size larger than its own."
+			"desc": "Напіврослик може переміщуватися крізь простір будь-якої істоти, чий розмір більший за його."
 		},
 		{
 			"name": "Гаряче тіло",
-			"desc": "A creature that touches [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] ушкоджень вогнем."
+			"desc": "Істота, яка торкається [MON] чи влучає по ньому атакою ближнього бою, перебуваючи у межах ??? футів, отримує [???D???] ушкоджень вогнем."
 		},
 		{
 			"name": "Гаряча зброя",
-			"desc": "Any metal melee weapon [MON] wields deals an extra [???D???] ушкоджень вогнем on a hit (included in the attack)."
+			"desc": "Будь-яка металева зброя ближнього бою, яку тримає [MON], завдає додатково [???D???] ушкоджень вогнем у разі влучання (включені в атаку)."
 		},
 		{
 			"name": "Пекельна зброя",
-			"desc": "[MON]'s weapon attacks are magical and deal an extra [???D???] ушкоджень отрутою on a hit (included in the attacks)."
+			"desc": "Атаки [MON] зброєю є магічними та завдають додатково [???D???] ушкоджень отрутою у разі влучання (включені в атаку)."
 		},
 		{
 			"name": "Затримка дихання",
-			"desc": "[MON] can hold its breath for ???."
+			"desc": "[MON] може затримувати дихання на ???."
 		},
 		{
 			"name": "Крижана хода",
-			"desc": "[MON] can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
+			"desc": "[MON] може рухатися через та сходити по крижаних поверхняхcan move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
 		},
 		{
 			"name": "Освітлення",
