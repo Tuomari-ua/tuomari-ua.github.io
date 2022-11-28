@@ -7,7 +7,7 @@ var mon = {
     tag: "",
     alignment: "будь-який світогляд",
     hitDice: 5,
-    armorName: "none",
+    armorName: "немає",
     shieldBonus: 0,
     natArmorBonus: 3,
     otherArmorDesc: "10 (броня)",
@@ -1167,7 +1167,7 @@ var GetVariablesFunctions = {
             // If we have a shield and nothing else
             if (armorDescData.length == 1 && armorDescData[0].trim() == "shield") {
                 mon.shieldBonus = 2;
-                mon.armorName = "none";
+                mon.armorName = "немає";
             } else {
                 // If we have a shield in addition to something else
                 if (armorDescData.length > 1) {
@@ -1181,14 +1181,14 @@ var GetVariablesFunctions = {
                 }
 
                 // Is it natural armor?
-                if (mon.armorName == "natural armor") {
-                    let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("none");
+                if (mon.armorName == "природна броня") {
+                    let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("немає");
                     if (natArmorBonusCheck > 0)
                         mon.natArmorBonus = natArmorBonusCheck;
 
                     // Weird edge case where the monster has a natural armor bonus of <= 0
                     else
-                        mon.armorName = "other";
+                        mon.armorName = "інше";
                 }
 
                 // Is it another type of armor we know?
@@ -1196,18 +1196,18 @@ var GetVariablesFunctions = {
                     mon.armorName = armorDescData[0].trim();
 
                 // Is it mage armor?
-                else if (mon.armorName.includes("mage armor"))
-                    mon.armorName = "mage armor";
+                else if (mon.armorName.includes("магічна броня"))
+                    mon.armorName = "магічна броня";
 
                 // We have no idea what this armor is
                 else
-                    mon.armorName = "other";
+                    mon.armorName = "інше";
             }
         } else
-            mon.armorName = (armorAcData == MathFunctions.GetAC("none") ? "none" : "other");
+            mon.armorName = (armorAcData == MathFunctions.GetAC("немає") ? "немає" : "інше");
 
         // In case it's an unknown armor type
-        if (mon.armorName == "other") {
+        if (mon.armorName == "інше") {
             if (armorDescData)
                 mon.otherArmorDesc = armorDescData[0].includes("(") ? armorDescData :
                     armorAcData + " (" + armorDescData + ")";
@@ -1646,13 +1646,13 @@ var StringFunctions = {
 
     // Get the string displayed for the monster's AC
     GetArmorData: function () {
-        if (mon.armorName == "other")
+        if (mon.armorName == "інше")
             return mon.otherArmorDesc;
-        if (mon.armorName == "mage armor") {
+        if (mon.armorName == "магічна броня") {
             let mageAC = MathFunctions.GetAC(mon.armorName);
             return mageAC + " (" + (mon.shieldBonus > 0 ? "щит, " : "") + (mageAC + 3) + " з _обладунками мага_)";
         }
-        if (mon.armorName == "none")
+        if (mon.armorName == "немає")
             return MathFunctions.GetAC(mon.armorName) + (mon.shieldBonus > 0 ? " (щит)" : "");
         return this.GetArmorString(mon.armorName, MathFunctions.GetAC(mon.armorName));
     },
@@ -1909,8 +1909,8 @@ var MathFunctions = {
             if (armor.type == "light") return armor.ac + dexBonus + mon.shieldBonus;
             if (armor.type == "medium") return armor.ac + Math.min(dexBonus, 2) + mon.shieldBonus;
             if (armor.type == "heavy") return armor.ac + mon.shieldBonus;
-            if (armorNameCheck == "natural armor") return 10 + dexBonus + mon.natArmorBonus + mon.shieldBonus;
-            if (armorNameCheck == "other") return "other";
+            if (armorNameCheck == "природна броня") return 10 + dexBonus + mon.natArmorBonus + mon.shieldBonus;
+            if (armorNameCheck == "інше") return "інше";
         }
         return 10 + dexBonus + mon.shieldBonus;
     },
