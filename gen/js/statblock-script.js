@@ -694,9 +694,9 @@ var FormFunctions = {
     },
     ShowHideOtherArmor: function () {
         $("#natarmor-prompt, #otherarmor-prompt").hide();
-        if ($("#armor-input").val() == "natural armor")
+        if ($("#armor-input").val() == "природна броня")
             $("#natarmor-prompt").show();
-        else if ($("#armor-input").val() == "other")
+        else if ($("#armor-input").val() == "інше")
             $("#otherarmor-prompt").show();
     },
     ShowHideCustomSpeed: function () {
