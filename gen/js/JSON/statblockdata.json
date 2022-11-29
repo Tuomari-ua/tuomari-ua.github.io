@@ -326,64 +326,64 @@
 		}
 	},
 	"armors": {
-		"none": {
+		"немає": {
 			"type": "special"
 		},
-		"natural armor": {
+		"природна броня": {
 			"type": "special"
 		},
-		"mage armor": {
+		"магічна броня": {
 			"type": "special"
 		},
-		"padded armor": {
+		"гамбесон": {
 			"type": "light",
 			"ac": 11
 		},
-		"leather armor": {
+		"шкіряна броня": {
 			"type": "light",
 			"ac": 11
 		},
-		"studded leather": {
+		"шипована шкіра": {
 			"type": "light",
 			"ac": 12
 		},
-		"hide armor": {
+		"шкура": {
 			"type": "medium",
 			"ac": 12
 		},
-		"chain shirt": {
+		"кольчужна сорочка": {
 			"type": "medium",
 			"ac": 13
 		},
-		"scale mail": {
+		"луската броня": {
 			"type": "medium",
 			"ac": 14
 		},
-		"breastplate": {
+		"нагрудник": {
 			"type": "medium",
 			"ac": 14
 		},
-		"half plate": {
+		"напівлати": {
 			"type": "medium",
 			"ac": 15
 		},
-		"ring mail": {
+		"байдана": {
 			"type": "heavy",
 			"ac": 14
 		},
-		"chain mail": {
+		"кольчуга": {
 			"type": "heavy",
 			"ac": 16
 		},
-		"splint": {
+		"бригантина": {
 			"type": "heavy",
 			"ac": 17
 		},
-		"plate": {
+		"лати": {
 			"type": "heavy",
 			"ac": 18
 		},
-		"other": {
+		"інше": {
 			"type": "special"
 		}
 	},
