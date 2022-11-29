@@ -22,5 +22,7 @@ layout: page
 - Iryna Liut
 - Ariedov
 - nyurch
+- Shakigen
+- Євген Мокеєв
 
 Cписок доповнюється
