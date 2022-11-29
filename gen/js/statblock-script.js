@@ -391,7 +391,7 @@ function ReplaceTags(desc) {
                             let splitRoll = roll.split("d"),
                                 multiplier = splitRoll[0].length > 0 ? parseInt(splitRoll[0]) : 1,
                                 dieSize = parseInt(splitRoll[1]);
-                            replaceString = Math.max(Math.floor(multiplier * ((dieSize + 1) / 2) + bonus), 1) + " (" + multiplier + "d" + dieSize;
+                            replaceString = Math.max(Math.floor(multiplier * ((dieSize + 1) / 2) + bonus), 1) + " (" + multiplier + "к" + dieSize;
                             replaceString += bonus > 0 ?
                                 " + " + bonus : bonus < 0 ?
                                     " - " + -bonus : "";
