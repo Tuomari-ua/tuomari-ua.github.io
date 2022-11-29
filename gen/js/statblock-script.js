@@ -1182,7 +1182,11 @@ var GetVariablesFunctions = {
 
                 // Is it natural armor?
                 if (mon.armorName == "natural armor") {
+<<<<<<< HEAD
                     let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("none");
+=======
+                    let natArmorBonusCheck = armorAcData - MathFunctions.GetAC("немає");
+>>>>>>> parent of 8329647 (fix armor)
                     if (natArmorBonusCheck > 0)
                         mon.natArmorBonus = natArmorBonusCheck;
 
