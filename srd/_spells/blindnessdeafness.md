@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 2
-classes: bard
-         cleric
-         sorcerer
-         wizard
-title: Blindness/Deafness 
+classes: bard, cleric, sorcerer, wizard
+title: Cліпота/глухота [Blindness/Deafness]
 ---
-_2nd-level necromancy_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V   
-**Duration:** 1 minute 
-You can blind or deafen a foe. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, the target is either blinded or deafened (your choice) for the duration. At the end of each of its turns, the target can make a Constitution saving throw. On a success, the spell ends. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. 
+
+_Некромантія, 2 рівень; бард, клірик, заклинач, маг_    
+**Час створення:** 1 дія   
+**Відстань:** 30 футів   
+**Складові:** В   
+**Тривалість:** 1 хвилина   
+
+Ви можете засліпити ворога або оглушити його. Виберіть одну істоту, яку бачите в межах відстані, для здійснення рятівного кидка Статури. У разі невдачі ціль стає осліпленою або оглухлою (ваш вибір) на час дії чарів. Наприкінці кожного свого ходу ціль може здійснювати рятівні кидки Статури. У разі успіху чари закінчуються.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3-го рівня або вищої, ви можете обрати одну додаткову істоту за кожен рівень чарунки вище другої.

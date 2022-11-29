@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 3
-classes: sorcerer
-         wizard
-title: Blink 
+classes: sorcerer, wizard
+title: Мерехтіння [Blink]
 ---
-_3rd-level transmutation_ 
-**Casting Time:** 1 action   
-**Range:** Self   
-**Components:** V, S   
-**Duration:** 1 minute 
-Roll a d20 at the end of each of your turns for the duration of the spell. On a roll of 11 or higher, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near). You can dismiss this spell as an action.    
-While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so. 
+
+_Перетворення, 3 рівень; заклинач, маг_    
+**Час створення:** 1 дія   
+**Відстань:** На себе   
+**Складові:** В, С   
+**Тривалість:** 1 хвилина   
+
+Поки діють чари, кидайте к20 в кінці кожного свого ходу. Якщо випаде «11» або вище, ви зникаєте з поточного плану існування та з'являєтеся на Етерному Плані (чари не мають жодного ефекту, якщо ви вже на цьому плані). На початку наступного ходу, а також коли чари закінчаться, якщо ви перебуваєте на Етерному Плані, ви повертаєтеся у вільний простір за власним вибором, який ви можете бачити в межах 10 футів від того місця, з якого ви зникли. Якщо в межах відстані немає вільного простору, ви з'являєтеся у найближчому вільному просторі (який обирається випадковим чином, якщо є кілька однаково віддалених місць). Ви можете зупинити чари дією.    
+
+Перебуваючи на Етерному Плані, ви можете бачити і чути план, з якого прийшли, бачачи все у відтінках сірого, і ви не бачите нічого далі 60 футів. Ви можете впливати та зазнаєте впливу лише тих істот, що перебувають на Етерному плані. Істоти, яких там немає, не можуть сприймати вас або взаємодіяти з вами, якщо тільки вони не мають для цього здатності.

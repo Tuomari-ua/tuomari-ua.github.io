@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 1
-classes: cleric
-         paladin
-title: Bless 
+classes: cleric, paladin
+title: Благословення [Bless]
 ---
-_1st-level enchantment_ 
-**Casting Time:** 1 action   
-**Range:** 30 feet   
-**Components:** V, S, M (a sprinkling of holy water)    
-**Duration:** Concentration, up to 1 minute 
-You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. 
+
+_Зачарування, 1 рівень; клірик, паладин_    
+**Час створення:** 1 дія   
+**Відстань:** 30 feet   
+**Складові:** В, С, М (бризки святої води)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви благословляєте до трьох істот на свій вибір у межах відстані. Щоразу, коли ціль робить кидок атаки або рятівний кидок до закінчення дії чарів, ціль може кинути 1к4 і додати число, що випало, до кидка атаки або рятівного кидка.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2-го рівня або вищої, ви можете обрати одну додаткову істоту за кожен рівень чарунки вище першої.
