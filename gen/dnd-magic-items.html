@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Генератор магічних предметів</title>
+    <link rel="shortcut icon" type="image/x-icon" href="./public/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/dnd-style.css">
+    <link rel="stylesheet" type="text/css" href="css/dnd-rwd.css">
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/magic-item-script.js"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3YDX4S83WP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3YDX4S83WP');
+</script>
+
+</head>
+
+<body id="magic-items-body">
+    <div class="container">
+        <div class="content">
+            <div style="text-align: center;"><a href="dnd-reference.html">Можливості персонажа</a> - <a href="dnd-char-gen.html">Створення персонажа</a> - <b>Генератор магічних предметів</b> - <a href="dnd-statblock.html">Генератор монстрів</a></div><br>
+            <h1>Генератор випадкових магічних предметів</h1>
+            <br>
+            <div style="text-align: center;"><button onclick="GenerateHomebrew()">Створити (з усіх джерел) </button> <button onclick="GenerateDMG()">Створити (за Посібником майстра)</button></div>
+            <br>
+            <div id="magic-items-list" style="min-height: 25rem;"></div>
+           <div class="footer"><a href="https://github.com/Tetra-cube/Tetra-cube.github.io">Генератор взято тут</a></div>
+        </div>
+    </div>
+</body>
+
+</html>
