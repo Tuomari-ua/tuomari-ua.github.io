@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
-classes: sorcerer
-         wizard
-title: Blur 
+classes: sorcerer, wizard
+title: Розмиття [Blur]
 ---
-_2nd-level illusion_ 
-**Casting Time:** 1 action   
-**Range:** Self   
-**Components:** V   
-**Duration:** Concentration, up to 1 minute   
-Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight. 
+
+_Ілюзія, 2 рівень; заклинач, маг_    
+**Час створення:** 1 дія   
+**Відстань:** На себе   
+**Складові:** В   
+**Тривалість:** Концентрація, до 1 хвилини   
+
+Ваш образ стає розмитим, зміщується та коливається для всіх, хто може вас бачити. Поки діють чари, всі істоти мають перешкоду на кидки атаки проти вас. Нападник має імунітет до цього ефекту, якщо він не покладається на зір, як зі сліпим зором, або може бачити крізь ілюзії, як із істинним зором. 

@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
 classes: paladin
-title: Branding Smite
+title: Таврувальна кара [Branding Smite]
 ---
-_2nd-level evocation_
-**Casting Time:** 1 bonus action
-**Range:** Self
-**Components:** V
-**Duration:** Concentration, up to 1 minute
-The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
+
+_Втілення, 2 рівень; паладин_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** На себе    
+**Складові:** В    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Наступного разу, коли ви влучите по істоті зброєю до завершення дії чарів, зброя зблискує астральним сяйвом. Атака завдає цілі додаткові 2к6 променистих ушкоджень, ціль стає видимою, якщо була невидима, і випромінює тьмяне світло в радіусі 5 футів, а також не може стати невидимою, доки не закінчиться чари.    
+
+**На вищих рівнях:** Коли ви створюєте ці чари з використанням чарунки 3-го рівня або вищої, додаткові ушкодження збільшуються на 1к6 за кожен рівень чарунки вище другої.
