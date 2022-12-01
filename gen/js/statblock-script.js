@@ -391,7 +391,7 @@ function ReplaceTags(desc) {
                             let splitRoll = roll.split("d"),
                                 multiplier = splitRoll[0].length > 0 ? parseInt(splitRoll[0]) : 1,
                                 dieSize = parseInt(splitRoll[1]);
-                            replaceString = Math.max(Math.floor(multiplier * ((dieSize + 1) / 2) + bonus), 1) + " (" + multiplier + "d" + dieSize;
+                            replaceString = Math.max(Math.floor(multiplier * ((dieSize + 1) / 2) + bonus), 1) + " (" + multiplier + "к" + dieSize;
                             replaceString += bonus > 0 ?
                                 " + " + bonus : bonus < 0 ?
                                     " - " + -bonus : "";
@@ -439,7 +439,7 @@ function BuildMarkdown(isV3Markdown) {
 
     markdownLines.push(
         `## ${mon.name}`,
-        `*${StringFunctions.StringCapitalize(mon.size)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
+        `*${StringFunctions.StringCapitalize(data.sizes[mon.size].localizedName)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
         `___`,
         PrintMarkdownProperty(isV3Markdown, "Клас захисту", StringFunctions.FormatString(StringFunctions.GetArmorData())),
         PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()), 
@@ -458,7 +458,7 @@ function BuildMarkdown(isV3Markdown) {
     }
 
     markdownLines.push(
-        PrintMarkdownProperty(isV3Markdown, "Небезпека", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} XP)`),
+        PrintMarkdownProperty(isV3Markdown, "Небезпека", mon.cr == "*" ? mon.customCr : `${mon.cr} (${data.crs[mon.cr].xp} ПД)`),
         "___");
 
     AddMarkdownTraitSection(markdownLines, isV3Markdown, null, mon.abilities);
