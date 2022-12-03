@@ -175,7 +175,11 @@ function UpdateStatblock(moveSeparationPoint) {
 
     // Name and type
     $("#monster-name").html(StringFunctions.RemoveHtmlTags(mon.name));
-    $("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(mon.type + " " data.sizes[mon.size].localizedName) + (mon.tag == "" ? ", " : " (" + mon.tag + "), ") + mon.alignment));
+    //$("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(data.sizes[mon.size].localizedName) + " " + mon.type +
+//        (mon.tag == "" ? ", " : " (" + mon.tag + "), ") + mon.alignment));
+$("#monster-type").html(StringFunctions.StringCapitalize(StringFunctions.RemoveHtmlTags(mon.type + " " + data.sizes[mon.size].localizedName) + " розміру" + 
+(mon.tag == "" ? ", " : " (" + mon.tag + "), ") + mon.alignment));
+
 
     // Armor Class
     $("#armor-class").html(StringFunctions.FormatString(StringFunctions.RemoveHtmlTags(StringFunctions.GetArmorData())));
