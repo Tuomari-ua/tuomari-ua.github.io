@@ -148,27 +148,27 @@
 	"sizes": {
 		"tiny": {
 			"hitDie": 4,
-			"localizedName": "Крихітний"
+			"localizedName": "крихітного розміру"
 		},
 		"small": {
 			"hitDie": 6,
-			"localizedName": "Малий"
+			"localizedName": "малого розміру"
 		},
 		"medium": {
 			"hitDie": 8,
-			"localizedName": "Середній"
+			"localizedName": "середнього розміру"
 		},
 		"large": {
 			"hitDie": 10,
-			"localizedName": "Великий"
+			"localizedName": "великого розміру"
 		},
 		"huge": {
 			"hitDie": 12,
-			"localizedName": "Величезний"
+			"localizedName": "величезного розміру"
 		},
 		"gargantuan": {
 			"hitDie": 20,
-			"localizedName": "Гігантський"
+			"localizedName": "гігантського розміру"
 		}
 	},
 	"types": [
