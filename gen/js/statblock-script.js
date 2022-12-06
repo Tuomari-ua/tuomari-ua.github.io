@@ -444,7 +444,7 @@ function BuildMarkdown(isV3Markdown) {
         `## ${mon.name}`,
         //`*${StringFunctions.StringCapitalize(data.sizes[mon.size].localizedName)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
         //`___`,
-		`*${StringFunctions.StringCapitalize(mon.type $ {mon.tag !="" ? ` (${mon.tag})` : ""} ${(data.sizes[mon.size].localizedName) : "розміру"}, ${mon.alignment}*`,
+		`*${StringFunctions.StringCapitalize({mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}) $(data.sizes[mon.size].localizedName)} ${mon.alignment}*`,
 	`___`,
         PrintMarkdownProperty(isV3Markdown, "Клас захисту", StringFunctions.FormatString(StringFunctions.GetArmorData())),
         PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()), 
