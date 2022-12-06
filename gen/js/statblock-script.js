@@ -442,10 +442,8 @@ function BuildMarkdown(isV3Markdown) {
 
     markdownLines.push(
         `## ${mon.name}`,
-        //`*${StringFunctions.StringCapitalize(data.sizes[mon.size].localizedName)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
-        //`___`,
-		`*${StringFunctions.StringCapitalize({mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}) $(data.sizes[mon.size].localizedName)} ${mon.alignment}*`,
-	`___`,
+        `*${StringFunctions.StringCapitalize(data.sizes[mon.size].localizedName)} ${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""}, ${mon.alignment}*`,
+        `___`,
         PrintMarkdownProperty(isV3Markdown, "Клас захисту", StringFunctions.FormatString(StringFunctions.GetArmorData())),
         PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()), 
         PrintMarkdownProperty(isV3Markdown, "Швидкість", StringFunctions.GetSpeed()),
