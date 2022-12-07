@@ -442,10 +442,10 @@ function BuildMarkdown(isV3Markdown) {
 
     markdownLines.push(
         `## ${mon.name}`,
-        `*${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""} ${StringFunctions.StringCapitalize(data.sizes[mon.size].localizedName)} розміру, ${mon.alignment}*`,
+        `*${mon.type}${mon.tag != "" ? ` (${mon.tag})`  : ""} ${data.sizes[mon.size].localizedName} розміру, ${mon.alignment}*`,
         `___`,
         PrintMarkdownProperty(isV3Markdown, "Клас захисту", StringFunctions.FormatString(StringFunctions.GetArmorData())),
-        PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()), 
+        PrintMarkdownProperty(isV3Markdown, "Пункти здоров'я", StringFunctions.GetHP()),
         PrintMarkdownProperty(isV3Markdown, "Швидкість", StringFunctions.GetSpeed()),
         `___`);
     AddMarkdownAttributesTable(markdownLines);
