@@ -1,17 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 3
 classes: druid
-title: Call Lightning 
+title: Накликання блискавки [Call Lightning]
 ---
-_3rd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet   
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-A storm cloud appears in the shape of a cylinder that is 10 feet tall with a 60-foot radius, centered on a point you can see 100 feet directly above you. The spell fails if you can't see a point in the air where the storm cloud could appear (for example, if you are in a room that can't accommodate the cloud).    
-When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 5 feet of that point must make a Dexterity saving throw. A creature takes 3d10 lightning damage on a failed save, or half as much damage on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning in this way again, targeting the same point or a different one.    
-If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd. 
+
+_З'явлення, 3 рівень; друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів   
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 10 хвилин    
+Грозова хмара у формі циліндра заввишки 10 футів та з радіусом 60 футів з'являється із центром у точці, яку ви бачите на відстані 100 футів прямо над собою. Чари провалюються, якщо ви не бачите в повітрі точку, де має з'явитися грозова хмара (наприклад, якщо ви перебуваєте в кімнаті, яка не може вмістити хмару).    
+Створюючи чари, виберіть точку, яку ви можете бачити в межах відстані. Заряд блискавки злітає з хмари до вказаної точки. Кожна істота в межах 5 футів від цієї точки повинна зробити рятівний кидок Спритності. Істота отримує 3к10 ушкоджень блискавкою у разі невдачі або половину цих ушкоджень у разі успіху. Поки діють чари, у кожен свій хід ви можете дією знову накликати блискавку таким самим чином у ту саму точку або в іншу.    
+Якщо під час створення цих чарів ви перебуваєте на відкритому повітрі в грозову погоду, чари дають вам контроль над наявною грозою замість створення нової. За таких умов ушкодження від чарів збільшуються на 1к10. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4-го рівня або вищої, ушкодження збільшуються на 1к10 за кожен рівень чарунки вище третьої. 
