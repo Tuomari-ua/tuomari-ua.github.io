@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 5
 classes: cleric
-title: Commune 
+title: Звернення [Commune]
 ---
-_5th-level divination (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Self    
-**Components:** V, S, M (incense and a vial of holy or unholy water)    
-**Duration:** 1 minute 
-You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.    
-Divine beings aren't necessarily omniscient, so you might receive "unclear" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the GM might offer a short phrase as an answer instead.    
-If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The GM makes this roll in secret. 
+
+_Віщування, 5 рівень [ритуал]; клірик_     
+**Час створення:** 1 хвилина    
+**Відстань:** На себе    
+**Складові:** В, С, М (ладан і флакон зі святою або нечистивою водою)    
+**Тривалість:** 1 хвилина    
+
+Ви зв’язуєтеся зі своїм божеством або божественним представником і ставите до трьох запитань, на які можна відповісти «так» або «ні». Ви повинні поставити свої запитання до закінчення дії чарів. На кожне запитання ви отримуєте правильну відповідь.    
+
+Божественні істоти не обов’язково всезнаючі, тому ви можете отримати відповідь «незрозуміло», якщо запитання стосується інформації, яка лежить за межами знань божества. У випадку, коли однослівна відповідь може ввести в оману або суперечити інтересам божества, Майстер може запропонувати натомість коротку фразу.    
+
+Якщо ви використаєте чари двічі або більше, перш ніж закінчите наступний тривалий відпочинок, існує накопичувальний 25-відсотковий шанс для кожного використання після першого, що ви не отримаєте відповіді. Майстер робить кидок таємно. 
