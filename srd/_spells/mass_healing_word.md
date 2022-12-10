@@ -2,7 +2,7 @@
 category: spells
 layout: page
 tag: Evocation
-level: 23
+level: 3
 classes: cleric
 title: Mass Healing Word 
 ---

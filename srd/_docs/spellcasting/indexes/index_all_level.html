@@ -7,7 +7,7 @@ title: Чари за рівнями
 {% assign groups = site.spells | group_by: "level" | uniq | sort: "tag" %}
 {% for group in groups %}
       <h3>{{ group.name }}</h3>
-  <ul>
+  <ul style="column-count: 3">
     {% for item in group.items %}
            <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
     {%endfor%}
