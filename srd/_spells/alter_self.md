@@ -4,7 +4,7 @@ layout: page
 level: 2
 tag: Перетворення
 classes: sorcerer, wizard
-title: Зміна вигляду [alter self]
+title: Зміна вигляду [Alter self]
 ---
 
 *Перетворення, 2 рівень; заклинач, маг*  

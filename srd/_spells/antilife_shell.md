@@ -4,7 +4,7 @@ layout: page
 level: 5
 tag: Перешкоджання
 classes: druid
-title: Мушля проти живих [antilife shell] 
+title: Мушля проти живих [Antilife shell] 
 ---
 _Перешкоджання, 5 рівень; друїд_   
 **Час створення:** 1 дія   

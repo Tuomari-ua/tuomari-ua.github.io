@@ -4,7 +4,7 @@ layout: page
 tag: Зачарування
 level: 1
 classes: bard, druid, ranger
-title: Дружба з тваринами [animal friendship]
+title: Дружба з тваринами [Animal friendship]
 ---
 
 _Зачарування, 1 рівень; бард, друїд, рейнджер_  

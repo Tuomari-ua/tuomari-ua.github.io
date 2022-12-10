@@ -4,7 +4,7 @@ layout: page
 level: 8
 tag: Перешкоджання
 classes: cleric, wizard
-title: Антимагічна сфера [antimagic field]
+title: Антимагічна сфера [Antimagic field]
 ---
 _Перешкоджання, 8 рівень; клірик, маг_    
 **Час створення:** 1 дія    
