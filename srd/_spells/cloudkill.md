@@ -1,18 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 5
-classes: sorcerer
-         wizard
-title: Cloudkill 
+classes: sorcerer, wizard
+title: Вбивча хмара [Cloudkill]
 ---
-_5th-level conjuration_  
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S   
-**Duration:** Concentration, up to 10 minutes 
-You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.    
-When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.    
-The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th. 
+
+_З'явлення, 5 рівень; заклинач, маг_  
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 10 хвилин  
+
+Ви створюєте сферу радіусом 20 футів з отруйного жовто-зеленого туману з центром в обраній вами точці в межах відстані. Цей туман огинає кути. Він існує, поки чари активні, або поки сильний вітер не розвіє його, припиняючи дію чарів. Область туману є слабопроглядною.    
+
+Коли істота вперше за хід входить в область чарів або починає там хід, вона повинна зробити рятівний кидок Статури. Істота отримує 5к8 ушкоджень отрутою у разі невдачі або половину цих ушкоджень у разі успіху. Істоти піддаються впливу чарів, навіть якщо вони затримують дихання або не дихають.    
+
+Туман рухається на 10 футів від вас на початку кожного вашого ходу, перекочуючись по землі. Оскільки ці випаровування є важчими за повітря, вони опускаються на найнижчий рівень землі й навіть можуть проникати скрізь отвори.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ушкодження збільшуються на 1к8 за кожну чарунку вище п'ятої. 

@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 1
-classes: sorcerer
-         wizard
-title: Color Spray 
+classes: sorcerer, wizard
+title: Кольорові бризки [Color Spray]
 ---
-_1st-level illusion_ 
-**Casting Time:** 1 action   
-**Range:** Self (15-foot cone)   
-**Components:** V, S, M (a pinch of powder or sand that is colored red, yellow, and blue)    
-**Duration:** 1 round 
-A dazzling array of flashing, colored light springs from your hand. Roll 6d10; the total is how many hit points of creatures this spell can effect. Creatures in a 15-foot cone originating from you are affected in ascending order of their current hit points (ignoring unconscious creatures and creatures that can't see).    
-Starting with the creature that has the lowest current hit points, each creature affected by this spell is blinded until the spell ends. Subtract each creature's hit points from the total before moving on to the creature with the next lowest hit points. A creature's hit points must be equal to or less than the remaining total for that creature to be affected. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, roll an additional 2d10 for each slot level above 1st. 
+
+_Ілюзія, 1 рівень; заклинач, маг_    
+**Час створення:** 1 дія   
+**Відстань:** На себе(15-футовий конус)   
+**Складові:** В, С, М (дрібка порошку або піску, пофарбованого в червоний, жовтий та синій колір)    
+**Тривалість:** 1 раунд   
+
+З вашої руки злітає сліпуче мерехтливе різнокольорове світло. Киньте 6к10; це сума пунктів здоров'я істот, на яких можуть подіяти ці чари. Істоти в 15-футовому конусі, що йде від вас, потрапляють під ефект в порядку зростання їхніх поточних пунктів здоров’я (не враховуючи непритомних істот та істот, які не можуть бачити).    
+
+Починаючи з істоти, яка має найнижчі поточні пункти здоров’я, кожна істота, на яку впливають ці чари, стає осліпленою до завершення дії чарів. Відніміть пункти здоров'я кожної істоти, яка потрапила під дію чарів, від загальної кількості, перш ніж перейти до наступної істоти. Пункти здоров'я істоти повинні дорівнювати або бути меншими за загальну кількість, що залишилася, щоб чари подіяли на неї.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, кидайте додатково 2к10 за кожну чарунку вище першої. 
