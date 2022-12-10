@@ -1,19 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 1
-classes: bard
-         druid
-         sorcerer
-         warlock
-         wizard
-title: Charm Person 
+classes: bard, druid, sorcerer, warlock, wizard
+title: Причарувати особу [Charm Person]
 ---
-_1st-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 1 hour 
-You attempt to charm a humanoid you can see within range. It must make a Wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them. 
+
+_Зачарування, 1 рівень; бард, друїд, заклинач, чаклун, маг_     
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С    
+**Тривалість:** 1 година    
+
+Ви намагаєтеся причарувати гуманоїда, якого бачите в межах відстані. Він повинен зробити рятівний кидок Мудрості, і має перевагу на цей кидок, якщо ви або ваші супутники б'єтеся із ним. У разі невдачі гуманоїд причарований вами до кінця дії чарів, або поки ви чи ваші супутники не завдасте йому шкоди. Причарована істота вважає вас своїм дружнім знайомим. Коли чари закінчуються, істота знає, що була причарована вами.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище першої. Ці істоти повинні перебувати в межах 30 футів одна від одної, коли ви націлюєтеся на них. 

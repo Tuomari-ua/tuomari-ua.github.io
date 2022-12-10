@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 2
-classes: bard
-         cleric
-title: Calm Emotions 
+classes: bard, cleric
+title: Вгамувати емоції [Calm Emotions]
 ---
-_2nd-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet   
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects.    
-You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.   
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise. 
+
+_Зачарування, 2 рівень; бард, клірик_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів   
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви намагаєтеся придушити сильні емоції у групи людей. Кожен гуманоїд у радіусі 20 футів із центром у обраній вами точці в межах відстані повинен зробити рятівний кидок Харизми; істота може добровільно провалити цей рятівний кидок, якщо забажає. Якщо істота провалює рятівний кидок, оберіть один із двох наведених нижче ефектів:    
+
+Ви можете придушити будь-який ефект, який змушує ціль бути причарованою або наляканою. Коли ці чари закінчуються, всі придушені ефекти відновлюються за умови, що за цей час їхня дія не закінчилася.   
+
+Альтернативно, ви можете зробити ціль байдужою до обраних вами істот, до яких вона ставилася вороже. Ця байдужість припиняється, якщо ціль атакувати або уразити чарами, або якщо вона стає свідком, як шкодять комусь із її друзів. Коли чари закінчуються, істота стає знову ворожою, якщо Майстер не вирішить інакше. 
