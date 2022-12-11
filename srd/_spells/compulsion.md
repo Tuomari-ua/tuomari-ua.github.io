@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 4
 classes: bard
-title: Compulsion 
+title: Примушування [Compulsion]
 ---
-_4th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect.    
-A target isn't compelled to move into an obviously deadly hazard, such as a fire or pit, but it will provoke opportunity attacks to move in the designated direction.
+
+_Зачарування, 4 рівень; бард_     
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Істоти за вашим вибором, яких ви бачите в межах відстані та які чують вас, повинні зробити рятівний кидок Мудрості. Ціль автоматично досягає успіху, якщо не може бути причарованою. У разі невдалого ряткидка ціль опиняється під дією чарів. Доки чари не закінчаться, ви можете використовувати бонусну дію в кожний свій хід, щоб визначити напрямок, який розташований по горизонталі відносно вас. Кожна уражена ціль повинна використовувати усе своє переміщення, щоб рухатися в цьому напрямку під час свого наступного ходу. Перед переміщенням ціль може здійснити свої дії. Після переміщення у вказаному напрямку ціль може зробити рятівний кидок Мудрості, щоб спробувати закінчити цей ефект.    
+
+Ціль не зобов'язана переміщуватися у явно небезпечне місце, таке як багаття чи яма, але вона провокує атаки при нагоді, коли йде у зазначеному напрямі.
