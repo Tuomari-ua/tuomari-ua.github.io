@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Animated Armor
-type: Construct
+title: Оживлений обладунок
+type: Конструкт
 tag: 1
 ---
-_Medium construct, unaligned_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 25 ft. 
+_Середній конструкт, невизначений_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 14 (+2)  | 11 (+0) | 13 (+1)  | 1 (-5)  | 3 (-4)  | 1 (-5)  |
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 33 (6к8 + 6)    
+**Швидкість** 25 ф.
 
-**Damage Immunities** poison, psychic    
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
-**Antimagic Susceptibility.** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.    
-**False Appearance.** While the armor remains motionless, it is indistinguishable from a normal suit of armor. 
+**Імунітет до ушкоджень** отрута, психічна енергія    
+**Імунітет до станів** осліплений, зачарований, оглухлий, виснажений, наляканий, паралізований, скам'янілий, отруєний    
+** Чуття ** Сліпий зір 60 фт (сліпий поза цими межами), пасивне Сприйняття 6    
+**Мови** -    
+**Небезпека** 1 (200 ПД)
 
-### Actions 
-**Multiattack.** The armor makes two melee attacks.    
-**Slam.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+**Антимагічна чутливість.** Обладунок є недієздатним під час перебування в зоні дії антимагічного поля. Якщо він стає ціллю розвіювання чарів, то має виконати рятівний кидок Статури проти КС чаротворця, або впасти непритомним на 1 хвилину.    
+**Оманлива зовнішність.** Поки обладунок залишається нерухомим, його неможливо відрізнити від звичайної броні.
+
+### Дії
+**Мультиатака.** Обладунок робить дві атаки ближнього бою.    
+**Сильний удар.** _Атака ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6+2) дробильних ушкоджень.
