@@ -84,7 +84,7 @@ layout: default
 | [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
 | [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./docs/gamemaster_rules/indexes/items_typelist.html) | [Монстри за типом](./docs/gamemaster_rules/indexes/monsters_typelist.html) |
 | [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     | [Предмети за рідкісністю](./docs/gamemaster_rules/indexes/items_raritylist.html)                                  | [Монстри за КН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
-| [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|👉 [Генератор монстрів (тест)](./gen/dnd-statblock.html)                                   |                                                   |
+| [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|                                   | 👉 [Генератор монстрів](./gen/)                                                  |
 | [🇺🇦 Правила монстрів](./docs/gamemaster_rules/monster_rules.html) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./docs/gamemaster_rules/nonplayer_characters.html)|                       |                                                   |
 | [🇺🇦 Предмети](./docs/gamemaster_rules/objects.html)      |                                        |                                                   |
@@ -94,7 +94,7 @@ layout: default
 
 
 - - -
-Допомогти Туо вилікувати собачку:
+Допомогти Туо вилікувати собачку:  
 [💰Банка](https://send.monobank.ua/jar/9yanDe3wW4)  
 
 - - -
