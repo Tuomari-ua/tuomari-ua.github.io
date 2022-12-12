@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: cleric
-         paladin
-title: Detect Evil and Good 
+classes: cleric, paladin
+title: Виявлення зла та добра [Detect evil and good]
 ---
-_1st-level divination_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S   
-**Duration:** Concentration, up to 10 minutes 
-For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.    
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. 
+
+_Віщування, 1 рівень; клірик, паладин_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 10 хвилин   
+
+Поки діють чари, ви знаєте, чи є в межах 30 футів навколо вас аберації, небожителі, елементалі, феї, погань або невмерлі, а також знаєте розташування цих істот. Так само ви знаєте, чи є в межах 30 футів навколо вас місце або предмет, який був магічно освячений або осквернений.    
+
+Чари можуть проникнути крізь більшість бар'єрів, але їх блокує 1 фут каменю, 1 дюйм звичайного металу, тонкий лист свинцю або 3 фути дерева чи ґрунту. 
