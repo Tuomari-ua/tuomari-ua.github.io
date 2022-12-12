@@ -1613,7 +1613,7 @@ var GetVariablesFunctions = {
 
     // Return the default legendary description
     LegendaryDescriptionDefault: function () {
-        mon.legendariesDescription = mon.name.toLowerCase() + " може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. " + mon.name.toLowerCase() + " відновлює використані легендарні дії на початку свого ходу.";
+        mon.legendariesDescription = mon.name.toUpperCase() + " може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. " + mon.name.toUpperCase() + " відновлює використані легендарні дії на початку свого ходу.";
     },
 
     // Return the default mythic description
@@ -1623,7 +1623,7 @@ var GetVariablesFunctions = {
 
     // Return the default lair description
     LairDescriptionDefault: function () {
-        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toUpperCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
+        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toLowerCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
     },
 
     // Return the default lair end description
