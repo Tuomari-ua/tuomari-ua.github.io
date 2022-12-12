@@ -1618,7 +1618,7 @@ var GetVariablesFunctions = {
 
     // Return the default mythic description
     MythicDescriptionDefault: function () {
-        mon.mythicDescription = "Якщо мітичні дії" + mon.name.toLowerCase() + " активні, це надає можливість використовувати наведені нижче дії можливості як легендарні дії упродовж 1 години після використання {Some Ability}.";
+        mon.mythicDescription = "Якщо [MON має активні мітичні дії, це надає можливість використовувати наведені нижче дії як легендарні дії упродовж 1 години після використання {Some Ability}.";
     },
 
     // Return the default lair description
@@ -1628,7 +1628,7 @@ var GetVariablesFunctions = {
 
     // Return the default lair end description
     LairDescriptionEndDefault: function () {
-        mon.lairDescriptionEnd = "[MON] не може повторити ефект, поки не використає всі доступні, і не може використовувати той самий ефект два раунди під ряд.";
+        mon.lairDescriptionEnd = "[MON] не може повторити ефект, поки не використає всі доступні, і не може використовувати той самий ефект два раунди підряд.";
     },
 
     // Return the default regional description
