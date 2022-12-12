@@ -1623,7 +1623,7 @@ var GetVariablesFunctions = {
 
     // Return the default lair description
     LairDescriptionDefault: function () {
-        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toLowerCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
+        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toUpperCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
     },
 
     // Return the default lair end description
