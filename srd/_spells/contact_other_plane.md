@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 5
-classes: warlock
-         wizard
-title: Contact Other Plane 
+classes: warlock, wizard
+title: Зв'язок з іншим планом [Contact Other Plane]
 ---
-_5th-level divination (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Self    
-**Components:** V    
-**Duration:** 1 minute 
-You mentally contact a demigod, the spirit of a long- dead sage, or some other mysterious entity from another plane. Contacting this extraplanar intelligence can strain or even break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a failure, you take 6d6 psychic damage and are insane until you finish a long rest. While insane, you can't take actions, can't understand what other creatures say, can't read, and speak only in gibberish. A **_greater restoration_** spell cast on you ends this effect.    
-On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer. 
+
+_Віщування (ритуал), 5 рівень; маг, чаклун._   
+**Час створення:** 1 хвилина    
+**Відстань:** На себе    
+**Складові:** В    
+**Тривалість:** 1 хвилина    
+
+Ви подумки зв'язуєтеся з напівбогом, духом давно померлого мудреця або іншою таємничою сутністю з іншого плану. Зв'язок із цією позаплановою свідомістю може перенапружити або навіть пошкодити ваш розум. Коли ви створюєте ці чари, здійсніть рятівний кидок Інтелекту з КС 15. У разі невдачі ви отримуєте 6к6 психічних ушкоджень та божеволієте, доки не закінчите тривалий відпочинок. Поки ви божевільні, ви не можете здійснювати дії, не розумієте, що говорять інші істоти, не можете читати і говорите тарабарщиною. Створення на вас чарів **_великого відновлення_** закінчує цей ефект.    
+
+У разі успішного рятівного кидка ви можете поставити сутності до п'яти запитань. Ви мусите поставити свої запитання до того, як закінчаться чари. Майстер відповідає на кожне запитання одним словом, таким як "так", "ні", "ніколи", "недоречно" або "незрозуміло" (якщо сутність не знає відповіді на запитання). Якщо однослівна відповідь може виявитися оманливою, то майстер натомість може запропонувати коротку фразу. 

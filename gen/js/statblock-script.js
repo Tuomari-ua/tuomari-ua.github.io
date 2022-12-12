@@ -1618,7 +1618,7 @@ var GetVariablesFunctions = {
 
     // Return the default mythic description
     MythicDescriptionDefault: function () {
-        mon.mythicDescription = "Якщо [MON має активні мітичні дії, це надає можливість використовувати наведені нижче дії як легендарні дії упродовж 1 години після використання {Some Ability}.";
+        mon.mythicDescription = "Якщо [MON] має активні мітичні дії, це надає можливість використовувати наведені нижче дії як легендарні дії упродовж 1 години після використання {Some Ability}.";
     },
 
     // Return the default lair description

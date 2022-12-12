@@ -1,19 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
-classes: druid
-         warlock
-title: Conjure Fey 
+classes: druid, warlock
+title: З'ява феї [Conjure Fey]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. It appears in an unoccupied space that you can see within range. The fey creature disappears when it drops to 0 hit points or when the spell ends.    
-The fey creature is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.    
-If your concentration is broken, the fey creature doesn't disappear. Instead, you lose control of the fey creature, it becomes hostile toward you and your companions, and it might attack. An uncontrolled fey creature can't be dismissed by you, and it disappears 1 hour after you summoned it.    
-The GM has the fey creature's statistics. 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th. 
+
+_З'явлення, 6 рівень; друїд, чаклун_   
+**Час створення:** 1 хвилина    
+**Відстань:** 90 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви викликаєте фейську істоту з рівнем небезпеки 6 або менше, або дух феї, який набуває форми звіра з рівнем небезпеки 6 або менше. Вона з'являється у вільному просторі, який ви бачите в межах відстані. Фейська істота зникає, коли її пункти здоров'я опускаються до 0 або коли чари закінчуються.    
+
+Фейська істота дружня до вас і ваших супутників, поки діють чари. Киньте ініціативу за істоту, яка має свої власні ходи. Вона підкорюється будь-яким вашим усним наказам (від вас не вимагається жодної дії), поки вони не суперечать її світогляду. Якщо ви не віддаєте феї ніяких наказів, вона захищається від ворожих істот, а інакше не здійснює жодних дій.    
+
+Якщо ваша концентрація переривається, фейська істота не зникає. Натомість ви втрачаєте контроль над фейською істотою, вона стає ворожою до вас і ваших супутників та може атакувати. Ви не можете відкликати неконтрольовану фейську істоту, і вона зникає через годину після з'явлення.    
+
+Майстер має значення статистики фейської істоти.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7 рівня або вищої, клас небезпеки збільшується на 1 за кожну чарунку вище шостої. 
