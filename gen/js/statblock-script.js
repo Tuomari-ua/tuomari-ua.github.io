@@ -1613,7 +1613,7 @@ var GetVariablesFunctions = {
 
     // Return the default legendary description
     LegendaryDescriptionDefault: function () {
-        mon.legendariesDescription = mon.name.toUpperCase() + " може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. " + mon.name.toUpperCase() + " відновлює використані легендарні дії на початку свого ходу.";
+        mon.legendariesDescription = mon.name.toUpperCase() + "[MON] може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. " + mon.name.toUpperCase() + "[MON] відновлює використані легендарні дії на початку свого ходу.";
     },
 
     // Return the default mythic description
