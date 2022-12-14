@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 6
-classes: cleric
-         warlock
-         wizard
-title: Create Undead 
+classes: cleric, warlock, wizard
+title: Створення невмерлого [Create Undead]
 ---
-_6th-level necromancy_ 
-**Casting Time:** 1 minute    
-**Range:** 10 feet    
-**Components:** V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)    
-**Duration:** Instantaneous 
-You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control. (The GM has game statistics for these creatures.)    
-As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.    
-The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones. 
-**At Higher Levels.** When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies. 
+
+_Некромантія, 6 рівень; клірик, чаклун, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** 10 футів    
+**Складові:** В, С, М (один глиняний горщик землі з могили, один глиняний горщик солонуватої води та один камінь чорного оніксу вартістю 150 зм для кожний труп)    
+**Тривалість:** Миттєво    
+
+Ви можете створити ці чари тільки вночі. Оберіть у межах відстані до трьох трупів гуманоїдів, чий розмір Середній або Малий. Кожен труп стає упирем під вашим контролем. (Майстер має значення статитики для цих істот).    
+
+Бонусною дією у кожен свій хід ви можете подумки віддати наказ будь-якій істоті, яку ви оживили цими чарами, якщо істота перебуває у межах 120 футів від вас (якщо ви контролюєте багатьох істот, ви можете наказувати будь-якій із них або всім одночасно, віддаючи кожній істоті той самий наказ). Ви вирішуєте, яку дію виконуватиме істота і куди вона рухатиметься у свій наступний хід, або ж ви можете віддати загальний наказ, наприклад, вартувати певну кімнату або коридор. Якщо ви не віддаєте наказів, істота тільки захищається від ворожих істот. Щойно віддано наказ, істота продовжує виконувати його, поки задачу не буде виконано.    
+
+Істота залишається під вашим контролем на 24 години, після чого перестає коритися наказам, які ви віддаєте. Щоб підтримувати контроль над істотою на наступні 24 години, ви повинні створити ті самі чари на цю істоту знову, до завершення 24-годинного періоду. Таке використання чарів оновлює ваш контроль щонайбільше над трьома істотами, створеними цими чарами, замість того, щоб оживлювати нових.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7 рівня, ви можете оживити або відновити контроль над чотирма упирями. Коли ви створюєте ці чари з використанням чарунки 8 рівня, ви можете оживити або відновити контроль над п'ятьма упирями, або над двома вурдалаками чи померцями. Коли ви створюєте ці чари з використанням чарунки 9 рівня, то можете оживити або відновити контроль над шістьма упирями, трьома вурдалаками чи померцями, або двома муміями. 

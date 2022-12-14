@@ -1,18 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: cleric
-         druid
-title: Create or Destroy Water 
+classes: cleric, druid
+title: Створення чи знищення води [Create or Destroy Water]
 ---
-_1st-level transmutation_    
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a drop of water if creating water or a few grains of sand if destroying it)    
-**Duration:** Instantaneous 
-You either create or destroy water.    
-**Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot cube within range, extinguishing exposed flames in the area.    
-**Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot cube within range. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you create or destroy 10 additional gallons of water, or the size of the cube increases by 5 feet, for each slot level above 1st. 
+
+_Перетворення, 1 рівень; клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (крапля води, якщо створюєте воду, або кілька піщинок, якщо знищуєте її)    
+**Тривалість:** Миттєво    
+
+Ви або створюєте, або знищуєте воду.    
+
+**Створення води.** Ви створюєте до 10 галонів чистої води у межах відстані у відкритій посудині. Або вода йде дощем в 30-футовому кубі в межах відстані, гасячи відкритий вогонь у цій області.    
+
+**Знищення води.** Ви знищуєте до 10 галонів води у відкритій посудині в межах відстані. Або ж ви знищуєте туман у 30-футовому кубі в межах відстані.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви створюєте або знищуєте 10 додаткових галонів води, або збільшуєте розмір куба на 5 футів за кожну чарунку вище першої. 

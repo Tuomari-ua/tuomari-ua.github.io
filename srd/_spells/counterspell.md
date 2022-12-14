@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
-classes: sorcerer
-         warlock
-         wizard
-title: Counterspell 
+classes: sorcerer, warlock, wizard
+title: Контрчари [Counterspell]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 reaction, which you take when you see a creature within 60 feet of you casting a spell    
-**Range:** 60 feet    
-**Components:** S    
-**Duration:** Instantaneous 
-You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+
+_Перешкоджання, 3 рівень; заклинач, маг, чаклун_     
+**Час створення:** 1 реакція, яку ви здійснюєте, коли в межах 60 футів бачите істоту, яка чарує    
+**Відстань:** 60 футів    
+**Складові:** С    
+**Тривалість:** Миттєво    
+
+Ви намагаєтеся перервати істоту під час створення чарів. Якщо істота створює чари 3-го рівня або нижче, то вони провалюються і не мають ефекту. Якщо це — створення чарів 4-го рівня або вище, здійсніть перевірку здібності, використовуючи свою чаротворчу здібність. КС дорівнює 10 + рівень чарів. При успіху чари істоти провалюються і не мають ефекту.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари, використовуючи чарунку 4-го рівня або вище, перервані чари не мають ефекту, якщо їхній рівень нижчий або дорівнює рівню використаної вами чарунки.

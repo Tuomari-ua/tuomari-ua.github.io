@@ -1,19 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 1
-classes: bard
-         cleric
-         druid
-         paladin
-         ranger
-title: Cure Wounds 
+classes: bard, cleric, druid, paladin, ranger
+title: Лікування ран [Cure Wounds]
 ---
-_1st-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Instantaneous 
-A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+_Втілення, 1 рівень; бард, клірик, друїд, паладин, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Істота, якої ви торкаєтеся, відновлює кількість пунктів здоров'я, що дорівнює 1к8 + модифікатор вашої чаротворчої здібності. Ці чари не діють на невмерлих або конструктів.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, зцілення зростає на 1к8 за кожну чарунку вище першої.
