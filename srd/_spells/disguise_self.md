@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 1
-classes: bard
-         sorcerer
-         wizard
-title: Disguise Self 
+classes: bard, sorcerer, wizard
+title: Маскування [Disguise Self]
 ---
-_1st-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 hour 
-You make yourself--including your clothing, armor, weapons, and other belongings on your person--look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.    
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.    
-To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC. 
+
+_Ілюзія, 1 рівень; бард, заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** 1 година    
+
+Ви - включно з одягом, обладунками, зброєю та іншим спорядженням, яке тримаєте при собі — змінюєте свій зовнішній вигляд, поки чари не завершаться, або поки ви не використаєте дію, щоб скинути маскування. Ви можете виглядати на 1 фут вищим або нижчим, а також стати стрункішим, товстішим або середньої статури. Ви не можете змінити свій тип тілобудови, тому повинні набрати форми, яка має те саме базове розміщення кінцівок. В усьому іншому ви самі визначаєте ступінь ілюзії.    
+
+Зміни, викликані цими чарами, не витримують фізичної перевірки. Наприклад, якщо ви додали до свого вбрання капелюх, предмети проходитимуть крізь нього, і кожен, хто доторкнеться до нього, відчує його відсутність або вашу голову та волосся. Якщо ви застосували чари, щоб виглядати стрункіше, будь-хто, намагаючись торкнутися вас, побачить, що рука торкнулася чогось, здається, ще в повітрі.    
+
+Щоб зрозуміти, що ви замасковані, істота повинна використати дію для обстеження вашої зовнішності, і мусить зробити успішний рятівний кидок Інтелекту (Розслідування) проти КС ваших чарів. 
