@@ -1,24 +1,30 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: bard
-         cleric
-         druid
-         sorcerer
-title: Enhance Ability 
+classes: bard, cleric, druid, sorcerer
+title: Покращення здібності [Enhance Ability]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (fur or a feather from a beast)    
-**Duration:** Concentration, up to 1 hour. 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.    
-**Bear's Endurance.** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.    
-**Bull's Strength.** The target has advantage on Strength checks, and his or her carrying capacity doubles.    
-**Cat's Grace.** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.    
-**Eagle's Splendor.** The target has advantage on Charisma checks.    
-**Fox's Cunning.** The target has advantage on Intelligence checks.    
-**Owl's Wisdom.** The target has advantage on Wisdom checks. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. 
+
+_Перетворення, 2 рівень; бард, друїд, заклинач, клірик_     
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (хутро звіра або пір'їна)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви торкаєтеся істоти та наділяєте її магічним покращенням. Виберіть один із ефектів; ціль користується ним, поки не завершаться чари.    
+
+**Ведмежа витривалість.** Ціль має перевагу на перевірки Статури. Вона також отримує 2к6 тимчасових пунктів здоров'я, які втрачаються після закінчення чарів.    
+
+**Бичача сила.** Ціль має перевагу на перевірки Сили, а її вантажність подвоюється.    
+
+**Котяча грація.** Ціль має перевагу на перевірки Спритності. Вона також не отримує ушкоджень від падіння з висоти 20 футів або менше, якщо не є недієздатною.    
+
+**Орлина велич.** Ціль має перевагу на перевірки Харизми.    
+
+**Лисяча хитрість.** Ціль має перевагу на перевірки Інтелекту.    
+
+**Совина мудрість.** Ціль має перевагу на перевірки Мудрості.    
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3-го рівня або вищої, ви можете обрати одну додаткову істоту за кожну чарунку вище другої. 
