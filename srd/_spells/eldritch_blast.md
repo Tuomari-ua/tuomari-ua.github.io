@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 0
 classes: warlock
-title: Eldritch Blast 
+title: Позамежний заряд [Eldritch Blast]
 ---
-_Evocation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 force damage.    
-The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
+
+_Втілення, замовляння; чаклун_     
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Промінь тріскотливої енергії мчить до істоти в межах відстані. Здійсніть далекобійну атаку чарами по цілі. При влучанні ціль отримує 1к10 ушкоджень чистою енергією.    
+
+Чари утворюють більше променів, коли ви досягаєте вищих рівнів: два промені на 5-му рівні, три промені на 11-му рівні та чотири промені - на 17-му рівні. Ви можете спрямовувати промені до однієї або до різних цілей. Здійсніть окремий кидок атаки для кожного променя.

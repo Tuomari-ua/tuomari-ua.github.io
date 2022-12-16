@@ -1,22 +1,28 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 8
-classes: cleric
-         druid
-         sorcerer
-title: Earthquake 
+classes: cleric, druid, sorcerer
+title: Землетрус [Earthquake]
 ---
-_8th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 500 feet    
-**Components:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)    
-**Duration:** Concentration, up to 1 minute 
-You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.    
-The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Constitution saving throw. On a failed save, the creature's concentration is broken.    
-When you cast this spell and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make a Dexterity saving throw. On a failed save, the creature is knocked prone.    
-This spell can have additional effects depending on the terrain in the area, as determined by the GM.    
-**Fissures.** Fissures open throughout the spell's area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the GM. Each is 1d10 × 10 feet deep, 10 feet wide, and extends from one edge of the spell's area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Dexterity saving throw or fall in. A creature that successfully saves moves with the fissure's edge as it opens.    
-A fissure that opens beneath a structure causes it to automatically collapse (see below).    
-**Structures.** The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the start of each of your turns until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure's height must make a Dexterity saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The GM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn't fall prone or become buried. 
+
+_Втілення, 8 рівень; друїд, заклинач, клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 500 футів    
+**Складові:** В, С, М (дрібка бруду, шматочок каменю і грудочка глини)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви створюєте сейсмічне збурення в точці на землі, яку ви можете бачити в межах відстані. Поки діють чари, сильні поштовхи розколюють ґрунт в межах кола радіусом 100 футів і з центром у тій точці, а також струшують істот і конструкції, які знаходяться на поверхні в тій області.    
+
+Земля в цій області стає важкопрохідною місцевістю. Кожна істота, що підтримує концентрацію, стоячи на землі, мусить зробити рятівний кидок Статури. У разі невдачі концентрація істоти переривається.    
+
+Коли ви створюєте ці чари й у кінці кожного ходу, поки ви концентруєтеся, кожна істота на землі в цій області мусить зробити рятівний кидок Спритності. У разі невдачі істота збита з ніг.    
+
+Ці чари можуть мати додаткові ефекти залежно від поверхні в області, яку визначив майстер.    
+
+**Тріщини.** Тріщини покривають область дії чарів на початку вашого ходу, наступного після створення чарів. В цілому 1к6 таких тріщин відкриваються в місцях, обраних майстром. Кожна має глибину 1к10 × 10 футів, ширину 10 футів і простягається з одного краю області чарів до протилежного. Істота, що стоїть на місці, в якому відкривається тріщина, мусить зробити успішний рятівний кидок Спритності, інакше впаде всередину. Істота, яка зробила успішний ряткидок, переміщується разом із краєм тріщини, коли та відкривається.    
+
+Тріщина, що відкривається під конструкцією, автоматично її руйнує (див. нижче).    
+
+**Конструкції.** Поштовхи завдають 50 дробильних ушкоджень будь-якій конструкції на землі в області, коли ви створюєте ці чари, та на початку кожного вашого ходу, поки чари не завершаться. Якщо пункти здоров'я конструкції знижуються до 0, вона руйнується і потенційно завдає шкоди істотам поряд. Істота в межах відстані, яка дорівнює половині висоти будівлі, мусить здійснити рятівний кидок Спритності. У разі невдачі істота отримує 5к6 дробильних ушкоджень, вона збита з ніг і завалена уламками, що вимагає перевірки Сили (Атлетика) із КС 20 як дії, щоб вибратися. Майстер може встановити КС вищим або нижчим залежно від типу уламків. При успішному ряткидку істота отримує половину ушкоджень, не падає і не опиняється під завалом. 
