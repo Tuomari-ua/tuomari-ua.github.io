@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 4
 classes: cleric
-title: Divination 
+title: Віщування [Divination]
 ---
-_4th-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.    
-The spell doesn't take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or gain of a companion.    
-If you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get a random reading. The GM makes this roll in secret. 
+
+_Віщування, 4 рівень (ритуал); клірик_     
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (ладан та пожертвування, яке відповідає вашій релігії, які разом варті щонайменше 25 зм і які поглинаються чарами)    
+**Тривалість:** Миттєво    
+
+Ваша магія і пожертвування зв'язують вас із богом чи його слугою. Ви ставите єдине запитання щодо конкретної цілі, події чи діяльності, яка має відбутися протягом 7 днів. Майстер дає на це чесну відповідь. Відповідь може бути короткою фразою, загадковою римою або прикметою.    
+
+Чари не враховують жодних можливих обставин, які можуть змінити результат, наприклад, створення додаткових чарів або втрату чи появу союзника.    
+
+Якщо ви створюєте ці чари двічі або більше разів до завершення свого наступного тривалого відпочинку, є накопичувальний 25% шанс для кожного чарування після першого, що ви отримаєте випадковий знак. Майстер робить кидок таємно. 

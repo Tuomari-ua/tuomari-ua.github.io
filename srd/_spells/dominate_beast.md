@@ -1,19 +1,26 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 4
-classes: druid
-         sorcerer
-title: Dominate Beast 
+classes: druid, sorcerer
+title: Підкорення звіра [Dominate Beast]
 ---
-_4th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You attempt to beguile a beast that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.    
-While the beast is charmed, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as "Attack that creature," "Run over there," or "Fetch that object." If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.    
-You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.    
-Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends. 
-**At Higher Levels.** When you cast this spell with a 5th-level spell slot, the duration is concentration, up to 10 minutes. When you use a 6th-level spell slot, the duration is concentration, up to 1 hour. When you use a spell slot of 7th level or higher, the duration is concentration, up to 8 hours. 
+
+_Зачарування, 4 рівень; друїд, заклинач_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви намагаєтеся взяти під контроль звіра, якого бачите у межах відстані. Звір повинен здійснити успішний рятівний кидок Мудрості, інакше він буде причарований вами на час дії чарів.    
+
+Якщо ви або дружні до вас істоти боретеся з ним, він має перевагу на цей рятівний кидок.    
+
+Поки звір причарований, ви маєте з ним телепатичний зв’язок, доки ви обоє перебуваєте на одному плані існування. Ви можете використовувати цей телепатичний зв’язок, щоб віддавати звіру накази, поки ви притомні (дія не потрібна), і він робить усе можливе, щоб виконати ваш наказ. Ви можете визначити простий і загальний напрямок дій, наприклад, "Атакуй ту істоту", "Біжи туди" чи "Принеси той предмет". Якщо істота виконує наказ і не отримує від вас наступних вказівок, вона захищається і оберігає себе, наскільки це можливо.    
+
+Ви можете використати свою дію, щоб отримати повний і винятковий контроль над ціллю. До кінця вашого наступного ходу істота виконує лише ті дії, які ви виберете, і не робить нічого, окрім дозволеного вами. Упродовж цього часу ви можете змусити звіра використати реакцію, але для цього ви також повинні використати власну реакцію.    
+
+Кожного разу, коли звір зазнає ушкоджень, він робить новий рятівний кидок Мудрості проти ваших чарів. Якщо рятівний кидок успішний, дія чарів закінчується.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 5-го рівня, тривалість концентрації на чарах зростає до 10 хвилин. Коли ви використовуєте чарунку 6-го рівня, тривалість концентрації збільшується до 1 години. Коли ви використовуєте чарунку 7-го рівня або вищу, тривалість концентрації зростає до 8 годин. 

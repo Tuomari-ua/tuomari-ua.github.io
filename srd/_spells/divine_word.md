@@ -1,19 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
 classes: cleric
-title: Divine Word 
+title: Божественне слово [Divine Word]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 bonus action    
-**Range:** 30 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a Charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:
-* 50 hit points or fewer: deafened for 1 minute
-* 40 hit points or fewer: deafened and blinded for 10 minutes
-* 30 hit points or fewer: blinded, deafened, and stunned for 1 hour
-* 20 hit points or fewer: killed instantly 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a **_wish_** spell. 
+
+_Втілення, 7 рівень; клірик_     
+**Час створення:** 1 бонусна дія    
+**Відстань:** 30 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+Ви промовляєте божественне слово, наділене силою, що сформувала світ на зорі творіння.    
+
+Виберіть будь-яку кількість істот, яких ви можете бачити в межах відстані. Кожна істота, яка може вас чути, повинна зробити рятівний кидок Харизми. У разі невдачі істота страждає від ефекту, який залежить від її поточних пунктів здоров'я:
+* 50 пунктів здоров'я або менше: оглушений на 1 хвилину
+* 40 пунктів здоров'я або менше: оглушений та осліплений на 10 хвилин
+* 30 пунктів здоров'я або менше: осліплений, оглушений та приголомшений на 1 годину
+* 20 пунктів здоров'я або менше: миттєва смерть    
+
+Незалежно від поточних пунктів здоров'я небожителі, елементалі, феї або погань, що провалили ряткидок, виганяються на свій рідний план (якщо вони вже не перебувають там), і не можуть повернутися на ваш поточний план в наступні 24 години, окрім як за допомогою чарів **_бажання._** 
