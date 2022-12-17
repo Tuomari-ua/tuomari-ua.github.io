@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 1
 classes: druid
-title: Entangle 
+title: Обплутування [Entangle]
 ---
-_1st-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.    
-A creature in the area when you cast the spell must succeed on a Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.    
-When the spell ends, the conjured plants wilt away. 
+
+_З'явлення, 1 рівень; друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 90 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Чіпкі бур'яни та лози виростають із землі у 20-футовому квадраті, починаючи з точки у межах відстані. Поки діють чари, ці рослини перетворюють землю в цій області у важкопрохідну місцевість.    
+
+Коли ви створюєте ці чари, істота в цій області мусить зробити успішний рятівний кидок Сили, або стане скутою через обплутування рослинами, поки чари не завершаться. Скута рослинами істота може використати свою дію для перевірки Сили проти КС Ваших чарів. При успіху вона звільняється.    
+
+Коли чари закінчуються, вичаклувані рослини в'януть. 
