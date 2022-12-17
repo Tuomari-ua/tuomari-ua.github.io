@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 2
-classes: bard
-         cleric
-         paladin
-title: Zone of Truth 
+classes: bard, cleric, paladin
+title: Зона правди [Zone of Truth]
 ---
-_2nd-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** 10 minutes 
-You create a magical zone that guards against deception in a 15-foot-radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there must make a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether each creature succeeds or fails on its saving throw.    
-An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
+
+_Зачарування, 2 рівень; бард, клірик, паладин_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** 10 хвилин    
+
+Ви створюєте магічну зону, захищену від обману, у сфері радіусом 15 футів із центром у точці, яку ви обираєте в межах відстані. Поки чари не завершаться, істота, яка входить в область дії чарів уперше в свій хід чи починає хід у цій області, повинна зробити рятівний кидок Харизми. У разі невдачі істота не може навмисно сказати брехню, перебуваючи в області чарів. Ви знаєте результат рятівного кидка кожної істоти.    
+
+Вражена істота знає про чари, і тому може уникати відповіді на запитання, на які вона зазвичай збрехала б. Така істота може ухилятися в своїх відповідях, поки перебуває у межах істини.
