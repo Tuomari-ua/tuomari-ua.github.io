@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
 classes: cleric
-title: Word of Recall 
+title: Слово повернення [Word of Recall]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 5 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.    
-You must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.
+
+_З'явлення, 6 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 5 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+Ви та ще до 5 згодних істот у межах 5 футів навколо вас миттєво телепортуєтеся до наперед визначеного прихистку. Ви та будь-які істоти, що телепортуються з вами, з'являєтеся у найближчому вільному просторі біля місця, яке ви визначили, коли готували свій прихисток (див. далі). Якщо ви створюєте ці чари без попередньо підготовленого прихистку, чари не діють.    
+Ви повинні визначити прихисток, створюючи ці чари у межах розташування, присвяченого чи тісно пов'язаного із вашим богом, наприклад, у храмі. Якщо ви намагаєтеся створити ці чари в області, яка не присвячена вашому богу, чари не діють.

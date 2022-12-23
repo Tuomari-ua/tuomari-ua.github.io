@@ -1,5 +1,5 @@
 ---
-сategory: spells
+category: spells
 layout: page
 level: 1
 tag: Втілення
