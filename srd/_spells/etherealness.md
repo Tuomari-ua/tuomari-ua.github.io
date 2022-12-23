@@ -1,23 +1,27 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 7
-classes: bard
-         cleric
-         sorcerer
-         warlock
-         wizard
-title: Etherealness 
+classes: bard, cleric, sorcerer, warlock, wizard
+title: Етерність [Etherealness]
 ---
-_7th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Up to 8 hours 
-You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can see and hear the plane you originated from, but everything there looks gray, and you can't see anything more than 60 feet away.    
-While on the Ethereal Plane, you can only affect and be affected by other creatures on that plane. Creatures that aren't on the Ethereal Plane can't perceive you and can't interact with you, unless a special ability or magic has given them the ability to do so.    
-You ignore all objects and effects that aren't on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from.    
-When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same spot as a solid object or creature when this happens, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.    
-This spell has no effect if you cast it while you are on the Ethereal Plane or a plane that doesn't border it, such as one of the Outer Planes. 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, you can target up to three willing creatures (including you) for each slot level above 7th. The creatures must be within 10 feet of you when you cast the spell. 
+
+_Перетворення, 7 рівень; бард, заклинач, клірик, маг, чаклун_     
+
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** До 8 годин    
+
+Ви ступаєте у прикордонні регіони Етерного плану, в область, де він накладається на ваш поточний план. Ви залишаєтеся у Прикордонному етері, поки діють чари, або поки ви не використаєте свою дію для завершення чарів. В цей час ви можете рухатися в будь-якому напрямку. Якщо рухаєтеся вгору або вниз, кожен фут переміщення коштує вам два фути. Ви можете бачити й чути план, з якого ви прибули, але там все виглядає сірим, і ви не можете нічого бачити далі 60 футів.    
+
+Поки знаходитеся на Етерному плані, то можете взаємодіяти тільки з істотами на цьому плані, і тільки вони можуть впливати на вас. Істоти, що не перебувать на Етерному плані, не можуть сприймати вас і не можуть взаємодіяти з вами, за винятком спеціальних здатностей чи магії, яка надає таку здатність.    
+
+Ви ігноруєте всі предмети та ефекти, які не є на Етерному плані, і це дозволяє вам рухатися крізь предмети з того плану, звідки ви прибули.    
+
+Коли чари завершуються, ви негайно повертаєтеся на план, звідки прийшли, у простір, який займаєте зараз. Якщо ви перебуваєте у просторі, який зайнятий твердим предметом чи істотою, коли це трапляється, вас негайно викидає до найближчого вільного простору, який ви можете зайняти, і ви отримуєте ушкодження чистою енергією, що дорівнюють відстані у футах, на яку ви перемістилися, помноженій на два.    
+
+Ці чари не діють, якщо ви створили їх, уже перебуваючи в Етерному плані, або у плані, що не має спільного кордону з Етерним, наприклад, перебуваючи на одному із Зовнішніх планів.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 8 рівня або вищої, ви можете націлитися на трьох згодних істот (включно з вами) за кожну чарунку вище сьомої. Істоти повинні бути в межах 10 футів від вас, коли ви створюєте ці чари. 

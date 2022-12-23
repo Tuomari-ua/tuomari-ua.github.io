@@ -1,15 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 2
-classes: bard
-         warlock
-title: Enthrall 
+classes: bard, warlock
+title: Захоплива промова [Enthrall]
 ---
-_2nd-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** 1 minute 
-You weave a distracting string of words, causing creatures of your choice that you can see within range and that can hear you to make a Wisdom saving throw. Any creature that can't be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save. On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you. The spell ends if you are incapacitated or can no longer speak. 
+
+_Зачарування, 2 рівень; бард, чаклун._   
+
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** 1 хвилина    
+
+Ви виголошуєте хитромудру промову та змушуєте істот за вашим вибором, котрих ви можете бачити в межах відстані й котрі можуть чути вас, зробити рятівний кидок Мудрості. Будь-яка істота, яку не можливо причарувати, автоматично досягає успіху в цьому рятівному кидку, і якщо ви або ваші супутники б'єтеся з істотою, то вона має перевагу на цей рятівний кидок. У разі невдачі ціль має перешкоду на перевірки Мудрості (Сприйняття), коли намагається зрозуміти будь-яку іншу істоту, окрім вас, поки чари не завершаться, або поки ціль не втратить можливість чути вас. Чари завершуються, якщо ви недієздатні або більше не можете говорити. 
