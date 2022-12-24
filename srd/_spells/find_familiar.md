@@ -1,20 +1,21 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 1
 classes: wizard
-title: Find Familiar 
+title: Пошук фамільяра [Find Familiar]
 ---
-_1st-level conjuration (ritual)_ 
-**Casting Time:** 1 hour    
-**Range:** 10 feet    
-**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)    
-**Duration:** Instantaneous 
-You gain the service of a familiar, a spirit that takes an animal form you choose: bat, cat, crab, frog (toad), hawk, lizard, octopus, owl, poisonous snake, fish (quipper), rat, raven, sea horse, spider, or weasel. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of a beast.    
-Your familiar acts independently of you, but it always obeys your commands. In combat, it rolls its own initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.    
-When the familiar drops to 0 hit points, it disappears, leaving behind no physical form. It reappears after you cast this spell again.    
-While your familiar is within 100 feet of you, you can communicate with it telepathically. Additionally, as an action, you can see through your familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the familiar has. During this time, you are deaf and blind with regard to your own senses.    
-As an action, you can temporarily dismiss your familiar. It disappears into a pocket dimension where it awaits your summons. Alternatively, you can dismiss it forever. As an action while it is temporarily dismissed, you can cause it to reappear in any unoccupied space within 30 feet of you.    
-You can't have more than one familiar at a time. If you cast this spell while you already have a familiar, you instead cause it to adopt a new form. Choose one of the forms from the above list. Your familiar transforms into the chosen creature.    
-Finally, when you cast a spell with a range of touch, your familiar can deliver the spell as if it had cast the spell. Your familiar must be within 100 feet of you, and it must use its reaction to deliver the spell when you cast it. If the spell requires an attack roll, you use your attack modifier for the roll.
+
+_З'явлення, 1 рівень (ритуал); маг_    
+**Час створення:** 1 година    
+**Відстань:** 10 футів    
+**Складові:** В, С, М (деревне вугілля, ладан та трави вартістю 10 зм, які необхідно спалити вогнем на латунному деку)    
+**Тривалість:** Миттєво    
+Ви здобуваєте собі в службу фамільяра - дух, який набуває форми звіра за вашим вибором: кажан, кіт, краб, жаба (ропуха), яструб, ящірка, восьминіг, сова, отруйна змія, риба (піранья), щур, ворон, морський коник, павук або ласка. Фамільяр з'являється у вільному просторі в межах відстані, і має статистику обраної форми, хоча по суті є небожителем, феєю або поганню (за вашим вибором), а не звіром.    
+Ваш фамільяр діє незалежно від вас, але завжди підкорюється вашим командам. У бою він має власну ініціативу та діє у власний хід. Фамільяр не може атакувати, але може виконувати інші дії, як звичайно.    
+Коли пункти здоров'я фамільяра знижуються до 0, він зникає, не залишаючи по собі нічого матеріального. Він з'являється, коли ви знову створюєте ці чари.    
+Поки фамільяр перебуває у межах 100 футів від вас, ви можете спілкуватися з ним телепатично. Крім того, ви можете використати дію і почати бачити очима свого фамільяра та чути його слухом до початку свого наступного ходу, отримуючи привілеї від будь-яких особливих чуттів, які має ваш фамільяр. Упродовж цього часу ви глухі та сліпі відносно своїх власних чуттів.    
+Дією ви можете тимчасово відпустити свого фамільяра. Він зникає у кишеньковому вимірі, де чекає на нове прикликання. Ви також можете відпустити його назавжди. Поки фамільяр відпущений тимчасово, ви можете дією з'явити його в будь-якому вільному просторі у межах 30 футів від себе.    
+Ви не можете мати одночасно більш як одного фамільяра. Якщо ви створюєте ці чари, коли у вас уже є фамільяр, ви натомість змушуєте його набути нової форми. Виберіть одну із форм зі списку вище. Ваш фамільяр перетворюється на вибрану істоту.    
+Нарешті, коли ви створюєте чари із відстанню "дотик", ваш фамільяр може доставити ці чари, так ніби це він створив їх. Ваш фамільяр повинен бути в межах 100 футів від вас, і він повинен використати свою реакцію, щоб доставити чари, коли ви їх створюєте. Якщо чари вимагають кидка атаки, ви використовуєте свій модифікатор атаки до цього кидка.
