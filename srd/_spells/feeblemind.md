@@ -1,20 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 8
-classes: bard
-         druid
-         warlock
-         wizard
-title: Feeblemind 
+classes: bard, druid, warlock, wizard
+title: Слабоумство [Feeblemind]
 ---
-_8th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (a handful of clay, crystal, glass, or mineral spheres)    
-**Duration:** Instantaneous 
-You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 psychic damage and must make an Intelligence saving throw.    
-On a failed save, the creature's Intelligence and Charisma scores become 1. The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them.    
-At the end of every 30 days, the creature can repeat its saving throw against this spell. If it succeeds on its saving throw, the spell ends.    
-The spell can also be ended by **_greater restoration_**, **_heal_**, or **_wish_**. 
+
+_Зачарування, 8 рівень; бард, друїд, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складові:** В, С, М (жменя глиняних, кришталевих, скляних або мінеральних кульок)    
+**Тривалість:** Миттєво    
+
+Ви підриваєте свідомість істоти, яку можете бачити в межах відстані, намагаючись зруйнувати її інтелект та особистість. Ціль отримує 4к6 ушкоджень психічною енергією і повинна зробити рятівний кидок Інтелекту.    
+
+У разі невдачі значення Інтелекту та Харизми істоти знижуються до 1. Істота не може чарувати, активувати магічні предмети, розуміти мови чи спілкуватися будь-яким зрозумілим способом. Істота, щоправда, може впізнавати своїх друзів, слідувати за ними й навіть захищати їх.    
+
+Кожні 30 днів після цього істота може повторювати рятівний кидок проти цих чарів. За умови успіху чари завершуються.    
+
+Чари також можна завершити **_покращеним відновленням_**, **_зціленням_** або **_бажанням_**. 

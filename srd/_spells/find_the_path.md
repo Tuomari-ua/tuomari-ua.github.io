@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 6
-classes: bard
-         cleric
-         druid
-title: Find the Path 
+classes: bard, cleric, druid
+title: Пошук шляху [Find the Path]
 ---
-_6th-level divination_ 
-**Casting Time:** 1 minute    
-**Range:** Self    
-**Components:** V, S, M (a set of divinatory tools--such as bones, ivory sticks, cards, teeth, or carved runes--worth 100 gp and an object from the location you wish to find)    
-**Duration:** Concentration, up to 1 day 
-This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as "a green dragon's lair"), the spell fails.    
-For the duration, as long as you are on the same plane of existence as the destination, you know how far it is and in what direction it lies. While you are traveling there, whenever you are presented with a choice of paths along the way, you automatically determine which path is the shortest and most direct route (but not necessarily the safest route) to the destination. 
+
+_Віщування, 6 рівень; бард, клірик, друїд_  
+**Час створення:** 1 хвилина    
+**Відстань:** На себе    
+**Складові:** В, С, М (набір інструментів для ворожіння, таких як кістки, палички зі слонової кості, карти, зуби або вирізьблені руни, вартістю 100 зм, і предмет із того місця, яке ви хочете знайти)    
+**Тривалість:** Концентрація, до 1 дня  
+
+Ці чари дозволяють вам знайти найкоротший, найпряміший фізичний шлях до певного фіксованого розташувнаня, яке вам знайоме, на тому ж плані існування. Якщо ви називаєте місце призначення на іншому плані існування, місце призначення, яке переміщується (таке як мобільна фортеця), чи якщо місце призначення не специфічне (наприклад, "лігво зеленого дракона"), чари провалюються.    
+
+Поки діють чари і поки ви на тому ж плані існування, що й місце призначення, ви знаєте, як далеко до нього і в якому напрямку воно розташоване. Поки ви мандруєте туди, щоразу, коли ви перед вами постає вибір шляху, ви автоматично визначаєте найкоротший і найбільш прямий шлях до місця призначення (але не обов'язково найбільш безпечний). 
