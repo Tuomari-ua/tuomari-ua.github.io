@@ -1,18 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 2
-classes: druid
-         wizard
-title: Flaming Sphere 
+classes: druid, wizard
+title: Палюча сфера [Flaming Sphere]
 ---
-_2nd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)    
-**Duration:** Concentration, up to 1 minute 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw. The creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.    
-As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw against the sphere's damage, and the sphere stops moving this turn.    
-When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. The sphere ignites flammable objects not being worn or carried, and it sheds bright light in a 20-foot radius and dim light for an additional 20 feet. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd. 
+
+_З'явлення, 2 рівень; друїд, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (трохи жиру, дрібка сірки та пил залізного порошку)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Вогняна сфера діаметром 5 футів з’являється у вільному місці за вашим вибором у радіусі дії та існує, поки діють чари. Будь-яка істота, що завершує свій хід у межах 5 футів від сфери, повинна зробити рятівний кидок Спритності. Істота отримує 2к6 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень у разі успіху.    
+
+Бонусною дією ви можете перемістити сферу на відстань до 30 футів. Якщо ви жбурляєте сферу в істоту, ця істота повинна зробити рятівний кидок проти ушкоджень сфери, і сфера перестає рухатися в цей хід.    
+
+Коли ви переміщуєте сферу, ви можете спрямовувати її над бар'єрами до 5 футів заввишки та над прірвами до 10 футів завширшки. Сфера підпалює займисті предмети, які ніхто не тримає при собі, та випромінює яскраве світло в радіусі 20 футів і тьмяне світло на додаткові 20 футів.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ушкодження зростають на 1к6 за кожну чарунку вище другої. 

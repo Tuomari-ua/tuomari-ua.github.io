@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 5
 classes: cleric
-title: Flame Strike 
+title: Полум'яний удар [Flame Strike]
 ---
-_5th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (pinch of sulfur)    
-**Duration:** Instantaneous 
-A vertical column of divine fire roars down from the heavens in a location you specify. Each creature in a 10-foot-radius, 40-foot-high cylinder centered on a point within range must make a Dexterity saving throw. A creature takes 4d6 fire damage and 4d6 radiant damage on a failed save, or half as much damage on a successful one. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th. 
+
+_Втілення, 5 рівень; клірик._   
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (дрібка сульфуру)    
+**Тривалість:** Миттєво.   
+
+Вертикальний стовп божественного вогню з шумом опускається з небес у визначеному вами місці. Кожна істота у циліндрі радіусом 10 футів та висотою 40 футів з центром на точці в межах відстані мусить здійснити рятівний кидок Спритності. Істота отримує 4к6 ушкоджень вогнем і 4к6 променистих ушкоджень у разі невдачі та половину ушкоджень за умови успішного ряткидка.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ушкодження вогнем або променистих ушкоджень (на ваш вибір) збільшується на 1к6 за кожну чарунку вище п'ятої. 

@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 1
 classes: wizard
-title: Floating Disk 
+title: Рухомий диск [Floating Disk]
 ---
-_1st-level conjuration (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a drop of mercury)    
-**Duration:** 1 hour 
-This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration, and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.    
-The disk is immobile while you are within 20 feet of it. If you move more than 20 feet away from it, the disk follows you so that it remains within 20 feet of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can't cross an elevation change of 10 feet or more. For example, the disk can't move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.    
-If you move more than 100 feet from the disk (typically because it can't move around an obstacle to follow you), the spell ends. 
+
+_З'явлення, 1 рівень (ритуал); маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (крапля ртуті)    
+**Тривалість:** 1 година    
+
+Ці чари створюють круглу горизонтальну площину чистої енергії діаметром 3 фути та товщиною 1 дюйм, яка зависає на висоті 3 фути над землею у вільному місці за вашим вибором, яке ви можете бачити в межах відстані. Диск існує, поки діють чари, і може тримати до 500 фунтів ваги. Якщо на ньому розмістити більшу вагу, чари завершуються, і все, що було на диску, падає на землю.    
+
+Диск нерухомий, поки ви перебуваєте в межах 20 футів від нього. Якщо ви переміщуєтеся далі, ніж на 20 футів від нього, диск слідує за вами так, щоб залишатися в межах 20 футів від вас. Він може переміщуватися по нерівній місцевості, вгору або вниз по сходах, схилах тощо, але не може долати підйоми на 10 футів чи більше. Наприклад, диск не може переміститися через яму завглибшки 10 футів, і не може вибратися з цієї ями, якщо був створений на її дні.    
+
+Якщо ви переміщуєтеся більш як на 100 футів від диска (зазвичай через те, що диск не може подолати перешкоду, щоб слідувати за вами), чари завершуються. 
