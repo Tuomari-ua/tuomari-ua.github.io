@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 4
-classes: bard
-         cleric
-         druid
-         ranger
-title: Freedom of Movement 
+classes: bard, cleric, druid, ranger
+title: Свобода рухів [Freedom of Movement]
 ---
-_4th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a leather strap, bound around the arm or a similar appendage)    
-**Duration:** 1 hour 
-You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained.    
-The target can also spend 5 feet of movement to automatically escape from nonmagical restraints, such as manacles or a creature that has it grappled. Finally, being underwater imposes no penalties on the target's movement or attacks.
+
+_Перешкоджання, 4 рівень; бард, клірик, друїд, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (шкіряний ремінець, пов'язаний на руку, або подібна пов'язка)    
+**Тривалість:** 1 година    
+
+Ви торкаєтеся згодної істоти. Поки діють чари, на переміщення цілі не чинить впливу важкопрохідна місцевість, а чари чи інші магічні ефекти не можуть ані зменшити швидкість цілі, ані паралізувати чи скути її.    
+
+Ціль також може витратити 5 футів переміщення, щоб автоматично уникнути немагічних стримувачів, таких як кайдани або істота, що намагається її схопити. Нарешті, перебування під водою не чинить перешкод переміщенню істоти чи її атакам.
