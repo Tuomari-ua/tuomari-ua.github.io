@@ -1,17 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 6
 classes: wizard
-title: Freezing Sphere 
+title: Крижана куля [Freezing Sphere]
 ---
-_6th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 300 feet    
-**Components:** V, S, M (a small crystal sphere)    
-**Duration:** Instantaneous 
-A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in a 60-foot-radius sphere. Each creature within the area must make a Constitution saving throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.    
-If the globe strikes a body of water or a liquid that is principally water (not including water-based creatures), it freezes the liquid to a depth of 6 inches over an area 30 feet square. This ice lasts for 1 minute. Creatures that were swimming on the surface of frozen water are trapped in the ice. A trapped creature can use an action to make a Strength check against your spell save DC to break free.    
-You can refrain from firing the globe after completing the spell, if you wish. A small globe about the size of a sling stone, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 40 feet) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as the normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes. 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+
+_Втілення, 6 рівень; маг_ **Час створення:** 1 дія    
+**Відстань:** 300 футів    
+**Складові:** В, С, М (маленька кришталева сфера)    
+**Тривалість:** Миттєво<2/> Крижана куля холодної енергії виривається з ваших пальців в точку в межах відстані за вашим вибором, де вона вибухає у сфері радіусом 60 футів. Кожна істота в цій області повинна здійснити рятівний кидок Статури. У разі невдачі істота отримує 10к6 ушкоджень холодом. При успіху вона отримує половину ушкоджень.    
+Якщо куля влучає у масив води або рідини, яка є здебільшого водою (не враховуючи водяних істот), то вона заморожує цю рідину до глибини 6 дюймів над областю 30-футового квадрата. Цей лід тримається протягом 1 хвилини. Істоти, які плавали на поверхні замороженої води, охоплені льодом. Охоплена льодом істота може використати дію для перевірки Сили проти КС ваших чарів, щоб звільнитися.    
+Якщо маєте бажання, то можете утриматися від запуску кулі після створення чарів. У вашій руці з'являється прохолодна на дотик маленька кулька розміром, як камінець для пращі. В будь-який час ви або істота, якій ви даєте кульку, може її метнути (на відстань 40 футів) або пожбурити за допомогою пращі (на звичайну відстань пращі). При ударі вона розбивається з тим самим ефектом, як при звичайному створенні чарів. Ви також можете покласти кульку, не розбиваючи її. Через 1 хвилину, якщо кулька не розбилася, вона вибухає. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7-го рівня або вищої, ушкодження збільшуються на 1к6 за кожну чарунку вище шостої.
