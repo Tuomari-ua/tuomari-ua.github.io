@@ -4,7 +4,7 @@ layout: page
 tag: З'явлення
 level: 9
 classes: cleric, sorcerer, wizard
-title: Брама
+title: Брама [Gate]
 ---
 
 _З'явлення, 9 рівня; клірик, заклинач, маг_    
