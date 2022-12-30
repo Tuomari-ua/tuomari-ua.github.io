@@ -1,20 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 5
-classes: bard
-         cleric
-         druid
-title: Greater Restoration 
+classes: bard, cleric, druid
+title: Велике відновлення [Greater Restoration]
 ---
-_5th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
-* One effect that charmed or petrified the target
-* One curse, including the target's attunement to a cursed magic item 
-* Any reduction to one of the target's ability scores
-* One effect reducing the target's hit point maximum 
+
+_Перешкоджання, 5 рівень; бард, клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (діамантовий пил вартістю щонайменше 100 зм, який поглинається чарами)    
+**Тривалість:** Миттєво    
+
+Ви наповнюєте істоту, котрої торкаєтеся, позитивною енергією, щоб скасувати виснажливий ефект. Ви можете зменшити рівень виснаження цілі на один, або завершити на цілі один із наступних ефектів:
+* Один ефект, що робить ціль причарованою або скам'янілою
+* Одне прокляття, включно з налаштуванням цілі на проклятий магічний предмет
+* Будь-яке зниження значень однієї зі здібностей цілі
+* Один ефект, що знижує максимум пунктів здоров'я цілі 

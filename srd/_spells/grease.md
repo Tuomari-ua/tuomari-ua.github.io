@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 1
 classes: wizard
-title: Grease 
+title: Смалець [Grease]
 ---
-_1st-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of pork rind or butter)    
-**Duration:** 1 minute 
-Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.    
-When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw or fall prone. 
+
+_З'явлення, 1 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (трохи свинячої шкірки або масла)    
+**Тривалість:** 1 хвилина    
+
+Слизький смалець укриває землю на площі 10х10 футів із центром у точці в межах відстані та перетворює цю область на важкопрохідну місцевість, поки діють чари.    
+
+Коли смалець з’являється, кожна істота, що стоїть у цій області, повинна зробити успішний рятівний кидок Спритності, або впаде, збита з ніг. Істота, що входить в цю область або завершує в ній свій хід, також повинна зробити рятівний кидок Спритності або впасти. 

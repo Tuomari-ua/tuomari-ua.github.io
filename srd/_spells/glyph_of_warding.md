@@ -1,23 +1,30 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
-classes: bard
-         cleric
-         wizard
-title: Glyph of Warding 
+classes: bard, cleric, wizard
+title: Охоронний символ [Glyph of Warding]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)    
-**Duration:** Until dispelled or triggered 
-When you cast this spell, you inscribe a glyph that harms other creatures, either upon a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.    
-The glyph is nearly invisible and requires a successful Intelligence (Investigation) check against your spell save DC to be found.    
-You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or standing on the glyph, removing another object covering the glyph, approaching within a certain distance of the glyph, or manipulating the object on which the glyph is inscribed. For glyphs inscribed within an object, the most common triggers include opening that object, approaching within a certain distance of the object, or seeing or reading the glyph. Once a glyph is triggered, this spell ends.    
-You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight), creature kind (for example, the ward could be set to affect aberrations or drow), or alignment. You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.    
-When you inscribe the glyph, choose **explosive runes** or a **spell glyph**.    
-**Explosive Runes.** When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, cold, fire, lightning, or thunder damage on a failed saving throw (your choice when you create the glyph), or half as much damage on a successful one.    
-**Spell Glyph.** You can store a prepared spell of 3rd level or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way. When the glyph is triggered, the stored spell is cast. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires concentration, it lasts until the end of its full duration. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage of an **explosive runes** glyph increases by 1d8 for each slot level above 3rd. If you create a **spell glyph**, you can store any spell of up to the same level as the slot you use for the **_glyph of warding_**. 
+
+_Перешкоджання, 3 рівень; бард, клірик, маг._  
+**Час створення:** 1 година    
+**Відстань:** Дотик    
+**Складові:** В, С, М (ладан і подрібнений в порошок діамант ціною мінімум 200 зм, які поглинаються чарами)    
+**Тривалість:** До розвіювання або спрацювання    
+
+Коли ви створюєте ці чари, ви надписуєте символ, який шкодить іншим істотам, або на поверхні (наприклад, на столі або частині підлоги чи стіни), або всередині предмета, який можна зачинити (наприклад, в книзі, на сувої або у скрині зі скарбами), щоб приховати цей символ. Якщо ви вибираєте поверхню, то символ може покривати площу не більше 10 футів в діаметрі. Якщо ви обираєте предмет, він мусить залишатися на своєму місці; якщо предмет перенести далі 10 футів від місця, де ви створюєте ці чари, символ руйнується, і чари закінчуються без спрацювання.    
+
+Символ майже непомітний і вимагає успішної перевірки Інтелекту (Розслідування) проти КС ваших чарів.    
+
+Ви визначаєте умови спрацювання символа, коли створюєте ці чари. Для символів, вирізаних на поверхні, найбільш типові тригери включають дотик або ставання на символ, видалення предмета, який його накривав, наближення на певну відстань до символа чи маніпуляції з предметом, на якому нанесено символ. Для символів, надписаних всередині предмета, найпоширеніші тригери включають відкривання предмета, наближення на певну відстань до предмета, бачення або читання символа. Щойно символ спрацював, ці чари закінчуються.    
+
+Ви можете удосконалити тригер так, щоб чари спрацьовували тільки при певних умовах або відповідно до фізичних характеристик (таких як зріст або вага), типу істоти (наприклад, може бути встановлено захист проти аберацій або дроу), чи світогляду. Ви також можете встановити умови для істот, на яких символ не спрацьовуватиме, наприклад, тих, хто скаже певний пароль.    
+
+Коли ви наносите символ, виберіть **вибухові руни** або **символ чарів**.    
+
+**Вибухові руни.** Під час спрацювання символ вибухає магічною енергією у сферу діаметром 20 футів, із центром на символі. Ця сфера поширюється, огинаючи кути. Кожна істота в області повинна здійснити рятівний кидок Спритності. Істота отримує 5к8 ушкоджень кислотою, холодом, вогнем, блискавкою або громом у разі невдачі (ви вибираєте під час створення символа) або половину цих ушкоджень за умови успіху.    
+
+**Символ чарів.** Ви можете вкласти у символ підготовлені чари 3 або нижчого рівня, чаруючи їх як частину створення символа. Чари повинні націлюватися на одну істоту або на область. Вкладені в символ чари не мають миттєвого ефекту, коли створені таким чином. Коли символ спрацьовує, створюються вкладені чари. Якщо чари мають ціль, ціллю є істота, яка спровокувала символ. Якщо чари впливають на область, ця область має центр на цій істоті. Якщо чари прикликають ворожих істот чи створюють шкідливі предмети або пастки, вони з'являються так близько, як можливо, біля порушника, та атакують його. Якщо чари вимагають концентрації, вони існують до кінця їхньої повної тривалості.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження від символа **вибухових рун** зростають на 1к8 за кожну чарунку вище третьої. Якщо ви створюєте **символ чарів**, то можете вкласти в нього чари аж до того рівня, чарунку якого ви використовуєте для **_охоронного символа._** 
