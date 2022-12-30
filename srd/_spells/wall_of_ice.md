@@ -4,7 +4,7 @@ layout: page
 tag: Втілення
 level: 6
 classes: wizard
-title: Cтіна льоду [Wall of Fire]
+title: Стіна льоду [Wall of Ice]
 ---
 
 _Втілення, 6 рівень; маг_    

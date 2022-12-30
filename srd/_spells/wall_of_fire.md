@@ -4,7 +4,7 @@ layout: page
 tag: Втілення
 level: 4
 classes: druid, sorcerer, wizard
-title: Cтіна вогню [Wall of Fire]
+title: Стіна вогню [Wall of Fire]
 ---
 
 _Втілення, 4 рівень; друїд, заклинач, маг_    

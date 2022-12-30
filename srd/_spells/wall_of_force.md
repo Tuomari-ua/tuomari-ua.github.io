@@ -4,7 +4,7 @@ layout: page
 tag: Втілення
 level: 5
 classes: wizard
-title: Cтіна енергії [Wall of Fire]
+title: Стіна енергії [Wall of Force]
 ---
 
 _Втілення, 5 рівень; маг_    
