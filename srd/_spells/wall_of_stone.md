@@ -1,21 +1,26 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 5
-classes: druid
-         sorcerer
-         wizard
-title: Wall of Stone 
+classes: druid, sorcerer, wizard
+title: Стіна з каменю [Wall of Stone]
 ---
-_5th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a small block of granite)    
-**Duration:** Concentration, up to 10 minutes 
-A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot- by-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.    
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.    
-The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing stone. Thus, you can use this spell to bridge a chasm or create a ramp.    
-If you create a span greater than 20 feet in length, you must halve the size of each panel to create supports. You can crudely shape the wall to create crenellations, battlements, and so on.    
-The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per inch of thickness. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the GM's discretion.    
-If you maintain your concentration on this spell for its whole duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends. 
+
+_Втілення, 5 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (невеличкий блок граніту)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Немагічна стіна з твердого каменю виникає у точці, яку ви обираєте в межах відстані. Стіна завтовшки 6 дюймів і складається з 10 панелей розміром 10 на 10 футів. Кожна панель повинна дотикатися принаймні до однієї іншої панелі. Або ж ви можете створити панелі розміром 10 на 20 футів і завтовшки лише 3 дюйми.    
+
+Якщо стіна під час появи перетинає простір істоти, ця істота виштовхується на один бік стіни (за вашим вибором). Якщо істота може бути оточена стіною з усіх боків (або стіною та іншою твердою поверхнею), ця істота може зробити рятівний кидок Спритності. У разі успіху вона використовує свою реакцію, щоб переміститися на свою швидкість так, щоб більше не бути оточеною стіною.    
+
+Стіна може мати будь-яку форму за вашим бажанням, хоча вона не може зайняти простір іншої істоти чи предмета. Стіна не повинна бути вертикальною чи спиратися на будь-яку надійну основу. Однак вона повинен зливатися з наявним каменем і міцно підтримуватися ним. Отже, ви можете використовувати ці чари, щоб створити міст над прірвою або для створення пандуса.    
+
+Якщо ви створюєте проліт понад 20 футів у довжину, ви повинні вдвічі зменшити розмір кожної панелі, заради створення опор. Ви можете грубо сформувати стіну, щоб створити зубці, бійниці тощо.    
+
+Стіна - це кам'яний об'єкт, який можна пошкодити і таким чином зламати. Кожна панель має КЗ 15 і 30 пунктів здоров'я на дюйм товщини. Зменшення пунктів здоров'я панелі до 0 руйнує її і може призвести до колапсу сусідніх панелей, на розсуд Майстра.    
+
+Якщо ви підтримуєте концентрацію на чарах упродовж усього можливого часу, стіна стає постійною і не може бути розвіяна. Інакше стіна зникає, коли чари завершуються. 

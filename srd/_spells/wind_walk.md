@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 6
 classes: druid
-title: Wind Walk 
+title: Прогулянка з вітром [Wind Walk]
 ---
-_6th-level transmutation_ 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (fire and holy water)    
-**Duration:** 8 hours 
-You and up to ten willing creatures you can see within range assume a gaseous form for the duration, appearing as wisps of cloud. While in this cloud form, a creature has a flying speed of 300 feet and has resistance to damage from nonmagical weapons. The only actions a creature can take in this form are the Dash action or to revert to its normal form. Reverting takes 1 minute, during which time a creature is incapacitated and can't move. Until the spell ends, a creature can revert to cloud form, which also requires the 1-minute transformation.    
-If a creature is in cloud form and flying when the effect ends, the creature descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, the creature falls the remaining distance. 
+
+_Перетворення, 6 рівень; друїд _    
+**Час створення:** 1 хвилина    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (вогонь і свята вода)    
+**Тривалість:** 8 годин    
+
+Ви та до 10 згодних істот, яких ви можете бачити в межах відстані, набуваєте газоподібної форми на час дії чарів, стаючи ніби перистими хмарами. Перебуваючи в формі хмари, істота має швидкість польоту 300 футів і стійкість до ушкоджень від немагічної зброї. Єдина дія, яку може здійснювати істота в цій формі - це Ривок, або ж вона може повернутися до нормальної форми. Повернення триває 1 хвилину, і в цей час істота є недієздатною і не може переміщуватися. Поки чари не завершаться, істота може набути форми хмари, що також вимагає однохвилинного перетворення.    
+
+Якщо істота перебуває у формі хмари й летить, коли завершуються чари, ця істота знижується на 60 футів за раунд упродовж 1 хвилини, доки не приземлиться, і це приземлення безпечне. Якщо вона не може приземлитися упродовж 1 хвилини, то падає з висоти, яка залишилася. 
