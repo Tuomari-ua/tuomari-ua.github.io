@@ -8,9 +8,12 @@ title: Чари за рівнями
 {% for group in groups %}
       <h3>{{ group.name }}</h3>
   <ul style="column-count: 3">
-    {% for item in group.items %}
+  {% assign_spell_by_name = site.spells | sort: 'title' %}
+      {% for item in spell_by_name %}
+	  {% if item.spell_by_name contains group %}
            <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-    {%endfor%}
+    {% endif %}
+	{%endfor%}
   </ul>
 {% endfor %}
 </div>
