@@ -1,14 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 6
 classes: cleric
-title: Harm 
+title: Шкода [Harm]
 ---
-_6th-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous    
-You unleash a virulent disease on a creature that you can see within range. The target must make a Constitution saving throw. On a failed save, it takes 14d6 necrotic damage, or half as much damage on a successful save. The damage can't reduce the target's hit points below 1. If the target fails the saving throw, its hit point maximum is reduced for 1 hour by an amount equal to the necrotic damage it took. Any effect that removes a disease allows a creature's hit point maximum to return to normal before that time passes. 
+
+_Некромантія, 6 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви спрямовуєте небезпечну хворобу на істоту, яку можете бачити в межах відстані. Ціль повинна зробити рятівний кидок Статури. У разі невдачі істота отримує 14к6 ушкоджень некротичною енергією, або половину цих ушкоджень за умови успіху. Ушкодження не можуть знизити пункти здоров'я цілі менше 1. Якщо ціль провалює рятівний кидок, її максимум пунктів здоров'я зменшений на 1 годину на кількість отриманих некротичних ушкоджень. Будь-який ефект, що прибирає хворобу, дозволяє повернути максимум пунктів здоров'я істоти до норми, перш ніж пройде цей час. 
