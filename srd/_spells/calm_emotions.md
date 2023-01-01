@@ -4,7 +4,7 @@ layout: page
 tag: Зачарування
 level: 2
 classes: bard, cleric
-title: Вгамувати емоції [Calm Emotions]
+title: Вгамування емоцій [Calm Emotions]
 ---
 
 _Зачарування, 2 рівень; бард, клірик_     

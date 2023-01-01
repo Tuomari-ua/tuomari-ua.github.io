@@ -4,7 +4,7 @@ layout: page
 level: 1 
 tag: Некромантія
 classes: sorcerer, wizard
-title: Примарне життя [False life]
+title: Удаване життя [False life]
 ---
 
 _Некромантія, 1 рівень; заклинач, маг_  
