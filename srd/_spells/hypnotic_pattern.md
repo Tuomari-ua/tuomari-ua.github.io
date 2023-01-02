@@ -1,18 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 3
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Hypnotic Pattern 
+classes: bard, sorcerer, warlock, wizard
+title: Гіпнотичний візерунок [Hypnotic Pattern]
 ---
-_3rd-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** S, M (a glowing stick of incense or a crystal vial filled with phosphorescent material)    
-**Duration:** Concentration, up to 1 minute 
-You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0.    
-The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
+
+_Ілюзія, 3 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** С, М (розжарена паличка ладану або кришталевий флакон, наповнений фосфоресцентним матеріалом)    
+
+Ви створюєте звивистий візерунок кольорів, який переплітається в повітрі всередині 30-футового куба в межах відстані. Візерунок з'являється на мить і зникає. Кожна істота в цій області, що бачить візерунок, повинна зробити рятівний кидок Мудрості. У разі невдачі істота стає причарованою на час дії чарів. Поки істота причарована цими чарами, вона недієздатна й має швидкість 0.    
+
+Чари для враженої істоти завершуються, якщо вона отримує будь-які ушкодження, або якщо хтось інший використає дію, щоб вивести істоту зі ступору.

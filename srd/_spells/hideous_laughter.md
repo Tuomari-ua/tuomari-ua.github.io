@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 1
-classes: bard
-         wizard
-title: Hideous Laughter 
+classes: bard, wizard
+title: Огидний сміх [Hideous Laughter]
 ---
-_1st-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (tiny tarts and a feather that is waved in the air)    
-**Duration:** Concentration, up to 1 minute 
-A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected.    
-At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends. 
+
+_Зачарування, 1 рівень; бард, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (крихітні пиріжки й пір'їна, якою розмахують у повітрі)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Вибрана вами істота, яку ви можете бачити в межах відстані, сприймає все до смішного кумедним і піддається нападам сміху, якщо ці чари впливають на неї. Ціль повинна зробити успішний рятівний кидок Мудрості або впаде, стаючи недієздатною, і не може підвестися, поки діють чари. Істота зі значенням Інтелекту 4 або менше не піддається чарам.    
+
+У кінці кожного свого ходу та кожного разу, коли істота отримує ушкодження, вона може зробити повторний рятівний кидок Мудрості. Ціль має перевагу на цей рятівний кидок, якщо робить його через отримані ушкодження. У разі успіху чари завершуються. 

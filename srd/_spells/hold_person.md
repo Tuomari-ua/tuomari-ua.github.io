@@ -1,20 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 2
-classes: bard
-         cleric
-         druid
-         sorcerer
-         warlock
-         wizard
-title: Hold Person 
+classes: bard, cleric, druid, sorcerer, warlock, wizard
+title: Стримування особи [Hold Person]
 ---
-_2nd-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a small, straight piece of iron)    
-**Duration:** Concentration, up to 1 minute 
-Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional humanoid for each slot level above 2nd. The humanoids must be within 30 feet of each other when you target them. 
+
+_Зачарування, 2 рівень; бард, клірик, друїд, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (маленький, рівний шматочок заліза)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Виберіть гуманоїда, якого ви можете бачити в межах відстані. Ціль повинна зробити рятівний кидок Мудрості, або буде паралізована, поки діють чари. У кінці кожного свого ходу ціль може зробити повторний рятівний кидок Мудрості. У разі успіху чари для цілі завершуються.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище другої. Гуманоїди повинні бути в межах 30 футів одне від одного, коли ви націлюєтеся на них. 

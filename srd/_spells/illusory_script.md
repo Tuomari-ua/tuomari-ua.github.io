@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 1
-classes: bard
-         warlock
-         wizard
-title: Illusory Script 
+classes: bard, warlock, wizard
+title: Ілюзорний напис [Illusory Script]
 ---
-_1st-level illusion (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** S, M (a lead-based ink worth at least 10 gp, which the spell consumes)   
-**Duration:** 10 days 
-You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration.    
-To you and any creatures you designate when you cast the spell, the writing appears normal, written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message, written in a different hand and language, though the language must be one you know.    
-Should the spell be dispelled, the original script and the illusion both disappear.    
-A creature with truesight can read the hidden message. 
+
+_Ілюзія, 1 рівень (ритуал); бард, чаклун, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** Дотик    
+**Складові:** С, М (чорнило на основі свинцю вартістю щонайменше 10 зм, яке поглинається чарами)   
+**Тривалість:** 10 днів   
+
+Ви пишете на пергаменті, папері чи іншому матеріалі для письма, та наповнюєте його потужною ілюзією, яка триває, поки діють чари.    
+
+Для вас та будь-яких істот, кого ви визначаєте під час чарування, напис виглядає нормально, написаний вашою рукою, і передає те значення, яке ви вкладали в написаний текст. Для всіх інших текст виглядає так, ніби він написаний невідомим чи магічним шрифтом, який незрозумілий. Або ж ви можете зробити так, щоб написане виглядало як зовсім інше повідомлення, написане іншою рукою та іншою мовою, хоча це повинна бути одна з відомих вам мов.    
+
+Якщо чари розвіяно, оригінальний напис та ілюзія зникають.    
+
+Істота з істинним зором може прочитати приховане повідомлення. 

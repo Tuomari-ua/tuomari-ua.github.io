@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
 classes: ranger
-title: Hunter's Mark 
+title: Мисливська мітка [Hunter's Mark]
 ---
-_1st-level divination_ 
-**Casting Time:** 1 bonus action    
-**Range:** 90 feet    
-**Components:** V    
-**Duration:** Concentration, up to 1 hour 
-You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+
+_Віщування, 1 рівень; рейнджер_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** 90 футів    
+**Складові:** В    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви вибираєте істоту, яку можете бачити в межах відстані, і містично позначаєте її як свою здобич. Поки чари не завершаться, ви завдаєте додаткові 1к6 ушкоджень цілі щоразу, коли влучаєте по ній атакою зброї, і ви маєте перевагу на перевірки Мудрості (Сприйняття) та Мудрості (Виживання), зроблені для пошуку цієї цілі. Якщо пункти здоров'я цілі знижуються до 0, перш ніж завершаться чари, ви можете використати бонусну дію в наступний свій хід, щоб позначити нову істоту.  
+
+**На вищих рівнях** Коли ви створюєте ці чари з використанням чарунки 3 або 4 рівня, ви можете підтримувати концентрацію на цих чарах до 8 годин. Коли ви використовуєте чарунку 5 рівня або вищу, ви можете підтримувати концентрацію на цих чарах до 24 годин.
