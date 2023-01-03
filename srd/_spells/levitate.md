@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: sorcerer
-         wizard
-title: Levitate 
+classes: sorcerer, wizard
+title: Левітація [Levitation]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)    
-**Duration:** Concentration, up to 10 minutes 
-One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.    
-The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 20 feet in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can use your action to move the target, which must remain within the spell's range.    
-When the spell ends, the target floats gently to the ground if it is still aloft. 
+
+_Перетворення, 2 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (невелика шкіряна петля або шматок золотого дроту, зігнутий у формі чашки з довгим хвостовиком на одному кінці)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Одна істота чи предмет за вашим вибором, який ви можете бачити в межах відстані, піднімається вертикально, до 20 футів, і залишається завислим у повітрі на час дії чарів. Чари можуть підняти ціль, що важить до 500 фунтів. Незгодна істота, яка зробила успішний рятівний кидок Статури, уникає дії чарів.    
+
+Ціль може переміщуватися, тільки відштовхуючись або підтягуючись до зафіксованих предметів чи поверхонь у межах досяжності (таких як стіна або стеля), що дозволяє їй переміщуватися на зразок лазіння. Ви можете змінити висоту цілі до 20 футів в будь-якому напрямку в свій хід. Якщо ви і є ціль, ви можете переміщуватися вгору або вниз за рахунок власного переміщення. Або ж ви можете використати свою дію, щоб перемістити ціль, яка повинна залишатися в межах відстані чарів.    
+
+Коли чари завершуються, ціль плавно спускається на землю, якщо ще була в повітрі. 
