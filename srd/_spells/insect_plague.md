@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 5
-classes: cleric
-         druid
-         sorcerer
-title: Insect Plague 
+classes: cleric, druid, sorcerer
+title: Нашестя комах [Insect Plague]
 ---
-_5th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 300 feet    
-**Components:** V, S, M (a few grains of sugar, some kernels of grain, and a smear of fat)    
-**Duration:** Concentration, up to 10 minutes 
-Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration, and its area is lightly obscured. The sphere's area is difficult terrain.    
-When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th. 
+
+_З'явлення, 5 рівень; клірик, друїд, заклинач_    
+**Час створення:** 1 дія    
+**Відстань:** 300 футів    
+**Складові:** В, С, М (кілька крупинок цукру, кілька зернят і шматочок жиру)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Рій кусючої сарани заповнює сферу радіусом 20 футів із центром у вибраній вами точці в межах відстані. Сфера огинає кути. Сфера існує, поки діють чари, і її область є слабопроглядною. Область сфери є важкопрохідною місцевістю.    
+
+Коли виникає ця область, кожна істота в ній повинна зробити рятівний кидок Статури. Істота отримує 4к10 колотих ушкоджень у разі невдачі, або половину цих ушкоджень за умови успіху. Істота також повинна зробити рятівний кидок, коли входить в область чарів уперше за свій хід або завершує там свій хід.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ушкодження зростають на 1к10 за кожну чарунку вище п'ятої. 

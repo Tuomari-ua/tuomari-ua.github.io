@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Invisibility 
+classes: bard, sorcerer, warlock, wizard
+title: Невидимість [Invisibility]
 ---
-_2nd-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (an eyelash encased in gum arabic)    
-**Duration:** Concentration, up to 1 hour 
-A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. 
+
+_Ілюзія, 2 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (вія, збережена в гуміарабіку)    
+**Тривалість:** Концентрація, до 1 години    
+
+Істота, якої ви торкаєтеся, стає невидимою на час дії чарів. Усе, що ціль носить або несе, стає невидимим, поки залишається при цільовій особі. Чари завершуються для цілі, яка здійснює атаку або створює чари.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище другої. 

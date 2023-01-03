@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 1
 classes: cleric
-title: Inflict Wounds 
+title: Завдання ран [Inflict Wounds]
 ---
-_1st-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Instantaneous 
-Make a melee spell attack against a creature you can reach. On a hit, the target takes 3d10 necrotic damage. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
+
+_Некромантія, 1 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Здійсніть атаку чарами ближнього бою проти істоти в межах вашої досяжності. У разі влучання ціль отримує 3к10 ушкоджень некротичною енергією.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ушкодження зростають на 1к10 за кожну чарунку вище першої.

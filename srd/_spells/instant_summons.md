@@ -1,17 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
 classes: wizard
-title: Instant Summons 
+title: Миттєвий виклик [Instant Summons]
 ---
-_6th-level conjuration (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (a sapphire worth 1,000 gp)    
-**Duration:** Until dispelled 
-You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.    
-At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances, and the spell ends.    
-If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn who the creature possessing the object is and roughly where that creature is located at that moment.    
-**_Dispel magic_** or a similar effect successfully applied to the sapphire ends this spell's effect. 
+
+_З'явлення, 6 рівень (ритуал); маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** Дотик    
+**Складові:** В, С, М (сапфір вартістю 1000 зм)    
+**Тривалість:** Доки не розвіють    
+
+Ви торкаєтеся предмета вагою до 10 фунтів та до 6 футів завдовжки по найбільшому виміру. Чари залишають невидимий знак на його поверхні та невидимо надписують назву предмета на сапфірі, що ви використовуєте як матеріальну складову. Щоразу, коли ви створюєте ці чари, ви повинні використовувати інший сапфір.    
+
+У будь-який час після цього ви можете використати дію, щоб назвати предмет і розбити сапфір. Предмет негайно з'являється у вашій руці незалежно від фізичних чи планарних відстаней, і чари завершуються.      
+
+Якщо інша істота тримає чи несе цей предмет, розбивання сапфіра не переносить предмет до вас, натомість ви дізнаєтеся, хто та істота, якій належить предмет, і приблизно - де ця істота перебуває у цей момент.    
+
+**_Розвіювання магії_** чи подібні ефекти, успішно накладені на сапфір, завершують ефект чарів. 
