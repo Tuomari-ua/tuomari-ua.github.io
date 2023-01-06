@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 1
-classes: sorcerer
-         wizard
-title: Magic Missile 
+classes: sorcerer, wizard
+title: Магічний дротик [Magic Missile]
 ---
-_1st-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+
+_Втілення, 1 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви створюєте три сяючі дротики з магічної енергії. Кожен дротик влучає в істоту за вашим вибором, яку ви можете бачити в межах відстані. Дротик завдає цілі 1к4 + 1 ушкоджень чистою енергією. Усі дротики влучають одночасно, і ви можете спрямувати їх до однієї або кількох істот.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, чари створюють на один дротик більше за кожну чарунку вище першої.

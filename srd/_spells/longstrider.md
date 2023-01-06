@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: bard
-         druid
-         ranger
-         wizard
-title: Longstrider 
+classes: bard, druid, ranger, wizard
+title: Скорохід [Longstrider]
 ---
-_1st-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of dirt)    
-**Duration:** 1 hour 
-You touch a creature. The target's speed increases by 10 feet until the spell ends. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+_Перетворення, 1 рівень; бард, друїд, рейнджер, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (дрібка бруду)    
+**Тривалість:** 1 година    
+
+Ви торкаєтеся істоти. Швидкість цілі зростає на 10 футів, поки чари не завершаться.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище першої.
