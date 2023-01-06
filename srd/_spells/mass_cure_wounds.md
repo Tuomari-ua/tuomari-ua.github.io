@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 5
-classes: bard
-         cleric
-         druid
-title: Mass Cure Wounds 
+classes: bard, cleric, druid
+title: Масове лікування ран [Mass Cure Wounds]
 ---
-_5th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the healing increases by 1d8 for each slot level above 5th. 
+
+_Втілення, 5 рівень; бард, клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Хвиля цілющої енергії розливається з вибраної вами точки в межах відстані. Виберіть до 6 істот у межах сфери з радіусом 30 футів із центром на вибраній точці. Кожна істота відновлює пункти здоров'я, що дорівнюють 3к8 + модифікатор вашої чаротворчої здібності. Ці чари не діють на невмерлих або конструктів.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, лікування зростає на 1к8 за кожну чарунку вище п'ятої. 

@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 3
 classes: cleric
-title: Mass Healing Word 
+title: Масове цілюще слово [Mass Healing Word]
 ---
-_3rd-level evocation_ 
-**Casting Time:** 1 bonus action    
-**Range:** 60 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-As you call out words of restoration, up to six creatures of your choice that you can see within range regain hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the healing increases by 1d4 for each slot level above 3rd. 
+
+_Втілення, 3 рівень; клірик_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** 60 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+Ви вигукуєте слова відновлення, і до 6 істот за вашим вибором, яких ви можете бачити в межах відстані, відновлюють кількість пунктів здоров'я, що дорівнює 1к4 + модифікатор вашої чаротворчої здібності. Ці чари не діють на невмерлих або конструктів.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, зцілення зростає на 1к4 за кожну чарунку вище третьої. 

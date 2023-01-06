@@ -1,14 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 9
 classes: cleric
-title: Mass Heal 
+title: Масове зцілення [Mass Heal]
 ---
-_9th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-A flood of healing energy flows from you into injured creatures around you. You restore up to 700 hit points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell has no effect on undead or constructs. 
+
+_Втілення, 9 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Потік цілющої енергії тече від вас до поранених істот навколо. Ви відновлюєте до 700 пунктів здоров'я, розділяючи цю кількість за власним вибором серед будь-якої кількості істот, яких ви можете бачити в межах відстані. Істоти, зцілені цими чарами, також виліковуються від усіх хвороб та будь-яких ефектів, що робили їх осліпленими чи оглушеними. Ці чари не діють на невмерлих або конструктів. 

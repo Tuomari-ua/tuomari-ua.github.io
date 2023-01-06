@@ -4,7 +4,7 @@ layout: page
 tag: Ілюзія
 level: 5
 classes: sorcerer, wizard
-title: Творення
+title: Творення [Creation]
 ---
 
 _Ілюзія, 5 рівень; заклинач, маг_   

@@ -1,21 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 6
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Mass Suggestion 
+classes: bard, sorcerer, warlock, wizard
+title: Масове навіювання [Mass Suggestion]
 ---
-_6th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)    
-**Duration:** 24 hours 
-You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.    
-Each target must make a Wisdom saving throw. On a failed save, it pursues the course of action you described to the best of its ability. The suggested course of action can continue for the entire duration. If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.    
-You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a group of soldiers give all their money to the first beggar they meet. If the condition isn't met before the spell ends, the activity isn't performed.    
-If you or any of your companions damage a creature affected by this spell, the spell ends for that creature. 
-**At Higher Levels.** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day. 
+
+_Зачарування, 6 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, М (язик змії та шматочок медового стільника або крапля солодкої олії)    
+**Тривалість:** 24 години    
+
+Ви навіюєте напрямок діяльності (обмежений реченням або двома) і магічно впливаєте на 12 істот за вашим вибором, яких ви можете бачити в межах відстані та які можуть чути й розуміти вас. Істоти, яких не можна причарувати, мають імунітет до цього ефекту. Навіювання необхідно висловити у такій формі, щоб пропонована діяльність звучала обґрунтовано. Навіювання істоті вдарити себе ножем, кинутися на спис, принести себе в жертву чи зробити щось інше, очевидно шкідливе, автоматично скасовує ефект чарів.    
+
+Кожна ціль повинна зробити рятівний кидок Мудрості. У разі невдачі вона якнайкраще дотримується описаному вами напрямку діяльності. Пропонований напрямок діяльності може тривати, поки діють чари. Якщо пропоновану діяльність можна завершити за коротший час, чари завершуються, коли суб'єкт завершує те, що ви попросили зробити.    
+
+Ви також можете уточнити обставини, які спровокують спеціальну активність, поки діють чари. Наприклад, ви можете навіяти, щоб група солдатів віддала всі свої гроші першому зустрічному жебракові. Якщо обставина не виконана до завершення чарів, діяльність не виконується.    
+
+Якщо ви чи будь-хто із ваших супутників завдають ураженій чарами істоті ушкоджень, чари для цієї істоти завершуються.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7 рівня або вищої, тривалість чарів зростає до 10 днів. Коли ви використовуєте чарунку 8 рівня, тривалість складає 30 днів. Коли ви використовуєте чарунку 9 рівня, тривалість складає один рік і один день. 

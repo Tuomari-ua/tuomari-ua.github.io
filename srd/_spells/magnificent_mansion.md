@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 7
-classes: bard
-         wizard
-title: Magnificent Mansion 
+classes: bard, wizard
+title: Розкішний маєток [Magnificent Mansion]
 ---
-_7th-level conjuration_ 
-**Casting Time:** 1 minute    
-**Range:** 300 feet    
-**Components:** V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp)    
-**Duration:** 24 hours 
-You conjure an extradimensional dwelling in range that lasts for the duration. You choose where its one entrance is located. The entrance shimmers faintly and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.    
-Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.    
-You can create any floor plan you like, but the space can't exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can't leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance. 
+
+_З'явлення, 7 рівень; бард, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** 300 футів    
+**Складові:** В, С, М (мініатюрний портал, вирізаний зі слонової кістки, маленький шматочок полірованого мармуру та крихітна срібна ложечка, кожен предмет вартістю щонайменше 5 зм)    
+**Тривалість:** 24 години    
+
+Ви являєте міжвимірне житло в межах відстані, і воно існує, поки діють чари. Ви вибираєте, де розміщений один його вхід. Вхід слабко мерехтить і має 5 футів завширшки та 10 футів заввишки. Ви та будь-яка істота, яку ви визначаєте, коли створюєте ці чари, можете увійти до міжвимірного житла, допоки портал залишається відкритим. Ви можете відкрити чи закрити портал, коли перебуваєте у межах 30 футів від нього. Поки портал закритий, він невидимий.    
+
+За порталом розташоване розкішне фойє з численними кімнатами. Повітря чисте, свіже та тепле.    
+
+Ви можете створити будь-який план поверху, але простір не може перевищувати 50 кубів, кожен зі стороною 10 футів. Маєток обставлений та прикрашений за вашим вибором. Він містить достатньо їжі, щоб забезпечити бенкет із 9 страв для 100 осіб. Персонал зі 100 напівпрозорих служників піклується про всіх, хто входить. Ви визначаєте зовнішній вигляд цих служників та їхнє вбрання. Вони повністю підкорюються вашим наказам. Кожен служник може виконати будь-яке завдання, можливе для звичайного служника-людини, але він не може атакувати чи здійснити будь-яку дію, що прямо нашкодить іншій істоті. Отже, служники можуть принести річ, почистити, полагодити, скласти одяг, запалити вогонь, подати їжу, налити вино тощо. Служники можуть переміщуватися будь-де по маєтку, але не можуть вийти з нього. Меблювання та інші предмети, створені цими чарами, зникають у диму, якщо їх винести з маєтку. Коли чари завершуються чари, будь-які істоти всередині міжвимірного простору виганяються у відкритий простір, найближчий до входу. 
