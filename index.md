@@ -40,10 +40,10 @@ layout: default
 |---------------------------------------------------------|---------------------------------------------------------|
 | 🇺🇦 [Між пригодами](./docs/adventuring/between_adventures.html)    | 🇺🇦 [Обладунки](./docs/adventuring/equipment/armor.html)      |
 | 🇺🇦 [Переміщення](./docs/adventuring/movement.html)                | 🇺🇦 [Зброя](./docs/adventuring/equipment/weapons.html)        |         
-| 🇺🇦 [Виміри існування](./docs/adventuring/planes_of_existence.html)| 🇺🇦 [Спорядження пригодника](./docs/adventuring/equipment/adventuring_gear.html)|
+| 🇺🇦 [Час](./docs/adventuring/time.html)                            | 🇺🇦 [Спорядження пригодника](./docs/adventuring/equipment/adventuring_gear.html)|
 | 🇺🇦 [Відпочинок](./docs/adventuring/resting.html)                  | 🇺🇦 [Набори спорядження](./docs/adventuring/equipment/equipment_packs.html)  |
 | 🇺🇦 [Середовище](./docs/adventuring/the_environment.html)          | 🇺🇦 [Інструменти](./docs/adventuring/equipment/tools.html)                   |
-| 🇺🇦 [Час](./docs/adventuring/time.html)                            | 🇺🇦 [Транспорт](./docs/adventuring/equipment/mounts_and_vehicles.html)       |
+|                                                            | 🇺🇦 [Транспорт](./docs/adventuring/equipment/mounts_and_vehicles.html)       |
 |                                                            | 🇺🇦 [Монети](./docs/adventuring/equipment/coins.html)                           |
 |                                                            | 🇺🇦 [Торговельні товари](./docs/adventuring/equipment/trade_goods.html)         |      
 
