@@ -4,7 +4,7 @@ layout: page
 tag: Ілюзія
 level: 4
 classes: bard, druid, warlock, wizard
-title: Примарна земля [Hallucinatory Terrain]
+title: Уявна земля [Hallucinatory Terrain]
 ---
 
 _Ілюзія, 4 рівень; бард, друїд, чаклун, маг_    

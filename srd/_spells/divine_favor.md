@@ -4,7 +4,7 @@ layout: page
 tag: Втілення
 level: 1
 classes: paladin
-title: Божа послуга [Divine Favor]
+title: Божа милість [Divine Favor]
 ---
 
 _Втілення, 1 рівень; паладин_     
