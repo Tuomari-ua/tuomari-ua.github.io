@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 0
-classes: druid
-         sorcerer
-         warlock
-         wizard
-title: Poison Spray 
+classes: druid, sorcerer, warlock, wizard
+title: Отруйні бризки [Poison Spray]
 ---
-_Conjuration cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.    
-This spell's damage increases by 1d12 when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
+
+_З'явлення, замовляння; друїд, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 10 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви простягаєте руку до істоти, яку можете бачити в межах відстані, й із вашої долоні злітає подув згубного газу. Істота повинна зробити рятівний кидок Статури, або отримає 1к12 ушкоджень отрутою.    
+
+Ушкодження цих чарів зростають на 1к12, коли ви досягаєте 5 рівня (2к12), 11 рівня (3к12) та 17 рівня (4к12).

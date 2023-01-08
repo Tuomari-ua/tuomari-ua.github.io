@@ -1,17 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 9
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Power Word Kill 
+classes: bard, sorcerer, warlock, wizard
+title: 'Слово сили: Смерть [Power Word Kill]'
 ---
-_9th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-You utter a word of power that can compel one creature you can see within range to die instantly. If the creature you choose has 100 hit points or fewer, it dies. Otherwise, the spell has no effect.
+
+_Зачарування, 9 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+Ви промовляєте слово сили, яке може змусити одну істоту, котру ви можете бачити в межах відстані, миттєво померти. Якщо вибрана вами істота має 100 пунктів здоров'я або менше, вона вмирає. В іншому разі чари не мають ефекту.

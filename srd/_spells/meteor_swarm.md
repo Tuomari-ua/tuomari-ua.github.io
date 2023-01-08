@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 9
-classes: sorcerer
-         wizard
-title: Meteor Swarm 
+classes: sorcerer, wizard
+title: Рій метеорів [Meteor Swarm]
 ---
-_9th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 1 mile    
-**Components:** V, S    
-**Duration:** Instantaneous 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point you choose must make a Dexterity saving throw. The sphere spreads around corners. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much damage on a successful one. A creature in the area of more than one fiery burst is affected only once.    
-The spell damages objects in the area and ignites flammable objects that aren't being worn or carried. 
+
+_Втілення, 9 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 1 миля    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Палаючі кулі вогню врізаються в землю в чотирьох різних точках, які ви можете бачити в межах відстані. Кожна істота в сфері радіусом 40 футів із центром у вибраній вами точці повинна зробити рятівний кидок Спритності. Сфера огинає кути. Істота отримує 20к6 ушкоджень вогнем і 20к6 дробильних ушкоджень у разі невдачі, або половину цих ушкоджень за умови успіху. Істота в області більш ніж одного вогняного вибуху піддається цьому впливу лише раз.    
+
+Чари ушкоджують предмети в області та підпалюють займисті предмети, які ніхто не тримає при собі. 

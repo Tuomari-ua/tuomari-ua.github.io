@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 8
-classes: bard
-         wizard
-title: Mind Blank 
+classes: bard, wizard
+title: Чистий розум [Mind Blank]
 ---
-_8th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** 24 hours 
-Until the spell ends, one willing creature you touch is immune to psychic damage, any effect that would sense its emotions or read its thoughts, divination spells, and the charmed condition. The spell even **_foils_** wish spells and spells or effects of similar power used to affect the target's mind or to gain information about the target. 
+
+_Перешкоджання, 8 рівень; бард, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** 24 години    
+
+Доки чари не завершаться, одна згодна істота, якої ви торкнулися, має імунітет до психічних ушкоджень, будь-яких ефектів, які б дозволили відчути її емоції або прочитати думки, чарів віщування та стану "причарований". Ці чари навіть руйнують чари **_бажання_** та чари або ефекти подібної сили, використані, щоб вплинути на свідомість цілі чи для здобуття інформації про ціль. 

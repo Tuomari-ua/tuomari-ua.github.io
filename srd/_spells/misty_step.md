@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 2
-classes: sorcerer
-         warlock
-         wizard
-title: Misty Step 
+classes: sorcerer, warlock, wizard
+title: Туманний крок [Misty Step]
 ---
-_2nd-level conjuration_ 
-**Casting Time:** 1 bonus action    
-**Range:** Self    
-**Components:** V    
-**Duration:** Instantaneous 
-Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see. 
+
+_З'явлення, 2 рівень; заклинач, чаклун, маг_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** На себе    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+На мить оточені сріблястою імлою, ви телепортуєтеся на 30 футів у вільний простір, який можете бачити. 

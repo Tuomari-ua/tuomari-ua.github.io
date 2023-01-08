@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 8
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Power Word Stun 
+classes: bard, sorcerer, warlock, wizard
+title: 'Слово сили: Приголомшення [Power Word Stun]'
 ---
-_8th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.    
-The stunned target must make a Constitution saving throw at the end of each of its turns. On a successful save, this stunning effect ends.
+
+_Зачарування, 8 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+Ви говорите слово сили, яке може переповнити свідомість однієї істоти, котру ви можете бачити в межах відстані, залишаючи її остовпілою. Якщо ціль має 150 пунктів здоров'я або менше, вона приголомшена. В іншому випадку чари не мають ефекту.    
+
+Приголомшена ціль повинна робити рятівний кидок Статури в кінці кожного свого ходу. У разі успіху це приголомшення завершується.

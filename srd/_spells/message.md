@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 0
-classes: bard
-         sorcerer
-         wizard
-title: Message 
+classes: bard, sorcerer, wizard
+title: Повідомлення [Message]
 ---
-_Transmutation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a short piece of copper wire)    
-**Duration:** 1 round 
-You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.    
-You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn't have to follow a straight line and can travel freely around corners or through openings. 
+
+_Перетворення, замовляння; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (короткий шматочок мідного дроту)    
+**Тривалість:** 1 раунд    
+
+Ви вказуєте пальцем на істоту в межах відстані й шепочете повідомлення. Ціль (і тільки ціль) чує повідомлення і може відповісти пошепки, так що тільки ви зможете почути відповідь.    
+
+Ви можете створити чари крізь твердий предмет, якщо ви знайомі з ціллю і знаєте, що вона перебуває за бар'єром. Магічна тиша, 1 фут каменю, 1 дюйм звичайного металу, тонкий лист свинцю чи 3 фути дерева блокують ці чари. Чари не потребують поширення по прямій лінії і можуть вільно огинати кути й проникати крізь отвори. 
