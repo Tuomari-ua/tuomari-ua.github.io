@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 0
 classes: bard
-title: Vicious Mockery 
+title: Злісне глузування [Vicious Mockery]
 ---
-_Enchantment cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 1d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.    
-This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+_Зачарування, замовляння_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+Ви виголошуєте серію образ, приправлених тонкими чарами, на істоту, яку ви бачите в межах відстані. Якщо ціль може чути вас (хоча їй не обов'язково розуміти вас), вона повинна зробити успішний рятівний кидок Мудрості, або отримає 1к4 ушкоджень психічної енергією та матиме перешкоду на наступний кидок атаки, який ця істота зробить до кінця свого наступного ходу.    
+
+Ушкодження цих чарів зростають на 1к4, коли ви досягаєте 5 рівня (2к4), 11 рівня (3к4) та 17 рівня (4к4).
