@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 5
 classes: bard, cleric, druid
-title: Велике відновлення [Greater Restoration]
+title: Більше відновлення [Greater Restoration]
 ---
 
 _Перешкоджання, 5 рівень; бард, клірик, друїд_    

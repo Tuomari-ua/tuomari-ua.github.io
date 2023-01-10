@@ -4,7 +4,7 @@ layout: page
 tag: Ілюзія
 level: 4
 classes: bard, sorcerer, wizard
-title: Вища невидимість [Greater Invisibility]
+title: Більша невидимість [Greater Invisibility]
 ---
 
 _Ілюзія, 4 рівень; бард, заклинач, маг_    

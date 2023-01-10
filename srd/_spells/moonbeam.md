@@ -1,18 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
 classes: druid
-title: Moonbeam 
+title: Місячний промінь [Moonbeam]
 ---
-_2nd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)    
-**Duration:** Concentration, up to 1 minute 
-A silvery beam of pale light shines down in a 5-foot- radius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.    
-When a creature enters the spell's area for the first time on a turn or starts its turn there, it is engulfed in ghostly flames that cause searing pain, and it must make a Constitution saving throw. It takes 2d10 radiant damage on a failed save, or half as much damage on a successful one.    
-A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spell's light.    
-On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd. 
+
+_Втілення, 2 рівень; друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (кілька насінин будь-якої місячної рослини і шматочок польового шпату молочного кольору)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Сріблястий промінь блідого світла освічує циліндр радіусом 5 футів та заввишки 40 футів із центром у точці в межах відстані. Поки чари не завершаться, тьмяне світло наповнює цей циліндр.    
+
+Коли істота входить в область чарів уперше в свій хід або починає там свій хід, її поглинає примарне полум'я, що спричиняє пекучий біль, і істота повинна зробити рятівний кидок Статури. Вона отримує 2к10 променистих ушкоджень у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+Перекидні роблять цей рятівний кидок із перешкодою. Якщо ряткидок невдалий, перекидень негайно повертається до своєї оригінальної форми і не може набрати іншої форми, поки не вийде зі світла чарів.    
+
+У кожен свій хід після створення чарів ви можете використати дію, щоб перемістити промінь на 60 футів у будь-якому напрямку.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ушкодження зростають на 1к10 за кожну чарунку вище другої. 

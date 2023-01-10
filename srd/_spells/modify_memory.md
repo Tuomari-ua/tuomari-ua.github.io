@@ -1,20 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 5
-classes: bard
-         wizard
-title: Modify Memory 
+classes: bard, wizard
+title: Зміна спогадів [Modify Memory]
 ---
-_5th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You attempt to reshape another creature's memories. One creature that you can see must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target's memories are modified.    
-While this charm lasts, you can affect the target's memory of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes. You can permanently eliminate all memory of the event, allow the target to recall the event with perfect clarity and exacting detail, change its memory of the details of the event, or create a memory of some other event.    
-You must speak to the target to describe how its memories are affected, and it must be able to understand your language for the modified memories to take root. Its mind fills in any gaps in the details of your description. If the spell ends before you have finished describing the modified memories, the creature's memory isn't altered. Otherwise, the modified memories take hold when the spell ends.    
-A modified memory doesn't necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The GM might deem a modified memory too nonsensical to affect a creature in a significant manner.    
-A **_remove curse_** or **_greater restoration_** spell cast on the target restores the creature's true memory. 
-**At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level). 
+
+_Зачарування, 5 рівень; бард, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви намагаєтеся змінити спогади іншої істоти. Одна істота, яку ви можете бачити, повинна зробити рятівний кидок Мудрості. Якщо ви б'єтеся з цією істотою, вона має перевагу на цей рятівний кидок. У разі невдачі ціль стає причарованою вами на час дії чарів. Причарована ціль недієздатна та не усвідомлює свого оточення, хоча досі чує вас. Якщо вона отримує будь-які ушкодження або стає ціллю інших чарів, ваші чари завершуються, і спогади істоти не зазнають змін.    
+
+Поки триває це причарування, ви можете впливати на спогади істоти про подію, яку вона пережила за останні 24 години і яка тривала не довше 10 хвилин. Ви можете назавжди стерти спогади про цю подію, дозволити цілі пригадати подію з ідеальною чіткістю та точними деталями, змінити деталі спогаду про подію, або створити спогади про якусь іншу подію.    
+
+Ви повинні говорити до цілі, щоб описати, як змінилися спогади, і вона повинна бути здатною розуміти вашу мову, аби змінені спогади вкорінилися. Її свідомість заповнює будь-які прогалини в подробицях, що ви описали. Якщо чари завершуються, перш ніж ви завершили опис змінених спогадів, спогади істоти не будуть змінені. В іншому випадку, змінені спогади зберігаються, коли завершуються чари.    
+
+Змінені спогади не обов'язково впливають на поведінку істоти, особливо, якщо спогади суперечать природним нахилам істоти, її світогляду та переконанням. Нелогічні зміни спогадів, наприклад, вживлення спогадів про те, як істота насолоджувалася обливанням кислотою, зникне, можливо, як поганий сон. Майстер може вважати змінені спогади занадто безглуздими, щоб суттєво вплинути на істоту.    
+
+Чари **_зняття прокляття_** чи **_більше відновлення_**, створені на істоту, відновлюють її справжні спогади. **На вищих рівнях.** Якщо ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ви можете змінити спогади цілі про подію, яка відбулася до 7 днів тому (6 рівень), 30 днів тому (7 рівень), 1 рік тому (8 рівень), або в будь-який час у минулому (9 рівень). 
