@@ -1,20 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 6
-classes: druid
-         sorcerer
-         wizard
-title: Move Earth 
+classes: druid, sorcerer, wizard
+title: Рух землі [Move Earth]
 ---
-_6th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (an iron blade and a small bag containing a mixture of soils--clay, loam, and sand)    
-**Duration:** Concentration, up to 2 hours 
-Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. So, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete.    
-At the end of every 10 minutes you spend concentrating on the spell, you can choose a new area of terrain to affect.    
-Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.    
-This spell can't manipulate natural stone or stone construction. Rocks and structures shift to accommodate the new terrain. If the way you shape the terrain would make a structure unstable, it might collapse.    
-Similarly, this spell doesn't directly affect plant growth. The moved earth carries any plants along with it.
+
+_Перетворення, 6 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (залізне лезо і маленька торбинка, наповнена мішаниною грунтів - глиною, суглинком і піском)    
+**Тривалість:** Концентрація, до 2 годин    
+
+В межах відстані виберіть область місцевості зі стороною не більше 40 футів. Ви можете змінити форму грязюки, піску чи глини в цій області будь-яким способом, як бажаєте, на час дії чарів. Ви можете підняти або знизити висоту області, створити або засипати траншею, звести або зрівняти стіну або сформувати стовп. Ступінь будь-яких таких змін не може перевищувати половини найбільшого розміру області. Отже, якщо ви впливаєте на квадрат розміром 40 футів, ви можете створити стовп заввишки до 20 футів, підняти або знизити висоту квадрата до 20 футів, вирити траншею глибиною до 20 футів тощо. Для виконання цих змін потрібно 10 хвилин.    
+
+У кінці кожних 10 хвилин, які ви витрачаєте на концентрацію на чарах, ви можете вибрати нову ділянку місцевості для впливу.    
+
+Оскільки трансформація рельєфу відбувається повільно, істоти в цій області зазвичай не можуть потрапити в пастку або поранитися через рух землі.    
+
+Ці чари не можуть взаємодіяти із природним каменем чи кам'яними будівлями. Скелі та споруди зсуваються відповідно до нової місцевості. Якщо те, як ви формуєте рельєф, зробить будівлю нестійкою, вона може зруйнуватися.    
+
+Так само ці чари не впливають безпосередньо на ріст рослин. Зрушена земля переносить із собою будь-які рослини.

@@ -1,20 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 7
-classes: cleric
-         sorcerer
-         warlock
-         wizard
-         druid
-title: Plane Shift 
+classes: cleric, sorcerer, warlock, wizard, druid
+title: Планарний перехід [Plane Shift]
 ---
-_7th-level conjuration_
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)    
-**Duration:** Instantaneous 
-You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as the City of Brass on the Elemental Plane of Fire or the palace of Dispater on the second level of the Nine Hells, and you appear in or near that destination. If you are trying to reach the City of Brass, for example, you might arrive in its Street of Steel, before its Gate of Ashes, or looking at the city from across the Sea of Fire, at the GM's discretion.    
-Alternatively, if you know the sigil sequence of a teleportation circle on another plane of existence, this spell can take you to that circle. If the teleportation circle is too small to hold all the creatures you transported, they appear in the closest unoccupied spaces next to the circle.    
-You can use this spell to banish an unwilling creature to another plane. Choose a creature within your reach and make a melee spell attack against it. On a hit, the creature must make a Charisma saving throw. If the creature fails this save, it is transported to a random location on the plane of existence you specify. A creature so transported must find its own way back to your current plane of existence. 
+
+_З'явлення, 7 рівень; клірик, друїд, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (роздвоєний металевий жезл вартістю щонайменше 250 зм, налаштований на певний план існування)    
+**Тривалість:** Миттєво    
+
+Ви та до восьми згодних істот, що взялися за руки в колі, переносяться до іншого плану існування. Ви можете вказати цільове призначення в загальних рисах, як-от Місто з Бронзи на Стихійному плані Вогню або палац Диспатера на другому рівні Дев’ятьох Пекл, і ви з’являєтеся в цьому пункті призначення або поблизу нього. Якщо ви намагаєтся дістатися, наприклад, до Міста з Бронзи, ви можете прибути на його Вулицю зі Сталі, перед Воротами з Попелу, чи побачити місто з Моря Вогню, на розсуд Майстра.    
+
+Або ж, якщо ви знаєте послідовність сигілів кола телепортації на іншому плані існування, ці чари можуть перенести вас до цього кола. Якщо коло телепортації занадто мале, щоб вмістити всіх істот, що ви транспортуєте, вони з'являються у найближчому вільному просторі поряд із колом.    
+
+Ви можете використати ці чари, щоб вигнати незгодну істоту на інший план. Виберіть істоту в межах відстані та здійсніть атаку чарами ближнього бою проти істоти. У разі влучання істота повинна зробити рятівний кидок Харизми. Якщо істота провалює цей ряткидок, її переносить до випадкового розташування на вказаному вами плані існування. Істота, перенесена таким чином, повинна знайти власний шлях назад до вашого поточного плану існування. 

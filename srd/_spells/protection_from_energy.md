@@ -1,18 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
-classes: cleric
-         druid
-         ranger
-         sorcerer
-         wizard
-title: Protection from Energy 
+classes: cleric, druid, ranger, sorcerer, wizard
+title: Захист від енергії [Protection from Energy]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder. 
+
+_Перешкоджання, 3 рівень; клірик, друїд, рейнджер, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години    
+
+Поки діють чари, згодна істота, яко ви торкаєтеся, має стійкість до одного типу ушкоджень за вашим вибором: кислота, холод, вогонь, блискавка або грім. 

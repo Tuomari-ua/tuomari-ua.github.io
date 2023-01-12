@@ -1,21 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 4
-classes: bard
-         druid
-         sorcerer
-         wizard
-title: Polymorph 
+classes: bard, druid, sorcerer, wizard
+title: Поліморф [Polymorph]
 ---
-_4th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a caterpillar cocoon)    
-**Duration:** Concentration, up to 1 hour 
-This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.    
-The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.    
-The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.    
-The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.    
-The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment. 
+
+_Перетворення, 4 рівень; бард, друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (кокон гусені)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ці чари перетворюють істоту, яку ви можете бачити в межах відстані, на нову форму. Незгодна істота повинна зробити рятівний кидок Мудрості, щоб уникнути ефекту. Чари не впливають на перекиднів чи істот із 0 пунктів здоров'я.    
+
+Перетворення триває, поки діють чари, або поки пункти здоров'я істоти не опустяться до 0 або вона не помре. Нова форма може бути будь-яким звіром, чий клас небезпеки дорівнює або менший, ніж цілі (або рівень цілі, якщо вона не має класу небезпеки). Ігрова статистика цілі, включно зі значеннями ментальних здібностей, замінюються на значення статистики вибраного звіра. Вона зберігає світогляд і особистість.    
+
+Ціль отримує пункти здоров'я цієї нової форми. Коли істота повертається до своєї нормальної форми, вона відновлює пункти здоров'я, які мала до перетворення. Якщо перетворення сталося унаслідок зниження пунктів здоров'я до 0, усі надмірні пошкодження переходять до нормальної форми. Поки надмірні ушкодження не знижують нормальні пункти здоров'я істоти до нуля, вона не непритомна.    
+
+Істота обмежена в діях, що може виконувати за природою своєї нової форми, і вона не може говорити, створювати чари чи виконувати будь-які інші дії, що потребують рук або мови.    
+
+Спорядження цілі зливається з її новою формою. Істота не може активувати, використовувати, тримати чи якось інакше отримувати привілеї від свого спорядження, яким би воно не було. 

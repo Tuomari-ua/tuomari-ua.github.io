@@ -1,23 +1,32 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
-classes: sorcerer
-         wizard
-title: Prismatic Spray 
+classes: sorcerer, wizard
+title: Веселкові бризки [Prismatic Spray]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self (60-foot cone)    
-**Components:** V, S    
-**Duration:** Instantaneous 
-Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in a 60-foot cone must make a Dexterity saving throw. For each target, roll a d8 to determine which color ray affects it.    
-**1. Red.** The target takes 10d6 fire damage on a failed save, or half as much damage on a successful one.    
-**2. Orange.** The target takes 10d6 acid damage on a failed save, or half as much damage on a successful one.    
-**3. Yellow.** The target takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.    
-**4. Green.** The target takes 10d6 poison damage on a failed save, or half as much damage on a successful one.    
-**5. Blue.** The target takes 10d6 cold damage on a failed save, or half as much damage on a successful one.    
-**6. Indigo.** On a failed save, the target is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.    
-**7. Violet.** On a failed save, the target is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of existence of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.)    
-**8. Special.** The target is struck by two rays. Roll twice more, rerolling any 8. 
+
+_Втілення, 7 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (60-футовий конус)    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Вісім різнокольорових променів світла вириваються з ваших рук. Кожен промінь має свій колір, свою силу та мету. Кожна істота в 60-футовому конусі повинна зробити рятівний кидок Спритності. Для кожної цілі киньте к8 та визначте, промінь якого кольору впливає на неї.    
+
+**1. Червоний.** Ціль отримує 10к6 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**2. Помаранчевий.** Ціль отримує 10к6 ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**3. Жовтий.** Ціль отримує 10к6 ушкоджень блискавкою у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**4. Зелений.** Ціль отримує 10к6 ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**5. Синій.** Ціль отримує 10к6 ушкоджень холодом у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**6. Індиго.** У разі невдачі ціль скута. Потім вона повинна робити рятівні кидки Статури в кінці кожного свого ходу. Якщо вона робить три успішні ряткидки, чари завершуються. Якщо вона провалює ряткидки тричі, то назавжди перетворюється на камінь і стає скам'янілою. Успіхи та невдачі не повинні бути послідовними; відстежуйте і ті, й інші, поки ціль не набере три однакові.    
+
+**7. Фіолетовий.** У разі невдачі ціль осліплена. Вона повинна зробити рятівний кидок Мудрості на початку вашого наступного ходу. Успішний ряткидок завершує сліпоту. Якщо ряткидок невдалий, істота переноситься на інший план існування за вибором Майстра, і більше не є осліпленою. (Як правило, істота, що не є на своєму рідному плані, виганяється додому, тоді як інші істоти зазвичай викидаються на Астральний або Етерний план).    
+
+**8. Особливий.** У ціль влучають два промені. Зробіть ще два кидки, перекидаючи повторні 8. 

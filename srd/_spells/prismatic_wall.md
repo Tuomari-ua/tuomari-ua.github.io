@@ -1,24 +1,36 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 9
 classes: wizard
-title: Prismatic Wall 
+title: Веселкова стіна [Prismatic Wall]
 ---
-_9th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** 10 minutes 
-A shimmering, multicolored plane of light forms a vertical opaque wall--up to 90 feet long, 30 feet high, and 1 inch thick--centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.    
-The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become blinded for 1 minute.    
-The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall's layers. As it passes or reaches through each layer, the creature must make a Dexterity saving throw or be affected by that layer's properties as described below.    
-The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. A **rod of cancellation** destroys a **_prismatic wall_**, but an **_antimagic field_** has no effect on it.    
-**1. Red.** The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.    
-**2. Orange.** The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.    
-**3. Yellow.** The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.    
-**4. Green.** The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A passwall spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.    
-**5. Blue.** The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.    
-**6. Indigo.** On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind. While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a **_daylight_** spell or a similar spell of equal or higher level.    
-**7. Violet.** On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a **_dispel magic_** spell or a similar spell of equal or higher level that can end spells and magical effects. 
+
+_Перешкоджання, 9 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** 10 хвилин    
+
+Мерехтлива, різнокольорова площина світла утворює вертикальну непрозору стіну - до 90 футів завдовжки, 30 футів заввишки та 1 дюйм завтовшки - із центром у точці, яку ви можете бачите в межах відстані. Напротивагу, ви можете згорнути стіну в сферу із діаметром до 30 футів, із центром у вибраній вами точці в межах відстані. Стіна залишається на місці, поки діють чари. Якщо ви розміщуєте стіну так, що вона проходить крізь простір іншої істоти, чари провалюються, і ваша дія та чарунка витрачені.    
+
+Стіна випромінює яскраве світло на відстані 100 футів та тьмяне світло на додаткові 100 футів. Ви та істоти, яких ви визначаєте під час чарування, можуть проходити крізь стіну та залишатися поблизу неї неушкодженими. Якщо інша істота, яка може бачити стіну, переміщується в межах 20 футів від неї чи починає там свій хід, істота повинна зробити рятівний кидок Статури, або стане осліпленою на 1 хвилину.    
+
+Стіна складається із семи шарів, кожен іншого кольору. Коли істота намагається доторкнутися до стіни чи пройти крізь неї, вона робить це по одному шару стіни за раз. Коли істота проходить чи торкається кожного шару, вона повинна зробити рятівний кидок Спритності, або буде під впливом властивостей шару, як описано далі.    
+
+Стіну можна зруйнувати, також по одному шару за раз, по порядку від червоного до фіолетового, відповідно до особливостей кожного шару. Коли шар зруйновано, він залишається таким на час дії чарів. **Жезл скасування** руйнує **_Веселкову стіну_**, але **_антимагічна сфера_** не впливає на неї.    
+
+**1. Червоний.** Ціль отримує 10к6 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень за умови успіху. Поки цей шар на місці, немагічні далекобійні атаки не можуть пройти крізь стіну. Шар можна зруйнувати, завдавши йому щонайменше 25 ушкоджень холодом.    
+
+**2. Помаранчевий.** Ціль отримує 10к6 ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху. Поки цей шар на місці, магічні далекобійні атаки не можуть пройти крізь стіну. Шар руйнується від сильного вітру.    
+
+**3. Жовтий.** Ціль отримує 10к6 ушкоджень блискавкою у разі невдачі, або половину цих ушкоджень за умови успіху. Шар можна зруйнувати, завдавши йому щонайменше 60 ушкоджень чистою енергією.    
+
+**4. Зелений.** Ціль отримує 10к6 ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху. Чари **_створення проходу_** або інші чари цього або вищого рівня, які можуть відкрити портал у твердій поверхні, руйнують цей шар.    
+
+**5. Синій.** Ціль отримує 10к6 ушкоджень холодом у разі невдачі, або половину цих ушкоджень за умови успіху. Шар можна зруйнувати, завдавши йому щонайменше 25 ушкоджень вогнем.    
+
+**6. Індиго.** У разі невдачі ціль скута. Потім вона повинна робити рятівні кидки Статури в кінці кожного свого ходу. Якщо вона робить три успішні ряткидки, чари завершуються. Якщо вона провалює ряткидки тричі, то назавжди перетворюється на камінь і стає скам'янілою. Успіхи та невдачі не повинні бути послідовними; відстежуйте і ті, й інші, поки ціль не набере три однакові. Поки цей шар існує, чари не можуть пройти крізь стіну. Цей шар можна зруйнувати яскравим світлом від чарів **_денне світло_** чи подібними такого ж або вищого рівня.    
+
+**7. Фіолетовий.** У разі невдачі ціль осліплена. Вона повинна зробити рятівний кидок Мудрості на початку вашого наступного ходу. Успішний ряткидок завершує сліпоту. Якщо ряткидок невдалий, істота переноситься на інший план існування за вибором Майстра, і більше не є осліпленою. (Як правило, істота, що не є на своєму рідному плані, виганяється додому, тоді як інші істоти зазвичай викидаються на Астральний або Етерний план). Цей шар можна знищити чарами **_розвіювання магії_** або подібними чарами такого ж або вищого рівня, що можуть завершити чари чи магічні ефекти. 
