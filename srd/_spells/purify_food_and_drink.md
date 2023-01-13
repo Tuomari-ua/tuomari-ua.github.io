@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: cleric
-         druid
-         paladin
-title: Purify Food and Drink 
+classes: cleric, druid, paladin
+title: Очищення їжі та пиття [Purify Food and Drink]
 ---
-_1st-level transmutation (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
+
+_Перетворення, 1 рівень (ритуал); клірик, друїд, паладин_    
+**Час створення:** 1 дія    
+**Відстань:** 10 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Уся немагічна їжа та напої у сфері радіусом 5 футів із центром у вибраній вами точки в межах відстані очищуються та звільняються від отрут та хвороб.

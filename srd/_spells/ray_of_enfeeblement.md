@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 2
-classes: warlock
-         wizard
-title: Ray of Enfeeblement 
+classes: warlock, wizard
+title: Промінь ослаблення [Ray of Enfeeblement]
 ---
-_2nd-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-A black beam of enervating energy springs from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target deals only half damage with weapon attacks that use Strength until the spell ends.    
-At the end of each of the target's turns, it can make a Constitution saving throw against the spell. On a success, the spell ends. 
+
+_Некромантія, 2 рівень; чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Чорний промінь виснажливої енергії виривається з вашого пальця до істоти в межах відстані. Здійсніть далекобійну атаку чарами по цілі. У разі влучання ціль завдає тільки половину ушкоджень своїми атаками зброї, що використовують Силу, поки чари не завершаться.    
+
+У кінці кожного свого ходу ціль може зробити рятівний кидок Статури проти чарів. У разі успіху чари завершуються. 
