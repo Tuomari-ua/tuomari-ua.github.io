@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 4
 classes: wizard
-title: Secret Chest 
+title: Схована скриня [Secret Chest]
 ---
-_4th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)    
-**Duration:** Instantaneous 
-You hide a chest, and all its contents, on the Ethereal Plane. You must touch the chest and the miniature replica that serves as a material component for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).    
-While the chest remains on the Ethereal Plane, you can use an action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by using an action and touching both the chest and the replica.    
-After 60 days, there is a cumulative 5 percent chance per day that the spell's effect ends. This effect ends if you cast this spell again, if the smaller replica chest is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger chest is on the Ethereal Plane, it is irretrievably lost. 
+
+_З'явлення, 4 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (вишукана скриня розміром 3х2х2 фути, виготовлена з рідкісних матеріалів вартістю щонайменше 5000 зм, і крихітна копія, зроблена з тих самих матеріалів вартістю щонайменше 50 зм)    
+**Тривалість:** Миттєво    
+
+Ви ховаєте скриню та весь її вміст на Етерному плані. Ви повинні торкатися цієї скрині та мініатюрної копії, яка слугує матеріальним компонентом для чарів. Скриня може вміщувати до 12 кубічних футів неживої матерії (3 фути на 2 фути на 2 фути).    
+
+Поки скриня залишається на Етерному плані, ви можете використати дію і торкнутися копії, щоб відкликати скриню. Вона з'являється у вільному просторі на землі в межах 5 футів від вас. Ви можете відправити скриню назад на Етерний план, витративши дію та торкнувшись скрині та її копії.    
+
+Через 60 днів є сукупний 5-відсотковий шанс на день, що ефект чарів завершиться. Цей ефект завершується, якщо ви створюєте ці чари знову, якщо менша копія скрині зруйнована, або якщо ви вирішуєте припинити чари дією. Якщо чари завершуються і більша скриня в цей час на Етерному плані, вона безповоротно втрачена. 

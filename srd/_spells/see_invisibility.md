@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 2
-classes: bard
-         sorcerer
-         wizard
-title: See Invisibility 
+classes: bard, sorcerer, wizard
+title: Бачення невидимого [See Invisibility]
 ---
-_2nd-level divination_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver)    
-**Duration:** 1 hour 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent. 
+
+_Віщування, 2 рівень; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (дрібка тальку та маленька посипка срібного порошку)    
+**Тривалість:** 1 година    
+
+Поки діють чари, ви бачите невидимих істот та предмети, ніби вони видимі, і ви можете бачити в Етерний план. Етерні істоти та предмети виглядають примарно та напівпрозоро. 
