@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 7
 classes: druid, sorcerer, wizard
-title: Обернене тяжіння [Reverse Gravity]
+title: Обернена гравітація [Reverse Gravity]
 ---
 
 _Перетворення, 7 рівень; друїд, заклинач, маг_   

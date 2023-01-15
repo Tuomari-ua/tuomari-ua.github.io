@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 1
 classes: cleric
-title: Cвятилище [Sanctuary]
+title: Святилище [Sanctuary]
 ---
 
 _Перешкоджання, 1 рівень; клірик_    
