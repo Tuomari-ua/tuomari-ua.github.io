@@ -1,19 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 7
-classes: bard
-         cleric
-title: Resurrection 
+classes: bard, cleric
+title: Воскресіння [Resurrection]
 ---
-_7th-level necromancy_ 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. If its soul is free and willing, the target returns to life with all its hit points.    
-This spell neutralizes any poisons and cures normal diseases afflicting the creature when it died. It doesn't, however, remove magical diseases, curses, and the like; if such effects aren't removed prior to casting the spell, they afflict the target on its return to life.    
-This spell closes all mortal wounds and restores any missing body parts.    
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.    
-Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws. 
+
+_Некромантія, 7 рівень; бард, клірик_   
+**Час створення:** 1 година    
+**Відстань:** Дотик    
+**Складові:** В, С, М (діамант вартістю мінімум 1000 зм, який поглинається чарами)    
+**Тривалість:** Миттєво  
+
+Ви торкаєтеся мертвої істоти, яка померла не давніше, ніж століття тому, не від старості та не є невмерлою. Якщо її душа вільна і згодна, ціль повертається до життя з усіма своїми пунктами здоров'я.  
+
+Ці чари нейтралізують будь-яку отруту та виліковують звичайні хвороби, від яких істота страждала на час смерті. Але ці чари, однак, не видаляють магічні хвороби, прокляття та подібні ефекти; якщо їх не прибрати до створення чарів, ці ефекти починають діяти, коли істота повертається до життя.    
+
+Ці чари закривають усі смертельні рани і відновлюють втрачені частини тіла.    
+
+Повернення з мертвих є випробуванням. Ціль отримує штраф -4 до всіх кидків атаки, рятівних кидків та перевірок здібностей. Кожен раз, як вона завершує тривалий відпочинок, значення штрафу зменшується на 1, поки він не мине.    
+
+Створення цих чарів, щоб відновити життя істоти, яка померла один рік тому або давніше, значно вас напружує. Поки ви не завершите тривалий відпочинок, ви не можете створювати чари й маєте перешкоду на всі кидки атаки, перевірки здібностей і рятівні кидки. 

@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 0
 classes: cleric
-title: Sacred Flame 
+title: Священне полум'я [Sacred Flame]
 ---
-_Evocation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 radiant damage. The target gains no benefit from cover for this saving throw.    
-The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+
+_Втілення, замовляння; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Подібне до полум'я випромінювання опускається на істоту, яку ви можете бачити в межах відстані. Ціль має здійснити успішний ряткидок Спритності або отримає 1к8 променистих ушкоджень. Ціль не отримує переваг від укриття для цього рятівного кидка.    
+
+Ушкодження чарів зростають на 1к8, коли ви досягаєте 5 рівня (2к8), 11 рівня (3к8) та 17 рівня (4к8). 

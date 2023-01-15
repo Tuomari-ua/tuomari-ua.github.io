@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 9
-classes: cleric
-         druid
-title: True Resurrection 
+classes: cleric, druid
+title: Істинне воскресіння [True Resurrection]
 ---
-_9th-level necromancy_ 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. If the creature's soul is free and willing, the creature is restored to life with all its hit points.    
-This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs.    
-The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you. 
+
+_Некромантія, 9 рівень; клірик, друїд_    
+**Час створення:** 1 година    
+**Відстань:** Дотик    
+**Складові:** В, С, М (бризки святої води та діамант вартістю щонайменше 25 000 зм, який поглинається чарами)    
+**Тривалість:** Миттєво    
+
+Ви торкаєтеся істоти, яка була мертвою не довше 200 років і померла з будь-якої причини, окрім старого віку. Якщо душа істоти вільна і згодна, істота повертається до життя з усіма своїми пунктами здоров'я.    
+
+Ці чари закривають усі рани, нейтралізують будь-яку отруту, зцілюють усі хвороби та знімають будь-які прокляття, які діяли на істоту на час її смерті. Чари замінюють пошкоджені чи відсутні органи та кінцівки.    
+
+Чари навіть можуть надати нове тіло, якщо початкове більше не існує, і в цьому разі ви зобов'язані промовити ім'я істоти. Істота з'являється у вибраному вами вільному просторі в межах 10 футів від вас. 

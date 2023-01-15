@@ -1,17 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
-classes: cleric
-         paladin
-         warlock
-         wizard
-title: Remove Curse 
+classes: cleric, paladin, warlock, wizard
+title: Зняття проклять [Remove Curse]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Instantaneous 
-At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded. 
+
+_Перешкоджання, 3 рівень; клірик, паладин, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ваш дотик завершує дію всіх проклять, які впливають на одну істоту чи предмет. Якщо предмет - це проклята магічна річ, його прокляття залишається, але чари переривають налаштування власника на цей предмет, щоб його можна було видалити чи відкинути. 

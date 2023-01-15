@@ -1,24 +1,32 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 9
-classes: bard
-         warlock
-         wizard
-title: True Polymorph 
+classes: bard, warlock, wizard
+title: Істинний поліморф [True Polymorph]
 ---
-_9th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)    
-**Duration:** Concentration, up to 1 hour 
-Choose one creature or nonmagical object that you can see within range. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must be neither worn nor carried by another creature). The transformation lasts for the duration, or until the target drops to 0 hit points or dies. If you concentrate on this spell for the full duration, the transformation lasts until it is dispelled.    
-This spell has no effect on a shapechanger or a creature with 0 hit points. An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.    
-**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose whose challenge rating is equal to or less than the target's (or its level, if the target doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its alignment and personality.    
-The target assumes the hit points of its new form, and when it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.    
-The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech, unless its new form is capable of such actions.    
-The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.    
-**Object into Creature.** You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature's challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on each of your turns. You decide what action it takes and how it moves. The GM has the creature's statistics and resolves all of its actions and movement.    
-If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.    
-**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form. The creature's statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form. 
+
+_Перетворення, 9 рівень; бард, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (крапля ртуті, шматок гуміарабіку та струмінець диму)    
+**Тривалість:** Концентрація, до 1 години    
+
+Виберіть одну істоту або немагічний предмет, який ви можете бачити в межах відстані. Ви перетворюєте цю істоту на іншу істоту, істоту на предмет, або предмет на істоту (предмет не повинна тримати при собі інша істота). Перетворення триває, поки діють чари, або поки пункти здоров'я цілі не знизяться до 0, або поки ціль не помре. Якщо ви концентруєтеся на чарах їхню повну тривалість, перетворення триває, поки не буде розвіяне.    
+
+Ці чари не впливають на перекиднів чи істот із 0 пунктів здоров'я. Незгодна істота може зробити рятівний кидок Мудрості, і в разі успіху чари не мають впливу на цю істоту.    
+
+**Істоту на істоту.** Якщо ви перетворюєте істоту на інший тип істоти, нова форма може бути будь-якою за вашим вибором, із класом небезпеки, що дорівнює або менший за клас небезпеки цілі (або її рівень, якщо ціль не має класу небезпеки). Ігрова статистика цілі, включно зі значеннями ментальних здібностей, замінюються на значення статистики нової форми. Вона зберігає свій світогляд та особистість.    
+
+Ціль набуває пунктів здоров'я своєї нової форми, і коли вона повертається до нормальної форми, то відновлює ті пункти здоров'я, які мала до перетворення. Якщо перетворення сталося унаслідок зниження пунктів здоров'я до 0, усі надмірні ушкодження переходять до нормальної форми. Поки надмірні ушкодження не знижують нормальні пункти здоров'я істоти до нуля, вона не непритомна.    
+
+Істота обмежена в діях, що може виконувати за природою своєї нової форми, і вона не може говорити, створювати чари чи виконувати будь-які інші дії, що потребують рук або мови, хіба що нова форма здатна на такі дії.    
+
+Спорядження цілі зливається з її новою формою. Істота не може активувати, використовувати, тримати чи якось інакше отримати привілеї від будь-якого свого спорядження.    
+
+**Предмет на істоту.** Ви можете перетворити предмет на будь-який тип істоти, поки розмір істоти не більший за розмір предмета, і клас небезпеки істоти дорівнює 9 або менше. Істота дружня до вас і до ваших супутників. Вона діє в кожен ваш хід. Ви вирішуєте, які дії вона робить та як переміщується. Майстер має статистику істоти та виконує всі її дії та переміщення.    
+
+Якщо чари стають постійними, ви більше не контролюєте цю істоту. Вона може залишитися дружньою до вас, залежно від того, як ви з нею поводилися.    
+
+**Істоту на предмет.** Якщо ви перетворюєте істоту на предмет, вона перетворюється разом із усім, що має при собі. Статистика істоти замінюється статистикою предмета, і коли завершаться чари та вона повернеться до нормальної форми, істота не матиме спогадів про час, проведений у формі предмета. 
