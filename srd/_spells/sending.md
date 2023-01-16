@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 3
-classes: bard
-         cleric
-         wizard
-title: Sending 
+classes: bard, cleric, wizard
+title: Послання [Sending]
 ---
-_3rd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Unlimited    
-**Components:** V, S, M (a short piece of fine copper wire)    
-**Duration:** 1 round 
-You send a short message of twenty-five words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables creatures with Intelligence scores of at least 1 to understand the meaning of your message.    
-You can send the message across any distance and even to other planes of existence, but if the target is on a different plane than you, there is a 5 percent chance that the message doesn't arrive. 
+
+_Втілення, 3 рівень; бард, клірик, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Необмежена    
+**Складові:** В, С, М (короткий шматочок тонкого мідного дроту)    
+**Тривалість:** 1 раунд    
+
+Ви надсилаєте коротке повідомлення з 25 слів або менше до істоти, з якою ви знайомі. Істота чує повідомлення у своїй свідомості, впізнає вас як відправника, якщо знає вас, і може негайно відповісти вам таким самим способом. Чари дозволяють істоті зі значенням Інтелекту щонайменше 1 зрозуміти значення вашого повідомлення.    
+
+Ви можете надіслати повідомлення крізь будь-яку відстань і навіть на інший план існування, але якщо ціль перебуває на іншому плані, є 5-відсотковий шанс, що повідомлення не буде доставлене. 

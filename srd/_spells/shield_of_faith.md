@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 1
-classes: cleric
-         paladin
-title: Shield of Faith 
+classes: сleric, paladin
+title: Щит віри [Shield of Faith]
 ---
-_1st-level abjuration_ 
-**Casting Time:** 1 bonus action    
-**Range:** 60 feet    
-**Components:** V, S, M (a small parchment with a bit of holy text written on it)    
-**Duration:** Concentration, up to 10 minutes 
-A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration. 
+
+_Перешкоджання, 1 рівень; клірик, паладин_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (малий пергамент із написаним уривком святого письма)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Мерехтливе поле з'являється та оточує вибрану вами істоту в межах відстані, даруючи їй бонус до КЗ +2 на час дії чарів. 
