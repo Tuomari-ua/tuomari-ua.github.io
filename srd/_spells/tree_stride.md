@@ -4,7 +4,7 @@ layout: page
 tag: З'явлення
 level: 5
 classes: druid, ranger
-title: Прогулянка деревами [Tree Stride] 
+title: Деревний шлях [Tree Stride] 
 ---
 _З'явлення, 5 рівень; друїд, рейнджер_  
 **Част створення:** 1 дія  

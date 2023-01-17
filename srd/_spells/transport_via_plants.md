@@ -4,7 +4,7 @@ layout: page
 tag: З'явлення
 level: 6
 classes: druid
-title: Рослинний перехід [Transport via Plants]
+title: Перехід крізь рослини [Transport via Plants]
 ---
 _З'явлення, 6 рівень; друїд_  
 **Част створення:** 1 дія   
