@@ -1,33 +1,41 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 7
-classes: bard
-         sorcerer
-         wizard
-title: Teleport 
+classes: bard, sorcerer, wizard
+title: Телепорт [Teleport]
 ---
-_7th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V    
-**Duration:** Instantaneous 
-This spell instantly transports you and up to eight willing creatures of your choice that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be able to fit entirely inside a 10-foot cube, and it can't be held or carried by an unwilling creature.    
-The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table. 
-| Familiarity       | Mishap | Similar Area | Off Target | On Target |
-|-------------------|--------|--------------|------------|-----------|
-| Permanent circle  | -      | -            | -          | 01-100    |
-| Associated object | -      | -            | -          | 01-100    |
-| Very familiar     | 01-05  | 06-13        | 14-24      | 25-100    |
-| Seen casually     | 01-33  | 34-43        | 44-53      | 54-100    |
-| Viewed once       | 01-43  | 44-53        | 54-73      | 74-100    |
-| Description       | 01-43  | 44-53        | 54-73      | 74-100    |
-| False destination | 01-50  | 51-100       | -          | -         |
-**Familiarity.** "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.    
-"Very familiar" is a place you have been very often, a place you have carefully studied, or a place you can see when you cast the spell. "Seen casually" is someplace you have seen more than once but with which you aren't very familiar. "Viewed once" is a place you have seen once, possibly using magic. "Description" is a place whose location and appearance you know through someone else's description, perhaps from a map.    
-"False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a familiar location that no longer exists.    
-**On Target.** You and your group (or the target object) appear where you want to.    
-**Off Target.** You and your group (or the target object) appear a random distance away from the destination in a random direction. Distance off target is 1d10 × 1d10 percent of the distance that was to be traveled. For example, if you tried to travel 120 miles, landed off target, and rolled a 5 and 3 on the two d10s, then you would be off target by 15 percent, or 18 miles. The GM determines the direction off target randomly by rolling a d8 and designating 1 as north, 2 as northeast, 3 as east, and so on around the points of the compass. If you were teleporting to a coastal city and wound up 18 miles out at sea, you could be in trouble.    
-**Similar Area.** You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. If you are heading for your home laboratory, for example, you might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.    
-**Mishap.** The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time). 
+_З'явлення, 7 рівень; бард, заклинач, маг_  
+**Час створення:** 1 дія    
+**Відстань:** 10 футів    
+**Складові:** В    
+**Тривалість:** Миттєва  
+
+Ці чари миттжво переносять вас та до 8 згодних істот за вашим вибором, котрих ви можете бачити в межах відстані, або єдиний предмет, який ви можете бачити в межах відстані, до вибраного вами розташування. Якщо ціллю є предмет, він повинен повністю вміщуватися в 10-футовий куб, і його не може тримати при собі незгодна істота.  
+
+Розташування, яке ви вибираєте як місце призначення, повинне бути знайоме вам, і повинне бути на тому ж плані існування, де й ви. Ваша ступінь знайомства з місцем призначення визначає, чи ви успішно дістаєтеся туди. Майстер кидає к100 та звіряється із таблицею.
+
+| Знайомство         | Невдача | Подібна область | Віддалік | Точно в ціль |
+|--------------------|--------|--------------|------------|-----------|
+| Постійне коло      | -      | -            | -          | 01-100    |
+| Пов'язаний предмет | -      | -            | -          | 01-100    |
+| Добре знайоме      | 01-05  | 06-13        | 14-24      | 25-100    |
+| Бачене кілька разів| 01-33  | 34-43        | 44-53      | 54-100    |
+| Бачене один раз    | 01-43  | 44-53        | 54-73      | 74-100    |
+| Описане            | 01-43  | 44-53        | 54-73      | 74-100    |
+| Помилкова точка    | 01-50  | 51-100       | -          | -         |
+
+**Знайомство.** "Постійне коло" означає постійне телепортаційне коло, послідовність сигілів якого ви знаєте. "Пов'язаний предмет" означає, що у вас є предмет, взятий із бажаного місця упродовж останніх шести місяців, наприклад, книжка з бібліотеки мага, покривало з ліжка в королівському номері, уламок мармуру з таємної гробниці ліча.  
+
+"Добре знайоме" - це місце, де ви бували дуже часто, місце, яке ви ретельно вивчили, або місце, яке ви можете бачити під час створення цих чарів. "Бачене кілька разів" - це розташування, яке вам доводилося бачити більше одного разу, але з яким ви знайомі не дуже добре. "Бачене один раз" означає місце, яке ви бачили тільки один раз, можливо, з використанням магії. "Описане" означає місце, чиє розташування та вигляд ви знаєте з чийогось опису, можливо, з мапи.  
+
+"Помилкова точка" означає, що місце не існує. Можливо, ви намагалися стежити за святилищем ворога, але натомість побачили ілюзію, або ви намагаєтеся телепортуватися до знайомого розташування, яке більше не існує.  
+
+**Точно в ціль.** Ви та ваша група (або цільовий предмет) з'являєтеся там, де хотіли.  
+
+**Віддалік.** Ви та ваша група (або цільовий предмет) з'являєтеся на випадковій відстані від бажаного розташування, й у  випадковому напрямку. Відстань дорівнює 1к10*1к10 відсотків від дистанції, яку треба було подолати. Наприклад, якщо ви хотіли переміститися на 120 миль, з'явилися віддалік і викинули 5 та 3 на двох кістках к10, це означає, що ви з'явилися на 15% геть від цілі, тобто за 18 миль від неї. Майстер визначає напрямок, в якому ви з'явилися, кидаючи к8 та визначаючи 1 - на північ, 2 - на північний схід, 3 на схід і так далі за напрямками на компасі. Якщо ви телепортуєтеся в місто на узбережжі й опиняєтеся у морі за 18 миль від берега, це може створити вам проблеми.  
+
+**Подібна область.** Ви та ваша група (або цільовий предмет) опиняєтеся в іншій області, яка візуально й тематично подібна до цільової області. Наприклад, якщо ви прямували до домашньої лабораторії, ви можете опинитися в лабораторії іншого мага чи в магазині алхімічних інгредієнтів, який має багато інструментів та складових, як у вашій лабораторії. Загалом, ви з'являєтеся у найближчому подібному місці, оскільки чари не мають обмежень по відстані, ви можете опинитися будь-де на тому ж плані.  
+
+**Невдача.** Непередбачувана магія чарів створює складну подорож. Кожна телепортована істота (чи цільовий предмет) отримує 3к10 ушкоджень чистою енергією, і Майстер знову робить по таблиці, щоб дізнатися вашу долю (можуть траплятися повторні невдачі, щоразу завдаючи нових ушкоджень)..

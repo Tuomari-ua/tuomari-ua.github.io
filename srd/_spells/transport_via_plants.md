@@ -1,14 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
 classes: druid
-title: Transport via Plants 
+title: Рослинний перехід [Transport via Plants]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** 1 round 
-This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement. 
+_З'явлення, 6 рівень; друїд_  
+**Част створення:** 1 дія   
+**Відстань:** 10 футів   
+**Складові:** В, С   
+**Тривалість:** 1 раунд  
+
+Ці чари створюють магічний зв'язок між неоживленою рослиною, чий розмір Великий або більший, в межах відстані, та іншою рослиною, на будь-якій відстані, на тому ж плані існування. Ви повинні були бачити або торкнутися другої рослини принаймні один раз перед створенням цих чарів.  
+
+Поки діють чари, будь-яка істота може увійти в початкову рослину та вийти з кінцевої рослини, використавши 5 футів переміщення.

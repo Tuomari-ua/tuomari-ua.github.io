@@ -1,20 +1,25 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 5
-classes: sorcerer
-         wizard
-title: Telekinesis 
+classes: sorcerer, wizard
+title: Телекінез [Telekinesis]
 ---
-_5th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.    
-**Creature.** You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.    
-On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.    
-**Object.** You can try to move an object that weighs up to 1,000 pounds. If the object isn't being worn or carried, you automatically move it up to 30 feet in any direction, but not beyond the range of this spell.    
-If the object is worn or carried by a creature, you must make an ability check with your spellcasting ability contested by that creature's Strength check. If you succeed, you pull the object away from that creature and can move it up to 30 feet in any direction but not beyond the range of this spell.    
-You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial. 
+_Перетворення, 5 рівень; заклинач, маг_   
+**Час створення:** 1 дія  
+**Відстань:** 60 футів   
+**Складові:** В, С  
+**Тривалість:** Концентрація, до 10 хвилин  
+
+Ви набуваєте здатності переміщувати або взаємодіяти з істотами та предметами силою думки. Коли ви створюєте чари та дією в кожен наступний раунд, поки діють чари, ви можете виявити свою волю щодо однієї істоти чи предмета, що ви їх можете бачити в межах відстані, та вчинити щодо них один із описаних далі ефектів. Ви можете впливати на ту саму ціль раунд за раундом, або щоразу обирати нову ціль. Якщо ви змінюєте ціль, вплив чарів спадає з попередньої цілі.   
+
+**Істота.** Ви можете спробувати перемістити істоту, чий розмір Величезний або менший. Зробіть зустрічну перевірку своєї чаротворчої характеристики проти перевірки Сили істоти. Якщо ви перемагаєте у змаганні, ви переміщуєте істоту на 30 футів у будь-якому напрямку, включно з підійманням, але не далі відстані чарів. До кінця вашого наступного ходу істота скута вашим телекінетичним хватом. Піднята вгору істота зависає в повітрі.   
+
+У наступні раунди ви можете використати дію, щоб підтримувати свій телекінетичний захват на істоті, повторюючи зустрічну перевірку.   
+
+**Предмет.** Ви можете спробувати перемісити предмет, що важить менше 1000 фунтів. Якщо предмет ніхто не тримає при собі, ви автоматично переміщуєте його на 30 футів в будьякому напрямку, але не далі відстані чарів.  
+
+Якщо предмет тримає при собі істота, ви повинні зробити зустрічну перевірку своєї чаротворчої здібності проти перевірки Сили істоти. Якщо ви перемагаєте у цьому змаганні, то витягуєте предмет геть від цієї істоти й можете рухати його до 30 футів у будь-якому напрямку, але не далі відстані чарів.   
+
+Телекінетичним хватом ви можете добре контролювати предмети, наприклад, вправлятися з простим інструментом, відкривати двері чи контейнери, брати звідти й класти туди речі, виливати вміст флакона.
