@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 5
-classes: bard
-         sorcerer
-         wizard
-title: Teleportation Circle 
+classes: bard, sorcerer, wizard
+title: Коло телепортації [Teleportation Circle]
 ---
-_5th-level conjuration_ 
-**Casting Time:** 1 minute    
-**Range:** 10 feet    
-**Components:** V, M (rare chalks and inks infused with precious gems with 50 gp, which the spell consumes)    
-**Duration:** 1 round 
-As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.    
-Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence--a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.    
-You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
+
+_З'явлення, 5 рівень; бард, заклинач, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** 10 футів    
+**Складові:** В, М (рідкісна крейда та чорнило, настояні з дорогоцінним камінням вартістю 50 зм, які поглинаються чарами)    
+**Тривалість:** 1 раунд    
+
+Коли ви створюєте чари, то малюєте на землі коло радіусом 10 футів, написане сигілами, які з'єднують ваше розташування із постійним колом телепортації за вашим вибором, чию послідовність сигілів ви знаєте і яке розташоване на тому ж плані існування, що й ви. Мерехтливий портал відкривається в межах намальованого кола й залишається відкритим до кінця вашого наступного ходу. Будь-яка істота, що входить у портал, миттєво з'являється в межах 5 футів від кінцевого кола чи в найближчому вільному просторі, якщо простір зайнятий.    
+
+Багато великих храмів, гільдій та інших важливих місць мають постійні кола телепортації, написані десь в межах їхніх володінь. Кожне таке коло має унікальну послідовність сигілів - рядок магічних рун, розташованих за певним шаблоном. Коли ви вперше набуваєте здатності створювати ці чари, ви вивчаєте послідовність сигілів двох розташувань на Матеріальному плані, визначених вашим Майстром. Ви вивчаєте додаткові послідовності сигілів під час своїх пригод. Ви можете запам'ятати нову послідовність сигілів, вивчаючи її упродовж 1 хвилини.    
+
+Ви можете створити постійне коло телепортації, створюючи ці чари в тому самому місці щодня упродовж одного року. Ви не повинні користуватися цим колом для телепортації, поки створюєте чари в цей спосіб.
