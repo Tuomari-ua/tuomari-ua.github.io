@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 6
-classes: druid
-         sorcerer
-         wizard
-title: Sunbeam 
+classes: druid, sorcerer, wizard
+title: Сонячний промінь [Sunbeam]
 ---
-_6th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self (60-foot line)    
-**Components:** V, S, M (a magnifying glass)    
-**Duration:** Concentration, up to 1 minute 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.    
-You can create a new line of radiance as your action on any turn until the spell ends.    
-For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight. 
+
+_Втілення, 6 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (60-футова лінія)    
+**Складові:** В, С, М (збільшувальне скло)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Промінь яскравого світла спалахує з вашої долоні лінією завширшки 5 футів та завтовшки 60 футів. Кожна істота в цій лінії повинна зробити рятівний кидок Статури. У разі невдачі, істота отримує 6к8 променистих ушкоджень і є осліпленою до вашого наступного ходу. У разі успіху вона отримує тільки половину ушкоджень і не осліплена чарами. Невмерлі та твані мають перешкоду на цей рятівний кидок.    
+
+Ви можете створити нову лінію випромінювання дією в будь-який хід, доки чари не завершаться.    
+
+Поки чари діють, іскри яскравого випромінювання сяють у вашій долоні. Вони випромінюють яскраве світло у 30-футовому радіусі та тьмяне світло на додаткові 30 футів. Це світло є сонячним світлом. 

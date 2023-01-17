@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 8
-classes: druid
-         sorcerer
-         wizard
-title: Sunburst 
+classes: druid, sorcerer, wizard
+title: Сонячний спалах [Sunburst]
 ---
-_8th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (fire and a piece of sunstone)    
-**Duration:** Instantaneous 
-Brilliant sunlight flashes in a 60-foot radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes 12d6 radiant damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn't blinded by this spell. Undead and oozes have disadvantage on this saving throw.    
-A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns. On a successful save, it is no longer blinded.    
-This spell dispels any darkness in its area that was created by a spell. 
+
+_Втілення, 8 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складові:** В, С, М (вогонь та шматок сонячного каменю)    
+**Тривалість:** Миттєво    
+
+Яскраве сонячне світло спалахує в 60-футовому радіусі з центром у вибраній вами точці в межах відстані. Кожна істота в цьому світлі повинна зробити рятівний кидок Статури. У разі невдачі істота отримує 12к6 променистих ушкоджень і є осліпленою на 1 хвилину. У разі успіху вона отримує тільки половину ушкоджень і не осліплена чарами. Невмерлі та твані мають перешкоду на цей рятівний кидок.    
+
+Істота, осліплена цими чарами, робить повторні рятівні кидки Статури в кінці кожного свого ходу. У разі успіху вона більше не осліплена.    
+
+Ці чари розвіюють будь-яку темряву в своїй області, якщо вона була створена чарами. 
