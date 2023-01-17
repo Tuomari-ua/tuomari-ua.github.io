@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: bard
-         druid
-         ranger
-title: Speak with Animals 
+classes: bard, druid, ranger
+title: Розмова з тваринами [Speak with Animals]
 ---
-_1st-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 10 minutes 
-You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion. 
+
+_Віщування, 1 рівень (ритуал); бард, друїд, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** 10 хвилин    
+
+Ви здобуваєте здатність розуміти та усно спілкуватися зі звірами, поки діють чари. Знання та усвідомлення багатьох звірів обмежені їхнім інтелектом, але щонайменше, звірі можуть дати вам інформацію про розташування поблизу та монстрів, включно з будь-чим, що вони можуть сприймати та могли сприймати в попередній день. Ви можете переконати звіра виконати для вас дрібну послугу, на розсуд Майстра. 

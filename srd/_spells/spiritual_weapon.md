@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
 classes: cleric
-title: Spiritual Weapon 
+title: Духовна зброя [Spiritual Weapon]
 ---
-_2nd-level evocation_ 
-**Casting Time:** 1 bonus action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** 1 minute 
-You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 5 feet of the weapon. On a hit, the target takes force damage equal to 1d8 + your spellcasting ability modifier.    
-As a bonus action on your turn, you can move the weapon up to 20 feet and repeat the attack against a creature within 5 feet of it.    
-The weapon can take whatever form you choose. Clerics of deities who are associated with a particular weapon (as St. Cuthbert is known for his mace and Thor for his hammer) make this spell's effect resemble that weapon. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd. 
+
+_Втілення, 2 рівень; клірик_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** 1 хвилина    
+
+Ви створюєте рухливу спектральну зброю в межах відстані, що існує, поки діють чари або поки ви не створите ці чари знову. Коли ви створюєте ці чари, ви можете здійснити атаку чарами ближнього бою по істоті в межах 5 футів від зброї. У разі влучання ціль отримує ушкодження чистою енергією, що дорівнюють 1к8 + модифікатор вашої чаротворчої здібності.    
+
+Бонусною дією в свій хід ви можете перемістити зброю на 20 футів і повторити атаку проти істоти в межах 5 футів від зброї.    
+
+Зброя може набувати будь-якої форми за вашим вибором. Клірики божества, що асоціюється із певною зброєю (наприклад, Святий Катберт відомий своєю булавою, а Тор - своїм молотом) роблять ефекти цих чарів схожими на таку зброю. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ушкодження зростають на 1к8 за кожні дві чарунки вище другої. 
