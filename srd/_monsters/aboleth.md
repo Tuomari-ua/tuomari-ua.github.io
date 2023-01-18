@@ -1,40 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Aboleth
-type: Aberration
+title: Аболет [Aboleth]
+type: Аберація
 tag: 10
 ---
-_Large aberration, lawful evil_ 
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 135 (18d10 + 36)    
-**Speed** 10 ft., swim 40 ft. 
+_Аберація великого розміру, законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 21 (+5)  | 9 (-1)  | 15 (+2)  | 18 (+4) | 15 (+2) | 18 (+4) |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 135 (18к10 + 36)    
+**Швидкість** 10 ф, плавання 40 ф
 
-**Saving Throws** Con +6, Int +8, Wis +6    
-**Skills** History +12, Perception +10    
-**Senses** darkvision 120 ft., passive Perception 20    
-**Languages** Deep Speech, telepathy 120 ft.    
-**Challenge** 10 (5,900 XP)
+| СИЛ     | СПР    | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Amphibious.** The aboleth can breathe air and water.    
-**Mucous Cloud.** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater.    
-**Probing Telepathy.** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature. 
+**Рятівні кидки** Ста +6, Інт +8, Мдр +6    
+**Навички** Історія +12, Сприйняття +10    
+**Чуття** Темний зір 120 ф, пасивне Сприйняття 20    
+**Мови** Глибинна, телепатія 120 ф    
+**Небезпека** 10 (5900 ПД)
 
-### Actions 
+**Амфібія** Аболет може дихати повітрям і водою.    
+**Хмара слизу.** Перебуваючи під водою, аболет оточений трансформуючим слизом. Істота, яка торкається аболета чи влучає по ньому атакою ближнього бою, перебуваючи у межах 5 футів від нього, повинна зробити рятівний кидок Статури з КС 14. У разі невдачі істота хвора впродовж 1к4 годин. Хвора істота може дихати тільки під водою.    
+**Випробувальна телепатія.** Якщо істота спілкується з аболетом телепатично, аболет дізнається найбільші бажання істоти, якщо аболет може бачити цю істоту.
 
-**Multiattack.** The aboleth makes three tentacle attacks.    
-**Tentacle.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-­‐curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.    
-**Tail.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.    
-**Enslave (3/Day).** The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.    
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.    
+### Дії
 
-### Legendary Actions 
-The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.    
-**Detect.** The aboleth makes a Wisdom (Perception) check.    
-**Tail Swipe.** The aboleth makes one tail attack.    
-**Psychic Drain** (Costs 2 Actions). One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
+**Мультиатака.** Аболет здійснює три атаки тентаклями.    
+**Тентаклі.** _ Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) дробильних ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 14, або стане хворою. Хвороба не має впливу упродовж 1 хвилини і може бути видалена будь-якою магією, яка зцілює хвороби. Через 1 хвилину шкіра хворої істоти стає прозорою та слизькою, істота не може відновлювати пункти здоров'я, поки вона не під водою, і хворобу можна вилікувати, тільки зціленням або іншими чарами, що зцілюють хвороби, чий рівень 6 або вищий. Коли істота є поза водним середовищем, вона отримує 6 (1к12) ушкоджень кислотою кожні 10 хвилин, хіба що її шкіру буде зволожено, перш ніж мине 10 хвилин.    
+**Хвіст.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 15 (3к6 + 5) дробильних ушкоджень.    
+**Поневолення (3/день).** Аболет націлюється на одну істоту, яку може бачити в межах 30 футів від себе. Ціль повинна зробити рятівний кидок Мудрості з КС 14, або буде магічно причарована аболетом, допоки аболет не помре або поки аболет не опиниться на іншому плані існування, ніж ціль. Причарована ціль є під контролем аболета і не може здійснювати реакції; аболет і ціль можуть спілкуватися одне з одним телепатично на будь-якій відстані.    
+Коли б причарована ціль не отримала ушкодження, ціль може повторити рятівний кидок. За умови успіху ефект завершується. Не частіше, ніж раз на 24 години, ціль також може повторити рятівний кидок, коли вона опиняється принамйні на відстані 1 милі від аболета.
+
+### Легендарні дії
+Аболет може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Аболет відновлює використані легендарні дії на початку свого ходу.    
+**Пошук.** Аболет робить перевірку Мудрості (Сприйняття).    
+**Змах хвостом.** Аболет здійснює одну атаку хвостом.    
+**Психічне висмоктування.** (Коштує 2 дії). Одна істота, причарована аболетом, отримує 10 (3к6) психічних ушкоджень, і аболет відновлює кількість пунктів здоров'я, що дорівнює отриманим істотою ушкодженням.
