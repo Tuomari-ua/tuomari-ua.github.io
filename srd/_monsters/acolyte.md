@@ -2,7 +2,7 @@
 layout: page-nontoc
 category: monsters
 title: Послідовник [Acolyte]
-type: Гуманоїд (будь-яка раса)
+type: Гуманоїд
 tag: 0.25
 ---
 
