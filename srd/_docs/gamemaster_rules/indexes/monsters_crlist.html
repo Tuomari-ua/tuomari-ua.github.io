@@ -7,7 +7,7 @@ title: Монстри за CR
 {% assign tags =  site.monsters | map: 'tags' | uniq | sort: tag %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
-  <ul>
+  <ul style="column-count: 3">
   {% for doc in site.monsters %}
     {% if doc.tags contains tag %}
     <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
