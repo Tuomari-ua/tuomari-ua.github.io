@@ -1,24 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ankheg
-type: Monstrosity
+title: Анкеґ
+type: Чудовисько
 tag: 2
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 14 (natural armor), 11 while prone    
-**Hit Points** 39 (6d10 + 6)    
-**Speed** 30 ft., burrow 10 ft. 
+_Чудовисько великого розміру, невизначений_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 17 (+3)  | 11 (+0) | 13 (+1)  | 1 (-5)  | 13 (+1) | 6 (-2)  |
+**Клас захисту** 14 (природна броня), 11 коли збитий з ніг    
+**Пункти здоров'я** 39 (6к10 + 6)    
+**Швидкість** 30 ф, риття 10 ф  
 
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 11 (+0) | 13 (+1) | 1 (-5) | 13 (+1) | 6 (-2) |
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.    
-**Acid Spray (Recharge 6).** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one. 
+**Чуття** Темний зір 60 ф, чуття вібрацій 60 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 2 (450 ПД)  
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень плюс 3 (1к6) ушкоджень отрутою. Якщо розмір цільової істоти Великий або менший, вона схоплена (КС для звільнення 13). Доки захват не завершиться, анкеґ можу кусати тільки схоплену істоту і має перевагу на кидки атаки проти неї.    
+
+**Бризки кислоти (Відновлення 6).** Анкеґ випльовує кислоту лінією завдовжки 30 футів та завширшки 5 футів, за умови, що не має схопленої істоти. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 13, отримуючи 10 (3к6) ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху. 

@@ -1,49 +1,52 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Androsphinx
-type: Monstrosity
+title: Андросфінкс
+type: Чудовисько
 tag: 17
 ---
-_Large monstrosity, lawful neutral_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 199 (19d10 + 95)    
-**Speed** 40 ft., fly 60 ft. 
+_Чудовисько великого розміру, законний нейтральний_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 199 (19к10 + 95)    
+**Швидкість** 40 ф, політ 60 ф  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
-**Saving Throws** Dex +6, Con +11, Int +9, Wis +10    
-**Skills** Arcana +9, Perception +10, Religion +15    
-**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Condition Immunities** charmed, frightened    
-**Senses** truesight 120 ft., passive Perception 20    
-**Languages** Common, Sphinx    
-**Challenge** 17 (18,000 XP) 
+**Рятівні кидки** Спр +6, Ста +11, Інт +9, Мдр +10    
+**Навички** Аркана +9, Сприйняття +10, Релігія +15    
+**Імунітет до ушкоджень** Психічна енергія, дробильні, колоті та рубані від немагічних атак    
+**Імунітет до станів** Причарований, Наляканий    
+**Чуття** Істинний зір 120 ф, пасивне Сприйняття 20    
+**Мови** Спільна, мова сфінксів    
+**Небезпека** 17 (18 000 ПД)  
 
-**Inscrutable.** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.    
-**Magic Weapons.** The sphinx's weapon attacks are magical.    
-**Spellcasting.** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:    
-Cantrips (at will): **_sacred flame, spare the dying, thaumaturgy_**    
-1st level (4 slots): **_command, detect evil and good, detect magic_**    
-2nd level (3 slots): **_lesser restoration, zone of truth_**    
-3rd level (3 slots): **_dispel magic, tongues_**    
-4th level (3 slots): **_banishment, freedom of movement_**    
-5th level (2 slots): **_flame strike, greater restoration_**    
-6th level (1 slot): **_heroes' feast_** 
+**Незбагненний.** Сфінкс має імунітет до будь-яких ефектів, що дозволяють відчути його емоції чи читати його думки, так само як і до чарів віщування, які він відхиляє. Перевірки Мудрості (Здогадливість), зроблені для з'ясування намірів чи щирості сфінкса, мають перешкоду.    
+**Магічна зброя.** Атаки сфінкса зброєю є магічними.    
+**Чарування.** Сфінкс є чаротворцем 12 рівня. Його чаротворча здібність - Мудрість (КС чарів 18, +10 до влучання атаками чарів). Він не потребує матеріальних складових для створення своїх чарів. Сфінкс має наступні підготовлені чари клірика:    
+Замовляння (за бажанням): **_священне полум'я, милість до вмирущого, чудотворення_**    
+1 рівень (4 чарунки): **_наказ, виявлення зла й добра, виявлення магії_**    
+2 рівень (3 чарунки): **_менше відновлення, зона правди_**    
+3 рівень (3 чарунки): **_розвіювання магії, мови_**    
+4 рівень (3 чарунки): **_вигнання, свобода рухів_**    
+5 рівень (2 чарунки): **_полум'яний удар, більше відновлення_**    
+6 рівень (1 чарунка): **_бенкет героїв_**
 
-### Actions 
-**Multiattack.** The sphinx makes two claw attacks.    
-**Claw.** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.    
-**Roar (3/Day).** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.    
-**First Roar.** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone. 
+### Дії
 
-### Legendary Actions 
-The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.    
-**Claw Attack.** The sphinx makes one claw attack.    
-**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.    
-**Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+**Мультиатака.** Сфінкс здійснює дві атаки пазурами.    
+**Пазурі.** _Атака зброєю ближнього бою:_ +12 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 17 (2к10 + 6) рубаних ушкоджень.    
+**Ревіння (3/день).** Сфінкс видає магічне ревіння. Щоразу, коли він реве до завершення тривалого відпочинку, ревіння стає голоснішим, а ефект змінюється, як описано далі. Кожна істота в межах 500 футів від сфінкса, що може чути це ревіння, повинна зробити рятівний кидок.    
+**Перше ревіння.** Кожна істота, що провалила рятівний кидок Мудрості з КС 18, налякана на 1 хвилину. Налякана істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+**Друге ревіння.** Кожна істота, що провалює рятівний кидок Мудрості з КС 18, оглушена та налякана на 1 хвилину. Налякана істота паралізована і може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+**Третє ревіння.** Кожна істота робить рятівний кидок Статури з КС 18. У разі невдачі істота отримує 44 (8к10) ушкоджень громом і збита з ніг. При успішному ряткидку істота отримує половину ушкоджень і не падає.
+
+### Легендарні дії
+
+Сфінкс може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Сфінкс відновлює використані легендарні дії на початку свого ходу.    
+**Атака пазурами.** Сфінкс здійснює одну атаку пазурами.    
+**Телепорт (коштує 2 дії).** Сфінкс магічним чином телепортується, разом із усім спорядженням, що має при собі, на відстань до 120 футів у вільний простір, який може бачити.    
+**Чарування (коштує 3 дії).** Сфінкс створює чари зі списку підготовлених, використовуючи чарунку, як звичайно.

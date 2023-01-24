@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 2
 classes: bard, cleric, druid, paladin, ranger
-title: Мале відновлення [Lesser Restoration]
+title: Менше відновлення [Lesser Restoration]
 ---
 
 _Перешкоджання, 2 рівень; бард, клірик, друїд, паладин, рейнджер_    
