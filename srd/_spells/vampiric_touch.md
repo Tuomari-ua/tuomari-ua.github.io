@@ -4,7 +4,7 @@ layout: page
 tag: Некромантія
 level: 3
 classes: warlock, wizard
-title: Дотик вампіра [Vampiric Touch]
+title: Вампіричний дотик [Vampiric Touch]
 ---
 
 _Некромантія, 3 рівень; чаклун, маг_    

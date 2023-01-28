@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 1
 classes: cleric, druid, paladin
-title: Очищення їжі та пиття [Purify Food and Drink]
+title: Очищення їжі та напоїв [Purify Food and Drink]
 ---
 
 _Перетворення, 1 рівень (ритуал); клірик, друїд, паладин_    
