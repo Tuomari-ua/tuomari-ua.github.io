@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Awakened Tree
-type: Plant
+title: Пробуджене дерево
+type: Рослина
 tag: 2
 ---
-_Huge plant, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 59 (7d12 + 14)    
-**Speed** 20 ft.
+_Рослина величезного розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 6 (−2)  | 15 (+2) | 10 (+0) | 10 (+0) | 7 (−2)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 59 (7к12 + 14)    
+**Швидкість** 20 ф.
 
-**Damage Vulnerabilities.** fire    
-**Damage Resistances** bludgeoning, piercing    
-**Senses** passive Perception 10    
-**Languages** one language known by its creator    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------ | ------- | ------- | ------- | ------ |
+| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 
-**False Appearance.** While the tree remains motionless, it is indistinguishable from a normal tree. 
+**Вразливість до ушкоджень** вогонь    
+**Стійкість до ушкоджень** дробильні, колоті    
+**Чуття** пасивне Сприйняття 10    
+**Мови** одна мова, відома його творцеві    
+**Небезпека** 2 (450 ПД)  
 
-### Actions    
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage. 
+**Оманлива зовнішність.** Поки дерево нерухоме, його неможливо відрізнити від звичайного дерева.  
 
-An awakened tree is an ordinary tree given sentience and mobility by the awaken spell or similar magic. 
+### Дії
+**Стусан.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 14 (3к6 + 4) дробильних ушкоджень.  
+
+Пробуджене дерево - це звичайне дерево, якому надали свідомість та рухливість чарами пробудження або подібною магією. 
