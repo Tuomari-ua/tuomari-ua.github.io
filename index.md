@@ -67,9 +67,9 @@ layout: default
 
 | Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
 |------------------------------------------------|----------------------------------------|-------------------------------------------|
-| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
-| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
-|                                                | [Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
+| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [🇺🇦 Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
+| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [🇺🇦 Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
+|                                                | [🇺🇦 Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
 |                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
 |                                                |                                        | [Рейнджер](./docs/spellcasting/indexes/index_all_class.html#ranger)     |
 |                                                |                                        | [Заклинач](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
