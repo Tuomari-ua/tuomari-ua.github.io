@@ -7,6 +7,7 @@ title: Чари за школами
 {% assign tags =  site.spells | map: 'tags' | uniq | sort: 'title' %}
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
+  {% assign array =  group.items | sort: 'title' %}
   <ul style="column-count: 3">
   {% for doc in site.spells %}
     {% if doc.tags contains tag %}
