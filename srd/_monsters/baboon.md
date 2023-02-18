@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Baboon
-type: Beast
+title: Бабуїн
+type: Звір
 tag: 0
 ---
-_Small beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 30 ft., climb 30 ft. 
+_Звір малого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 14 (+2) | 11 (+0) | 4 (−3)  | 12 (+1) | 6 (−2)  |   
+**Клас захисту** 12    
+**Пункти здоров'я** 3 (1к6)    
+**Швидкість** 30 ф, лазіння 30 ф.  
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 8 (-1) | 14 (+2) | 11 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |
 
-**Pack Tactics.** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Чуття** пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 0 (10 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) piercing damage. 
+**Тактика зграї.** Бабуїн має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників бабуїна перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.  
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +1 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 (1к4 - 1) колоте ушкодження. 
