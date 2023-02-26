@@ -100,8 +100,7 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-    let canvas = document.getElementById("stat-block");
-    var dataURL = canvas.toDataURL("image/jpeg", 1.0);
+    var dataURL = domtoimage.toDataURL("image/jpeg", 1.0);
     downloadImage(dataURL, 'my-canvas.jpeg');
 }
 
