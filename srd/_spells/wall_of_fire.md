@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 4
-classes: druid
-         sorcerer
-         wizard
-title: Wall of Fire 
+classes: druid, sorcerer, wizard
+title: Стіна вогню [Wall of Fire]
 ---
-_4th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a small piece of phosphorus)    
-**Duration:** Concentration, up to 1 minute 
-You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.    
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 5d8 fire damage, or half as much damage on a successful save.    
-One side of the wall, selected by you when you cast this spell, deals 5d8 fire damage to each creature that ends its turn within 10 feet of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage. 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d8 for each slot level above 4th. 
+
+_Втілення, 4 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (маленький шматочок фосфору)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви створюєте стіну вогню на твердій поверхні в межах відстані. Ви можете зробити стіну завдовжки 60 футів, заввишки 20 футів і завтовшки 1 фут, або кругову стіну діаметром до 20 футів, висотою 20 футів та товщиною 1 фут. Стіна непрозора й існує, поки діють чари.    
+
+Коли стіна з'являється, кожна істота в її області повинна зробити рятівний кидок Спритності. У разі невдачі істота отримує 5к8 ушкоджень вогнем, або половину цих ушкоджень за умови успіху.    
+
+Один бік стіни, обраний вами під час створення чарів, завдає 5к8 ушкоджень вогнем кожній істоті, яка завершує свій хід у межах 10 футів від цього боку стіни або всередині стіни. Істота отримує такі самі ушкодження, коли входить у стіну вперше за свій хід або завершує там свій хід. Інший бік стіни не завдає ушкоджень.   
+
+**На вищих рівнях.**Коли ви створюєте ці чари з використанням чарунки 5 рівня або вищої, ушкодження зростають на 1к8 за кожну чарунку вище четвертої. 

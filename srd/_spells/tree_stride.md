@@ -1,16 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 5
-classes: druid
-         ranger
-title: Tree Stride 
+classes: druid, ranger
+title: Деревний шлях [Tree Stride] 
 ---
-_5th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.    
-You can use this transportation ability once per round for the duration. You must end each turn outside a tree. 
+_З'явлення, 5 рівень; друїд, рейнджер_  
+**Част створення:** 1 дія  
+**Відстань:** На себе   
+**Складові:** В, С   
+**Тривалість:** Концентрація, до 1 хвилини  
+
+Ви набуваєте здатності входити в дерево й переміщуватися всередині нього до іншого дерева того ж самого виду в межах 500 футів. Обидва дерева повинні бути живими і принамйні такого ж розміру, як і ви. Ви повинні витратити 5 футів свого переміщення, щоб увійти в дерево. Ви негайно дізнаєтеся усі інші дерева цього виду в межах 500 футів, і ви можете за рахунок здійсненого переміщення під час входу в дерево або переміститися до одного з інших дерев, або вийти з того дерева, у яке ви ввійшли. Ви з'являєтеся у місці за власним вибором у межах 5 футів від бажаного дерева, використавши ще 5 футів переміщення. Якщо у вас залишилося недостатньо переміщення, ви з'являєтеся за 5 футів від дерева, до якого увійшли.  
+
+Ви можете виористовувати цю здатність транспортації в кожен раунд, поки діють чари. Ви повинні завершувати кожен хід ззовні дерева.

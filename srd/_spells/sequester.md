@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 7
 classes: wizard
-title: Sequester 
+title: Усамітнення [Sequester]
 ---
-_7th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a powder composed of diamond, emerald, ruby, and sapphire dust worth at least 5,000 gp, which the spell consumes)    
-**Duration:** Until dispelled 
-By means of this spell, a willing creature or an object can be hidden away, safe from detection for the duration. When you cast the spell and touch the target, it becomes invisible and can't be targeted by divination spells or perceived through scrying sensors created by divination spells.    
-If the target is a creature, it falls into a state of suspended animation. Time ceases to flow for it, and it doesn't grow older.    
-You can set a condition for the spell to end early. The condition can be anything you choose, but it must occur or be visible within 1 mile of the target. Examples include "after 1,000 years" or "when the tarrasque awakens." This spell also ends if the target takes any damage. 
+
+_Перетворення, 7 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (порошок, зібраний із діамантового, смарагодового, рубінового та сапфірового пилу вартістю щонайменше 5000 зм, який поглинається чарами)    
+**Тривалість:** Доки не розвіють    
+
+За допомогою цих чарів згодну істоту або предмет можна сховати, убезпечивши від виявлення на час дії чарів. Коли ви створюєте ці чари й торкаєтеся цілі, вона стає невидимою і не може бути ціллю чарів віщування чи об'єктом сенсорів стеження, створених чарами віщування.    
+
+Якщо ціллю є істота, вона впадає у стан призупиненої життєдіяльності. Для неї час зупиняє свій хід, і істота не старішає.    
+
+Ви можете встановити умову, за якої чари завершаться раніше. Умовою може будь-що на ваш вибір, але ця подія повинна статися або бути видимою в межах 1 милі від цілі. Наприклад, "через 1000 років" або "коли прокинеться тарраск". Ці чари також завершуються, якщо ціль отримує будь-яке ушкодження. 

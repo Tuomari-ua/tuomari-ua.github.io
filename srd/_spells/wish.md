@@ -1,24 +1,29 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 9
-classes: sorcerer
-         wizard
-title: Wish 
+classes: sorcerer, wizard
+title: Бажання [Wish]
 ---
-_9th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V    
-**Duration:** Instantaneous 
-**_Wish_** is the mightiest spell a mortal creature can cast. By simply speaking aloud, you can alter the very foundations of reality in accord with your desires.    
-The basic use of this spell is to duplicate any other spell of 8th level or lower. You don't need to meet any requirements in that spell, including costly components. The spell simply takes effect.    
-Alternatively, you can create one of the following effects of your choice:
-* You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground. 
-* You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the greater restoration spell.
-* You grant up to ten creatures that you can see resistance to a damage type you choose. 
-* You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
-* You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a **_wish_** spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll. 
-You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.    
-The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast **_wish_** ever again if you suffer this stress. 
+
+_З'явлення, 9 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В    
+**Тривалість:** Миттєво    
+
+**_Бажання_** є найбільш потужними чарами, які може створити смертна істота. Просто проказавши це вголос, ви можете змінити самі основи реальності відповідно до своїх бажань.    
+
+Основне використання цих чарів — дублювати будь-які інші чари 8 та нижчих рівнів. Ви не повинні відповідати жодним вимогам для цих чарів, включно з використанням цінних складових. Чари просто починають діяти.    
+
+Або ж ви можете створити один із наступних ефектів за власним вибором:
+* Ви створюєте один предмет вартістю до 25 000 зм, що не є магічним предметом. Предмет не може бути більшим за 300 футів у будь-якому вимірі, і він з'являється у вільному просторі, який ви бачите на землі.
+* Ви обираєте до 20 істот, яких можете бачити, для відновлення усіх пунктів здоров'я, і ви завершуєте всі ефекти, що діють на них, як описано у чарах покращеного відновлення.
+* Ви даруєте 10 істотам, яких можете бачити, стійкість до ушкоджень обраного вами типу.
+* Ви даруєте 10 істотам, яких можете бачити, імунітет до одних чарів або іншого магічного ефекту на 8 годин. Наприклад, ви можете зробити себе та всіх своїх союзників імунними до атаки ліча _висотування життя_.
+* Ви скасовуєте одну нещодавню подію, примусово повторюючи будь-який кидок, зроблений в останньому раунді (включаючи ваш останній хід). Реальність змінюється, щоб пристосуватися до нового результату. Наприклад, чари **_бажання_** можуть скасувати успішний рятівний кидок суперника, критичне влучання ворога або провалений ряткидок друга. Ви можете примусити зробити новий кидок із перешкодою або перевагою, і ви можете вибрати, результат якого кидка використовувати - початкового чи нового.  
+
+Можливо, ви зможете досягти чогось, що виходить за межі наведених вище прикладів. Поясніть своє бажання Майстру якомога точніше. Майстер має велику свободу вирішувати, що відбувається в такому випадку; чим більше бажання, тим більша ймовірність, що щось піде не так. Ці чари можуть просто провалитися, бажаний ефект може бути досягнутий лише частково, або ви можете постраждати від якихось непередбачених наслідків через неточність у формулюванні бажання. Наприклад, побажання, щоб лиходій помер, може перенести вас у часі до періоду, коли цього лиходія більше не буде серед живих, фактично вилучивши вас із гри.  Подібним чином бажання отримати легендарний магічний предмет або артефакт може миттєво перенести вас у присутність поточного власника предмета.    
+
+Стрес від використання цих чарів для створення будь-якого ефекту, крім дублювання іншого заклинання, послаблює вас. Витримавши цей стрес, кожного разу, коли ви створюєте чари і доки не завершите тривалий відпочинок, ви отримуєте 1к10 некротичних ушкоджень за рівень створюваних чарів. Ці ушкодження неможливо зменшити і їм неможливо запобігти жодним чином. Крім того, ваша Сила падає до 3, якщо вона ще не 3 або нижче, на 2к4 днів. За кожний із цих днів, які ви витрачаєте на відпочинок і займаєтеся лише легкими вправами, час відновлення, що залишився, зменшується на 2 дні. Нарешті, існує 33-відсоткова ймовірність того, що ви більше ніколи не зможете створити **_бажання_**, якщо зазнаєте цього стресу. 

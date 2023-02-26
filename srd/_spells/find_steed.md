@@ -1,18 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 2
 classes: paladin
-title: Find Steed 
+title: Пошук скакуна [Find Steed]
 ---
-_2nd-level conjuration_ 
-**Casting Time:** 10 minutes    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. (Your GM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.    
-Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.    
-When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.    
-While your steed is within 1 mile of you, you can communicate with it telepathically.    
-You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear. 
+
+_З'явлення, 2 рівень; паладин_    
+**Час створення:** 10 хвилин    
+**Відстань:** 30 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви прикликаєте духа, який набуває форми незвичайно розумного, сильного та вірного скакуна, створюючи з ним довготривалий зв'язок. З'являючись у вільному просторі в межах відстані, скакун набуває форми за вашим вибором: бойового коня, поні, верблюда, лося чи мастифа. (Ваш Майстер може дозволити прикликати інших тварин в якості скакунів). Скакун має статистику вибраної форми, хоча він є небожителем, феєю або поганню (за вашим вибором) замість свого нормального типу. Крім того, якщо ваш скакун має значення Інтелекту 5 або менше, його Інтелект збільшується до 6, і він набуває здатності розуміти одну мову, якою ви говорите, на ваш вибір.    
+
+Ваш скакун служить вам як їздова тварина і в бою, і поза боєм, і ви маєте інстинктивний зв'язок із ним, що дозволяє вам діяти в бою, як єдине ціле. Поки ви верхи на своєму скакуні, ви можете вважати, що будь-які чари, які націлюються тільки на вас, також націлюються і на вашого скакуна.    
+
+Коли пункти здоров'я скакуна знижуються до 0, він зникає, не залишаючи по собі нічого матеріального. Ви також можете дією відпустити свого скакуна в будь-який момент, що призведе до його зникнення. В будь-якому разі створення цих чарів знову прикликає того самого скакуна із відновленими до максимуму пунктами здоров'я.    
+
+Поки ваш скакун перебуває у межах 1 милі від вас, ви можете спілкуватися з ним телепатично.    
+
+Ви не можете одночасно мати більше одного скакуна, прив'язаного цими чарами. Дією ви можете звільнити скакуна від цього зв'язку в будь-який час, що призведе до його зникнення. 

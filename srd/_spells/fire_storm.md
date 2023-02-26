@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
-classes: cleric
-         druid
-         sorcerer
-title: Fire Storm 
+classes: cleric, druid, sorcerer
+title: Вогняний шторм [Fire Storm]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Dexterity saving throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one.    
-The fire damages objects in the area and ignites flammable objects that aren't being worn or carried. If you choose, plant life in the area is unaffected by this spell. 
+
+_Втілення, 7 рівень; клірик, друїд, заклинач_    
+**Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складові:** В, С   
+**Тривалість:** Миттєво  
+
+Шторм із язиків ревучого полум’я з’являється у вибраному вами місці в межах відстані. Область шторму складається з десяти 10-футових кубів, які ви можете розташувати, як вам заманеться. Кожен куб повинен мати принамйні одну грань, що прилягає до грані іншого куба. Кожна істота в цій області повинна зробити рятівний кидок Спритності. Вона отримує 7к10 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень у разі успіху.    
+
+Вогонь пошкоджує предмети в цій області та підпалює займисті предмети, які ніхто не тримає при собі. Ви можете обрати, щоб чари не впливали на рослинність у цій області. 

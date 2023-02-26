@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 3
-classes: sorcerer
-         wizard
-title: Lightning Bolt 
+classes: sorcerer, wizard
+title: Заряд блискавки [Lightning Bolt]
 ---
-_3rd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self (100-foot line)    
-**Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)    
-**Duration:** Instantaneous 
-A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.    
-The lightning ignites flammable objects in the area that aren't being worn or carried. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd. 
+
+_Втілення, 3 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (100-футова лінія)    
+**Складові:** В, С, М (клапоть шерсті та жезл із бурштину, кришталю чи скла)    
+**Тривалість:** Миттєво    
+
+Удар блискавки утворює лінію завдовжки 100 футів та завширшки 5 футів, вилітаючи від вас у вказаному вами напрямку. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності. Істота отримує 8к6 ушкоджень блискавкою у разі невдачі або половину цих ушкоджень у разі успіху.    
+
+Блискавка підпалює займисті предмети в області, якщо їх ніхто не тримає при собі.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження зростають на 1к6 за кожну чарунку вище третьої. 

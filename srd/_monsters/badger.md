@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Badger
-type: Beast
+title: Борсук
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 3 (1d4 + 1)    
-**Speed** 20 ft., burrow 5 ft. 
+_Звір крихітного розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 11 (+0) | 12 (+1) | 2 (−4)  | 12 (+1) | 5 (−3)  |    
+**Клас захисту** 10    
+**Пункти здоров'я** 3 (1к4 + 1)    
+**** 20 ф, риття 5 ф.  
 
-**Senses** darkvision 30 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
-**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell. 
+**Чуття** темний зір 30 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 0 (10 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 
+**Гострий нюх.** Борсук має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.  
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження. 

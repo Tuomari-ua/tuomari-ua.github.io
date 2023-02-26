@@ -1,23 +1,27 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 3
-classes: druid
-         ranger
-title: Conjure Animals 
+classes: druid, ranger
+title: З'ява тварин [Conjure Animals]
 ---
-_3rd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears: 
-* One beast of challenge rating 2 or lower
-* Two beasts of challenge rating 1 or lower
-* Four beasts of challenge rating 1/2 or lower
-* Eight beasts of challenge rating 1/4 or lower 
-Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.    
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.    
-The GM has the creatures' statistics. 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot. 
+
+_З'явлення, 3 рівень; друїд, рейнджер_ **Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви викликаєте духів фей, які набувають форми звірів і з'являються в незайнятому просторі, який ви бачите в межах відстані. Виберіть один з варіантів того, що з'являється:
+* Один звір із класом небезпеки 2 або менше
+* Два звірі з класом небезпеки 1 або менше
+* Чотири звірі з класом небезпеки 1/2 або менше
+* Вісім звірів із класом небезпеки 1/4 або менше.     
+
+Кожен звір також вважається феєю і зникає, коли його пункти здоров'я опускаються до 0, або коли чари закінчуються.    
+
+Викликані істоти - дружні до вас і ваших супутників. Киньте ініціативу за викликаних істот як за групу, яка має власний хід. Вони підкорюються будь-яким вашим усним наказам (від вас не вимагається жодної дії). Якщо ви не даєте їм ніяких наказів, вони захищаються від ворожих істот, а інакше не здійснюють жодних дій.    
+
+Майстер має значення статистики істот.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням певних чарунок вищих рівнів, то обираєте одну з можливостей з'явлення вище, і з'являється більше істот: удвічі більше за чарунку 5-го рівня, утричі більше - за чарунку 7-го рівня і вчетверо більше - за чарунку 9-го рівня. 

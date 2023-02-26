@@ -1,7 +1,7 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
 classes: bard, wizard
 title: Арканний меч [Arcane Sword]

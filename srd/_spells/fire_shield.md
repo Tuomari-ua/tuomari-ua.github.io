@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 4
 classes: wizard
-title: Fire Shield 
+title: Вогняний щит [Fire Shield]
 ---
-_4th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a bit of phosphorus or a firefly)    
-**Duration:** 10 minutes 
-Thin and wispy flames wreathe your body for the duration, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. You can end the spell early by using an action to dismiss it.    
-The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.    
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes 2d8 fire damage from a warm shield, or 2d8 cold damage from a cold shield. 
+
+_Втілення, 4 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (трохи фосфору або світлячок)  
+**Тривалість:** 10 хвилин  
+
+Тонкі жмутки полум’я огортають ваше тіло, поки діють чари, і випромінюють яскраве світло в радіусі 10 футів та тьмяне світло - ще на 10 футів. Ви можете завершити чари раніше, скинувши їх дією.    
+
+Полум'я надає вам теплий або холодний щит, за вашим вибором. Теплий щит дає вас стійкість до ушкоджень холодом, а холодний щит - стійкість до ушкоджень вогнем.    
+
+Крім того, щоразу, як істота в межах 5 футів від вас влучає по вас атакою ближнього бою, щит вибухає полум'ям. Нападник отримує 2к8 ушкоджень вогнем від теплого щита, або 2к8 ушкоджень холодом від холодного щита. 

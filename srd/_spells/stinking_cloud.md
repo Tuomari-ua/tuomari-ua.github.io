@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 3
-classes: bard
-         sorcerer
-         wizard
-title: Stinking Cloud 
+classes: bard, sorcerer, wizard
+title: Смердюча хмара [Stinking Cloud]
 ---
-_3rd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S, M (a rotten egg or several skunk cabbage leaves)    
-**Duration:** Concentration, up to 1 minute 
-You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration.    
-Each creature that is completely within the cloud at the start of its turn must make a Constitution saving throw against poison. On a failed save, the creature spends its action that turn retching and reeling. Creatures that don't need to breathe or are immune to poison automatically succeed on this saving throw.    
-A moderate wind (at least 10 miles per hour) disperses the cloud after 4 rounds. A strong wind (at least 20 miles per hour) disperses it after 1 round. 
+
+_З'явлення, 3 рівень; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 90 футів    
+**Складові:** В, С, М (гниле яйце або кілька листків скунсової капусти)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви створюєте сферу жовтого нудотного газу, радіусом 20 футів з центром у точці в межах відстані. Хмара огинає кути і створює непроглядну область. Хмара залишається у повітрі, поки діють чари.    
+
+Кожна істота, що повністю перебуває у хмарі на початку свого ходу, повинна зробити рятівний кидок Статури проти отрути. У разі невдачі істота витрачає дію в свій хід на розгойдування та блювання. Істоти, які не потребують дихання чи мають імунітет до отрути, автоматично досягають успіху в цьому ряткидку.    
+
+Посередній вітер (принаймні 10 миль на годину) розвіює хмарі за 4 раунди. Сильний вітер (щонайменше 20 миль за годину) розвіює хмару за 1 раунд. 

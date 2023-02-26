@@ -1,18 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 6
-classes: bard
-         cleric
-         sorcerer
-         warlock
-         wizard
-title: True Seeing 
+classes: bard, cleric, sorcerer, warlock, wizard
+title: Істинний зір [True Seeing]
 ---
-_6th-level divination_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)    
-**Duration:** 1 hour 
-This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight, notices secret doors hidden by magic, and can see into the Ethereal Plane, all out to a range of 120 feet. 
+
+_Віщування, 6 рівень; бард, клірик, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (мазь для очей вартістю 25 зм, виготовлена з грибного порошку, шафрану та жиру; мазь поглинається чарами)    
+**Тривалість:** 1 година    
+
+Ці чари дають згодній істоті, якої ви торкаєтеся, здатність бачити речі такими, якими вони є насправді. Поки діють чари, істота має істинний зір, помічає таємні двері, приховані магією, і може бачити в Етерний план на відстань до 120 футів. 

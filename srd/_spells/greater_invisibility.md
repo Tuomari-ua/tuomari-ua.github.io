@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 4
-classes: bard
-         sorcerer
-         wizard
-title: Greater Invisibility 
+classes: bard, sorcerer, wizard
+title: Більша невидимість [Greater Invisibility]
 ---
-_4th-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. 
+
+_Ілюзія, 4 рівень; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви або істота, якої ви торкаєтеся, стаєте невидимими на час дії чарів. Усе, що ціль несе або носить, стає невидимим, поки цільова особа тримає це при собі. 

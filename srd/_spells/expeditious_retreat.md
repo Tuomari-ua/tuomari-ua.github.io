@@ -1,16 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: sorcerer
-         warlock
-         wizard
-title: Expeditious Retreat 
+classes: sorcerer, warlock, wizard
+title: Негайний відступ [Expeditious Retreat]
 ---
-_1st-level transmutation_ 
-**Casting Time:** 1 bonus action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action. 
+
+_Перетворення, 1 рівень; заклинач, чаклун, маг_    
+
+**Час створення:** 1 бонусна дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ці чари дозволяють вам переміщуватися у неймовірному темпі. Коли ви створюєте ці чари і бонусною дією у кожен свій наступний хід, поки чари не завершаться, ви можете здійснювати дію Ривок. 

@@ -1,20 +1,26 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 9
-classes: druid
-         wizard
-title: Shapechange 
+classes: druid, wizard
+title: Перекидання [Shapechange]
 ---
-_9th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)    
-**Duration:** Concentration, up to 1 hour 
-You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a construct or an undead, and you must have seen the sort of creature at least once. You transform into an average example of that creature, one without any class levels or the Spellcasting trait.    
-Your game statistics are replaced by the statistics of the chosen creature, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the creature's bonus in place of yours. You can't use any legendary actions or lair actions of the new form.    
-You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.    
-You retain the benefit of any features from your class, race, or other source and can use them, provided that your new form is physically capable of doing so. You can't use any special senses you have (for example, darkvision) unless your new form also has that sense. You can only speak if the creature can normally speak.    
-When you transform, you choose whether your equipment falls to the ground, merges into the new form, or is worn by it. Worn equipment functions as normal. The GM determines whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change shape or size to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge into your new form. Equipment that merges has no effect in that state.    
-During this spell's duration, you can use your action to assume a different form following the same restrictions and rules for the original form, with one exception: if your new form has more hit points than your current one, your hit points remain at their current value. 
+
+_Перетворення, 9 рівень; друїд, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (нефритовий вінець вартістю щонайменше 1500 зм, який ви повинні вдягнути собі на голову, перш ніж створювати чари)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви перекидаєтеся на іншу істоту на час дії чарів. Нова форма може бути будь-якою істотою, чий клас небезпеки дорівнює вашому рівню або нижчий за нього. Істота не може бути конструктом або невмерлим, і ви мусите побачити таку істоту принаймні один раз. Ви перекидаєтеся на посередній екземпляр такої істоти, такий, що не має жодних класових рівнів чи особливості Чарування.    
+
+Ваша ігрова статистика замінюється на статистику вибраної істоти, хоча ви зберігаєте свій світогляд та значення Інтелекту, Мудрості та Харизми. Ви також зберігаєте усі свої навички й опановані ряткидки на додачу до тих, які має істота. Якщо істота має такий самий досвід, як і ви, але її показники вищі, ніж ваші, використовуйте бонуси цієї істоти замість власних. Ви не можете користуватися легендарними діями чи діями лігва нової форми.    
+
+Ви отримуєте пункти здоров'я та кістки здоров'я нової форми. Коли ви повертаєтеся до нормальної форми, ви також відновлюєте ті пункти здоров'я, які мали до перетворення. Якщо перетворення сталося унаслідок зниження пунктів здоров'я до 0, усі надмірні ушкодження переходять до нормальної форми. Поки надмірні ушкодження не знижують ваші нормальні пункти здоров’я до нуля, ви не непритомні.    
+
+Ви зберігаєте привілеї будь-яких особливостей свого класу, раси та інших джерел, і ви можете використовувати їх за умови, що нова форма здатна це робити. Ви не можете користуватися жодними спеціальними чуттями (наприклад, темним зором), хіба що ваша нова форма також має це чуття. Ви можете говорити, лише якщо істота може говорити нормально.    
+
+Коли ви перекидаєтеся, то вибираєте, чи ваше спорядження впаде на землю, чи зіллється з вашою новою формою, чи й у новій формі залишиться вдягненим. Вдягнене спорядження працює як звичайно. Майстер визначає, чи дієво для нової форми носити предмети спорядження, залежно від форми та розміру істоти. Ваше спорядження не змінює ані форму, ані розмір для нової форми, і будь-яке спорядження, яке ця нова форма не може вдягнути, повинно або залишитися на землі, або злитися з новою формою. Спорядження, що злилося, не діє в цьому стані.    
+
+Поки діють чари, ви можете використати дію, щоб набрати іншої форми, дотримуючись тих самих обмежень та правил, що й для початкової форми, з одним винятком: якщо ваша нова форма має більше пунктів здоров'я, ніж ваша поточна, ваші пункти здоров'я зберігають своє поточне значення. 

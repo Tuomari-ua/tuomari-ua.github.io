@@ -1,14 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 8
 classes: cleric
-title: Holy Aura 
+title: Свята аура [Holy aura]
 ---
-_8th-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)    
-**Duration:** Concentration, up to 1 minute 
-Divine light washes out from you and coalesces in a soft radiance in a 30-foot radius around you. Creatures of your choice in that radius when you cast this spell shed dim light in a 5-foot radius and have advantage on all saving throws, and other creatures have disadvantage on attack rolls against them until the spell ends. In addition, when a fiend or an undead hits an affected creature with a melee attack, the aura flashes with brilliant light. The attacker must succeed on a Constitution saving throw or be blinded until the spell ends. 
+
+_Перешкоджання, 8 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (крихітний релікварій вартістю щонайменше 1000 зм, що містить священну реліквію, наприклад клапоть від мантії святого чи шматочок пергаменту з релігійним текстом)    
+**Тривалість:** Концентрація. до 1 хвилини    
+
+Божественне світло виходить з вас і розливається м'яким випромінюванням у 30-футовому радіусі навколо вас. Істоти за вашим вибором у цьому радіусі, коли ви створюєте ці чари, випромінюють тьмяне світло у радіусі 5 футів та мають перевагу на всі рятівні кидки, а інші істоти мають перешкоду на кидки атаки проти них, поки чари не завершаться. Крім того, коли погань або невмерлий влучає по такій істоти атакою ближнього бою, аура спалахує яскравим світлом. Нападник повинен зробити успішний рятівний кидок Статури, або буде осліплений на час дії чарів. 

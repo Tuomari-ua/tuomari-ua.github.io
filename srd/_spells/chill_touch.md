@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 0
-classes: sorcerer
-         warlock
-         wizard
-title: Chill Touch 
+classes: sorcerer, warlock, wizard
+title: Моторошний дотик [Chill Touch]
 ---
-_Necromancy cantrip_  
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S   
-**Duration:** 1 round 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of the grave. On a hit, the target takes 1d8 necrotic damage, and it can't regain hit points until the start of your next turn. Until then, the hand clings to the target.    
-If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.    
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8). 
+
+_Некромантія, замовляння; заклинач, чаклун, маг_  
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С   
+**Тривалість:** 1 раунд   
+
+Ви створюєте примарну скелетну руку в просторі істоти в межах відстані. Здійсніть далекобійну атаку чарами проти істоти, щоб атакувати її могильним холодом. При влучанні ціль отримує 1к8 ушкоджень некротичною енергією і не може відновлювати пункти здоров'я до початку вашого наступного ходу. Весь цей час рука причеплена до цілі.    
+
+Якщо ви влучаєте по невмерлому, то він також має перешкоду на кидки атаки до кінця вашого наступного ходу.    
+
+Ушкодження від цих чарів збільшуються на 1к8, коли ви досягаєте 5-го рівня (2к8), 11-го рівня (3к8) і 17-го рівня (4к8). 

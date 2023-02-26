@@ -4,7 +4,7 @@ layout: page
 tag: Втілення
 level: 2
 classes: wizard
-title: Кислотна стріла [acid arrow]
+title: Кислотна стріла [Acid arrow]
 ---
 
 _Втілення, 2 рівень, маг_  

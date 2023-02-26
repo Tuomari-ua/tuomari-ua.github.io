@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 4
-classes: bard
-         druid
-         warlock
-         wizard
-title: Hallucinatory Terrain 
+classes: bard, druid, warlock, wizard
+title: Уявна земля [Hallucinatory Terrain]
 ---
-_4th-level illusion_ 
-**Casting Time:** 10 minutes    
-**Range:** 300 feet    
-**Components:** V, S, M (a stone, a twig, and a bit of green plant)    
-**Duration:** 24 hours 
-You make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed in appearance.    
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn't obvious by touch, a creature carefully examining the illusion can attempt an Intelligence (Investigation) check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain. 
+
+_Ілюзія, 4 рівень; бард, друїд, чаклун, маг_    
+**Час створення:** 10 хвилин    
+**Відстань:** 300 футів    
+**Складові:** В, С, М (камінь, гілка і трохи зелених рослин)    
+**Тривалість:** 24 години    
+
+Ви змушуєте природну місцевість розміром як 150-футовий куб у межах відстані виглядати, звучати та пахнути як інший вид природної місцевості. Таким чином, відкрите поле чи дорога можуть виглядати як болото, пагорби, ущелина або якась інша складна чи непрохідна місцевість. Ставок може виглядати як трав'яні луки, урвище - як пологий схил, або всипаний камінням яр - як широка та гладка дорога. Виготовлені споруди, спорядження та істоти в межах області не можуть змінювати вигляд.    
+
+Тактильні характеристики місцевості не змінюються, тож істоти, що входять в область, ймовірно, розпізнають ілюзію. Якщо відмінності не очевидні на дотик, істота, котра ретельно вивчає ілюзію, може спробувати розпізнати обман перевіркою Інтелекту (Розслідування) проти КС ваших чарів. Істота, яка розпізнала ілюзію, бачить її як неясне зображення, накладене на місцевість. 

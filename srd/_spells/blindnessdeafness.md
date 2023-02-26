@@ -4,7 +4,7 @@ layout: page
 tag: Некромантія
 level: 2
 classes: bard, cleric, sorcerer, wizard
-title: Cліпота/глухота [Blindness/Deafness]
+title: Сліпота/глухота [Blindness/Deafness]
 ---
 
 _Некромантія, 2 рівень; бард, клірик, заклинач, маг_    

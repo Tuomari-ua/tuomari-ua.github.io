@@ -1,17 +1,19 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 8
-classes: sorcerer
-         wizard
-title: Incendiary Cloud 
+classes: sorcerer, wizard
+title: Запальна хмара [Incendiary Cloud]
 ---
-_8th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-A swirling cloud of smoke shot through with white- hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.    
-When the cloud appears, each creature in it must make a Dexterity saving throw. A creature takes 10d8 fire damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.    
-The cloud moves 10 feet directly away from you in a direction that you choose at the start of each of your turns. 
+
+_З'явлення, 8 рівень; заклинач, маг._ **Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини.   
+
+Бурхлива хмара диму, пронизана білими гарячими жаринами, з'являється у сфері з радіусом 20 футів із центром у точці в межах відстані. Хмара огинає кути і є непроглядною. Вона існує, поки діють чари або поки її не розвіє вітер середньої чи більшої швидкості (не менше 10 миль за годину).    
+
+Коли з'являється хмара, кожна істота в ній повинна здійснити рятівний кидок Спритності. Істота отримує 10к8 ушкоджень вогнем у разі невдачі або половину таких ушкоджень за умови успіху. Істота також повинна здійснити рятівний кидок, коли вперше за свій хід входить в область цих чарів або завершує в ній свій хід.    
+
+Хмара рухається на 10 футів геть від вас у напрямку, який ви обираєте на початку кожного свого ходу. 

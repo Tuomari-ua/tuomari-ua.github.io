@@ -1,20 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
-classes: sorcerer
-         warlock
-         wizard
-title: Mirror Image 
+classes: sorcerer, warlock, wizard
+title: Віддзеркалення [Mirror Image]
 ---
-_2nd-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 minute 
-Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.    
-Each time a creature targets you with an attack during the spell's duration, roll a d20 to determine whether the attack instead targets one of your duplicates.    
-If you have three duplicates, you must roll a 6 or higher to change the attack's target to a duplicate. With two duplicates, you must roll an 8 or higher. With one duplicate, you must roll an 11 or higher.    
-A duplicate's AC equals 10 + your Dexterity modifier. If an attack hits a duplicate, the duplicate is destroyed. A duplicate can be destroyed only by an attack that hits it. It ignores all other damage and effects. The spell ends when all three duplicates are destroyed.    
-A creature is unaffected by this spell if it can't see, if it relies on senses other than sight, such as blindsight, or if it can perceive illusions as false, as with truesight. 
+
+_Ілюзія, 2 рівень; заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** 1 хвилина    
+
+Три ваші ілюзорні двійники з'являються у вашому просторі. Поки чари не завершаться, двійники рухаються з вами та повторюють ваші дії, змінюючи положення так, щоб неможливо було визначити, котрий із образів є реальним. Ви можете використати свою дію, щоб відпустити ілюзорних двійників.    
+
+Щоразу, коли істота націлюється на вас атакою, поки діють чари, киньте к20, щоб визначити, чи не націлена атака натомість на одного із ваших двійників.    
+
+Якщо ви маєте трьох двійників, вам потрібно викинути 6 або більше, щоб змінити ціль атаки на двійника. Із двома двійниками ви повинні викинути 8 або більше. Із одним двійником ви повинні викинути 11 або більше.    
+
+КС двійника дорівнює 10 + ваш модифікатор Спритності. Якщо атака влучає по двійнику, він руйнується. Двійника можна зруйнувати, лише влучивши по ньому атакою. Він ігнорує усі інші ушкодження та ефекти. Чари завершуються, коли всі троє двійників зруйновані.    
+
+Істота не піддається цим чарам, якщо вона не може бачити, якщо вона покладається на інші чуття, замість зору, наприклад, сліпий зір, або якщо вона може розпізнавати ілюзію як підробку, наприклад, істинним зором. 

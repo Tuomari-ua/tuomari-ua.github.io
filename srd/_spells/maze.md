@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 8
 classes: wizard
-title: Maze 
+title: Лабіринт [Maze]
 ---
-_8th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.    
-The target can use its action to attempt to escape. When it does so, it makes a DC 20 Intelligence check. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds).    
-When the spell ends, the target reappears in the space it left or, if that space is occupied, in the nearest unoccupied space. 
+
+_З'явлення, 8 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви виганяєте істоту, яку можете бачити в межах відстані, до лабіринтного напівплану. Ціль залишається там, поки діють чари, або поки не вибереться з лабіринту.    
+
+Ціль може використати свою дію, щоб спробувати вибратися. Коли вона це робить, то здійснює перевірку Інтелекту з КС 20. Якщо це вдається, ціль втікає, і чари завершуються (мінотавр або демон гористро автоматично досягають успіху).    
+
+Коли чари завершуються, ціль з'являється у просторі, де була до цього, а якщо цей простір зайнятий, то в найближчому вільному просторі. 

@@ -4,7 +4,7 @@ layout: page
 level: 0
 tag: З'явлення
 classes: sorcerer, wizard
-title: Кислотні бризки [acid splash]
+title: Кислотні бризки [Acid splash]
 ---
 
 _З'явлення, замовляння; заклинач, маг_  

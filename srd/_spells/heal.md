@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 6
-classes: cleric
-         druid
-title: Heal 
+classes: cleric, druid
+title: Зцілення [Heal]
 ---
-_6th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead. 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th. 
+
+_Втілення, 6 рівень; клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Виберіть істоту, яку ви можете бачити в межах відстані. Сплеск позитивної енергії омиває істоту, внаслідок чого вона відновлює 70 пунктів здоров'я. Ці чари також завершують ефекти сліпоти, глухоти та будь-яких інших хвороб, що діють на ціль. Ці чари не діють на конструктів та невмерлих.  
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7 рівня або вищої, обсяг зцілення зростає на 10 за кожну чарунку вище шостої. 

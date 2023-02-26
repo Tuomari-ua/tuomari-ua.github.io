@@ -1,17 +1,19 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 5
-classes: sorcerer
-         wizard
-title: Cone of Cold
+classes: sorcerer, wizard
+title: Конус холоду [Cone of Cold]
 ---
-_5th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self (60-foot cone)    
-**Components:** V, S, M (a small crystal or glass cone)    
-**Duration:** Instantaneous 
-A blast of cold air erupts from your hands. Each creature in a 60-foot cone must make a Constitution saving throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one.    
-A creature killed by this spell becomes a frozen statue until it thaws. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th. 
+
+_Втілення, 5 рівень; заклинач, маг_ **Час створення:** 1 дія    
+**Відстань:** На себе (60-футовий конус)    
+**Складові:** В, С, М (маленький кристал або скляний конус)    
+**Тривалість:** Миттєво    
+
+Порив холодного повітря виривається з ваших рук. Кожна істота в межах 60-футового конуса мусить зробити рятівний кидок Статури. Істота отримує 8к8 ушкоджень холодом у разі невдалого рядкидка або половину цих ушкоджень за умови успіху.    
+
+Істота, вбита цими чарами, стає замороженою статуєю, поки не розтане.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ушкодження збільшуються на 1к8 за кожну чарунку вище п'ятої.

@@ -1,20 +1,28 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 6
 classes: wizard
-title: Magic Jar 
+title: Магічний слоїк [Magic Jar]
 ---
-_6th-level necromancy_ 
-**Casting Time:** 1 minute    
-**Range:** Self    
-**Components:** V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)    
-**Duration:** Until dispelled 
-Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a humanoids body.    
-You can attempt to possess any humanoid within 100 feet of you that you can see (creatures warded by a **_protection from evil and good_** or **_magic circle_** spell can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in the container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.    
-Once you possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature, though you retain your alignment and your Intelligence, Wisdom, and Charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.    
-Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all.    
-While possessing a body, you can use your action to return from the host body to the container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you must make a Charisma saving throw against your own spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die.    
-If the container is destroyed or the spell ends, your soul immediately returns to your body. If your body is more than 100 feet away from you or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies.    
-When the spell ends, the container is destroyed. 
+
+_Некромантія, 6 рівень; маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** На себе    
+**Складові:** В, С, М (дорогоцінний камінь, кришталь, релікварій, чи інший прикрашений контейнер вартістю щонайменше 500 зм)    
+**Тривалість:** Доки не розвіють    
+
+Ваше тіло впадає в кататонічний стан, а ваша душа залишає його і входить у контейнер, який ви використовуєте в якості матеріальної складової чарів. Поки ваша душа населяє контейнер, ви свідомі свого оточення, так ніби ви займаєте простір контейнера. Ви не можете переміщуватися чи використовувати реакції. Єдина дія, яку ви можете здійснити - це проєктувати свою душу на відстань до 100 зм від слоїка, або повертаючись у своє живе тіло (і завершуючи чари), або намагаючись захопити тіло гуманоїда.    
+
+Ви можете спробувати захопити будь-якого гуманоїда в межах 100 футів від себе, якого ви можете бачити (не діє на істот, захищених чарами **_захист від зла і добра_** чи **_магічне коло_**). Ціль повинна зробити рятівний кидок Харизми. У разі невдачі ваша душа переміщується у тіло цілі, а душа цілі опиняється в пастці у контейнері. У разі успіху ціль опирається вашим спробам захопити тіло, і ви не можете повторити спробу заволодіння нею в наступні 24 години.    
+
+Щойно ви захопили тіло істоти, ви контролюєте його. Ваша ігрова статистика замінюється статистикою істоти, хоча ви зберігаєте свій світогляд та значення Інтелекту, Мудрості й Харизми. Ви зберігаєте привілеї своїх класових особливостей. Якщо ціль має будь-які класові рівні, ви не можете користуватися жодною з особливостей її класів.    
+
+Тим часом душа одержимої вами істоти може сприймати середовище за межами слоїка власними чуттями, але не може переміщуватися чи виконувати будь-які дії.    
+
+Поки ви утримуєте тіло, ви можете використати свою дію, щоб повернутися з цього тіла до контейнера, якщо він залишається в межах 100 футів від вас, та повертаючи душу одержимої істоти до її тіла. Якщо одержиме тіло помирає, поки ви в ньому, істота вмирає, а ви повинні зробити рятівний кидок Харизми проти власного КС чарів. У разі успіху ви повертаєтеся до контейнера, якщо він перебуває у межах 100 футів від вас. В іншому випадку ви вмираєте.    
+
+Якщо контейнер зруйнований або чари завершуються, ваша душа негайно повертається до вашого тіла. Якщо ваше тіло перебуває далі 100 футів від вас, або якщо ваше тіло мертве, коли ви намагаєтеся повернутися в нього, ви вмираєте. Якщо душа іншої істоти перебуває у цьому контейнері, коли він зруйнований, душа цієї істоти повертається до її тіла, якщо її тіло живе й перебуває у межах 100 футів. В іншому випадку ця істота вмирає.    
+
+Коли чари завершуються, слоїк руйнується. 

@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 1
-classes: sorcerer
-         wizard
-title: Shield 
+classes: sorcerer, wizard
+title: Щит [Shield]
 ---
-_1st-level abjuration_ 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the magic missile spell    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** 1 round 
-An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from **_magic missile_**. 
+
+_Перешкоджання, 1 рівень; заклинач, маг_    
+**Час створення:** 1 реакція, яку ви здійснюєте, коли по вас влучають атакою або вицілюють чарами магічний дротик    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** 1 раунд    
+
+Невидимий бар'єр із магічної енергії виникає та захищає вас. До початку вашого наступного ходу ви маєте бонус до КЗ +5, включно з атаками при нагоді, і ви не отримуєте ушкоджень від **_магічних дротиків_**. 

@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 2
-classes: cleric
-         druid
-         ranger
-title: Find Traps 
+classes: cleric, druid, ranger
+title: Пошук пасток [Find Traps]
 ---
-_2nd-level divination_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You sense the presence of any trap within range that is within line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the **_alarm_** spell, a **_glyph of warding_**, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.    
-This spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense. 
+
+_Віщування, 2 рівень; клірик, друїд, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С  
+**Тривалість:** Миттєво  
+
+Ви відчуваєте наявність будь-якої пастки в межах відстані, якщо вона в межах лінії огляду. Пасткою для цих чарів вважається будь-що, що може завдати раптового чи несподіваного ефекту, який ви розцінюєте як шкідливий чи небажаний, і який навмисно зроблений таким його творцем. Отже, ці чари можуть відчути область, захищену чарами **_тривога_**, **_охоронний символ_** чи механічну яму, але не виявить природну ваду підлоги, нестійку стелю чи прихований каналізаційний люк.    
+
+Ці чари показують лише наявність пастки. Ви не дізнаєтеся розташування кожної пастки, але ви розумієте загальну природу небезпеки, яку сворює відчута вами пастка. 

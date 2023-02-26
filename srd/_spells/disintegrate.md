@@ -1,19 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 6
-classes: sorcerer
-         wizard
-title: Disintegrate 
+classes: sorcerer, wizard
+title: Розщеплення [Disintegrate]
 ---
-_6th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a lodestone and a pinch of dust)    
-**Duration:** Instantaneous 
-A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by **_wall of force_**.    
-A creature targeted by this spell must make a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damage. If this damage reduces the target to 0 hit points, it is disintegrated.    
-A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a **_true resurrection_** or a **_wish_** spell.    
-This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-foot- cube portion of it. A magic item is unaffected by this spell. 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the damage increases by 3d6 for each slot level above 6th.
+
+_Перетворення, 6 рівень; заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (магнетит і дрібка пилу)    
+**Тривалість:** Миттєво    
+
+Тонкий зелений промінь вилітає з вашого вказівного пальця в ціль, яку ви можете бачити в межах відстані. Ціллю може бути істота, предмет або творіння магічної енергії, наприклад, стіна, створена чарами **_стіна енергії_**.    
+
+Істота, на яку націлені ці чари, повинна зробити рятівний кидок Спритності. У разі невдачі ціль отримує 10к6+40 ушкоджень чистою енергією. Якщо пункти здоров'я цілі знижуються до 0, вона розщеплюється.    
+
+Розщеплена істота і все, що при ній було, крім магічних предметів, перетворюється на купу дрібного сірого пороху. Таку істоту можливо повернути до життя лише за допомогою чарів **_істинне воскресіння_** або **_бажання._**    
+
+Ці чари автоматично розщеплюють немагічні предмети, чий розмір Великий або менший, та утворення із магічної енергії. Якщо ціль є предметом, чий розмір Величезний або більший, або творінням чистої енергії, ці чари розщеплюють частину цілі завбільшки як 10-футовий куб. Ці чари не діють на магічні предмети.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7-го рівня або вищої, ушкодження зростають на 1к10 за кожну чарунку вище шостої.

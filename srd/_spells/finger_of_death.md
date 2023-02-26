@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 7
-classes: sorcerer
-         warlock
-         wizard
-title: Finger of Death 
+classes: sorcerer, warlock, wizard
+title: Палець смерті [Finger of Death]
 ---
-_7th-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You send negative energy coursing through a creature that you can see within range, causing it searing pain. The target must make a Constitution saving throw. It takes 7d8 + 30 necrotic damage on a failed save, or half as much damage on a successful one.    
-A humanoid killed by this spell rises at the start of your next turn as a zombie that is permanently under your command, following your verbal orders to the best of its ability. 
+
+_Некромантія, 7 рівень; заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С  
+**Тривалість:** Миттєво  
+
+Ви спрямовуєте негативну енергію крізь істоту, яку можете бачити в межах відстані, завдаючи їй пекучого болю. Ціль повинна зробити рятівний кидок Статури. Вона отримує 7к8 + 30 ушкоджень некротичною енергією у разі невдачі, або половину цих ушкоджень за умови успішного ряткидка.    
+
+Гуманоїд, убитий цими чарами, постає на початку наступного вашого ходу як зомбі під вашим постійним командуванням, і виконує ваші усні накази в міру своїх можливостей. 

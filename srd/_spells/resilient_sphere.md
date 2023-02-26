@@ -1,17 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 4
 classes: wizard
-title: Resilient Sphere 
+title: Стійка сфера [Resilient Sphere]
 ---
-_4th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)    
-**Duration:** Concentration, up to 1 minute 
-A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.    
-Nothing--not physical objects, energy, or other spell effects--can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.    
-The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.    
-A **_disintegrate_** spell targeting the globe destroys it without harming anything inside it. 
+
+_Втілення, 4 рівень; маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (напівсфера із прозорого кристалу і відповідна напівсфера гуміарабіку)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Сфера мерехтливої енергії оточує істоту чи предмет, чий розмір Великий або менший, у межах відстані. Незгодна істота повинна зробити рятівний кидок Спритності. У разі невдачі істота оточена на час дії чарів.    
+
+Ніщо - ані фізичні предмети, ні енергія, ні інші ефекти чарів - не можуть пройти крізь бар'єр в обох напрямках, хоча істота всередині сфери може дихати. Сфера має імунітет до всіх ушкоджень, і істота чи предмет всередині неї не може бути ушкоджена атаками чи ефектами, що походять ззовні, і так само істота всередні сфери не може нашкодити нічому ззовні сфери.    
+
+Сфера не має ваги, а її розмір достатній рівно для того, щоб вміщувати істоту чи предмет. Оточена істота може використовувати дію, щоб штовхати стінки сфери й таким чином котитися у сфері з половиною власної швидкості. Так само сферу можуть підхопити й переміщувати інші істоти.    
+
+Чари **_розщеплення_**, націлені на сферу, руйнують її, не завдаючи шкоди тому, що перебуває всередині. 

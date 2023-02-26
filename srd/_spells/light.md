@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 0
-classes: bard
-         cleric
-         sorcerer
-         wizard
-title: Light 
+classes: bard, cleric, sorcerer, wizard
+title: Світло [Light]
 ---
-_Evocation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, M (a firefly or phosphorescent moss)    
-**Duration:** 1 hour 
-You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action.    
-If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+
+_Втілення, замовляння; бард, клірик, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, М (світлячок або фосфоресцентний мох)    
+**Тривалість:** 1 година    
+
+Ви торкаєтеся одного предмета, розмір якого не перевищує 10 футів у найбільшому вимірі. Поки чари не завершаться, предмет випромінює яскраве світло в радіусі 20 футів і тьмяне світло на додаткові 20 футів. Світло може бути будь-якого кольору на ваш смак. Повне накривання предмета чимось непрозорим блокує світло. Чари завершуються, якщо ви створюєте їх знову або якщо припиняєте їх дією.    
+
+Якщо ви націлюєтеся на предмет, який тримає при собі ворожа істота, ця істота повинна зробити рятівний кидок Спритності, щоб уникнути чарів.

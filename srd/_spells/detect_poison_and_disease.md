@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: cleric
-         druid
-         paladin
-         ranger
-title: Detect Poison and Disease 
+classes: cleric, druid, paladin, ranger
+title: Виявлення отрут і хвороб [Detect Poison and Disease]
 ---
-_1st-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a yew leaf)    
-**Duration:** Concentration, up to 10 minutes 
-For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.    
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. 
+
+_Віщування, 1 рівень (ритуал); клірик, друїд, паладин, рейнджер_     
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (тисовий листок)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Поки діють чари, ви можете відчувати присутність та розташування отрут, отруйних істот та хвороб у межах 30 футів від вас. Ви також розпізнаєте вид отрути, отруйної істоти чи хвороби.    
+
+Чари можуть пробитися через більшість бар'єрів, але їх блокує 1 фут каменю, 1 дюйм звичайного металу, тонкий лист свинцю або 3 фути дерева. 

@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 3
-classes: sorcerer
-         wizard
-title: Haste 
+classes: sorcerer, wizard
+title: Прискорення [Haste]
 ---
-_3rd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a shaving of licorice root)    
-**Duration:** Concentration, up to 1 minute 
-Choose a willing creature that you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action. When the spell ends, the target can't move or take actions until after its next turn, as a wave of lethargy sweeps over it. 
+
+_Перетворення, 3 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (зріз кореня солодки)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Виберіть згодну істоту, яку ви бачите в межах відстані. Поки чари не завершаться, швидкість цілі подвоюється, вона отримує бонус до КЗ +2, має перевагу на рятівні кидки Спритності та може здійснювати додаткову дію в кожен свій хід. Цю дію можна використати тільки, щоб Атакувати (тільки одна атака зброєю), для Ривка, щоб Відступити, Сховатися чи Використати предмет. Коли чари завершуються, ціль не може переміщуватися чи виконувати дії до кінця свого наступного ходу, бо на неї накочує хвиля летаргії. 

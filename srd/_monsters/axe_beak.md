@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Axe Beak
-type: Beast
-tag: .25
+title: Сокиродзьоб [Axe Beak]
+type: Звір
+tag: 0.25
 ---
-_Large beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 50 ft. 
+_Звір великого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 12 (+1) | 12 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |
+**Клас захисту** 11    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 50 ф.  
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
-### Actions 
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)  
 
-An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
+### Дії
+**Дзьоб.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) рубаних ушкоджень.  
+
+Сокиродзьоб - це високий нелетючий птах із сильними ногами й важким клиноподібним дзьобом. Він має неприємну вдачу і схильний атакувати будь-яку незнайому істоту, яка підійде занадто близько.

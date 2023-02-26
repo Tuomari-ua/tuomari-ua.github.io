@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 1
-classes: sorcerer
-         wizard
-title: Burning Hands 
+classes: sorcerer, wizard
+title: Палючі долоні [Burning Hands]
 ---
-_1st-level evocation_ 
-**Casting Time:** 1 action   
-**Range:** Self (15-foot cone)   
-**Components:** V, S   
-**Duration:** Instantaneous 
-As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.    
-The fire ignites any flammable objects in the area that aren't being worn or carried. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+_Втілення, 1 рівень; заклинач, маг_    
+**Час створення:** 1 дія   
+**Відстань:** На себе(15-футовий конус)   
+**Складові:** В, С   
+**Тривалість:** Миттєво   
+
+Ви тримаєте долоні так, щоб великі пальці торкалися, а всі інші пальці були розведені. З ваших розчепірених пальців вперед вириваються тонки язики полум'я. Кожна істота в межах 15-футового конуса мусить зробити рятівний кидок Спритності. Істота отримує 3к6 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень у разі успіху.    
+
+Вогонь підпалює займисті предмети, які ніхто не несе й не носить.    
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2-го рівня або вищої, ушкодження збільшуються на 1к6 за кожен рівень чарунки вище першої.

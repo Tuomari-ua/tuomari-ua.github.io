@@ -1,23 +1,28 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 5
-classes: cleric
-         druid
-title: Contagion 
+classes: cleric, druid
+title: Зараження [Contagion] 
 ---
-_5th-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Touch   
-**Components:** V, S    
-**Duration:** 7 days 
-Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.    
-At the end of each of the target's turns, it must make a Constitution saving throw. After failing three of these saving throws, the disease's effects last for the duration, and the creature stops making these saves. After succeeding on three of these saving throws, the creature recovers from the disease, and the spell ends.    
-Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.    
-**Blinding Sickness.** Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is blinded.    
-**Filth Fever.** A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.    
-**Flesh Rot.** The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.    
-**Mindfire.** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the **_confusion_** spell during combat.    
-**Seizure.** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.    
-**Slimy Doom.** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn. 
+_Некромантія, 5 рівень; друїд, клірик_   
+**Час створення:** 1 дія   
+**Відстань:** Дотик   
+**Складові:** В, С    
+**Тривалість:** 7 днів  
+
+Ваш дотик спричиняє хворобу. Здійсніть атаку чарами ближнього бою по істоті в межах своєї досяжності. При влучанні ви заражаєте істоту хворобою за вашим вибором з-поміж тих, що описані нижче.  
+У кінці кожного ходу ціль мусить здійснити рятівний кидок Статури.  Після трьох провалів цих рятівних кидків ефекти хвороби продовжуються протягом всієї тривалості, а істота перестає робити ці ряткидки. Після трьох успішних рятівних кидків істота одужує, а чари закінчуються. Оскільки ці чари викликають природну хворобу у цілі, можливо застосувати будь-який ефект, який лікує хворобу або полегшує її ефекти іншим чином.  
+
+**Осліплювальна недуга.** Біль охоплює розум істоти, і її очі стають молочно-білими. Істота має перешкоду на перевірки та рятівні кидки Мудрості та є осліпленою.   
+
+**Огидна лихоманка.** Люта лихоманка швидко поширюється по тілу істоти. Thстота має перешкоду на перевірки та рятівні кидки Сили, а також на кидки атаки, що використовують Силу.  
+
+**Гниття плоті.** Плоть істоти гниє. Вона має перешкоду на перевірки Харизми і вразлива до всіх типів ушкоджень.  
+
+**Обпалений розум.** Свідомість істоти починає лихоманити. Вона має перешкоду на перевірки та рятівні кидки Інтелекту і поводиться, ніби під впливом чарів **_спантеличення_** під час бою.    
+
+**Судоми.** Істоту охоплює тремтіння. Вона має перешкоду на перевірки та рятівні кидки Спритності, а також на кидки атаки, які використовують Спритність.   
+
+**Спливний фатум.** Істота починає неконтрольовано спливати кров'ю. Вона має перешкоду на перевірки і рятівні кидки Статури. Крім цього, коли істота отримує ушкодження, вона приголомшена до кінця свого наступного ходу.  

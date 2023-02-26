@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
-classes: cleric
-         druid
-title: Heroes' Feast 
+classes: cleric, druid
+title: Бенкет героїв [Heroes' Feast]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 10 minutes    
-**Range:** 30 feet    
-**Components:** V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.    
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours. 
+
+_З'явлення, 6 рівень; клірик, друїд_    
+**Час створення:** 10 хвилин    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (прикрашена дорогоцінним камінням чаша вартістю щонайменше 1000 зм, яка поглинається чарами)    
+**Тривалість:** Миттєво    
+
+Ви влаштовуєте великий бенкет, включно з чудовою їдою та напоями. Споживання бенкету триває 1 годину, він зникає з плином цього часу, і вигідні ефекти не спрацьовують, поки ця година не минула. У бенкеті можуть брати участь до 12 істот.    
+
+Істота, що бере участь у бенкеті, отримує кілька привілеїв. Істота зцілюється від усіх хвороб та отрут, набуває імунітету до отрути та стану наляканості, і робить всі рятівні кидки Мудрості з перевагою. Максимум пунктів здоров'я істоти зростає на 2к10, і вона здобуває цю кількість пунктів здоров'я. Ці привілеї тривають 24 години. 

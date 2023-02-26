@@ -1,21 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: bard
-         cleric
-         druid
-         paladin
-         ranger
-         sorcerer
-         wizard
-title: Detect Magic 
+classes: bard, cleric, druid, paladin, ranger, sorcerer, wizard
+title: Виявлення магії [Detect Magic]
 ---
-_1st-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.    
-The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. 
+
+_Віщування, 1 рівень (ритуал); бард, клірик, друїд, паладин, рейнджер, заклинач, маг_     
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Поки чари активні, ви відчуваєте присутність магії в межах 30 футів від себе. Якщо ви за допомогою цих чарів відчули присутність магії, ви можете дією побачити слабку ауру навколо видимої істоти або предмета, що несе на собі магію, а також дізнатися про школу цієї магії, якщо вона є.    
+
+Чари можуть проникнути крізь більшість бар'єрів, але їх блокує 1 фут каменю, 1 дюйм звичайного металу, тонкий лист свинцю або 3 фути дерева або ґрунту. 

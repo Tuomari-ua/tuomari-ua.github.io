@@ -1,31 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Air Elemental
-type: Elemental
+title: Стихійник повітря [Air Elemental]
+type: Стихійник
 tag: 5
 ---
-_Large elemental, neutral_
 
-**Armor Class** 15    
-**Hit Points** 90 (12d10 + 24)    
-**Speed** 0 ft., fly 90 ft. (hover) 
+_Стихійник великого розміру, нейтральний_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 20 (+5) | 14 (+2) | 6 (−2) | 10 (+0) | 6 (−2) |
+**Клас захисту** 15    
+**Пункти здоров'я** 90 (12к10 + 24)    
+**Швидкість** 0 ф, політ 90 ф (зависання)  
 
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Auran    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-**Air Form.** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. 
+**Стійкість до ушкоджень** Блискавка, Грім; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** Виснаження, Схоплений, Паралізований, Скам'янілий, Отруєний, Збитий з ніг, Скутий, Непритомний    
+**Чуття** Темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** Ауран    
+**Небезпека** 5 (1800 ПД)  
 
-### Actions 
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.    
-**Whirlwind (Recharge 4–6).** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.    
-If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+**Повітряна форма.** Стихійник може увійти в простір ворожої істоти й зупинитися там. Він може рухатися крізь простір заввужки 1 дюйм без стискання.  
+
+### Дії
+**Мультиатака** Стихійник здійснює дві атаки стусанами.    
+
+**Стусан** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 14 (2к8 + 5) дробильних ушкоджень.    
+
+**Вихор (Відновлення 4-6).** Кожна істота в просторі стихійника повинна зробити рятівний кидок Сили з КС 13. У разі невдачі ціль отримує 15 (3к8 + 2) дробильних ушкоджень і відкидається на 20 футів геть від стихійника в випадковому напрямку, де падає, збита з ніг. Якщо відкинута ціль влучає по предмету, наприклад, по стіні чи підлозі, ціль отримує 3 (1к6) дробильних ушкоджень за кожні 10 футів, що її було відкинуто. Якщо ціль відкинуто в іншу істоту, ця істота повинна зробити успішний рятівний кидок Спритності з КС 13, або отримає такі самі ушкодження й буде збита з ніг.    
+
+Якщо рятівний кидок успішний, ціль отримує половину дробильних ушкоджень і не відкидається геть та не падає.

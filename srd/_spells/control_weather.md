@@ -1,43 +1,51 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 8
-classes: cleric
-         druid
-         wizard
-title: Control Weather 
+classes: cleric, druid, wizard
+title: Контроль погоди [Control Weather]
 ---
-_8th-level transmutation_    
-**Casting Time:** 10 minutes    
-**Range:** Self (5-mile radius)    
-**Components:** V, S, M (burning incense and bits of earth and wood mixed in water)    
-**Duration:** Concentration, up to 8 hours 
-You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.    
-When you cast the spell, you change the current weather conditions, which are determined by the GM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.    
-When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction. 
-### Precipitation 
-| Stage | Condition                                  |
-|-------|--------------------------------------------|
-| 1     | Clear                                      |
-| 2     | Light clouds                               |
-| 3     | Overcast or ground fog                     |
-| 4     | Rain, hail or snow                         |
-| 5     | Torrential rain, driving hail, or blizzard |
-### Temperature 
-| Stage | Condition       |
-|-------|-----------------|
-| 1     | Unbearable heat |
-| 2     | Hot             |
-| 3     | Warm            |
-| 4     | Cool            |
-| 5     | Cold            |
-| 6     | Arctic cold     |
-### Wind 
-| Stage | Condition     |
-|-------|---------------|
-| 1     | Calm          |
-| 2     | Moderate wind |
-| 3     | Strong wind   |
-| 4     | Gale          |
-| 5     | Storm         |
+
+_Перетворення, 8 рівень; друїд, клірик, маг_    
+**Час створення:** 10 хвилин    
+**Відстань:** На себе (радіус 5 миль)    
+**Складові:** В, С, М (запалений ладан і змішані у воді шматочки землі та дерева)    
+**Тривалість:** Концентрація, до 8 годин.     
+
+Ви контролюєте погоду в межах 5 миль, поки діють чари. Ви повинні бути надворі для створення цих чарів. Переміщення до місця, з якого ви не маєте вільного шляху до неба, передчасно закінчує дію цих чарів.    
+
+Коли ви створюєте чари, то змінюєте наявні погодні умови, визначені майстром відповідно до клімату й пори року. Ви можете змінити опади, температуру й вітер. Нові умови починають діяти через 1к4 × 10 хвилин. Щойно це станеться, ви можете знову змінити їх. Коли чари закінчуються, погода поступово повертається до норми.    
+
+Коли ви змінюєте погодні умови, пошукайте наявну умову в наступних таблицях і змініть її ступінь на один вище або нижче. При зміні умов вітру ви можете змінити його напрямок.  
+
+### Опади
+
+| Ступінь | Погодні умови                    |
+| ------- | -------------------------------- |
+| 1       | Ясно                             |
+| 2       | Легка хмарність                  |
+| 3       | Хмарність або туман на землі     |
+| 4       | Дощ, град або сніг               |
+| 5       | Злива, сильний град або завірюха |
+
+### Температура
+
+| Ступінь | Погодні умови   |
+| ------- | --------------- |
+| 1       | Нестерпна спека |
+| 2       | Спекотно        |
+| 3       | Тепло           |
+| 4       | Прохолодно      |
+| 5       | Холодно         |
+| 6       | Арктичний холод |
+
+### Вітер
+
+| Ступінь | Погодні умови  |
+| ------- | -------------- |
+| 1       | Спокійний      |
+| 2       | Помірний вітер |
+| 3       | Сильний вітер  |
+| 4       | Шторм          |
+| 5       | Буря           |

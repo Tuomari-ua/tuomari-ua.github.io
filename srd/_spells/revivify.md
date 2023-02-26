@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 3
-classes: cleric
-         paladin
-title: Revivify 
+classes: сleric, paladin
+title: Відродження [Revivify]
 ---
-_3rd-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts. 
+
+_Некромантія, 3 рівень; клірик, паладин_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (діамант вартістю 300 зм, який поглинається чарами)    
+**Тривалість:** Миттєво    
+
+Ви торкаєтеся істоти, яка померла впродовж останньої хвилини. Ця істота повертається до життя з 1 пунктом здоров'я. Ці чари не можуть повернути до життя істоту, яка померла через старий вік, і не можуть відновити жодних частин тіла. 

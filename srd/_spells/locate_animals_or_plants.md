@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 2
-classes: bard
-         druid
-         ranger
-title: Locate Animals or Plants 
+classes: bard, druid, ranger
+title: Пошук тварин або рослин [Locate Animals or Plants]
 ---
-_2nd-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a bit of fur from a bloodhound)    
-**Duration:** Instantaneous 
-Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present. 
+
+_Віщування, 2 рівень (ритуал); бард, друїд, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (клапоть шерсті бладхаунда)    
+**Тривалість:** Миттєво    
+
+Опишіть або назвіть конкретний тип звіра чи рослину. Концентруючись на голосі природи у вашому оточенні, ви дізнаєтеся про напрямок та відстань до найближчої істоти чи рослини цього типу в межах 5 миль, якщо вони там є. 

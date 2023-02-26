@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 3
-classes: bard
-         cleric
-title: Speak with Dead 
+classes: bard, cleric
+title: Розмова з мертвими [Speak with Dead]
 ---
-_3rd-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S, M (burning incense)    
-**Duration:** 10 minutes 
-You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.    
-Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
+
+_Некромантія, 3 рівень; бард, клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 10 футів    
+**Складові:** В, С, М (підпалений ладан)    
+**Тривалість:** 10 хвилин    
+
+Ви надаєте видимість життя та розуму вибраному вами трупу в межах відстані, дозволяючи йому відповісти на запитання, які ви ставите. Труп все одно мусить мати рот і не може бути невмерлим. Чари провалюються, якщо труп уже був ціллю цих чарів упродовж останніх 10 днів.    
+
+Поки чари не завершаться, ви можете поставити трупу до п'яти запитань. Труп знає тільки те, що знав за життя, включно з мовами. Відповіді зазвичай короткі, загадкові або повторювані, і труп не зобов'язаний давати правдиві відповіді, якщо ви ворожі до нього або якщо він впізнає вас як ворога. Ці чари не повертають душу істоти до її тіла, тільки його оживлений дух. Таким чином, труп не може дізнатися нової інформації, не розуміє нічого, що сталося після його смерті, і не може спекулювати щодо майбутніх подій.

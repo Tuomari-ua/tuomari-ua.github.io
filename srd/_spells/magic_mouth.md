@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
-classes: bard
-         wizard
-title: Magic Mouth 
+classes: bard, wizard
+title: Магічні вуста [Magic Mouth]
 ---
-_2nd-level illusion (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)    
-**Duration:** Until dispelled 
-You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.    
-When that circumstance occurs, a magical mouth appears on the object and recites the message in your voice and at the same volume you spoke. If the object you chose has a mouth or something that looks like a mouth (for example, the mouth of a statue), the magical mouth appears there so that the words appear to come from the object's mouth. When you cast this spell, you can have the spell end after it delivers its message, or it can remain and repeat its message whenever the trigger occurs.    
-The triggering circumstance can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the object. For example, you could instruct the mouth to speak when any creature moves within 30 feet of the object or when a silver bell rings within 30 feet of it. 
+
+_Ілюзія, 2 рівень (ритуал); бард, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (шматочок медового стільника та нефритовий пил вартістю щонайменше 10 зм, який поглинається чарами)    
+**Тривалість:** Доки не розвіють.    
+
+Ви прищеплюєте повідомлення до предмета в межах відстані, повідомлення, яке промовляється, коли виконується задана умова. Виберіть предмет, який ви можете бачити в межах відстані і який не тримає при собі інша істота. Потім промовте повідомлення, яке повинне містити 25 слів або менше, хоча воно може бути доставлене упродовж 10 хвилин. Нарешті, визначте обставини, які призведуть до спрацювання чарів та доставлять повідомлення.    
+
+Коли ці обставини настають, на предметі з'являються магічні вуста, і предмет цитує повідомлення вашим голосом та з тією ж гучністю, що й ви. Якщо предмет, який ви вибрали, має рот або щось подібне до рота (наприклад, рот статуї), магічні вуста з'являються там, і здається, що слова виходять із рота предмета. Коли ви створюєте чари, ви можете завершити чари після доставки повідомлення, або вони можуть тривати й повторювати повідомлення щоразу, коли виконуються задані умови.    
+
+Обставини спрацювання чарів можуть бути узагальнені або деталізовані, як ви вважаєте за потрібне, хоча вони повинні ґрунтуватися на візуальних та голосових умовах, які настають у межах 30 футів навколо предмета. Наприклад, ви можете налаштувати уста говорити, коли будь-яка істота наближається менш як на 30 футів до предмета, або коли дзвенить срібний дзвоник на відстані 30 футів від нього. 

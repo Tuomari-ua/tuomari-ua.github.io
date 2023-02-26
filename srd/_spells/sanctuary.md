@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 1
 classes: cleric
-title: Sanctuary 
+title: Святилище [Sanctuary]
 ---
-_1st-level abjuration_ 
-**Casting Time:** 1 bonus action    
-**Range:** 30 feet    
-**Components:** V, S, M (a small silver mirror)    
-**Duration:** 1 minute 
-You ward a creature within range against attack. Until the spell ends, any creature who targets the warded creature with an attack or a harmful spell must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from area effects, such as the explosion of a fireball.    
-If the warded creature makes an attack or casts a spell that affects an enemy creature, this spell ends. 
+
+_Перешкоджання, 1 рівень; клірик_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (маленьке срібне дзеркальце)    
+**Тривалість:** 1 хвилина    
+
+Ви оберігаєте істоту в межах відстані проти атак. Поки чари не завершаться, будь-яка істота, яка цілить у захищену істоту атакою чи шкідливими чарами, повинна спочатку зробити рятівний кидок Мудрості. У разі невдачі істота повинна вибрати нову ціль, або втратить атаку чи чари. Ці чари не оберігають захищену істоту від ефектів області, таких як вибух вогнекулі.    
+
+Якщо захищена істота здійснює атаку чи створює чари, які впливають на ворожу істоту, чари завершуються. 

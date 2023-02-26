@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: paladin
-         wizard
-title: Magic Weapon 
+classes: paladin, wizard
+title: Магічна зброя [Magic Weapon]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 bonus action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3. 
+
+_Перетворення, 2 рівень; паладин, маг_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви торкаєтеся немагічної зброї. Поки чари не завершаться, ця зброя стає магічною із бонусом +1 до кидків атаки та ушкоджень.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, бонус зростає до +2. Коли ви використовуєте чарунку 6 рівня або вищу, бонус зростає до +3. 

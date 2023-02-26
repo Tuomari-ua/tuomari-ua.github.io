@@ -1,22 +1,31 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 1
-classes: cleric
-         paladin
-title: Command 
+classes: сleric, paladin
+title: Наказ [Command]
 ---
-_1st-level enchantment_ 
-**Casting Time:** 1 action   
-**Range:** 60 feet    
-**Components:** V   
-**Duration:** 1 round   
-You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.    
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can't follow your command, the spell ends.    
-**Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.    
-**Drop.** The target drops whatever it is holding and then ends its turn.    
-**Flee.** The target spends its turn moving away from you by the fastest available means.   
-**Grovel.** The target falls prone and then ends its turn.   
-**Halt.** The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+_Зачарування, 1 рівень; клірик, паладин_    
+**Час створення:** 1 дія   
+**Відстань:** 60 футів    
+**Складові:** В   
+**Тривалість:** 1 раунд   
+
+Ви віддаєте однослівний наказ істоті, яку бачите в межах відстані. Ціль повинна зробити успішний рятівний кидок Мудрості або виконати цей наказ у свій наступний хід. Чари не мають ефекту, якщо ціль - невмерлий, якщо ціль не розуміє вашої мови, або якщо ваш наказ є безпосередньо шкідливим для цілі.    
+
+Далі описані деякі типові накази та їхні ефекти.    
+Ви можете віддати наказ, не описаний тут. Якщо ви робите це, Майстер визначає, як поводиться ціль. Якщо ціль не може виконати ваш наказ, чари закінчуються.    
+
+**Підійди.** Ціль рухається до вас найкоротшим маршрутом, завершуючи свій хід, якщо вона опиняється в межах 5 футів від вас.    
+
+**Кинь.** Ціль кидає все, що тримає, а потім завершує свій хід.    
+
+**Тікай.** Ціль витрачає свій хід, віддаляючись від вас найшвидшим доступним способом.   
+
+**Впади.** Ціль падає з ніг, а потім завершує свій хід.   
+
+**Замри.** Ціль не рухається та не виконує жодних дій. Летюча істота залишається в повітрі, якщо вона здатна це зробити. Якщо вона змушена рухатися, щоб утриматися в повітрі, то пролітає мінімальну необхідну відстань для перебування в повітрі.
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, ви можете впливати на одну додаткову істоту за кожну чарунку вище першої. Ці істоти повинні перебувати в межах 30 футів одна від одної, коли ви націлюєтеся на них.

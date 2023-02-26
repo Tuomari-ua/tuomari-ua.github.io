@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 2
-classes: bard
-         cleric
-         ranger
-title: Silence 
+classes: bard, cleric, ranger
+title: Тиша [Silence]
 ---
-_2nd-level illusion (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 10 minutes 
-For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Any creature or object entirely inside the sphere is immune to thunder damage, and creatures are deafened while entirely inside it. Casting a spell that includes a verbal component is impossible there.
+
+_Ілюзія, 2 рівень (ритуал); бард, клірик, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Поки діють чари, у сфері радіусом 20 футів із центром у вибраній вами точці в межах відстані неможливо створити жоден звук, і жоден звук не може пройти крізь цю сферу. Будь-яка істота чи предмет, що повністю перебуває всередині сфери, має імунітет до ушкоджень громом, і такі істоти оглушені, поки повністю залишаються у сфері. Тут неможливе створення чарів, які включають вербальну складову.

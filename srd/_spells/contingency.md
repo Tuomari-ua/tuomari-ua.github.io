@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 6
 classes: wizard
-title: Contingency 
+title: Обачливість [Contingency]
 ---
-_6th-level evocation_ 
-**Casting Time:** 10 minutes    
-**Range:** Self    
-**Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)    
-**Duration:** 10 days 
-Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell--called the contingent spell--as part of casting **_contingency_**, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a **_contingency_** cast with **_water breathing_** might stipulate that **_water breathing_** comes into effect when you are engulfed in water or a similar liquid.    
-The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then **_contingency_** ends. The contingent spell takes effect only on you, even if it can normally target others. You can use only one **_contingency_** spell at a time.    
-If you cast this spell again, the effect of another **_contingency_** spell on you ends. Also, **_contingency_** ends on you if its material component is ever not on your person.
+
+_Втілення, 6 рівень; маг._   
+**Час створення:** 10 хвилин    
+**Відстань:** На себе    
+**Складові:** В, С, М (ваша фігурка, вирізана зі слонової кістки і прикрашена дорогоцінним камінням вартістю як мінімум 1500 зм)    
+**Тривалість:** 10 днів    
+
+Виберіть чари 5 рівня або нижче, які ви можете створювати, які мають час створення 1 дія та можуть націлюватися на вас. Ви створюєте ці чари - тепер вони називаються запобіжними чарами - як частину створення чарів **_обачливість_**, витрачаючи чарунки обох чарів, проте запобіжні чари не починають діяти. Натомість вони починають діяти за певних обставин. Ви описуєте ті обставини, коли створюєте ці двоє чарів. Наприклад, створення чарів **_обачливість_** разом із чарами **_підводне дихання_** може стати умовою того, що чари **_підводне дихання_** починають діяти, коли ви занурені у воду або подібну рідину.    
+
+Запобіжні чари починають діяти одразу, щойно вперше складаються належні обставини, незалежно від того, чи ви хочете цього, а дія чарів **_обачливості_** закінчується. Запобіжні чари діють тільки на вас, навіть якщо зазвичай можуть бути націлені на інших. Ви можете використати тільки одні чари **_обачливість_** за раз.    
+
+Якщо ви створюєте ці чари ще раз, дія попередніх чарів **_обачливість_** на вас закінчується. Також чари **_обачливість_** закінчуються, якщо їхня матеріальна складова опиняється не у вас.

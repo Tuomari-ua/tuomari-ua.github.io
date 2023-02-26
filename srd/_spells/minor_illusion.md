@@ -1,20 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 0
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Minor Illusion 
+classes: bard, sorcerer, warlock, wizard
+title: Мала ілюзія [Minor Illusion]
 ---
-_Illusion cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** S, M (a bit of fleece)    
-**Duration:** 1 minute 
-You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.    
-If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.    
-If you create an image of an object--such as a chair, muddy footprints, or a small chest--it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.    
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature. 
+
+_Ілюзія, замовляння; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** С, М (клапоть овечої вовни)    
+**Тривалість:** 1 хвилина    
+
+Ви створюєте в межах відстані звук або образ предмета, що існує, поки діють чари. Ілюзія також завершується, якщо ви припиняєте її дією, або якщо створюєте чари знову.    
+
+Якщо ви створюєте звук, його гучність може бути від шепоту до крику. Це може бути ваш голос, чийсь інший голос, левовий рик, удари барабанів чи інший звук за вашим вибором. Звук триває безперервно на час дії чарів, або ви можете створити окремі звуки в різний час, перш ніж чари завершаться.    
+
+Якщо ви створюєте образ предмета - наприклад, стілець, брудні сліди чи малу скриньку - він не повинен перебільшувати 5-футовий куб. Образ не може видавати звук, світло, запах чи інший чуттєвий ефект. Фізична взаємодія з образом виявляє, що це ілюзія, оскільки предмети можуть проходити крізь цей образ.    
+
+Якщо істота використовує дію, щоб обстежити звук або предмет, ця істота може визначити, що це ілюзія, шляхом успішної перевірки Інтелекту (Розслідування) проти КС ваших чарів. Якщо істота розпізнає ілюзію, ця ілюзія стає для істоти непевною. 

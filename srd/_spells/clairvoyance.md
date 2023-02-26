@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 3
-classes: bard
-         cleric
-         sorcerer
-         wizard
-title: Clairvoyance 
+classes: bard, cleric, sorcerer, wizard
+title: Підглядання [Clairvoyance]
 ---
-_3rd-level divination_ 
-**Casting Time:** 10 minutes    
-**Range:** 1 mile    
-**Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing)    
-**Duration:** Concentration, up to 10 minutes 
-You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The sensor remains in place for the duration, and it can't be attacked or otherwise interacted with.    
-When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.    
-A creature that can see the sensor (such as a creature benefiting from **_see invisibility_** or truesight) sees a luminous, intangible orb about the size of your fist. 
+
+_Віщування, 3 рівень; бард, клірик, заклинач, маг_     
+**Час створення:** 10 хвилин    
+**Відстань:** 1 миля    
+**Складові:** В, С, М (фокусування вартістю щонайменше 100 зм, або прикрашений дорогоцінним камінням ріг для підслуховування, або скляне око для підглядання)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви створюєте невидимий сенсор у межах відстані у відомому вам місці (місці, яке ви вже бачили або відвідували) або на очевидному місці, незнайомому вам (наприклад, за дверима, за рогом, або в гаю).     
+
+Сенсор залишається на місці на період дії чарів, і його не можна атакувати чи якось із ним взаємодіяти.    
+
+Створюючи чари, оберіть зір або слух. Ви можете використовувати обране вами чуття через сенсор, ніби ви знаходитесь на його місці. Ви можете дією перемикатися між зором і слухом.    
+
+Істота, здатна побачити сенсор (наприклад, якщо істота отримує привілеї чарів **_бачення невидимого [see invisibility]_** або за допомогою істинного зору), бачить сяючу нематеріальну сферу завбільшки з ваш кулак. 

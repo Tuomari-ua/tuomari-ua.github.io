@@ -1,30 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Azer
-type: Elemental
+title: Ейзер
+type: Стихійник
 tag: 2
 ---
-_Medium elemental, lawful neutral_
 
-**Armor Class** 17 (natural armor, shield)    
-**Hit Points** 39 (6d8 + 12)    
-**Speed** 30 ft. 
+_Стихійник середнього розміру, законний нейтральний_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 17 (+3)  | 12 (+1) | 15 (+2)  | 12 (+1) | 13 (+1) | 10 (+0) |
+**Клас захисту** 17 (природна броня, щит)    
+**Пункти здоров'я** 39 (6к8 + 12)    
+**Швидкість** 30 ф  
 
-**Saving Throws** Con +4    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** passive Perception 11    
-**Languages** Ignan    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
-**Heated Body.** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.    
-**Heated Weapons.** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).    
-**Illumination.** The azer sheds bright light in a 10-­foot radius and dim light for an additional 10 feet. 
+**Рятівні кидки** Ста +4    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** пасивне Сприйняття 11    
+**Мови** Іґнан    
+**Небезпека** 2 (450 ПД)  
 
-### Actions 
-**Warhammer.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+**Розжарене тіло.** Істота, що торкається ейзера або влучає по ньому атакою ближнього бою, перебуваючи в межах 5 футів від нього, отримує 5 (1к10) ушкоджень вогнем.    
+**Розжарена зброя.** Коли ейзер влучає металевою зброєю ближнього бою, він завдає додаткові 3 (1к6) ушкоджень вогнем (включені в атаку).    
+**Освітлення.** Ейзер випромінює яскраве світло у радіусі 10 футів та тьмяне світло на додаткові 10 футів.  
+
+### Дії
+**Бойовий молот.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжніть 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) дробильних ушкоджень, або 8 (1к10 + 3) дробильних ушкоджень, якщо використовує для атаки ближнього бою двома руками, плюс 3 (1к6) ушкоджень вогнем.

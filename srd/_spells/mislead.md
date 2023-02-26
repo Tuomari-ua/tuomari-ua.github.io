@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 5
-classes: bard
-         wizard
-title: Mislead 
+classes: bard, wizard
+title: Ошуканство [Mislead]
 ---
-_5th-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** S    
-**Duration:** Concentration, up to 1 hour 
-You become invisible at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends if you attack or cast a spell.    
-You can use your action to move your illusory double up to twice your speed and make it gesture, speak, and behave in whatever way you choose.    
-You can see through its eyes and hear through its ears as if you were located where it is. On each of your turns as a bonus action, you can switch from using its senses to using your own, or back again. While you are using its senses, you are blinded and deafened in regard to your own surroundings. 
+
+_Ілюзія, 5 рівень; бард, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** С    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви стаєте невидимим, і в цей же час ваш ілюзорний двійник виникає в місці, де ви стоїте. Двійник існує, поки діють чари, але невидимість завершується, якщо ви атакуєте або створюєте чари.    
+
+Ви можете використати свою дію, щоб переміщувати свого ілюзорного двійника на свою підвійну швидкість і зробити жест, говорити чи поводитися так, як ви хочете.    
+
+Ви можете бачити його очима й чути його вухами, ніби ви перебуваєте там, де й він. Бонусною дією в кожен свій хід ви можете перемикатися між своїми чуттями та чуттями двійника, і навпаки. Поки ви використовуєте чуття двійника, ви осліплені та оглушені відносно власного оточення. 

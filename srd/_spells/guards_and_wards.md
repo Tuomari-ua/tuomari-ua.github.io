@@ -1,28 +1,35 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 6
-classes: bard
-         wizard
-title: Guards and Wards 
+classes: bard, wizard
+title: Варта і сторожа [Guards and Wards]
 ---
-_6th-level abjuration_ 
-**Casting Time:** 10 minutes    
-**Range:** Touch    
-**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of monster blood, and a small silver rod worth at least 10 gp)    
-**Duration:** 24 hours 
-You create a ward that protects up to 2,500 square feet of floor space (an area 50 feet square, or one hundred 5-foot squares or twenty-five 10-foot squares). The warded area can be up to 20 feet tall, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.    
-When you cast this spell, you can specify individuals that are unaffected by any or all of the effects that you choose. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.    
-**_Guards and wards_** creates the following effects within the warded area.   
-**Corridors.** Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.    
-**Doors.** All doors in the warded area are magically locked, as if sealed by an **_arcane lock_** spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the **_minor illusion_** spell) to make them appear as plain sections of wall.    
-**Stairs.** Webs fill all stairs in the warded area from top to bottom, as the **_web_** spell. These strands regrow in 10 minutes if they are burned or torn away while **_guards and wards_** lasts.    
-**Other Spell Effect.** You can place your choice of one of the following magical effects within the warded area of the stronghold.
-* Place **_dancing lights_** in four corridors. You can designate a simple program that the lights repeat as long as **_guards and wards_** lasts.
-* Place **_magic mouth_** in two locations.
-* Place **_stinking cloud_** in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while **_guards and wards_** lasts.
-* Place a **_constant gust of wind_** in one corridor or room.
-* Place a **_suggestion_** in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally. 
-The whole warded area radiates magic. A **_dispel magic_** cast on a specific effect, if successful, removes only that effect.    
-You can create a permanently guarded and warded structure by casting this spell there every day for one year. 
+
+_Перешкоджання, 6 рівень; бард, маг_    
+**Час створення:** 10 хвилин    
+**Відстань:** Дотик    
+**Складові:** В, С, М (палаючий ладан, невелика кількість сірки та олії, зав’язана струна, невелика кількість крові чудовиська та маленький срібний жезл вартістю щонайменше 10 зм)    
+**Тривалість:** 24 години    
+
+Ви створюєте сторожу, яка захищає до 2500 квадратних футів площі (область розміром 50 кв. футів, або сто квадратів по 5 футів, або двадцять п'ять 10-футових квадратів). Захищена область може бути до 20 футів заввишки і сформована, як ви бажаєте. Ви можете захистити кілька поверхів фортеці, розділивши область між ними, за умови, що ви можете зайти в кожну суміжну область під час чарування.    
+
+Коли ви створюєте ці чари, ви можете визначити осіб, які не зазнають впливу кількох або всіх ефектів, за вашим вибором. Ви також можете визначити пароль, який, промовлений уголос, зробить мовця імунним до цих ефектів.    
+
+**_Варта і сторожа_** створює наступні ефекти в захищеній області.   
+
+**Коридори.** Туман заповнює захищені коридори, роблячи їх непроглядними. На додачу, на кожному перехресті чи розвилці, де є можливість вибору напрямку, є 50-відсотковий шанс, що істота, відмінна від вас, повірить, що вона йде в протилежному напрямку від того, який вона вибрала.    
+
+**Двері.** Усі двері в захищеній області магічно замкнені, ніби їх запечатали чарами **_арканний замок_**. На додачу, ви можете вкрити до 10 дверей ілюзією (еквівалентно до дії ілюзорного предмету чарів **_малої ілюзії_**), щоб вони виглядали як прості ділянки стіни.    
+
+**Сходи.** Павутина заповнює всі сходи в захищеній зоні зверху вниз, як чари **_павутиння_**. Це павутиння відростає за 10 хвилин, якщо його спалити або відірвати, поки діють чари **_варта і сторожа._**    
+
+**Інші ефекти чарів.** Ви можете розмістити один із наведених нижче магічних ефектів у захищеній зоні фортеці.
+* Розмістити **_мерехтливі вогники_** у чотирьох коридорах. Ви можете призначити просту програму, яку ці вогники повторюватимуть, поки тривають чари **_варта і сторожа_**.
+* Розмістити **_магічні вуста_** у двох розташуваннях.
+* Розмістити **_смердючу хмару_** в двох розташуваннях. Пари з'являються у вказаних вами місцях; вони повертаються протягом 10 хвилин, якщо їх розвіє вітер, поки тривають чари **_варта і сторожа._**
+* Розмістити постійний **_порив вітру_** в одному коридорі або кімнаті.
+* Розмістити **_навіювання_** в одному розташуванні. Ви вибираєте територію площею до 5 квадратних футів, і будь-яка істота, яка входить або проходить крізь цю область, подумки отримує навіювання. Уся захищена область випромінює магію. Чари **_розвіювання магії_**, створені на окремий ефект, якщо успішні, видаляють цей ефект.    
+
+Ви можете створити постійно захищену структуру, чаруючи **_варту і сторожу_** в цій області щодня упродовж одного року. 

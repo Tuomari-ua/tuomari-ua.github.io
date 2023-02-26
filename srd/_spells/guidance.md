@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 0
-classes: cleric
-         druid
-title: Guidance 
+classes: cleric, druid
+title: Настанова [Guidance]
 ---
-_Divination cantrip_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends. 
+
+_Віщування, замовляння; клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви торкаєтеся однієї згодної істоти. Один раз, перш ніж чари завершаться, ціль може кинути к4 і додати число, що випало, до однієї перевірки здібності за своїм вибором. Ціль може кинути кістку до або після перевірки здібності. Після цього чари завершуються. 

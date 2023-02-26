@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 1
-classes: cleric
-         paladin
-         warlock
-         wizard
-title: Protection from Evil and Good 
+classes: cleric, paladin, warlock, wizard
+title: Захист від зла й добра [Protection from Evil and Good]
 ---
-_1st-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (holy water or powdered silver and iron, which the spell consumes)    
-**Duration:** Concentration up to 10 minutes 
-Until the spell ends, one willing creature you touch is protected against certain types of creatures: aberrations, celestials, elementals, fey, fiends, and undead.    
-The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can't be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+
+_Перешкоджання, 1 рівень; клірик, паладин, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (свята вода або стерте на пил срібло й залізо, які поглинаються чарами)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Поки чари не завершаться, одна згода істота, якої ви торкаєтеся, захищена проти певних типів істот: аберацій, стихійників, фей, погані та невмерлих.    
+
+Цей захист дарує кілька привілеїв. Істоти цих типів мають перешкоду на кидки атаки проти цілі. Ціль також не може бути причарована, налякана або одержима ними. Якщо ціль чарів уже причарована, налякана або одержима такою істотою, то вона отримує перевагу на будь-які наступні рятівні кидки проти відповідного ефекту.

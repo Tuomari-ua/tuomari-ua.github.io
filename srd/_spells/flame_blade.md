@@ -1,17 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
 classes: druid
-title: Flame Blade 
+title: Полум'яний клинок [Flame Blade]
 ---
-_2nd-level evocation_ 
-**Casting Time:** 1 bonus action    
-**Range:** Self    
-**Components:** V, S, M (leaf of sumac)    
-**Duration:** Concentration, up to 10 minutes 
-You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke the blade again as a bonus action.    
-You can use your action to make a melee spell attack with the fiery blade. On a hit, the target takes 3d6 fire damage.    
-The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for every two slot levels above 2nd. 
+
+_Втілення, 2 рівень; друїд_    
+**Час створення:** 1 бонусна дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (листок сумаху)    
+**Тривалість:** Концентрація, до 10 хвилин    
+Ви пробуджуєте у своїй вільній руці полум'яний клинок. Клинок схожий на скимитар розміром і формою, і існує, поки діють чари. Якщо ви випускаєте його з рук, клинок зникає, але ви можете знову викликати його бонусною дією.    
+Ви можете використати дію, щоб здійснити атаку чарами ближнього бою за допомогою цього клинка. У разі влучання ціль отримує 3к6 ушкоджень вогнем.    
+Полум'яний клинок випромінює яскраве світло в радіусі 10 футів та тьмяне світло - на додаткові 10 футів. **На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження зростають на 1к6 за кожні дві чарунки після другої. 

@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 7
-classes: druid
-         sorcerer
-         wizard
-title: Reverse Gravity 
+classes: druid, sorcerer, wizard
+title: Обернена гравітація [Reverse Gravity]
 ---
-_7th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 100 feet    
-**Components:** V, S, M (a lodestone and iron filings)    
-**Duration:** Concentration, up to 1 minute 
-This spell reverses gravity in a 50-foot-radius, 100- foot high cylinder centered on a point within range. All creatures and objects that aren't somehow anchored to the ground in the area fall upward and reach the top of the area when you cast this spell. A creature can make a Dexterity saving throw to grab onto a fixed object it can reach, thus avoiding the fall.    
-If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it just as they would during a normal downward fall. If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, for the duration.    
-At the end of the duration, affected objects and creatures fall back down. 
+
+_Перетворення, 7 рівень; друїд, заклинач, маг_   
+**Час створення:** 1 дія    
+**Відстань:** 100 футів    
+**Складові:** В, С, М (шматочок магнетиту і залізні ошурки)    
+**Тривалість:** Концентрація, до 1 хвилини  
+
+Ці чари обертають тяжіння у циліндрі з радіусом 50 футів і висотою 100 футів, центр якого знаходиться у точці в межах відстані. Усі істоти та предмети, що яким-небудь чином не прикріплені до землі в цій області, падають вгору й досягають верхівки області, коли ви створюєте ці чари. Істота може зробити рятівний кидок Спритності, щоб вхопитися за закріплений предмет у своїй досяжності, аби уникнути цього падіння.    
+
+Якщо на шляху істот чи предметів трапляється якась тверда поверхня (така як стеля), вони б'ються об неї, як під час нормального падіння вниз. Якщо предмет чи істота досягають вершини області, ні об що не вдарившись, вони залишаються там, трохи коливаючись, поки діють чари.    
+
+Коли чари завершуються, вражені предмети та істоти знову падають униз. 

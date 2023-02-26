@@ -40,10 +40,10 @@ layout: default
 |---------------------------------------------------------|---------------------------------------------------------|
 | 🇺🇦 [Між пригодами](./docs/adventuring/between_adventures.html)    | 🇺🇦 [Обладунки](./docs/adventuring/equipment/armor.html)      |
 | 🇺🇦 [Переміщення](./docs/adventuring/movement.html)                | 🇺🇦 [Зброя](./docs/adventuring/equipment/weapons.html)        |         
-| 🇺🇦 [Виміри існування](./docs/adventuring/planes_of_existence.html)| 🇺🇦 [Спорядження пригодника](./docs/adventuring/equipment/adventuring_gear.html)|
+| 🇺🇦 [Час](./docs/adventuring/time.html)                            | 🇺🇦 [Спорядження пригодника](./docs/adventuring/equipment/adventuring_gear.html)|
 | 🇺🇦 [Відпочинок](./docs/adventuring/resting.html)                  | 🇺🇦 [Набори спорядження](./docs/adventuring/equipment/equipment_packs.html)  |
 | 🇺🇦 [Середовище](./docs/adventuring/the_environment.html)          | 🇺🇦 [Інструменти](./docs/adventuring/equipment/tools.html)                   |
-| 🇺🇦 [Час](./docs/adventuring/time.html)                            | 🇺🇦 [Транспорт](./docs/adventuring/equipment/mounts_and_vehicles.html)       |
+|                                                            | 🇺🇦 [Транспорт](./docs/adventuring/equipment/mounts_and_vehicles.html)       |
 |                                                            | 🇺🇦 [Монети](./docs/adventuring/equipment/coins.html)                           |
 |                                                            | 🇺🇦 [Торговельні товари](./docs/adventuring/equipment/trade_goods.html)         |      
 
@@ -67,9 +67,9 @@ layout: default
 
 | Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
 |------------------------------------------------|----------------------------------------|-------------------------------------------|
-| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
-| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
-|                                                | [Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
+| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [🇺🇦 Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
+| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [🇺🇦 Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
+|                                                | [🇺🇦 Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
 |                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
 |                                                |                                        | [Рейнджер](./docs/spellcasting/indexes/index_all_class.html#ranger)     |
 |                                                |                                        | [Заклинач](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
@@ -84,7 +84,7 @@ layout: default
 | [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
 | [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./docs/gamemaster_rules/indexes/items_typelist.html) | [Монстри за типом](./docs/gamemaster_rules/indexes/monsters_typelist.html) |
 | [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     | [Предмети за рідкісністю](./docs/gamemaster_rules/indexes/items_raritylist.html)                                  | [Монстри за КН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
-| [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|👉 [Генератор монстрів (тест)](./gen/dnd-statblock.html)                                   |                                                   |
+| [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|                                   | 👉 [Генератор монстрів](./gen/)                                                  |
 | [🇺🇦 Правила монстрів](./docs/gamemaster_rules/monster_rules.html) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./docs/gamemaster_rules/nonplayer_characters.html)|                       |                                                   |
 | [🇺🇦 Предмети](./docs/gamemaster_rules/objects.html)      |                                        |                                                   |
@@ -94,9 +94,9 @@ layout: default
 
 
 - - -
-Підтримати перекладачів та проєкт можна благодійними внесками:  
-[💰Банка](https://send.monobank.ua/jar/47imS3PG8n)  
-[☕️Кофі](https://ko-fi.com/inrium)  
+Надати перекладам фінансову підтримку можна тут:  
+[💰Банка](https://send.monobank.ua/jar/Z4PzGDzMb)  
 - - -
-
 > [Дізнатися, хто це наробив](./credits.html)  
+- - -
+> [Хронологія оновлень](./updates.html) 

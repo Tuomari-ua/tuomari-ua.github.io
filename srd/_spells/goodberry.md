@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: druid
-         ranger
-title: Goodberry 
+classes: druid, ranger
+title: Доброягода [Goodberry]
 ---
-_1st-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a sprig of mistletoe)    
-**Duration:** Instantaneous 
-Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.    
-The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+
+_Перетворення, 1 рівень; друїд, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (гілочка омели)    
+**Тривалість:** Миттєво    
+
+У вашій руці з'являється до 10 ягід, наповнених магією, поки діють чари. Істота може використати дію, щоб з'їсти одну ягоду. З'їдання ягоди відновлює 1 пункти здоров'я, і ягода є достатньо поживною, щоб підтримувати істоту впродовж одного дня.    
+
+Ягоди втрачають свою силу, якщо їх не з'їсти упродовж 24 годин після створення чарів.

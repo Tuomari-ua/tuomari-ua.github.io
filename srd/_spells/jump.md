@@ -1,17 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 1
-classes: druid
-         ranger
-         sorcerer
-         wizard
-title: Jump 
+classes: druid, ranger, sorcerer, wizard
+title: Стрибок [Jump]
 ---
-_1st-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a grasshopper's hind leg)    
-**Duration:** 1 minute 
-You touch a creature. The creature's jump distance is tripled until the spell ends.
+
+_Перетворення, 1 рівень; друїд, рейнджер, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (задня нога коника)    
+**Тривалість:** 1 хвилина    
+
+Ви торкаєтеся істоти. Відстань стрибка істоти потроюється, поки чари не завершаться.

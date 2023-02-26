@@ -1,31 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Acolyte
-type: Humanoid (any race)
-tag: .25
+title: Послідовник [Acolyte]
+type: Гуманоїд
+tag: 0.25
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 10    
-**Hit Points** 9 (2d8)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |   
+**Клас захисту** 10    
+**Пункти здоров'я** 2 (2к8)    
+**Швидкість** 30 ф
 
-**Skills** Medicine +4, Religion +2    
-**Senses** passive Perception 12    
-**Languages** any one language (usually Common)    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |
 
-**Spellcasting.** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:    
-Cantrips (at will): **_light, sacred flame, thaumaturgy_**    
-1st level (3 slots): **_bless, cure wounds, sanctuary_** 
+**Навички** Медицина +4, Релігія +2    
+**Чуття** пасивне Сприйняття 12    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека** 1/4 (50 ПД)  
 
-### Actions 
-**Club.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage. 
+**Чарування.** Послідовник є чаротворцем 1 рівня. Його чаротворча здібність - Мудрість (КС чарів 12, +4 до влучання атаками чарами). Послідовник має наступні підготовлені чари клірика:    
+Замовляння (за бажанням): **_світло, священне полум'я, чудотворення_**    
+1 рівень (3 чарунки): **_благословення, лікування ран, святилище_**  
 
-### Description
-Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities. 
+### Дії
+**Палиця.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к4) дробильних ушкоджень.  
+
+### Опис
+Послідовники - це молодші члени духовенства, зазвичай підпорядковані священникам. Вони виконують у храмі різні функції і здобувають від своїх божеств незначні чаротворчі сили. 

@@ -1,27 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bandit
-type: Humanoid (any race)
-tag: .125
+title: Бандит
+type: Гуманоїд
+tag: 0.125
 ---
-_Medium humanoid (any race), any non-lawful alignment_
 
-**Armor Class** 12 (leather armor)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який незаконний світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) | 
+**Клас захисту** 12 (шкіряна броня)    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф.  
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-### Actions 
-**Scimitar.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.    
-**Light Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека ** 1/8 (25 ПД)  
 
-### Description
-Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry. Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels. 
+### Дії
+**Скимитар.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. *Влучання:* 4 (1к6 + 1) рубаних пошкоджень.    
+
+**Легкий арбалет.** _ Далекобійна атака зброєю:_ +3 до влучання, відстань 80/320 ф, одна ціль. _Влучання:_ 5 (1к8 + 1) колотих пошкоджень.  
+
+### Опис
+Бандити мандрують бандами, часом під проводом головорізів, ветеранів чи чаротворців. Не всі бандити є злими. Гніт, посуха, хвороби чи голод часто можуть підштовхнути загалом чесних людей до бандитського життя. Пірати - це бандити у відкритому морі. Вони можуть бути флібустьєрами, зацікавленими лише в скарбах і вбивствах, або вони можуть бути каперами, які отримали дозвіл корони на напад та пограбування суден ворожого народу. 

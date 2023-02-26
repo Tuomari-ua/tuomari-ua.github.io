@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 2
-classes: druid
-         sorcerer
-         wizard
-title: Gust of Wind 
+classes: druid, sorcerer, wizard
+title: Порив вітру [Gust of Wind]
 ---
-_2nd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** Self (60-foot line)    
-**Components:** V, S, M (a legume seed)    
-**Duration:** Concentration, up to 1 minute 
-A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the line.    
-Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you.    
-The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.    
-As a bonus action on each of your turns before the spell ends, you can change the direction in which the line blasts from you.
+
+_Втілення, 2 рівень; друїд, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (60-футова лінія)    
+**Складові:** В, С, М (бобове насіння)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Лінія сильного вітру завдовжки 60 футів та завширшки 10 футів виривається від вас у вибраному вами напрямку на час дії чарів. Кожна істота, що починає свій хід в лінії, повинна зробити успішний рятівний кидок Сили, або буде відштовхнута на 15 футів геть від вас уздовж лінії.    
+
+Будь-яка істота в лінії повинна витрачати 2 фути переміщення за кожен фут, що вона рухається, щоб наблизитися до вас.    
+
+Вітер розвіює газ чи пару, та гасить свічки, смолоскипи та подібне незахищене полум'я в цій області. Він змушує захищене полум'я, наприклад, у ліхтарях, шалено танцювати, і має 50-відсотковий шанс його загасити.    
+
+Бонусною дією у кожен свій хід, поки діють чари, ви можете змінити напрям, у якому лінія простягається від вас.

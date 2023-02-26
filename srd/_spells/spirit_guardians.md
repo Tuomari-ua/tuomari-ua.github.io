@@ -1,16 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 3
 classes: cleric
-title: Spirit Guardians 
+title: Духи захисники [Spirit Guardians]
 ---
-_3rd-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** Self (15-foot radius)    
-**Components:** V, S, M (a holy symbol)    
-**Duration:** Concentration, up to 10 minutes 
-You call forth spirits to protect you. They flit around you to a distance of 15 feet for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.    
-When you cast this spell, you can designate any number of creatures you can see to be unaffected by it. An affected creature's speed is halved in the area, and when the creature enters the area for the first time on a turn or starts its turn there, it must make a Wisdom saving throw. On a failed save, the creature takes 3d8 radiant damage (if you are good or neutral) or 3d8 necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd. 
+
+_З'явлення, 3 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (15-футовий радіус)    
+**Складові:** В, С, М (святий символ)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви прикликаєте духів для свого захисту. Вони літають навколо вас на відстані 15 футів, поки діють чари. Якщо ви добрі або нейтральні, їхня спектральна форма виглядає янгольською або фейською (на ваш вибір). Якщо ви злі, вони виглядають поганськими.    
+
+Коли ви створюєте ці чари, ви визначаєте будь-яку кількість істот, яких можете бачити, на кого чари не впливають. Швидкість уражених істот в області зменшена вдвічі, і коли істота входить в область уперше в свій хід або починає свій хід там, вона повинна зробити рятівний кидок Мудрості. У разі невдачі істота отримує 3к8 променистих ушкоджень (якщо ви добрі або нейтральні) чи 3к8 некротичних ушкоджень (якщо ви злі). При успішному рятівному кидку істота отримує лише половину цих ушкоджень.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження зростають на 1к8 за кожну чарунку вище третьої. 

@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: sorcerer
-         warlock
-         wizard
-title: Spider Climb 
+classes: sorcerer, warlock, wizard
+title: Павуче лазіння [Spider Climb]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a drop of bitumen and a spider)   
-**Duration:** Concentration, up to 1 hour 
-Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed. 
+
+_Перетворення, 2 рівень; заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (крапля бітуму та павук)   
+**Тривалість:** Концентрація, до 1 години   
+
+Поки не завершаться чари, одна згодна істота, якої ви торкаєтеся, набуває здатності рухатися вгору, вниз та поперек вертикальних поверхонь та догори ногами по стелі, залишаючи руки вільними. Ціль також здобуває швидкість лазіння, що дорівнює її швидкості ходіння. 

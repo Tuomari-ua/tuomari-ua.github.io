@@ -1,25 +1,30 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 5
-classes: sorcerer
-         wizard
-title: Creation 
+classes: sorcerer, wizard
+title: Творення [Creation]
 ---
-_5th-level illusion_ 
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a tiny piece of matter of the same type of the item you plan to create)    
-**Duration:** Special 
-You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.    
-The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration. 
-| Material              | Duration   |
-|-----------------------|------------|
-| Vegetable matter      | 1 day      |        
-| Stone or crystal      | 12 hours   |           
-| Precious metals       | 1 hour     |         
-| Gems                  | 10 minutes |             
-| Adamantine or mithral | 1 minute   |           
-Using any material created by this spell as another spell's material component causes that spell to fail. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th. 
+
+_Ілюзія, 5 рівень; заклинач, маг_   
+**Час створення:** 1 хвилина    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (крихітний шматочок сировини того самого типу, що й предмет, який ви плануєте створити)    
+**Тривалість:** Особлива   
+
+Ви притягуєте жмутки тіньової матерії з Царства тіней, щоб створити неживий предмет із рослинної сировини у межах відстані: м'які речі, мотузки, деревину чи щось подібне. Ви також може застосувати ці чари для створення мінеральних предметів, таких як камінь, кристал або метал. Створений предмет не може бути більшим, ніж 5-футовий куб, і цей предмет повинен мати форму та бути створений з того, що ви раніше бачили.    
+
+Тривалиість залежить від сировини предмета. Якщо предмет створений із багатьох матеріалів, використовуйте найкоротшу тривалість.  
+
+| Сировина             | Тривалість |
+| -------------------- | ---------- |
+| Рослинна матерія     | 1 день     |
+| Камінь або кристал   | 12 годин   |
+| Дорогоцінні метали   | 1 година   |
+| Дорогоцінне каміння  | 10 хвилин  |
+| Адамантин або мітрил | 1 хвилина  |
+
+Використання будь-яких матеріалів, створених цими чарами, як матеріальної складової для інших чарів, призводить до провалу чарів.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, куб збільшується на 5 футів за кожну чарунку вище п'ятої. 

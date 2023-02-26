@@ -4,7 +4,7 @@ layout: page
 tag: Віщування
 level: 2
 classes: cleric
-title: Передбачення [Augury]
+title: Пророкування [Augury]
 ---
 
 _Віщування, 2 рівень (ритуал); клірик_   

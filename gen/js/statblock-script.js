@@ -1613,32 +1613,32 @@ var GetVariablesFunctions = {
 
     // Return the default legendary description
     LegendaryDescriptionDefault: function () {
-        mon.legendariesDescription = mon.name.toLowerCase() + " може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти." + mon.name.toLowerCase() + " відновлює використані легендарні дії на початку свого ходу.";
+        mon.legendariesDescription = "[MON] може здійснити 3 легендарні дії, обираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. [MON] відновлює використані легендарні дії на початку свого ходу.";
     },
 
     // Return the default mythic description
     MythicDescriptionDefault: function () {
-        mon.mythicDescription = "Якщо мітичні дії" + mon.name.toLowerCase() + " активні, це надає можливість використовувати наведені нижче дії можливості як легендарні дії упродовж 1 години після використання {Some Ability}.";
+        mon.mythicDescription = "Якщо [MON] має активні мітичні дії, це надає можливість використовувати наведені нижче дії як легендарні дії упродовж 1 години після використання {Some Ability}.";
     },
 
     // Return the default lair description
     LairDescriptionDefault: function () {
-        mon.lairDescription = "Вступивши у бій в своєму лігві, " + mon.name.toLowerCase() + " може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) " + mon.name.toLowerCase() + " може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
+        mon.lairDescription = "Вступивши у бій в своєму лігві, [MON] може пробудити навколишню магію для здійснення дій лігва. На ініціативу 20 (програючи в разі рівності) [MON] може використати одну дію лігва, щоб спричинити один із наступних ефектів:";
     },
 
     // Return the default lair end description
     LairDescriptionEndDefault: function () {
-        mon.lairDescriptionEnd = mon.name.toLowerCase() + " не може повторити ефект, поки не використає всі доступні, і не може використовувати той самий ефект два раунди під ряд.";
+        mon.lairDescriptionEnd = "[MON] не може повторити ефект, поки не використає всі доступні, і не може використовувати той самий ефект два раунди підряд.";
     },
 
     // Return the default regional description
     RegionalDescriptionDefault: function () {
-        mon.regionalDescription = "Місцевість, де " + mon.name.toLowerCase() + " влаштовує лігво, просочена присутністю істоти, що створює один або більше наступних ефектів:";
+        mon.regionalDescription = "Місцевість, де [MON] влаштовує лігво, просочена присутністю істоти, що створює один або більше наступних ефектів:";
     },
 
     // Return the default regional end description
     RegionalDescriptionEndDefault: function () {
-        mon.regionalDescriptionEnd = "Якщо " + mon.name.toLowerCase() + " вмирає, перші два ефекти розвіюються упровдож 3к10 днів.";
+        mon.regionalDescriptionEnd = "Якщо [MON] вмирає, перші два ефекти розвіюються упровдож 3к10 днів.";
     }
 }
 

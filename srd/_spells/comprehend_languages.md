@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Comprehend Languages 
+classes: bard, sorcerer, warlock, wizard
+title: Розуміння мов[Comprehend Languages]
 ---
-_1st-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S, M (a pinch of soot and salt)    
-**Duration:** 1 hour 
-For the duration, you understand the literal meaning of any spoken language that you hear. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text.    
-This spell doesn't decode secret messages in a text or a glyph, such as an arcane sigil, that isn't part of a written language. 
+
+_Віщування, 1 рівень (ритуал); бард, заклинач, чаклун, маг_     
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С, М (дрібка сажі та солі)    
+**Тривалість:** 1 година    
+
+Поки чари активні, ви розумієте буквальний зміст усіх усних мов, які чуєте. Ви також розумієте письмову мову, що бачите, але ви повинні торкатися поверхні, на якій написані слова. Щоб прочитати одну сторінку тексту, потрібна приблизно 1 хвилина.    
+
+Ці чари не розшифровують секретні повідомлення в тексті чи символах, наприклад арканний сигіл, який не є частиною письмової мови. 

@@ -4,7 +4,7 @@ layout: page
 level: 2
 tag: Зачарування
 classes: bard, druid, ranger
-title: Тварина-посланець [animal messenger]
+title: Тварина-посланець [Animal messenger]
 ---
 
 _Зачарування, 2 рівень (ритуал); бард, друїд, рейнджер_   

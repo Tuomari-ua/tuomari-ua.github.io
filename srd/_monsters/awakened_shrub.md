@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Awakened Shrub
-type: Plant
+title: Пробуджений кущ
+type: Рослина
 tag: 0
 ---
-_Small plant, unaligned_
 
-**Armor Class** 9    
-**Hit Points** 10 (3d6)    
-**Speed** 20 ft. 
+_Рослина малого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 8 (−1)  | 11 (+0) | 10 (+0) | 0 (+0)  | 6 (−2)  |
+**Клас захисту** 9    
+**Пункти здоров'я** 10 (3к6)    
+**Швидкість** 20 ф.  
 
-**Damage Vulnerabilities.** fire    
-**Damage Resistances** piercing    
-**Senses** passive Perception 10    
-**Languages** one language known by its creator    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР    | СТА     | ІНТ     | МДР    | ХАР    |
+| ------ | ------ | ------- | ------- | ------ | ------ |
+| 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 0 (+0) | 6 (-2) |
 
-**False Appearance.** While the shrub remains motionless, it is indistinguishable from a normal shrub. 
+**Вразливість до ушкоджень** вогонь    
+**Стійкість до ушкоджень** колоті    
+**Чуття** пасивне Сприйняття 10    
+**Мови** одна мова, відома його творцеві    
+**Небезпека** 0 (10 ПД)  
 
-### Actions 
-**Rake.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 − 1) slashing damage. 
+**Оманлива зовнішність.** Поки кущ нерухомий, його неможливо відрізнити від звичайного куща.  
 
-An awakened shrub is an ordinary shrub given sentience and mobility by the awaken spell or similar magic. 
+### Дії
+**Граблі.** _Атака зброєю ближнього бою:_ +1 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 (1к4 - 1) рубаних ушкоджень.  
+
+Пробуджений кущ - це звичайний кущ, якому надали свідомість та рухливість чарами пробудження або подібною магією. 

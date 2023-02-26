@@ -1,20 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 9
-classes: cleric
-         sorcerer
-         wizard
-title: Gate 
+classes: cleric, sorcerer, wizard
+title: Брама [Gate]
 ---
-_9th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a diamond worth at least 5,000 gp)    
-**Duration:** Concentration, up to 1 minute 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration.    
-The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.    
-Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.    
-When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens in the named creature's immediate vicinity and draws the creature through it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the GM deems appropriate. It might leave, attack you, or help you. 
----
+
+_З'явлення, 9 рівня; клірик, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (діамант вартістю не менше 5000 зм)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви являєте портал, що пов'язує вільний простір, який ви можете бачити в межах відстані, із точним розташуванням на іншому плані існування. Портал є круглим отвором, який ви можете розтягнути від 5 до 20 футів у діаметрі. Ви можете спрямувати портал у будь-якому напрямку за власним вибором. Портал існує, поки діють чари.    
+
+Портал має передній та задній бік на кожному з планів, де з'являється. Подорож крізь портал можлива тільки шляхом переміщення через його передній бік. Усе, що так вчиняє, миттєво переноситься на інший план, з’являючись у вільному просторі, найближчому до порталу.    
+
+Божества та інші планарні правителі можуть запобігти відкриттю порталів, створених цими чарами, у своїй присутності чи будь-де в їхніх доменах.  
+
+Коли ви створюєте ці чари, ви можете назвати ім'я конкретної істоти (псевдонім, титул чи прізвисько не спрацюють). Якщо ця істота перебуває на плані, відмінному від того, на якому перебуваєте ви, портал відкривається в безпосередній близькості від названої істоти та притягує істоту крізь себе до найближчого вільного простору з вашого боку порталу. Ви не здобуваєте жодної спеціальної сили над істотою, і вона вільна діяти так, як вважає за необхідне Майстер. Вона може піти геть, атакувати вас або допомогти вам.

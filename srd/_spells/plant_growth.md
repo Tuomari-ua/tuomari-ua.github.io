@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 3
-classes: bard
-         druid
-         ranger
-title: Plant Growth 
+classes: bard, druid, ranger
+title: Ріст рослин [Plant Growth]
 ---
-_3rd-level transmutation_ 
-**Casting Time:** 1 action or 8 hours    
-**Range:** 150 feet    
-**Components:** V, S    
-**Duration:** Instantaneous 
-This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.    
-If you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.    
-You can exclude one or more areas of any size within the spell's area from being affected.    
-If you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested. 
+
+_Перетворення, 3 рівень; бард, друїд, рейнджер_    
+**Час створення:** 1 дія або 8 годин    
+**Відстань:** 150 футів    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ці чари спрямовують життєву силу в рослини в межах певної області. Є два можливі способи використання цих чарів, що надають або миттєвий, або довготривалий привілей.    
+
+Якщо ви створюєте чари з використанням 1 дії, виберіть точку в межах відстані. Усі нормальні рослини в радіусі 100 футів від цієї точки стають густими та перерослими. Істоти, що переміщуються крізь цю область, повинні витрачати 4 фути за кожен фут свого переміщення.    
+
+Ви можете виключити одну або більше областей будь-якого розміру з області дії чарів.    
+
+Якщо ви створюєте ці чари впродовж 8 годин, ви збагачуєте землю. Усі рослини в радіусі пів милі від вибраної точки в межах відстані наснажуються на 1 рік. Рослини дають удвічі більше врожаю, ніж звичайно. 

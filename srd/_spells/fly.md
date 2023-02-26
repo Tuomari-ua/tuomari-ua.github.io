@@ -1,17 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 3
-classes: sorcerer
-         warlock
-         wizard
-title: Fly 
+classes: sorcerer, warlock, wizard
+title: Політ [Fly]
 ---
-_3rd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a wing feather from any bird)    
-**Duration:** Concentration, up to 10 minutes 
-You touch a willing creature. The target gains a flying speed of 60 feet for the duration. When the spell ends, the target falls if it is still aloft, unless it can stop the fall. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. 
+
+_Перетворення, 3 рівень; заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (пір'їна з крила будь-якої пташки)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви торкаєтеся згодної істоти. Ціль набуває швидкості польоту 60 футів, поки діють чари. Коли чари завершуються, ціль падає, якщо досі була в повітрі, якщо тільки вона не може перешкодити падінню.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище третьої. 

@@ -1,24 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 0
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Prestidigitation 
+classes: bard, sorcerer, warlock, wizard
+title: Штукарство [Prestidigitation]
 ---
-_Transmutation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 10 feet    
-**Components:** V, S    
-**Duration:** Up to 1 hour 
-This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
-* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
-* You instantaneously light or snuff out a candle, a torch, or a small campfire.
-* You instantaneously clean or soil an object no larger than 1 cubic foot. 
-* You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
-* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
-* You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn. 
-If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action. 
+
+_Перетворення, замовляння; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 10 футів    
+**Складові:** В, С    
+**Тривалість:** До 1 години    
+
+Ці чари - незначний магічний трюк, який практикують чаротворці-початківці. Ви створюєте в межах відстані один із наступних магічних ефектів:
+* Ви створюєте миттєвий нешкідливий чуттєвий ефект, такий як дощ іскор, порив вітру, слабка музична нота чи дивний запах.
+* Ви миттєво запалюєте або гасите свічку, смолоскип чи маленьке багаття.
+* Ви миттєво чистите або забруднюєте предмет, розмір якого не перевищує 1 кубічний фут.
+* Ви охолоджуєте, розігріваєте або ароматизуєте на 1 годину неживий матеріал розміром до 1 кубічного фута.
+* Ви проявляєте на поверхні чи на предметі колір, маленьку позначку або символ.
+* Ви створюєте немагічну дрібничку чи ілюзорний образ, який може вміститися у вашій долоні, і який існує до кінця вашого наступного ходу. Якщо ви створюєте чари кілька разів, то можете одночасно активувати до трьох не-миттєвих ефектів, і ви можете відпустити такий ефект дією. 

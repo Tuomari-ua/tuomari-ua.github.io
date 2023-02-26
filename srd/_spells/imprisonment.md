@@ -1,28 +1,38 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 9
-classes: warlock
-         wizard
-title: Imprisonment 
+classes: warlock, wizard
+title: Ув'язнення [Imprisonment]
 ---
-_9th-level abjuration_
-**Casting Time:** 1 minute    
-**Range:** 30 feet    
-**Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)    
-**Duration:** Until dispelled 
-You create a magical restraint to hold a creature that you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the target.    
-When you cast the spell, you choose one of the following forms of imprisonment.    
-**Burial.** The target is entombed far beneath the earth in a sphere of magical force that is just large enough to contain the target. Nothing can pass through the sphere, nor can any creature teleport or use planar travel to get into or out of it.    
-The special component for this version of the spell is a small mithral orb.    
-**Chaining.** Heavy chains, firmly rooted in the ground, hold the target in place. The target is restrained until the spell ends, and it can't move or be moved by any means until then.    
-The special component for this version of the spell is a fine chain of precious metal.    
-**Hedged Prison.** The spell transports the target into a tiny demiplane that is warded against teleportation and planar travel. The demiplane can be a labyrinth, a cage, a tower, or any similar confined structure or area of your choice.    
-The special component for this version of the spell is a miniature representation of the prison made from jade.    
-**Minimus Containment.** The target shrinks to a height of 1 inch and is imprisoned inside a gemstone or similar object. Light can pass through the gemstone normally (allowing the target to see out and other creatures to see in), but nothing else can pass through, even by means of teleportation or planar travel. The gemstone can't be cut or broken while the spell remains in effect.    
-The special component for this version of the spell is a large, transparent gemstone, such as a corundum, diamond, or ruby.    
-**Slumber.** The target falls asleep and can't be awoken. The special component for this version of the spell consists of rare soporific herbs.    
-**Ending the Spell.** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the GM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.    
-A **_dispel magic_** spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.    
-You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding. 
+
+_Перешкоджання, 9 рівень; чаклун, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (зображення на пергаменті або різьблена статуетка за подобою цілі, а також спеціальна складова, яка змінюється залежно від вибраної вами версії чарів, вартістю принаймні 500 gp за одну кістку здоров'я цілі)    
+**Тривалість**: До розвіювання.    
+
+Ви створюєте магічні обмеження, щоб стримувати істоту, яку бачите в межах відстані. Ціль повинна зробити успішний рятівний кидок Мудрості, або буде зв'язана чарами; за умови успіху ціль імунна до цих чарів, якщо ви створите їх знову. Уражена цими чарами істота не потребує дихання, їжі, напоїв, і не старішає. Чари віщування не можуть виявити чи сприймати ціль.    
+
+Коли ви створюєте ці чари, виберіть одну з наступних форм ув'язнення.    
+
+**Поховання.** Ціль похована глибоко під землею у сфері з магічної енергії, яка достатньо велика, щоб вміщувати ціль. Ніщо не може пройти крізь сферу, і жодна істота не може телепортуватися чи використати планарну подорож, аби увійти у сферу чи вийти з неї.    
+Спеціальна складова для цієї версії чарів - маленька мітрилова куля.    
+
+**Зв'язування.** Важкі ланцюги, міцно вкорінені в землю, тримають ціль на місці. Ціль скута, поки не завершаться чари, і до цього часу вона не може переміщуватися чи бути переміщеною будь-яким способом.    
+Спеціальна складова для цієї версії чарів - це витончений ланцюжок із цінного металу.    
+
+**Огороджена в'язниця.** Чари траспортрують ціль до крихітного напівплану, захищеного від телепортації та планарних подорожей. Напівплан може бути лабіринтом, кліткою, вежею чи якоюсь подібною захищеною структурою чи областю за вашим вибором.    
+Спеціальна складова для цієї версії чарів - це мініатюрне представлення в'язниці, зроблене з нефриту.    
+
+**Мінімальне стримування.** Ціль зменшується до висоти в 1 дюйм і стає ув'язненою всередині дорогоцінного каменя або подібного предмета. Світло може нормально проходити крізь цей камінь (дозволяючи цілі бачити все ззовні, а іншим істотам - бачити, що всередині), але ніщо не може пройти наскрізь, навіть шляхом телепортації або планарної подорожі. Дорогоцінний камінь неможливо розрізати чи розбити, поки діють чари.    
+Спеціальна складова для цієї версії чарів - великий прозорий дорогоцінний камінь, такий як корунд, діамант або рубін.    
+
+**Сон.** Ціль засинає, і її неможливо розбудити. Спеціальна складова для цієї версії чарів - рідкісні снодійні трави.    
+
+**Завершення чарів.** Під час чарування будь-якої з версії ви можете визначити умови, які змусять чри завершитися та звільнити ціль. Умова може бути конкретною чи приблизною, як вам заманеться, але Майстер повинен погодитися, що ця умова обґрунтована і може бути виконана. Умова може бути заснована на імені, ідентичності чи божестві істоти, але в усьому іншому повинна стосуватися на доступних спостереженню діях або якостях, а не матеріальних цінностях, таких як рівень, клас або пункти здоров'я.    
+
+Чари **_розвіювання магії_** можуть завершити ці чари, лише якщо їх створено чарункою 9 рівня, з націленням на в'язницю або спеціальну складову, що була використана для їх створення.    
+
+Ви можете використати певну спеціальну складову для створення тільки однієї в'язниці одночасно. Якщо ви створюєте чари знову з використанням тієї ж складової, ціль першого чарування негайно звільняється зі свого ув'язнення. 

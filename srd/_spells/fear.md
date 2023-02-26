@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 3
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Fear 
+classes: bard, sorcerer, warlock, wizard
+title: Страх [Fear]
 ---
-_3rd-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** Self (30-foot cone)    
-**Components:** V, S, M (a white feather or the heart of a hen)    
-**Duration:** Concentration, up to 1 minute 
-You project a phantasmal image of a creature's worst fears. Each creature in a 30-foot cone must succeed on a Wisdom saving throw or drop whatever it is holding and become frightened for the duration.    
-While frightened by this spell, a creature must take the Dash action and move away from you by the safest available route on each of its turns, unless there is nowhere to move. If the creature ends its turn in a location where it doesn't have line of sight to you, the creature can make a Wisdom saving throw. On a successful save, the spell ends for that creature. 
+
+_Ілюзія, 3 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе (30-футовий конус)    
+**Складові:** В, С, М (біле перо або куряче серце)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви проєктуєте фантастичний образ найгірших страхів істоти. Кожна істота в межах 30-футового конусу повинна зробити рятівний кидок Мудрості, або впустить все, що тримає, і стане наляканою, поки діють чари.    
+
+Поки істота налякана цими чарами, вона у кожен свій хід повинна виконувати дію Ривок і переміщуватися геть від вас найбільш безпечним шляхом, за винятком випадків, коли їх немає куди рухатися. Якщо істота завершує свій хід у розташуванні, де не має прямої лінії огляду до вас, ця істота може зробити рятівний кидок Мудрості. За умови успіху ефект чарів для цієї істоти завершується. 

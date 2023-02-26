@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 5
-classes: bard
-         warlock
-         wizard
-title: Dream 
+classes: bard, warlock, wizard
+title: Сновидіння [Dream]
 ---
-_5th-level illusion_ 
-**Casting Time:** 1 minute    
-**Range:** Special    
-**Components:** V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)    
-**Duration:** 8 hours 
-This spell shapes a creature's dreams. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don't sleep, such as elves, can't be contacted by this spell. You, or a willing creature you touch, enters a trance state, acting as a messenger. While in the trance, the messenger is aware of his or her surroundings, but can't take actions or move.    
-If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the duration of the spell. The messenger can also shape the environment of the dream, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the effect of the spell early. The target recalls the dream perfectly upon waking. If the target is awake when you cast the spell, the messenger knows it, and can either end the trance (and the spell) or wait for the target to fall asleep, at which point the messenger appears in the target's dreams.    
-You can make the messenger appear monstrous and terrifying to the target. If you do, the messenger can deliver a message of no more than ten words and then the target must make a Wisdom saving throw. On a failed save, echoes of the phantasmal monstrosity spawn a nightmare that lasts the duration of the target's sleep and prevents the target from gaining any benefit from that rest. In addition, when the target wakes up, it takes 3d6 psychic damage.    
-If you have a body part, lock of hair, clipping from a nail, or similar portion of the target's body, the target makes its saving throw with disadvantage.
+
+_Ілюзія, 5 рівень; бард, чаклун, маг_     
+**Час створення:** 1 хвилина    
+**Відстань:** Особлива    
+**Складові:** В, С, М (жменя піску, капля чорнила та перо для письма, зірване зі сплячого птаха)    
+**Тривалість:** 8 годин    
+
+Ці чари формують сновидіння істоти. Виберіть відому вам істоту як ціль цих чарів. Ціль має бути на тому ж плані існування, що й ви. З істотами, які не сплять, наприклад, ельфами, неможливо зв'язатися цими чарами. Ви або згодна істота, якої ви торкаєтеся, входите в стан трансу, діючи як посланець. Перебуваючи в цьому трансі, посланець усвідомлює своє оточення, але не може здійснювати дії чи переміщуватися.    
+
+Якщо ціль спить, посланець являється їй уві сні і може говорити з ціллю, поки вона спить та поки діють чари. Посланець також може формувати середовище сновидіння, створюючи пейзажі, предмети та інші образи. Посланець може вийти з трансу в будь-який момент, завчасно припиняючи дію чарів. Ціль чудово пам'ятає це сновидіння після пробудження. Якщо ціль не спить, коли ви створюєте ці чари, посланець знає це і може припинити транс (і чари) або чекати, поки ціль засне, і тоді посланець з'явиться у сновидінні цілі.    
+
+Ви можете зробити так, щоб провідник виглядав для цілі монструозно та жахливо. Якщо ви зробите це, посланець може доставити повідомлення завдовжки не більше 10 слів, а потім ціль повинна зробити рятівний кидок Мудрості. У разі невдачі відлуння фантастичного чудовиська породжує кошмар, який триває весь час, поки ціль спить, і не дає цілі отримати жодні привілеї від цього відпочинку. Крім того, коли ціль прокидається, вона отримує 3к6 психічних ушкоджень.    
+
+Якщо у вас є частина тіла, пасмо волосся, зрізаний ніготь чи подібна частинка цілі, ціль робить рятівний кидок із перешкодою.

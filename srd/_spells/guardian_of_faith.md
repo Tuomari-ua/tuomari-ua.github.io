@@ -1,15 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 4
 classes: cleric
-title: Guardian of Faith 
+title: Вартовий віри [Guardian of Faith]
 ---
-_4th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V    
-**Duration:** 8 hours 
-A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.    
-Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
+
+_З'явлення, 4 рівень; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В    
+**Тривалість:** 8 годин    
+
+На час дії чарів спектральний вартовий Великого розміру з'являється і зависає в вільному просторі за вашим вибором, у місці, яке ви можете бачити в межах відстані. Вартовий займає цей простір і є нечітким, за винятком блискучого меча та щита, прикрашеного символом вашого божества.    
+
+Будь-яка ворожа до вас істота, що переміщується в простір у межах 10 футів навколо вартового уперше в свій хід, повинна зробити рятівний кидок Спритності. Істота отримує 20 променистих ушкоджень у разі невдачі або половину цих ушкоджень за умови успіху. Вартовий зникає, коли завдає сумарно 60 ушкоджень.

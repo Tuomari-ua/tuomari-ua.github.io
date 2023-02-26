@@ -1,20 +1,23 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 6
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Eyebite 
+classes: bard, sorcerer, warlock, wizard
+title: Проклятуще око [Eyebite]
 ---
-_6th-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration. On each of your turns until the spell ends, you can use your action to target another creature but can't target a creature again if it has succeeded on a saving throw against this casting of **_eyebite_**.    
-**Asleep.** The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.    
-**Panicked.** The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.    
-**Sickened.** The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
+
+_Некромантія, 6 рівень; бард, заклинач, чаклун, маг_    
+
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Поки діють чари, ваші очі - це чорнильна порожнеча, пронизана моторошною силою. Одна істота за вашим вибором у межах 60 футів, яку ви можете бачити, повинна зробити успішний рятівний кидок Мудрості, або опиниться під впливом одного із наступних ефектів за вашим вибором, поки діють чари. У кожен свій хід, поки чари не завершаться, ви можете використати дію, щоб націлитися на іншу істоту, але ви не можете націлитися на ту саму істоту, якщо вона уже зробила успішний рятівний кидок проти цих чарів **_проклятущого ока_**.    
+
+**Приспання.** Ціль непритомніє. Вона прокидається, якщо отримує будь-які ушкодження, або якщо інша істота витрачає дію, щоб її пробудити.    
+
+**Паніка.** Ціль налякана вами. У кожен свій хід налякана істота повинна виконати дію Ривок і переміститися геть від вас найбільш безпечним і найбільш коротким доступним шляхом, якщо має простір для переміщення. Якщо ціль переміщується у місце принаймні за 60 футів від вас, де вона більше не може вас бачити, ефект завершується.    
+
+**Нездужання.** Ціль має перешкоду на кидки атаки на перевірки здібностей. У кінці кожного свого ходу вона може зробити повторний рятівний кидок Мудрості. За умови успіху ефект завершується.

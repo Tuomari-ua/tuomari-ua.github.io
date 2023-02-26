@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 3
-classes: warlock
-         wizard
-title: Vampiric Touch 
+classes: warlock, wizard
+title: Вампіричний дотик [Vampiric Touch]
 ---
-_3rd-level necromancy_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against a creature within your reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the amount of necrotic damage dealt. Until the spell ends, you can make the attack again on each of your turns as an action. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+_Некромантія, 3 рівень; чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Дотик вашої обплетеної тінями руки може зцідити життєву силу інших, щоб зцілити ваші рани. Здійсніть атаку чарами ближнього бою проти істоти в межах відстані. У разі влучання ціль отримує 3к6 некротичних ушкоджень, а ви відновлюєте пункти здоров'я, що дорівнюють половині завданих некротичних ушкоджень. Поки чари не завершаться, ви можете знову здійснити атаку дією в кожний свій хід.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження зростають на 1к6 за кожну чарунку вище третьої.

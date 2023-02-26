@@ -1,31 +1,35 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 5
-classes: bard
-         cleric
-         druid
-         warlock
-         wizard
-title: Scrying 
+classes: bard, cleric, druid, warlock, wizard
+title: Стеження [Scrying]
 ---
-_5th-level divination_ 
-**Casting Time:** 10 minutes    
-**Range:** Self    
-**Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal ball, a silver mirror, or a font filled with holy water)    
-**Duration:** Concentration, up to 10 minutes 
-You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed. 
-| Knowledge                                 | Save Modifier |
-|-------------------------------------------|---------------|
-| Secondhand (you have heard of the target) | +5            |
-| Firsthand (you have met the target)       | 0             |
-| Familiar (you know the target well)       | -5            |
-| Connection                                        | Save Modifier |
-|---------------------------------------------------|---------------|
-| Likeness or picture                               | -2            |
-| Possession or garment                             | -4            |
-| Body part, lock of hair, bit of nail, or the like | -10           |
-On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.    
-On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.    
-Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move. 
+
+_Віщування, 5 рівень; бард, клірик, друїд, чаклун, маг_   
+**Час створення:** 10 хвилин    
+**Відстань:** На себе    
+**Складові:** В, С, М (осередок магії вартістю щонайменше 1000 зм, наприклад, кришталева куля, срібне дзеркало, чи наповнена святою водою купіль)    
+**Тривалість:** Концентрація, до 10 хвилин   
+
+Ви можете бачити й чути конкретну істоту за вашим вибором, яка є на тому самому плані існування, що й ви. Ціль повинна зробити рятівний кидок Мудрості, складність якого змінюється залежно від того, як добре ви знаєте ціль та який ступінь фізичного зв'язку маєте до неї. Якщо ціль знає, що ви створюєте ці чари, вона може добровільно провалити рятівний кидок, якщо хоче, щоб за нею спостерігали.  
+
+| Знайомство                                                | Модифікатор ряткидка |
+| --------------------------------------------------------- | -------------------- |
+| З других рук (ви чули про ціль)                           | +5                   |
+| З перших рук (ви зустрічали ціль)                         | 0                    |
+| Знайомі (ви добре знаєте ціль)                            | -5                   |
+
+
+| Зв'язок                                                   | Модифікатор ряткидка |
+| ---------------------------------------------------       | ---------------      |
+| Подібність або зображення                                 | -2                   |
+| Власність чи одяг                                         | -4                   |
+| Частина тіла, локон волосся, уламок нігтя чи щось подібне | -10                  |
+
+Якщо ряткидок успішний, ціль не підпадає під вплив, і ви не можете використати ці чари проти неї знову в наступні 24 години.  
+    
+У разі невдачі чари створюють невидимий сенсор у межах 10 футів від цілі. Ви можете бачити та чути крізь цей сенсор, ніби перебуваєте там особисто. Сенсор переміщується разом із ціллю, залишаючись у межах 10 футів, поки діють чари. Істота, що може бачити невидимі предмети, бачить сенсор як cяючу кулю розміром із ваш кулак.    
+
+Замість націлювання на істоту ви можете вибрати ціллю цих чарів розташування, яке бачили раніше. Коли ви робите так, сенсор з'являється в цьому розташуванні й не переміщується. 

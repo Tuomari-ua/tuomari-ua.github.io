@@ -1,22 +1,25 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 5
-classes: druid
-         ranger
-title: Commune with Nature 
+classes: druid, ranger
+title: Звернення до природи [Commune with Nature]
 ---
-_5th-level divination (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.    
-You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
-* terrain and bodies of water
-* prevalent plants, minerals, animals, or peoples
-* powerful celestials, fey, fiends, elementals, or undead
-* influence from other planes of existence
-* buildings 
-For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
+
+_Віщування, 5 рівень (ритуал); друїд, рейнджер_     
+**Час створення:** 1 хвилина    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви ненадовго стаєте одним цілим з природою та здобуваєте знання про навколишню територію. На відкритому повітрі чари дають знання про землі в межах 3 миль. У печерах та інших природних підземних місцях радіус обмежений 300 футами. Чари не діють там, де природа замінена спорудами, наприклад, у містах та підземеллях.    
+
+Ви миттєво отримуєте знання про три факти за вашим вибором про такі особливості місцевості:
+* ґрунти та водойми
+* найпоширеніші рослини, мінерали, тварини та народи
+* наймогутніші небожителі, феї, погань, стихійники або невмерлі
+* вплив з інших планів існування
+* споруди.  
+
+Наприклад, ви можете визначити місцеперебування могутнього невмерлого в цьому районі, основні джерела безпечної питної води та розташування будь-яких містечок поблизу.

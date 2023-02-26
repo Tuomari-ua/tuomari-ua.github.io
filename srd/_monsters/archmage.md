@@ -1,43 +1,45 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Archmage
-type: Humanoid (any race)
+title: Архимаг
+type: Гуманоїд
 tag: 12
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 12 (15 with mage armor)    
-**Hit Points** 99 (18d8 + 18)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |   
+**Клас захисту** 12 (15 із обладунком мага)    
+**Пункти здоров'я** 99 (18к8 + 18)    
+**Швидкість** 30 ф.  
 
-**Saving Throws** Int +9, Wis +6    
-**Skills** Arcana +13, History +13    
-**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from stoneskin)    
-**Senses** passive Perception 12    
-**Languages** any six languages    
-**Challenge** 12 (8,400 XP)  
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
 
-**Magic Resistance.** The archmage has advantage on saving throws against spells and other magical effects.    
-**Spellcasting.** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast **_disguise self_** and **_invisibility_** at will and has the following wizard spells prepared:    
-Cantrips (at will): **_fire bolt, light, mage hand, prestidigitation, shocking grasp_**    
-1st level (4 slots): **_detect magic, identify, mage armor, magic missile_**    
-2nd level (3 slots): **_detect thoughts, mirror image, misty step_**    
-3rd level (3 slots): **_counterspell, fly, lightning bolt_**    
-4th level (3 slots): **_banishment, fire shield, stoneskin_**    
-5th level (3 slots): **_cone of cold, scrying, wall of force_**    
-6th level (1 slot): **_globe of invulnerability_**    
-7th level (1 slot): **_teleport_**    
-8th level (1 slot): **_mind blank_**    
-9th level (1 slot): **_time stop_**    
-*The archmage casts **_mind blank, stoneskin and magic armor_** spells on itself before combat. 
+**Рятівні кидки** Інт +9, Мдр +6    
+**Навички** Аркана +13, Історія +13    
+**Стійкість до ушкоджень** ушкодження від чарів; немагічні дробильні, колоті та рубані ушкодження (від кам'яної шкіри)    
+**Чуття** пасивне Сприйняття 12    
+**Мови** будь-які шість мов    
+**Небезпека** 12 (8400 ПД)  
 
-### Actions 
-**Dagger.** _Melee or _Ranged Weapon Attack:__ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. 
+**Магічна  стійкість.** Архимаг має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+**Чарування.** Архимаг є чаротворцем 18 рівня. Його чаротворча здібність - Інтелект (КС чарів 17, +9 до влучання атаками чарів). Архимаг може створювати **_маскування_** і **_невидимість_** за бажанням і має наступні підготовлені чари мага:    
+Замовляння (за бажанням): **_вогняний заряд, магічна рука, штукарство, шокувальний дотик_**   
+1 рівень (4 чарунки): **_виявлення магії, розпізнавання, обладунок мага, магічний дротик_**    
+2 рівень (3 чарунки): **_виявлення думок, віддзеркалення, туманний крок_**    
+3 рівень (3 чарунки): **_контрчари, політ, заряд блискавки_**    
+4 рівень (3 чарунки): **_вигнання, вогняний щит, кам'яна шкіра_**    
+5 рівень (3 чарунки): **_конус холоду, стеження, стіна енергії_**    
+6 рівень (1 чарунка): **_сфера невразливості_**    
+7 рівень (1 чарунка): **_телепорт_**    
+8 рівень (1 чарунка): **_чистий розум_**    
+9 рівень (1 чарунка): **_зупинка часу_**    
 
-### Description
-Archmages are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption. An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers. 
+*Архимаг чарує на себе **_чистий розум, кам'яну шкіру та обладунок мага_** перед боєм.
+
+### Дії
+**Кинджал.** _Атака зброєю ближнього бою або далекобійна_: +6 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень.  
+
+### Опис
+Архимаги є могутніми (і зазвичай доволі старими) чаротворцями, відданими вивченню арканних мистецтв. Доброзичливі радять королям та королевам, тоді як злі панують як тирани й женуться за вічним життям. Ті, що не є ані добрими, ані злими, усамітнюються у віддалених вежах, щоб безперервно практикуватися в магії. Архимаг типово має одного або більше учнів, а в його помешканні встановлені численні магічні вартові та сторожа для відлякування порушників. 

@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 5
-classes: bard
-         sorcerer
-         wizard
-title: Seeming 
+classes: bard, sorcerer, wizard
+title: Позірність [Seeming]
 ---
-_5th-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S    
-**Duration:** 8 hours 
-This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.    
-The spell disguises physical appearance as well as clothing, armor, weapons, and equipment. You can make each creature seem 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The spell lasts for the duration, unless you use your action to dismiss it sooner.    
-The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.    
-A creature can use its action to inspect a target and make an Intelligence (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised. 
+
+_Ілюзія, 5 рівень; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С    
+**Тривалість:** 8 годин    
+
+Ці чари дозволяють вам змінювати зовнішність будь-якої кількості істот, яких ви можете бачити в межах відстані. Ви даєте кожній обраній істоті нову ілюзорну зовнішність. Незгодна істота може зробити рятівний кидок Харизми, і за умови успіху чари не мають ефекту на цю істоту.    
+
+Чари маскують фізичну зовнішність, а також одяг, броню, зброю та спорядження. Ви можете зробити кожну істоту зовні на 1 фут нижчою або вищою, а також стрункішою, товстішою або середньої статури. Ви не можете змінити тип тілобудови цілі, тому повинні вибрати форму, яка має те саме базове розміщення кінцівок. В усьому іншому ступінь ілюзії залишається на ваш розсуд. Ефект триває, поки діють чари, якщо ви не припините дію чарів раніше.    
+
+Зміни, спричинені цими чарами, не витримують фізичної перевірки. Наприклад, якщо ви додали до вбрання істоти капелюх, предмети проходитимуть крізь нього, і кожен, хто доторкнеться до нього, відчує його відсутність або голову та волосся істоти. Якщо ви застосували чари, щоб виглядати стрункіше, будь-хто, намагаючись торкнутися вас, побачить, що рука торкнулася чогось, здається, ще в повітрі.    
+
+Істота може використати дію, щоб обстежити ціль та зробити перевірку Інтелекту (Розслідування) проти КС ваших чарів. За умови успіху вона розуміє, що ціль замаскована. 

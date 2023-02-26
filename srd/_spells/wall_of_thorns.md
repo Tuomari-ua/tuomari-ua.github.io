@@ -1,17 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 6
 classes: druid
-title: Wall of Thorns 
+title: Стіна шипів [Wall of Thorns]
 ---
-_6th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S, M (a handful of thorns)    
-**Duration:** Concentration, up to 10 minutes 
-You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.    
-When the wall appears, each creature within its area must make a Dexterity saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save.    
-A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one. 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, both types of damage increase by 1d8 for each slot level above 6th.
+
+_З'явлення, 6 рівень; друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С, М (жменя колючок)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви створюєте стіну з міцного, гнучкого, заплутаного хмизу, вкритого гострими, як голки, шипами. Стіна з'являється в межах відстані на твердій поверхні й існує, поки діють чари. Ви вибираєте, чи створити стіну завдовжки 60 футів, заввишки 10 футів і завтовшки 5 футів, чи створити коло з радіусом 20 футів, заввишки 20 футів та завтовшки 5 футів. Стіна блокує лінію огляду.    
+
+Коли стіна з'являється, кожна істота в її області повинна зробити рятівний кидок Спритності. У разі невдачі істота отримує 7к8 колотих ушкоджень, або половину цих ушкожень за умови успіху.    
+
+Істота може переміщуватися крізь стіну, хоча це буде повільно й боляче. На кожен фут, що істота переміщується крізь стіну, вона має витратити 4 фути переміщення. Більше того, коли істота вперше входить у стіну у свій хід або завершує там свій хід, істота повинна зробити рятівний кидок Спритності. Вона отримує 7к8 рубаних ушкоджень у разі невдачі або половину цих ушкоджень за умови успіху.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 7 рівня або вищої, обидва типи ушкоджень зростають на 1к8 за кожну чарунку вище шостої.

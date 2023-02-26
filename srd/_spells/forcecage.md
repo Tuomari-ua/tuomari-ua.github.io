@@ -1,20 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 7
-classes: bard
-         warlock
-         wizard
-title: Forcecage 
+classes: bard, warlock, wizard
+title: Силова кліть [Forcecage]
 ---
-_7th-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 100 feet    
-**Components:** V, S, M (ruby dust worth 1,500 gp)    
-**Duration:** 1 hour 
-An immobile, invisible, cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.    
-A prison in the shape of a cage can be up to 20 feet on a side and is made from 1/2-inch diameter bars spaced 1/2 inch apart. A prison in the shape of a box can be up to 10 feet on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.    
-When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.    
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.    
-This spell can't be dispelled by **_dispel magic_**. 
+
+_Втілення, 7 рівень; бард, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 100 футів    
+**Складові:** В, С, М (рубіновий пил вартістю 1500 зм)    
+**Тривалість:** 1 година    
+
+Нерухома, невидима в’язниця у формі куба, що складається з магічної сили, виникає навколо вибраної вами області в межах відстані. В'язниця може бути кліткою або суцільною коробкою, на ваш вибір.    
+
+В'язниця у формі клітки може мати сторону до 20 футів і складається з прутів діаметром 1/2 дюйма, розташованих на відстані 1/2 дюйма один від одного. В’язниця у формі суцільної коробки може мати сторону до 10 футів, створюючи надійний бар’єр, який перешкоджає проходженню будь-якої матерії через неї та блокує будь-які чари, спрямовані в цю область або з цієї області.    
+
+Коли ви створюєте ці чари, будь-яка істота, що перебуває повністю в області кліті, опиняється у пастці. Істоти, що лише частково потрапляють в область чарів, чи занадто великі, щоб вміститися всередину, виштовхуються геть від центру області, поки не опиняться повністю за її межами.    
+
+Істоти всередині кліті не можуть залишити її немагічним способом. Якщо істота намагається використати телепортацію або міжпланарну подорож, щоб залишити клітку, вона повинна спочатку зробити рятівний кидок Харизми. У разі успіху істота може скористатися магією для виходу з кліті. У разі невдачі істота не може вийти з кліті й витрачає використання чарів чи ефекту. Кліть також поширюється на Етерний план, блокуючи етерні подорожі.    
+
+Ці чари не можна розвіяти чарами **_розвіювання магії._** 

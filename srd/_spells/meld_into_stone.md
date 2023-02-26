@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 3
-classes: cleric
-         druid
-title: Meld into Stone 
+classes: cleric, druid
+title: Злиття з каменем [Meld into Stone]
 ---
-_3rd-level transmutation (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** 8 hours 
-You step into a stone object or surface large enough to fully contain your body, melding yourself and all the equipment you carry with the stone for the duration. Using your movement, you step into the stone at a point you can touch. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.    
-While merged with the stone, you can't see what occurs outside it, and any Wisdom (Perception) checks you make to hear sounds outside it are made with disadvantage. You remain aware of the passage of time and can cast spells on yourself while merged in the stone. You can use your movement to leave the stone where you entered it, which ends the spell. You otherwise can't move.    
-Minor physical damage to the stone doesn't harm you, but its partial destruction or a change in its shape (to the extent that you no longer fit within it) expels you and deals 6d6 bludgeoning damage to you. The stone's complete destruction (or transmutation into a different substance) expels you and deals 50 bludgeoning damage to you. If expelled, you fall prone in an unoccupied space closest to where you first entered. 
+
+_Перетворення, 3 рівень (ритуал); клірик, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** 8 годин    
+
+Ви входите в кам'яний предмет або поверхню, достатньо велику, щоб повністю вмістити ваше тіло, зливаючи себе та все спорядження, що ви маєте при собі, із каменем на час дії чарів. Використовуючи своє переміщення, ви занурюєтеся в камінь у точці, до якої можете торкнутися. Ваша присутність не залишає видимих слідів і нічого, що можна виявити немагічними чуттями.    
+
+Перебуваючи злитими із каменем, ви не можете бачити, що відбувається ззовні, і всі перевірки Мудрості (Сприйняття), щоб прислухатися до оточення, ви робите з перешкодою. Ви усвідомлюєте плин часу і можете створювати на себе чари, поки перебуваєте в камені. Ви можете використовувати своє переміщення, щоб вийти з каменю, де ви в нього увійшли, і так завершити чари. Ви не можете переміщуватися інакше.    
+
+Незначні фізичні пошкодження каменю не шкодять вам, але його часткова руйнація чи зміна його форми (до межі, коли ви більше не можете повністю в нього вміститися) виганяє вас і завдає вам 6к6 дробильних ушкоджень. Повне знищення каменю (або перетворення в іншу субстанцію) виганяє вас і завдає вам 50 дробильних ушкоджень. Коли вас вигнано, ви збиті з ніг у вільному просторі, найближчому до точки вашого входу в камінь. 

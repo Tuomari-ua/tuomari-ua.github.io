@@ -1,18 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 1
-classes: bard
-         sorcerer
-         wizard
-title: Silent Image 
+classes: bard, sorcerer, wizard
+title: Мовчазний образ [Silent Image]
 ---
-_1st-level illusion_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a bit of fleece)    
-**Duration:** Concentration, up to 10 minutes 
-You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.    
-You can use your action to cause the image to move to any spot within range. As the image changes location, you can alter its appearance so that its movements appear natural for the image. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.    
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image. 
+
+_Ілюзія, 1 рівень; бард, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (жмутик овечої вовни)    
+**Тривалість:** Концентрація, до 10 хвилин    
+
+Ви створюєте образ предмета, істоти чи якогось іншого видимого феномена, що є не більшим за 15-футовий куб. Образ з'являється у місці в межах відстані та існує, поки діють чари. Образ і винятково візуальним; він не супроводжується звуком, запахом чи іншими чуттєвими ефектами.    
+
+Ви можете використати дію, щоб змусити образ переміщуватися до будь-якого місця в межах відстані. Коли образ змінює розташування, ви можете змінити його вигляд так, щоб його переміщення виглядало природним. Наприклад, якщо ви створюєте образ істоти та переміщуєте його, ви можете змінювати образ так, щоб виглядало, ніби він іде.    
+
+Фізична взаємодія з образом виявляє ілюзію, оскільки речі проходять крізь неї. Істота, що використовує дію для обстеження образу, може визначити, що це ілюзія, успішною перевіркою Інтелекту (Розслідування) проти КС ваших чарів. Якщо істота розпізнає ілюзію, ця ілюзія стає для істоти непевною. 

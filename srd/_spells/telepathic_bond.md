@@ -1,15 +1,17 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 5
 classes: wizard
-title: Telepathic Bond 
+title: Телепатичний зв'язок [Telepathic Bond]
 ---
-_5th-level divination (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (pieces of eggshell from two different kinds of creatures)    
-**Duration:** 1 hour 
-You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of 2 or less aren't affected by this spell.    
-Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible over any distance, though it can't extend to other planes of existence. 
+_Віщування, 5 рівень (ритуал); маг_   
+**Час створення:** 1 дія   
+**Відстань:** 30 футів   
+**Складові:** В, С, М (шматочки шкаралупи від яєць двох різних типів істот)   
+**Тривалість:** 1 година  
+
+Ви обираєте до 8 згодних істот у межах відстані та утворюєте між ними телепатичний зв'язок, психічно поєднуючи кожну істоту з усіма іншими на час дії чарів. Істоти зі значенням інтелекту 2 або менше не піддаються впливу цих чарів.   
+
+Поки чари не завершаться, цілі можуть спілкуватися телепатично через цей зв'язок, незалежно від того, чи мають вони спільну мову. Спілкування можеливе на будь-якій відстані, хоча воно не досягає інших планів існування.

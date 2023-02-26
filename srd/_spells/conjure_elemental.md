@@ -1,18 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 5
-classes: druid
-         wizard
-title: Conjure Elemental 
+classes: druid, wizard
+title: З'ява стихійника [Conjure Elemental]
 ---
-_5th-level conjuration_ 
-**Casting Time:** 1 minute    
-**Range:** 90 feet    
-**Components:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)    
-**Duration:** Concentration, up to 1 hour 
-You call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it. For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground. The elemental disappears when it drops to 0 hit points or when the spell ends.    
-The elemental is friendly to you and your companions for the duration. Roll initiative for the elemental, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to the elemental, it defends itself from hostile creatures but otherwise takes no actions.    
-If your concentration is broken, the elemental doesn't disappear. Instead, you lose control of the elemental, it becomes hostile toward you and your companions, and it might attack. An uncontrolled elemental can't be dismissed by you, and it disappears 1 hour after you summoned it. The GM has the elemental's statistics. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th. 
+
+_З'явлення, 5 рівень; друїд, маг_   
+**Час створення:** 1 хвилина    
+**Відстань:** 90 футів    
+**Складові:** В, С, М (палаючий ладан для повітря, м'яка глина для землі, сульфур і фосфор для вогню або вода і пісок для води)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви викликаєте стихійника-слугу. Виберіть область повітря, землі, вогню або води, що поміщається в 10-футовому кубі в межах відстані. З'являється стихійник із рівнем небезпеки 5 або нижче відповідно до вибраної вами зони у вільному просторі в межах 10 футів від неї. Наприклад, вогняний стихійник виникає з вогнища, а земляний підводиться з землі. Стихійник зникає, коли його пункти здоров'я опускаються до 0, або коли закінчуються чари.    
+
+Стихійник - дружній до вас і ваших супутників, поки діють чари. Киньте ініціативу за стихійника, який має свої власні ходи. Він підкорюється будь-яким усним наказам, які ви йому даєте (від вас не вимагається жодної дії). Якщо ви не віддаєте стихійнику жодних наказів, він захищається від ворожих істот, а інакше не здійснює жодних дій.    
+
+Якщо ваша концентрація переривається, стихійник не зникає. Натомість ви втрачаєте контроль над ним, він стає ворожим до вас і ваших супутників та може атакувати. Ви не можете відкликати непідконтрольного стихійника, і він зникає через годину після з'явлення.  
+
+Майстер має значення статистики стихійника.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, клас небезпеки зростає на 1 за кожну чарунку вище п'ятої. 

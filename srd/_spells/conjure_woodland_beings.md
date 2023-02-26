@@ -1,23 +1,28 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 4
-classes: druid
-         ranger
-title: Conjure Woodland Beings 
+classes: druid, ranger
+title: З'ява лісових створінь [Conjure Woodland Beings]
 ---
-_4th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (one holly berry per creature summoned)    
-**Duration:** Concentration, up to 1 hour 
-You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
-* One fey creature of challenge rating 2 or lower 
-* Two fey creatures of challenge rating 1 or lower 
-* Four fey creatures of challenge rating 1/2 or lower 
-* Eight fey creatures of challenge rating 1/4 or lower 
-A summoned creature disappears when it drops to 0 hit points or when the spell ends.    
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.    
-The GM has the creatures' statistics. 
-**At Higher Levels.** When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot. 
+
+_З'явлення, 4 рівень; друїд, рейнджер_   
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (одна ягода гостролиста за кожну викликану істоту)    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви викликаєте фейських істот, які з'являються у вільному просторі, який ви можете бачити в межах відстані. Виберіть один з варіантів того, що з'являється:
+* Одна фейська істота з класом небезпеки 2 або менше
+* Дві фейські істоти з класом небезпеки 1 або менше
+* Чотири фейські істоти з класом небезпеки 1/2 або менше
+* Вісім фейських істот із класом небезпеки 1/4 або менше.     
+
+Викликана істота зникає, коли її пункти здоров'я опускаються до 0, або коли чари закінчуються.    
+
+Викликані істоти - дружні до вас і ваших супутників. Киньте ініціативу за викликаних істот як за групу, яка має свої власні ходи. Вони підкорюються будь-яким вашим усним наказам (від вас не вимагається жодної дії). Якщо ви не даєте їм ніяких наказів, вони захищаються від ворожих істот, а інакше не здійснюють жодних дій.    
+
+Майстер має значення статистики істот.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням певних чарунок вищих рівнів, то обираєте одну з можливостей з'явлення вище, і з'являється більше істот: удвічі більше за чарунку 6-го рівня та втричі більше - за чарунку 8-го рівня. 

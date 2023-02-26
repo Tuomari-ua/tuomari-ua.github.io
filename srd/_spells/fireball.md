@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 3
-classes: sorcerer
-         wizard
-title: Fireball 
+classes: sorcerer, wizard
+title: Вогнекуля [Fireball]
 ---
-_3rd-level evocation_ 
-**Casting Time:** 1 action    
-**Range:** 150 feet    
-**Components:** V, S, M (a tiny ball of bat guano and sulfur)    
-**Duration:** Instantaneous 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 8d6 fire damage on a failed save, or half as much damage on a successful one.    
-The fire spreads around corners. It ignites flammable objects in the area that aren't being worn or carried. 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd. 
+
+_Втілення, 3 рівень; заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 150 футів    
+**Складові:** В, С, М (Крихітна кулька з гуано кажана та сірка)  
+**Тривалість:** Миттєво  
+
+Яскравий промінь світла злітає з вашого вказівного пальця у точку, яку ви обираєте в межах відстані, а потім із глухим ревом розквітає у вибух полум'я. Кожна істота у сфері з радіусом 20 футів із центром у цій точці повинна зробити рятівний кидок Спритності. Ціль отримує 8к6 ушкоджень вогнем у разі невдачі, або половину цих ушкоджень за умови успішного ряткидка.    
+
+Вогонь огортає кути. Він підпалює в цій області займисті предмети, які ніхто не тримає при собі.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 4 рівня або вищої, ушкодження зростають на 1к6 за кожну чарунку вище третьої. 

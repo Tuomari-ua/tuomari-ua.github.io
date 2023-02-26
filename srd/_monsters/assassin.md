@@ -1,35 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Assassin
-type: Humanoid (any race)
+title: Убивця [Assassin]
+type: Гуманоїд
 tag: 8
 ---
-_Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 15 (studded leather)    
-**Hit Points** 78 (12d8 + 24)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який не-добрий світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |   
+**Клас захисту** 15 (клепана шкіра)    
+**Пункти здоров'я** 78 (12к8 + 24)    
+**Швидкість** 30 ф.  
 
-**Saving Throws** Dex +6, Int +4    
-**Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9    
-**Damage Resistances** poison    
-**Senses** passive Perception 13    
-**Languages** Thieves' cant plus any two languages    
-**Challenge** 8 (3,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |
 
-**Assassinate.** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.    
-**Evasion.** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.    
-**Sneak Attack.** Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll. 
+**Рятівні кидки** Спр +6, Інт +4    
+**Навички** Акробатика +6, Обман +3, Сприйняття +3, Непомітність +9    
+**Стійкість до ушкоджень** отрута    
+**Чуття** пасивне Сприйняття 13    
+**Мови** Злодійський жаргон плюс будь-які дві мови    
+**Небезпека** 8 (3900 ПД)  
 
-### Actions 
-**Multiattack.** The assassin makes two shortsword attacks.    
-**Shortsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.    
-**Light Crossbow.** _Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. 
+**Убивство.** У свій перший хід убивця має перевагу на кидки атаки проти будь-яких істот, які ще не робили хід. Будь-яке влучання вбивці проти захопленої зненацька істоти є критичним влучанням.    
+**Ухилення.** Якщо убивцю піддають ефекту, який дозволяє зробити рятівний кидок Спритності для отримання тільки половини ушкоджень, убивця натомість не отримує жодних ушкоджень у разі успішного рятівного кидка, і лише половину ушкоджень у разі невдачі.    
+**Прихована атака.** Один раз на хід убивця завдає додатково 14 (4к6) ушкоджень, коли влучає по цілі атакою зброї і має перевагу на кидок атаки, або якщо ціль перебуває у межах 5 футів від будь-якого союзника убивці, і цей союзник не є недієздатним, а убивця не має перешкоди на цей кидок атаки.  
 
-### Description
-Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them. 
+### Дії
+**Мультиатака.** Убивця здійснює дві атаки коротким мечем.    
+**Короткий меч.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 15, отримуючи 24 (7к6) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.    
+**Легкий арбалет.** _Далекобійна атака зброєю:_ +6 до влучання, відстань 80/320 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 15, отримуючи 24 (7к6) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху.  
+
+### Опис
+Навчені використовувати отруту, убивці є безжальними найманцями для дворян, гільдійців, суверенів та будь-кого, хто може собі дозволити їхні послуги. 

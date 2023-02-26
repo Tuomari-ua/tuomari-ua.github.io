@@ -1,26 +1,28 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 4
-classes: bard
-         druid
-         sorcerer
-         wizard
-title: Confusion 
+classes: bard, druid, sorcerer, wizard
+title: Спантеличення [Confusion]
 ---
-_4th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S, M (three nut shells)    
-**Duration:** Concentration, up to 1 minute 
-This spell assaults and twists creatures' minds, spawning delusions and provoking uncontrolled action. Each creature in a 10-foot-radius sphere centered on a point you choose within range must succeed on a Wisdom saving throw when you cast this spell or be affected by it.    
-An affected target can't take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn. 
-| d10  | Behavior |
-|------|----------|
-| 1    | The creature uses all its movement to move in a random direction. To determine the direction, roll a d8 and assign a direction to each die face. The creature doesn't take an action this turn. |
-| 2-6  | The creature doesn't move or take actions this turn.  |
-| 7-8  | The creature uses its action to make a melee attack against a randomly determined creature within its reach. If there is no creature within its reach, the creature does nothing this turn. |
-| 9-10 | The creature can act and move normally. |
-At the end of each of its turns, an affected target can make a Wisdom saving throw. If it succeeds, this effect ends for that target. 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the radius of the sphere increases by 5 feet for each slot level above 4th. 
+
+__Зачарування, 4 рівень; бард, друїд, заклинач, маг_* **Час створення:** 1 дія    
+**Відстань:** 90 футів    
+**Складові:** В, С, М (три горіхові шкаралупи)    
+**Тривалість:** Концентрація, до 1 хвилини  
+
+Ці чари атакують і спотворюють свідомість істот, викликаючи галюцинації та провокуючи неконтрольовані дії. Кожна істота у сфері радіусом 10 футів, центральну точку якої ви обираєте в межах відстані, мусить зробити успішний рятівний кидок Мудрості, коли ви створюєте чари, або ж вона потрапить під їхній вплив.    
+
+Вражена ціль не може здійснювати реакції та мусить кидати к10 на початку кожного свого ходу, щоб визначити свою поведінку в цей хід.  
+
+| к10  | Поведінка                                                                                                                                                                                             |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Істота використовує все своє переміщення, щоб рухатися у випадковому напрямку. Щоб визначити напрямок, киньте к8 і призначте один напрямок для кожної грані кубика. Істота не виконує дію в цей хід.  |
+| 2-6  | Істота не рухається та не виконує дію в цей хід.                                                                                                                                                      |
+| 7-8  | Істота використовує свою дію для атаки ближнього бою по випадково визначеній істоті в межах своєї досяжності. Якщо в межах досяжності немає істоти, вражена чарами істота в цей хід не робить нічого. |
+| 9-10 | Істота може нормально діяти і рухатися.                                                                                                                                                               |
+
+В кінці кожного свого ходу вражена ціль може здійснювати рятівний кидок Мудрості. Якщо вона досягає успіху, дія чарів на цю істоту завершується.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 5 рівня або вищої, радіус сфери збільшується на 5 футів за кожну чарунку вище четвертої. 

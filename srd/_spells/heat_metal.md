@@ -1,17 +1,20 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: bard
-         druid
-title: Heat Metal 
+classes: bard, druid
+title: Розжарення металу [Heat Metal]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 60 feet    
-**Components:** V, S, M (a piece of iron and a flame)    
-**Duration:** Concentration, up to 1 minute 
-Choose a manufactured metal object, such as a metal weapon or a suit of heavy or medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 fire damage when you cast the spell. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.    
-If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Constitution saving throw or drop the object if it can. If it doesn't drop the object, it has disadvantage on attack rolls and ability checks until the start of your next turn. 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd. 
+
+_Перетворення, 2 рівень; бард, друїд_    
+**Час створення:** 1 дія    
+**Відстань:** 60 футів    
+**Складові:** В, С, М (шматочок заліза та полум'я)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Виберіть предмет, виготовлений із металу, наприклад, металеву зброю або важкий чи середній металевий обладунок, який ви можете бачити в межах відстані. Ви розжарюєте предмет так, що він аж світиться червоним. Будь-яка істота в фізичному контакті з цим предметом отримує 2к8 ушкоджень вогнем, коли ви створюєте ці чари. Поки діють чари, ви можете використати бонусну дію в кожному зі своїх наступних ходів, щоб знову завдати цих ушкоджень.    
+
+Якщо істота тримає чи носить предмет і отримує від нього ушкодження, ця істота повинна зробити рятівний кидок Статури, або впустити предмет, якщо це можливо. Якщо вона не кидає предмет, то має перешкоду на кидки атаки та перевірки здібності до початку вашого наступного ходу.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 3 рівня або вищої, ушкодження зростають на 1к8 за кожну чарунку вище другої. 

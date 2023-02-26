@@ -1,18 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 2
-classes: bard
-         cleric
-         druid
-         paladin
-         ranger
-title: Lesser Restoration 
+classes: bard, cleric, druid, paladin, ranger
+title: Менше відновлення [Lesser Restoration]
 ---
-_2nd-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned. 
+
+_Перешкоджання, 2 рівень; бард, клірик, друїд, паладин, рейнджер_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви торкаєтеся істоти і можете завершити одну її хворобу або один стан, у якому вона перебуває. Цей стан може бути осліплений, оглушений, паралізований або отруєний. 

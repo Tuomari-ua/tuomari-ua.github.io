@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 2
-classes: cleric
-         wizard
-title: Gentle Repose 
+classes: cleric, wizard
+title: Нетлінні рештки [Gentle Repose]
 ---
-_2nd-level necromancy (ritual)_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)    
-**Duration:** 10 days 
-You touch a corpse or other remains. For the duration, the target is protected from decay and can't become undead.    
-The spell also effectively extends the time limit on raising the target from the dead, since days spent under the influence of this spell don't count against the time limit of spells such as **_raise dead_**. 
+
+_Некромантія, 2 рівень (ритуал); клірик, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (дрібка солі та одна мідна монета, покладені на кожне око трупа, що повинні залишатися там, поки діють чари)    
+**Тривалість:** 10 днів    
+
+Ви торкаєтеся трупа чи інших останків. Поки діють чари, ціль захищена від розкладання і не може повстати невмерлим.    
+
+Чари також ефективно продовжують ліміт часу на підняття цілі з мертвих, оскільки дні, проведені під впливом цих чарів, не враховуються до часових обмежень інших чарів, таких як **_оживлення мерців_**. 

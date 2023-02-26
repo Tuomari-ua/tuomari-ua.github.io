@@ -1,19 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 5
-classes: bard
-         cleric
-         paladin
-title: Raise Dead 
+classes: bard, cleric, paladin
+title: Оживлення мерців [Raise Dead]
 ---
-_5th-level necromancy_ 
-**Casting Time:** 1 hour    
-**Range:** Touch    
-**Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)    
-**Duration:** Instantaneous 
-You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.    
-This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.    
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival--its head, for instance--the spell automatically fails.    
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears. 
+
+_Некромантія, 5 рівень; бард, клірик, паладин_    
+**Час створення:** 1 година    
+**Відстань:** Дотик    
+**Складові:** В, С, М (діамант вартістю щонайменше 500 зм, який поглинається чарами)    
+**Тривалість:** Миттєво    
+
+Ви повертаєте до життя мертву істоту, до якої торкаєтеся, за умови, що вона була мертвою не довше 10 днів. Якщо душа істоти має бажання та свободу, щоб повернутися до тіла, істота повертається до життя із 1 пунктом здоров'я.    
+
+Ці чари також нейтралізують будь-які отрути та лікують немагічні хвороби, які істота мала на час смерті. Але ці чари, однак, не видаляють магічні хвороби, прокляття та подібні ефекти; якщо їх не прибрати до створення чарів, ці ефекти починають діяти, коли істота повертається до життя. Ці чари не можуть повернути до життя невмерлу істоту.    
+
+Ці чари закривають усі смертельні рани, але не відновлюють втрачені частини тіла. Якщо істота не має частин тіла чи органів, які є необхідними для виживання - наприклад, голови, - чари автоматично провалюються.    
+
+Повернення з мертвих до життя є випробуванням. Ціль отримує штраф -4 на всі кидки атаки, рятівні кидки та перевірки здібностей. Щоразу, коли ціль завершує тривалий відпочинок, цей штраф зменшується на 1, доки не зникне. 

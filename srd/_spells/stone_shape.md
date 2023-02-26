@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 4
-classes: cleric
-         druid
-         wizard
-title: Stone Shape 
+classes: cleric, druid, wizard
+title: Форма каменю [Stone Shape]
 ---
-_4th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (soft clay, which must be worked into roughly the desired shape of the stone object)    
-**Duration:** Instantaneous 
-You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible. 
+
+_Перетворення, 4 рівень; клірик, друїд, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (м'яка глина, яку потрібно обробити приблизно до бажаної форми кам'яного предмета)    
+**Тривалість:** Миттєво    
+
+Ви торкаєтеся кам'яного предмета, чий розмір Середній або менший, або секцію каменю не більше 5 футів у будь-якому вимірі, та надаєте форму тієї форми, яка вам потрібна. Так, наприклад, ви можете надати великому каменю форму зброї, ідола, або скриньку, або зробити малий прохід крізь стіну, за умови, що стіна менше 5 футів завтовшки. Ви також можете встановити кам'яні двері чи раму, щоб замкнути двері. Предмет, який ви створюєте, може мати до двох петель і засув, але більш дрібні механічні деталі неможливі. 

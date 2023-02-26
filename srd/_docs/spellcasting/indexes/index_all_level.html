@@ -4,12 +4,13 @@ title: Чари за рівнями
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-{% assign groups = site.spells | group_by: "level" | uniq | sort: "tag" %}
+{% assign groups = site.spells | group_by: 'level' | uniq | sort: 'name' %}
 {% for group in groups %}
       <h3>{{ group.name }}</h3>
-  <ul>
-    {% for item in group.items %}
-           <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+  <ul style="column-count: 3">
+{% assign array =  group.items | sort: 'title' %}
+    {% for item in array %}
+       <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
     {%endfor%}
   </ul>
 {% endfor %}

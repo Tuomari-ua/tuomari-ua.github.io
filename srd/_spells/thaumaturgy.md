@@ -1,21 +1,24 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 0
 classes: cleric
-title: Thaumaturgy 
+title: Чудотворення [Thaumaturgy]
 ---
-_Transmutation cantrip_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V    
-**Duration:** Up to 1 minute 
-You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
-* Your voice booms up to three times as loud as normal for 1 minute.
-* You cause flames to flicker, brighten, dim, or change color for 1 minute.
-* You cause harmless tremors in the ground for 1 minute.
-* You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
-* You instantaneously cause an unlocked door or window to fly open or slam shut.
-* You alter the appearance of your eyes for 1 minute. 
-If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action. 
+
+_Перетворення, замовляння; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В    
+**Тривалість:** До 1 хвилини    
+
+Ви являєте незначне диво, знак надприродної сили, в межах відстані. Ви створюєте в межах відстані один із наступних магічних ефектів:
+* Ваш голос лунає утричі голосніше, ніж звичайно, упродовж 1 хвилини.
+* Ви змушуєте полум'я мерехтіти, яскравішати, тьмянішати чи змінювати колір упродовж 1 хвилини.
+* Ви створюєте нешкідливі вібрації землі на 1 хвилину.
+* Ви створюєте миттєвий звук, що походить із вибраної вами точки в межах відстані, наприклад, гуркіт грому, крик ворона чи зловісний шепіт.
+* Ви миттєво змушуєте незамкнені двері або вікно з силою розчинитися або зачинитися.
+* Ви змінюєте вигляд своїх очей на 1 хвилину.  
+
+Якщо ви створюєте чари кілька разів, то можете одночасно активувати до трьох однохвилинних ефектів, і ви можете припинити такий ефект дією. 

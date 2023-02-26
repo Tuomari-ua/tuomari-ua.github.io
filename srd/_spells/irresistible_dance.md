@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 6
-classes: bard
-         wizard
-title: Irresistible Dance 
+classes: bard, wizard
+title: Нестримний танець [Irresistible Dance]
 ---
-_6th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V    
-**Duration:** Concentration, up to 1 minute 
-Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.    
-A dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected by this spell, other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.
+
+_Зачарування, 6 рівень; бард, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Виберіть одну істоту, яку ви можете бачити в межах відстані. Ціль починає кумедний танець на місці: човгає, стукає ногами та підстрибує, поки діють чари. Істоти, яких неможливо зачарувати, мають імунітет до цих чарів.    
+
+Істота, що танцює, повинна витрачати все своє переміщення, щоб танцювати, не сходячи з місця, і має перешкоду на рятівні кидки Спритності та кидки атаки. Поки ціль перебуває під дією цих чарів, інші істоти мають перевагу на кидки атаки по ній. Істота, що танцює, може дією зробити рятівний кидок Мудрості, щоб опанувати себе. У разі успіху чари завершуються.

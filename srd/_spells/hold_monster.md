@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Enchantment
+tag: Зачарування
 level: 5
-classes: bard
-         sorcerer
-         warlock
-         wizard
-title: Hold Monster 
+classes: bard, sorcerer, warlock, wizard
+title: Стримування монстра [Hold Monster]
 ---
-_5th-level enchantment_ 
-**Casting Time:** 1 action    
-**Range:** 90 feet    
-**Components:** V, S, M (a small, straight piece of iron)    
-**Duration:** Concentration, up to 1 minute 
-Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or be paralyzed for the duration. This spell has no effect on undead. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the spell ends on the target. 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them. 
+
+_Зачарування, 5 рівень; бард, заклинач, чаклун, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 90 футів    
+**Складові:** В, С, М (маленький, рівний шматочок заліза)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Виберіть істоту, яку ви можете бачити в межах відстані. Ціль повинна зробити рятівний кидок Мудрості, або буде паралізована, поки діють чари. Ці чари не діють на невмерлих. У кінці кожного свого ходу ціль може зробити повторний рятівний кидок Мудрості. У разі успіху чари для цілі завершуються.   
+
+**На вищих рівнях.** Коли ви створюєте ці чари з використанням чарунки 6 рівня або вищої, ви можете націлитися на одну додаткову істоту за кожну чарунку вище п'ятої. Істоти повинні бути в межах 30 футів одна від одної, коли ви націлюєтеся на них. 

@@ -1,19 +1,26 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 9
 classes: druid
-title: Storm of Vengeance 
+title: Шторм помсти [Storm of Vengeance]
 ---
-_9th-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** Sight    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-A churning storm cloud forms, centered on a point you can see and spreading to a radius of 360 feet. Lightning flashes in the area, thunder booms, and strong winds roar. Each creature under the cloud (no more than 5,000 feet beneath the cloud) when it appears must make a Constitution saving throw. On a failed save, a creature takes 2d6 thunder damage and becomes deafened for 5 minutes.    
-Each round you maintain concentration on this spell, the storm produces additional effects on your turn.    
-**Round 2.** Acidic rain falls from the cloud. Each creature and object under the cloud takes 1d6 acid damage.    
-**Round 3.** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.    
-**Round 4.** Hailstones rain down from the cloud. Each creature under the cloud takes 2d6 bludgeoning damage.    
-**Round 5–10.** Gusts and freezing rain assail the area under the cloud. The area becomes difficult terrain and is heavily obscured. Each creature there takes 1d6 cold damage. Ranged weapon attacks in the area are impossible. The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells. Finally, gusts of strong wind (ranging from 20 to 50 miles per hour) automatically disperse fog, mists, and similar phenomena in the area, whether mundane or magical.
+
+_З'явлення, 9 рівень; друїд_    
+**Час створення:** 1 дія    
+**Відстань:** Поле зору    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Утворюється бурхлива грозова хмара з центром у точці, яку ви бачите, і поширюється в радіусі 360 футів. В області спалахують блискавки, гримить грім та реве сильний вітер. Кожна істота у хмарі (не далі 5000 футів під хмарою), коли та з'являється, повинна зробити рятівний кидок Статури. У разі невдачі істота отримує 2к6 ушкоджень громом та стає оглушеною на 5 хвилин.    
+
+Кожен раунд, що ви підтримуєте концентрацію на цих чарах, шторм у ваш хід утворює додатковий ефект.    
+
+**Раунд 2.** З хмари йде кислотний дощ. Кожна істота і предмет під хмарою отримує 1к6 ушкоджень кислотою.    
+
+**Раунд 3.** Ви прикликаєте 6 зарядів блискавки з хмари, і вони б'ють по шістьох істотах або предметах за вашим вибором під хмарою. Певна істота чи предмет не можуть бути вражені більш як одним зарядом. Вдарена істота повинна зробити рятівний кидок Спритності. Істота отримує 10к6 ушкоджень блискавкою в разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**Раунд 4.** З хмари йде дощ із градом. Кожна істота під хмарою отримує 2к6 дробильних ушкоджень.    
+
+**Раунди 5-10.** Пориви вітру та крижаний дощ засипають місцевість під хмарою. Область стає непроглядною та важкопрохідною місцевістю. Кожна істота отримує 1к6 ушкоджень холодом. Далекобійні атаки зброєю в цій області неможливі. Вітер та дощ вважаються серйозним відволіканням для цілей концентрації на чарах. Нарешті, пориви сильного вітру (від 20 до 50 миль на годину) автоматично розвіюють туман, імлу та подібні феномени в цій області, хоч би магічні, хоч природні.

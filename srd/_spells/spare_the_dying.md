@@ -1,14 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Necromancy
+tag: Некромантія
 level: 0
 classes: cleric
-title: Spare the Dying 
+title: Милість до вмирущого [Spare the Dying]
 ---
-_Necromancy cantrip_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S    
-**Duration:** Instantaneous 
-You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
+
+_Некромантія, замовляння; клірик_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С    
+**Тривалість:** Миттєво    
+
+Ви торкаєтеся живої істоти, яка має 0 пунктів здоров'я. Істота стабілізується. Ці чари не діють на невмерлих або конструктів.

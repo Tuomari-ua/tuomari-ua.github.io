@@ -1,15 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 8
-classes: bard
-         warlock
-title: Glibness 
+classes: bard, warlock
+title: Впевненість [Glibness]
 ---
-_8th-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** Self    
-**Components:** V    
-**Duration:** 1 hour 
-Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful. 
+
+_Перетворення, 8 рівень; бард, чаклун_    
+**Час створення:** 1 дія    
+**Відстань:** На себе    
+**Складові:** В    
+**Тривалість:** 1 година    
+
+Поки чари не завершаться, ви можете замінювати на 15 результат свого кидка на перевірку Харизми. Крім того, що б ви не говорили, магія, яка визначає, чи говорите ви правду, визначає, що ви правдиві. 

@@ -1,16 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 1
-classes: bard
-         wizard
-title: Identify 
+classes: bard, wizard
+title: Розпізнавання [Identify]
 ---
-_1st-level divination (ritual)_ 
-**Casting Time:** 1 minute    
-**Range:** Touch    
-**Components:** V, S, M (a pearl worth at least 100 gp and an owl feather)    
-**Duration:** Instantaneous 
-You choose one object that you must touch throughout the casting of the spell. If it is a magic item or some other magic-imbued object, you learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it.    
-If you instead touch a creature throughout the casting, you learn what spells, if any, are currently affecting it. 
+
+_Віщування, 1 рівень (ритуал); бард, маг_    
+**Час створення:** 1 хвилина    
+**Відстань:** Дотик    
+**Складові:** В, С, М (перлина вартістю щонайменше 100 зм та совине перо)    
+**Тривалість:** Миттєво    
+
+Ви вибраєте один предмет, якого повинні торкатися весь час чарування. Якщо це магічний предмет або інший предмет, наповнений магією, ви дізнаєтеся його властивості та як їх використовувати, чи потребує він налаштування для використання, скільки він має зарядів, якщо вони є. Ви дізнаєтеся, чи впливають на цей предмет які-небудь чари, і які це чари. Якщо предмет був створений чарами, ви дізнаєтеся, які чари його створили.    
+
+Якщо ви під час чарування натомість торкаєтеся до істоти, то дізнаєтеся, які чари зараз на неї впливають, якщо такі чари є. 

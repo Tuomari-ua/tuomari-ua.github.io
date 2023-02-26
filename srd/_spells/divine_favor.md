@@ -1,14 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Evocation
+tag: Втілення
 level: 1
 classes: paladin
-title: Divine Favor 
+title: Божа милість [Divine Favor]
 ---
-_1st-level evocation_ 
-**Casting Time:** 1 bonus action    
-**Range:** Self    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 minute 
-Your prayer empowers you with divine radiance. Until the spell ends, your weapon attacks deal an extra 1d4 radiant damage on a hit. 
+
+_Втілення, 1 рівень; паладин_     
+**Час створення:** 1 бонусна дія    
+**Відстань:** На себе    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 хвилини  
+
+Ваша молитва посилює вас божественним випромінюванням. Поки чари не завершаться, ваші атаки зброєю завдають додаткові 1к4 ушкоджень променистою енергією при влучанні. 

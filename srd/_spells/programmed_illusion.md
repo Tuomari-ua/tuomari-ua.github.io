@@ -1,18 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Illusion
+tag: Ілюзія
 level: 6
-classes: bard
-         wizard
-title: Programmed Illusion 
+classes: bard, wizard
+title: Програмована ілюзія [Programmed Illusion]
 ---
-_6th-level illusion_ 
-**Casting Time:** 1 action   
-**Range:** 120 feet   
-**Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp)    
-**Duration:** Until dispelled 
-You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.    
-When the condition you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes. After this time, the illusion can be activated again.    
-The triggering condition can be as general or as detailed as you like, though it must be based on visual or audible conditions that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door, or you could set the illusion to trigger only when a creature says the correct word or phrase.    
-Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature. 
+
+_Ілюзія, 6 рівень; бард, маг_   
+**Час створення:** 1 дія   
+**Відстань:** 120 футів   
+**Складові:** В, С, М (трохи овечої вовни та нефритовий пил вартістю щонайменше 25 зм)    
+**Тривалість:** Доки не розвіють   
+
+Ви створюєте ілюзію предмета, істоти чи іншого видимого феномена в межах відстані, і ця ілюзія активується, коли виконуються певні умови. До того часу ілюзія непомітна. Ілюзія повинна бути не більшою за 30-футовий куб, і під час чарування ви вирішуєте, як вона поводиться та які звуки видає. Цей програмований виступ може тривати до 5 хвилин.    
+
+Коли настають визначені вами умови, ілюзія проявляється і виконується так, як ви описали. Щойно виступ ілюзії завершується, вона зникає і залишається у стані спокою упродовж 10 хвилин. Після цього її можна активувати знову.    
+
+Умови спрацювання можуть бути загальними або настільки детальними, як ви хочете, хоча вони повинні ґрунтуватися на візуальних або звукових умовах, що виконуються в межах 30 футів від області. Наприклад, ви можете створити ілюзію себе, що з'являється та попереджає інших, хто намагається відчинити двері з пасткою, або ви можете налаштувати ілюзію спрацьовувати, лише коли істота промовляє правильне слово або фразу.    
+
+Фізична взаємодія із образом виявляє ілюзію, оскільки предмети можуть проходити крізь неї. Істота, що використовує дію для обстеження образу, може визначити, що це ілюзія, успішною перевіркою Інтелекту (Розслідування) проти КС ваших чарів. Якщо істота розпізнає ілюзію, вона може бачити крізь образ, і будь-які звуки, які він видає, слабнуть для цієї істоти. 

@@ -1,18 +1,18 @@
 ---
 category: spells
 layout: page
-tag: Conjuration
+tag: З'явлення
 level: 1
-classes: druid
-         ranger
-         sorcerer
-         wizard
-title: Fog Cloud 
+classes: druid, ranger, sorcerer, wizard
+title: Туманна хмара [Fog Cloud]
 ---
-_1st-level conjuration_ 
-**Casting Time:** 1 action    
-**Range:** 120 feet    
-**Components:** V, S    
-**Duration:** Concentration, up to 1 hour 
-You create a 20-foot-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st. 
+
+_З'явлення, 1 рівень; друїд, рейнджер, заклинач, маг_    
+**Час створення:** 1 дія    
+**Відстань:** 120 футів    
+**Складові:** В, С    
+**Тривалість:** Концентрація, до 1 години    
+
+Ви створюєте сферу туману радіусом 20 футів із центром у точці в межах відстані. Сфера огинає кути і створює непроглядну область. Вона триває, поки діють чари, або поки її не розвіє середній чи сильний вітер (принаймні 10 миль на годину).   
+
+**На вищих рівнях.**Коли ви створюєте ці чари з використанням чарунки 2 рівня або вищої, радіус туману збільшується на 20 футів за кожну чарунку вище першої. 

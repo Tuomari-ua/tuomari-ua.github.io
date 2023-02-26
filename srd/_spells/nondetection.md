@@ -1,16 +1,16 @@
 ---
 category: spells
 layout: page
-tag: Abjuration
+tag: Перешкоджання
 level: 3
-classes: bard
-         ranger
-         wizard
-title: Nondetection 
+classes: bard, ranger, wizard
+title: Невиявлення [Nondetection]
 ---
-_3rd-level abjuration_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes)    
-**Duration:** 8 hours 
-For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
+
+_Перешкоджання, 3 рівень; бард, рейнджер, маг_    
+**Час створення:** 1 дія    
+**Відстань:** Дотик    
+**Складові:** В, С, М (дрібка діамантового пилу вартістю 25 зм, розсипаний на ціль; чари поглинають цей пил)    
+**Тривалість:** 8 годин    
+
+Поки діють чари, ви ховаєте ціль, якої торкнулися, від магії віщування. Ціль може бути згодною істотою, або місцем, або предметом завдовжки 10 футів у найбільшому вимірі. Ціль не можна обрати для будь-якої магії віщування чи відчути будь-якими магічними засобами стеження.

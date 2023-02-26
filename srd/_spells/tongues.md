@@ -1,18 +1,15 @@
 ---
 category: spells
 layout: page
-tag: Divination
+tag: Віщування
 level: 3
-classes: bard
-         cleric
-         sorcerer
-         warlock
-         wizard
-title: Tongues 
+classes: bard, cleric, sorcerer, warlock, wizard
+title: Мови [Tongues] 
 ---
-_3rd-level divination_ 
-**Casting Time:** 1 action    
-**Range:** Touch    
-**Components:** V, M (a small clay model of a ziggurat)    
-**Duration:** 1 hour 
-This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says. 
+_Віщування, 3 рівень; бард, клірик, заклинач, чаклун, маг_  
+**Час створення:** 1 дія   
+**Відстань:** Дотик   
+**Складові:** В, М (маленька глиняна модель зіґґурату)   
+**Тривалість:** 1 година  
+
+Ці чари дарують істоті, якої ви торкнулися, здатність розуміти будь-яку усну мову, коли вона її чує. Більше того, коли ціль говорить, будь-яка істота, що знає принаймні одну мову та може чути ціль, розуміє сказане.

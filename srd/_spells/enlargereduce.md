@@ -1,18 +1,22 @@
 ---
 category: spells
 layout: page
-tag: Transmutation
+tag: Перетворення
 level: 2
-classes: sorcerer
-         wizard
-title: Enlarge/Reduce 
+classes: sorcerer, wizard
+title: Збільшення/Зменшення [Enlarge/Reduce]
 ---
-_2nd-level transmutation_ 
-**Casting Time:** 1 action    
-**Range:** 30 feet    
-**Components:** V, S, M (a pinch of powdered iron)    
-**Duration:** Concentration, up to 1 minute 
-You cause a creature or an object you can see within range to grow larger or smaller for the duration. Choose either a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Constitution saving throw. On a success, the spell has no effect.    
-If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.    
-**Enlarge.** The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category-- from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.    
-**Reduce.** The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category--from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1). 
+
+_Перетворення, 2 рівень; заклинач, маг._     
+**Час створення:** 1 дія    
+**Відстань:** 30 футів    
+**Складові:** В, С, М (дрібка залізного порошку)    
+**Тривалість:** Концентрація, до 1 хвилини    
+
+Ви змушуєте істоту або предмет, які ви можете бачити у межах відстані, збільшитися або зменшитися на час дії чарів. Виберіть істоту або предмет, який ніхто не тримає при собі. Якщо ціль не згодна, вона може здійснити рятівний кидок Статури. При успіху чари не мають ефекту.    
+
+Якщо ціллю є істота, то все, що вона має при собі, змінює розмір разом із нею. Будь-яка річ, впущена зачарованою істотою, відразу набуває свого нормального розміру.    
+
+**Збільшення.** Розмір цілі пропорційно подвоюється, і її вага збільшується увосьмеро. Це збільшує розмір цілі на одну категорію, наприклад, від Середнього до Великого. Якщо немає достатньо місця, щоб ціль подвоїла свій розмір, істота або предмет набуває максимально можливого розміру в цьому просторі. Поки чари не завершаться, ціль також має перевагу на перевірки та рятівні кидки Сили. Зброя цілі також збільшується пропорційно до її нового розміру. Поки ця зброя збільшена, атаки цілі нею завдають на 1к4 більше ушкоджень.    
+
+**Зменшення.** Розмір цілі пропорційно зменшується вдвічі, а вага — до однієї восьмої від нормальної. Це зменшує розмір цілі на одну категорію, наприклад, від Середнього до Малого. Поки чари не завершаться, ціль також має перешкоду на перевірки та рятівні кидки Сили. Її зброя також зменшується пропорційно до нового розміру. Поки ця зброя зменшена, атаки цілі нею завдають на 1к4 менше ушкоджень (але не менше 1). 
