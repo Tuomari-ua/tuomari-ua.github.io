@@ -100,10 +100,10 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-    domtoimage.toJpeg(document.getElementById("stat-block"), { quality: 1 })
+    domtoimage.toSvg(document.getElementById("stat-block")
     .then(function (dataUrl) {
         var link = document.createElement('a');
-        link.download = mon.name.toLowerCase() + ".jpeg";
+        link.download = mon.name.toLowerCase() + ".svg";
         link.href = dataUrl;
         link.click();
     });
