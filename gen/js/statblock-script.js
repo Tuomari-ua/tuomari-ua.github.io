@@ -100,10 +100,13 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-     domtoimage.toBlob(document.getElementById("stat-block"))
-        .then(function (blob) {
-            window.saveAs(blob, mon.name.toLowerCase() + ".jpeg");
-        });
+    domtoimage.toJpeg(document.getElementById("stat-block"), { quality: 1 })
+    .then(function (dataUrl) {
+        var link = document.createElement('a');
+        link.download = mon.name.toLowerCase() + ".jpeg";
+        link.href = dataUrl;
+        link.click();
+    });
 }
 
 // Update the main stat block from form variables
