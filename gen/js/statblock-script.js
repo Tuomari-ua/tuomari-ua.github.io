@@ -100,7 +100,7 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-    domtoimage.toBlob(document.getElementById("stat-block"))
+    domtoimage.toBlob(document.getElementById("stat-block"), 1)
         .then(function (blob) {
             window.saveAs(blob, mon.name.toLowerCase() + ".png");
         });
