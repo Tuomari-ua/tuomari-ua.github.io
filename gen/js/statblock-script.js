@@ -100,7 +100,7 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-    domtoimage.toSvg(document.getElementById("stat-block")
+    domtoimage.toSvg(document.getElementById("stat-block"))
     .then(function (dataUrl) {
         var link = document.createElement('a');
         link.download = mon.name.toLowerCase() + ".svg";
