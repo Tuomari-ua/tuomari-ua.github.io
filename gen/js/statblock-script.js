@@ -102,7 +102,7 @@ function TryPrint() {
 function TryImage() {
     domtoimage.toBlob(document.getElementById("stat-block"), 'image/jpeg', 1)
         .then(function (blob) {
-            window.saveAs(blob, mon.name.toLowerCase() + ".png");
+            window.saveAs(blob, mon.name.toLowerCase() + ".jpeg");
         });
 }
 
