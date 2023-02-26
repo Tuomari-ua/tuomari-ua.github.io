@@ -100,10 +100,10 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
-    domtoimage.toBlob(document.getElementById("stat-block"), 'image/jpeg', 1)
-        .then(function (blob) {
-            window.saveAs(blob, mon.name.toLowerCase() + ".jpeg");
-        });
+
+    let canvas = document.getElementById("stat-block");
+    var image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+    window.location.href=image;
 }
 
 // Update the main stat block from form variables
