@@ -106,6 +106,17 @@ function TryImage() {
         });
 }
 
+// View as vector image function
+function TrySVG() {
+    domtoimage.toSvg(document.getElementById("stat-block"))
+    .then(function (dataUrl) {
+        var link = document.createElement('a');
+        link.download = mon.name.toLowerCase() + ".svg";
+        link.href = dataUrl;
+        link.click();
+    });
+}
+
 // Update the main stat block from form variables
 function UpdateBlockFromVariables(moveSeparationPoint) {
     GetVariablesFunctions.GetAllVariables();
