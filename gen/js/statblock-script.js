@@ -100,6 +100,14 @@ function TryPrint() {
 
 // View as image function
 function TryImage() {
+    domtoimage.toBlob(document.getElementById("stat-block"))
+        .then(function (blob) {
+            window.saveAs(blob, mon.name.toLowerCase() + ".png");
+        });
+}
+
+// View as vector image function
+function TrySVG() {
     domtoimage.toSvg(document.getElementById("stat-block"))
     .then(function (dataUrl) {
         var link = document.createElement('a');
