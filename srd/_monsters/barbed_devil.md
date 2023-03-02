@@ -1,35 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Barbed Devil
-type: Fiend (devil)
+title: Колючий диявол
+type: Погань
 tag: 5
 ---
-_Medium fiend (devil), lawful evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 110 (13d8 + 52)    
-**Speed** 30 ft. 
+_Погань середнього розміру (диявол), законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 110 (13к8 + 52)    
+**Швидкість** 30 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
- 
-**Saving Throws** Str +6, Con +7, Wis +5, Cha +5    
-**Skills** Deception +5, Insight +5, Perception +8    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 18    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 5 (1,800 XP)
 
-**Barbed Hide.** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.    
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Сил +6, Ста +7, Мдр +5, Хар +5    
+**Навички** Обман +5, Здогадливість +5, Сприйняття +8    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 18    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.    
-**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
-**Tail.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.    
-**Hurl Flame.** Ranged Spell Attack: +5 to hit, range 150 ft., one target. _Hit:_ 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+**Колючий сховок.** На початку кожного свого ходу колючий диявол завдає 5 (1к10) колотих ушкоджень будь-якій істоті, яка його схопила.    
+**Диявольський зір.** Магічна темрява не впливає на темний зір диявола.    
+**Магічна  стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Диявол здійснює три атаки ближнього бою: одну своїм хвостом і дві - пазурами. Або ж він може двічі використати Жбурляння вогнем.    
+**Пазурі.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.    
+**Хвіст.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень.    
+**Жбурляння вогнем.** Далекобійна атака чарами: +5 до влучання, досяжність 150 ф, одна ціль. _Влучання:_ 10 (3к6) ушкоджень вогнем. Якщо ціль є займистим предметом, який ніхто не тримає при собі, він також займається.
