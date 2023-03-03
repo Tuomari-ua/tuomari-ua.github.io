@@ -1,33 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Black Pudding
-type: Ooze
+title: Чорний слиз
+type: Твань
 tag: 4
 ---
-_Large ooze, unaligned_
 
-**Armor Class** 7    
-**Hit Points** 85 (10d10 + 30)    
-**Speed** 20 ft., climb 20 ft. 
+_Твань великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 5 (−3)  | 16 (+3) | 1 (−5)  | 6 (−2)  | 1 (−5)  |
+**Клас захисту** 7    
+**Пункти здоров'я** 85 (10к10 + 30)    
+**Швидкість** 20 ф, лазіння 20 ф
 
-**Damage Immunities** acid, cold, lightning, slashing    
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8    
-**Languages** --    
-**Challenge** 4 (1,100 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
-**Amorphous.** The pudding can move through a space as narrow as 1 inch wide without squeezing.    
-**Corrosive Form.** A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.    
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.    
-**Spider Climb.** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. 
+**Імунітет до ушкоджень** кислота, холод, блискавка, рубані    
+**Імунітет до станів** осліплений, причарований, оглухлий, виснажений, наляканий, збитий з ніг    
+**Чуття** Сліпий зір 60 ф (сліпий за межами цього радіусу), пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 4 (1100 ПД)
 
-### Actions 
-**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10. 
+**Аморфний.** Слиз може переміщуватися крізь простір завширшки 1 дюйм, не стискаючись.    
+**Корозивна форма.** Істота, що торкається слизу чи влучає по ньому атакою ближнього бою, перебуваючи в межах 5 футів від слизу, отримує 4 (1к8) ушкоджень кислотою. Будь-яка немагічна металева або дерев'яна зброя, що влучає по слизу, псується. Після завдання ушкоджень зброя отримує постійний та нагромаджуваний штраф -1 до кидків ушкоджень. Якщо цей штраф досягає -5, зброя руйнується. Немагічні металеві або дерев'яні боєприпаси, що влучають по слизу, руйнуються після завдання ушкоджень.    
+Слиз може проїсти 2 дюйми немагічного дерева або металу за 1 раунд.    
+**Павуче лазіння.** Слиз може лазити по складних поверхнях, включно зі стелею, не потребуючи перевірок навичок.
 
-### Reactions 
-**Split.** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
+### Дії
+**Псевдопод.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. __ 6 (1к6 + 3) дробильних ушкоджень плюс 18 (4к8) ушкоджень кислотою. Крім того, немагічні обладунки на цілі частково розчиняються та отримують постійний та нагромаджуваний штраф -1 до КЗ. Обладунки руйнуються, коли штраф знижує КЗ до 10.
+
+### Реакції
+**Розділення.** Коли слиз Середнього або більшого розміру отримує рубані ушкодження або ушкодження блискавкою, він розділяється на два нові слизи, якщо має принаймні 10 пунктів здоров'я. Кожен новий слиз має половину пунктів здоров'я початкового слизу, округлену донизу. Нові слизи на один розмір менші, ніж початковий слиз.
