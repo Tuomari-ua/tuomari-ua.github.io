@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Blink Dog
-type: Fey
-tag: .25
+title: Мерехтливий пес
+type: Фея
+tag: 0.25
 ---
-_Medium fey, lawful good_
 
-**Armor Class** 13    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 40 ft. 
+_Фея середнього розміру, законний добрий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |    
+**Клас захисту** 13    
+**Пункти здоров'я** 22 (4к8 + 4)    
+**Швидкість** 40 ф.  
 
-**Skills** Perception +3, Stealth +5    
-**Senses** passive Perception 13    
-**Languages** Blink Dog, understands Sylvan but can't speak it    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
-**Keen Hearing and Smell.** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+**Навички** Сприйняття +3, Непомітність +5    
+**Чуття** пасивне Сприйняття 13    
+**Мови** мова мерехтливих псів, розуміє Сильван, але не може говорити    
+**Небезпека** 1/4 (50 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.    
-**Teleport (Recharge 4–6).** The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack. 
+**Гострий слух і нюх.** Пес має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.  
 
-### Description
-A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm.
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень.    
+
+**Телепорт (Відновлення 4-6).** Пес магічним чином телепортується разом із усім спорядженням, яке має при собі, на відстань до 40 футів у вільний простір, який може бачити. Перед телепортацією або після неї пес може зробити одну атаку укусом.
+
+### Опис
+Мерехтливий пес отримав своє ім'я від здатності "мерехтіти" в стан існування та з нього, та використання цього таланту для завдання атак та уникання нападів.

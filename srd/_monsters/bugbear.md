@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bugbear
-type: Humanoid
+title: Багбер
+type: Гуманоїд
 tag: 1
 ---
-_Medium humanoid (goblinoid), chaotic evil_
 
-**Armor Class** 16 (hide armor, shield)    
-**Hit Points** 27 (5d8 + 5)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (гобліноїд), хаотичний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 15 (+2)  | 14 (+2) | 13 (+1)  | 8 (-1)  | 11 (+0) | 9 (-1)  |
+**Клас захисту** 16 (шкурна броня, щит)    
+**Пункти здоров'я** 27 (5к8 + 5)    
+**Швидкість** 30 ф.  
 
-**Skills** Stealth +6, Survival +2    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common, Goblin    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
-**Brute.** A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).    
-**Surprise Attack.** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack. 
+**Навички** Непомітність +6, Виживання +2    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** Спільна, Гоблінська    
+**Небезпека** 1 (200 ПД)  
 
-### Actions 
-**Morningstar.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage.    
-**Javelin.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+**Грубий.** Зброя ближнього бою завдає одну додаткову кістку ушкоджень, коли багбер влучає нею (включено в атаку).    
+
+**Раптова атака.** Якщо багбер застає істоту зненацька і влучає по ній атакою в першому раунді бою, ціль отримує додатково 7 (2к6) ушкоджень від цієї атаки.
+
+### Дії
+**Моргенштерн.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к8 + 2) колотих ушкоджень.    
+
+**Сулиця.** _Атака зброєю ближнього бою або далекобійна:_ +4 до влучання, досяжність 5 ф, або відстань 30/120 ф, одна ціль. _Влучання:_ 9 (2к6 + 2) колотих ушкоджень у ближньому бою або 5 (1к6 + 2) колотих ушкоджень на відстані.
