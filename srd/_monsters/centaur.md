@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Centaur
-type: Monstrosity
+title: Кентавр
+type: Чудовисько
 tag: 2
 ---
-_Large monstrosity, neutral good_
 
-**Armor Class** 12    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 50 ft. 
+_Чудовисько великого розміру, нейтральний добрий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 18 (+4)  | 14 (+2) | 14 (+2)  | 9 (-1)  | 13 (+1) | 11 (+0) |
+**Клас захисту** 12    
+**Пункти здоров'я** 45 (6к10 + 12)    
+**Швидкість** 50 ф.  
 
-**Skills** Athletics +6, Perception +3, Survival +3    
-**Senses** passive Perception 13    
-**Languages** Elvish, Sylvan    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1) | 13 (+1) | 11 (+0) |
 
-**Charge.** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage. 
+**Навички** Атлетика +6, Сприйняття +3, Виживання +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** Ельфійська, Сильван    
+**Небезпека** 2 (450 ПД)  
 
-### Actions 
-**Multiattack.** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.    
-**Pike.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.    
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.    
-**Longbow.** _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**Розгін.** Якщо кентавр переміщується принаймні на 30 футів по прямій до цілі та влучає по ній атакою піки в тому ж ходу, ціль отримує додатково 10 (3 к6) колотих ушкоджень.  
+
+### Дії
+**Мультиатака.** Кентавр здійснює дві атаки: одну своєю пікою та ще одну - копитами, або дві атаки довгим луком.    
+
+**Піка.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 9 (1к10 + 4) колотих ушкоджень.    
+
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 +4) дробильних ушкоджень.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +4 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.
