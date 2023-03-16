@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bone Devil
-type: Fiend (devil)
+title: Кістяний диявол
+type: Погань
 tag: 9
 ---
-_Large fiend (devil), lawful evil_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 142 (15d10 + 60)    
-**Speed** 40 ft., fly 40 ft. 
+_Погань великого розміру (диявол), законний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 142 (15к10 + 60)    
+**Швидкість** 40 ф, політ 40 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
-     
-**Saving Throws** Int +5, Wis +6, Cha +7    
-**Skills** Deception +7, Insight +6    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 12    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 9 (5,000 XP) 
 
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Інт +5, Мдр +6, Хар +7    
+**Навички** Обман +7, Здогадливість +6    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 9 (5 000 ПД)  
 
-### Actions 
-**Multiattack.** The devil makes three attacks: two with its claws and one with its sting.    
-**Claw.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.    
-**Sting.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Диявольський зір.** Магічна темрява не впливає на темний зір диявола.    
+
+**Магічна стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.  
+
+### Дії
+**Мультиатака.** Диявол здійснює три атаки: дві своїми пазурами та одну - жалом.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 8 (1к8 + 4) рубаних ушкоджень.    
+
+**Жало.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) колотих ушкоджень плюс 17 (5к6) ушкоджень отрутою, і ціль повинна зробити рятівний кидок Статури з КС 14, або буде отруєна на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, припиняючи ефект у разі успіху.
