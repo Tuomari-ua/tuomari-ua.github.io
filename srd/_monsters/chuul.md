@@ -1,32 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Chuul
-type: Aberration
+title: Чууль
+type: Аберація
 tag: 4
 ---
-_Large aberration, chaotic evil_
+
+_Аберація великого розміру, хаотичний злий_  
 
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 93 (11d10 + 33)    
-**Speed** 30 ft., swim 30 ft. 
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 93 (11к10 + 33)    
+**Швидкість** 30 ф, плавання 30 ф.  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 19 (+4)  | 10 (+0) | 16 (+3)  | 5 (-3)  | 11 (+0) | 5 (-3)  |
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 11 (+0) | 5 (-3) |
 
-**Skills** Perception +4    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** understands Deep Speech but can't speak    
-**Challenge** 4 (1,100 XP) 
+**Навички** Сприйняття +4    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** розуміє глибинну, але не може говорити    
+**Небезпека** 4 (1100 ПД)  
 
-**Amphibious.** The chuul can breathe air and water.    
-**Sense Magic.** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the **_detect magic_** spell but isn't itself magical. 
+**Амфібія.** Чууль може дихати водою і повітрям.    
 
-### Actions 
-**Multiattack.** The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.    
-**Pincer.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.    
-**Tentacles.** One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Чуття магії.** Чууль відчуває магію в межах 120 футів за бажанням. Ця риса в усьому іншому працює, як чари **_виявлення магії_**, але сама по собі не є магічною.  
+
+### Дії
+**Мультиатака.** Чууль здійснює дві атаки клешнями. Якщо Чууль схоплює істоту, він також може один раз використати свої щупальці.    
+
+**Клешня.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень. Ціль схоплена (КС втечі 14), якщо її розмір Великий або менший, і якщо чууль не тримає схопленими ще двох істот.    
+
+**Щупальці.** Одна істота, схоплена чуулем, має зробити рятівний кидок Статури з КС 13, або буде отруєна на 1 хвилину. Доки отруєння не закінчиться, ціль паралізована. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, припиняючи ефект у разі успіху.
