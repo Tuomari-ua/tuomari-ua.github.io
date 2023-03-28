@@ -1,33 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Clay Golem
-type: Construct
+title: Глиняний голем
+type: Конструкт
 tag: 9
 ---
-_Large construct, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 133 (14d10 + 56)    
-**Speed** 20 ft. 
+_Конструкт великого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 9 (−1)  | 18 (+4) | 3 (−4)  | 8 (−1)  | 1 (−5)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 133 (14к10 + 56)    
+**Швидкість** 20 ф.  
 
-**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 9 (5,000 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 20 (+5) | 9 (-1) | 18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |
 
-**Acid Absorption.** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.    
-**Berserk.** Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.    
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.    
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The golem's weapon attacks are magical. 
+**Імунітет до ушкоджень** кислота, отрута, психічна енергія; дробильні, колоті та рубані від немагічних атак зброєю не з адамантину    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, скам'янілий, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 9    
+**Мови** розуміє мову свого творця, але не може говорити    
+**Небезпека** 9 (5000 ПД)  
 
-### Actions 
-**Multiattack.** The golem makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.    
-**Haste (Recharge 5–6).** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
+**Поглинання кислоти.** Щоразу як голем має отримати ушкодження кислотою, він не отримує ушкоджень, натомість відновлює кількість пунктів здоров'я, що дорівнює завданим ушкодженням.    
+**Берсерк.** Щоразу, як голем починає свій хід із 60 пунктами здоров'я або менше, киньте к6. Якщо випала 6, голем стає берсерком. У кожен свій хід в цьому стані голем атакує найближчу істоту, яку може бачити. Якщо навколо голема немає істоти, до якої він може підійти й атакувати, він атакує предмет, надаючи перевагу предметам, меншим за нього. Коли голем стає берсерком, він продовжує ці атаки, доки не буде зруйнований або поки не відновить усі пункти здоров'я.    
+
+**Незмінна форма.** Голем має імунітет до будь-яких чарів чи ефектів, які могли б змінити його форму.    
+
+**Магічна стійкість.** Голем має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Магічна зброя.** Големові атаки зброєю є магічними.  
+
+### Дії
+**Мультиатака.** Голем робить дві атаки стусанами.    
+
+**Стусан** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 16 (2к10 + 5) дробильних ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 15, або її максимум пунктів здоров'я буде зменшено на кількість отриманих ушкоджень. Ціль вмирає, якщо ця атака знизила максимум її пунктів здоров'я до 0. Це зменшення триває, поки не буде зняте чарами більшого відновлення або іншою магією.    
+
+**Прискорення (Відновлення 5-6).** До кінця свого наступного ходу голем магічним чином отримує бонус +2 до свого КЗ, має перевагу на рятівні кидки Спритності й може використовувати атаку стусаном бонусною дією.

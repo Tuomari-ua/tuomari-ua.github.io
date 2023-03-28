@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Cloud Giant
-type: Giant
+title: Хмарний велет
+type: Велет
 tag: 9
 ---
-_Huge giant, neutral good (50%) or neutral evil (50%)_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 200 (16d12 + 96)    
-**Speed** 40 ft. 
+_Велет величезного розміру, нейтральний добрий (50%) або нейтральний злий (50%)_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 200 (16к12 + 96)    
+**Швидкість** 40 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |
 
-**Saving Throws** Con +10, Wis +7, Cha +7    
-**Skills** Insight +7, Perception +7    
-**Senses** passive Perception 17    
-**Languages** Common, Giant    
-**Challenge** 9 (5,000 XP) 
+**Рятівні кидки** Ста +10, Мдр +7, Хар +7    
+**Навички** Здогадливість +7, Сприйняття +7    
+**Чуття** пасивне Сприйняття 17    
+**Мови** спільна, велетова    
+**Небезпека** 9 (5000 ПД)  
 
-**Keen Smell.** The giant has advantage on Wisdom (Perception) checks that rely on smell.    
-**Innate Spellcasting.** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**, **_fog cloud_**, **_light_**    
-3/day each: **_feather fall_**, **_fly_**, **_misty step_**, **_telekinesis_**    
-1/day each: **_control weather_**, **_gaseous form_**  
+**Гострий нюх.** Велет має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.    
 
-### Actions 
-**Multiattack.** The giant makes two morningstar attacks.    
-**Morningstar.** _Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 21 (3d8 + 8) piercing damage.    
-**Rock.** _Ranged Weapon Attack:_ +12 to hit, range 60/240 ft., one target. _Hit:_ 30 (4d10 + 8) bludgeoning damage.
+**Вроджене чарування.** Здібністю велетів для чарування є Харизма. Вони можуть природно створювати наступні чари без використання матеріальних складових:    
+За бажанням: **_виявлення магії_**, **_туманна хмара_**, **_світло_**    
+3/день кожне: **_падіння пір'їною_**, **_політ_**, **_туманний крок_**, **_телекінез_**    
+1/день кожне: **_контроль погоди_**, **_газоподібна форма_**  
+
+### Дії
+**Мультиатака.** Велет здійснює дві атаки моргенштерном.    
+
+**Моргенштерн.** _Атака зброєю ближнього бою:_ +12 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 21 (3к8 + 8) колотих ушкоджень.    
+
+**Брила.** _Далекобійна атака зброєю:_ +12 до влучання, досяжність 60/240 ф, одна ціль. _Влучання:_ 30 (4к10 + 8) дробильних ушкоджень.
