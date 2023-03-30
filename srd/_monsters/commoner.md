@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Commoner
-type: Humanoid (any race)
+title: Простак
+type: Гуманоїд
 tag: 0
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 10    
-**Hit Points** 4 (1d8)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |   
+**Клас захисту** 10    
+**Пункти здоров'я** 4 (1к8)    
+**Швидкість** 30 ф.  
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 0 (10 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
-### Actions 
-**Club.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека** 0 (10 ПД)  
 
-### Description
-Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits. 
+### Дії
+**Палиця.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к4) дробильних ушкоджень.  
+
+### Опис
+Простаки включають селян, землеробів, рабів, службовців, паломників, купців, ремісників та відлюдників. 

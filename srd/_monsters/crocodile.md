@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Crocodile
-type: Beast
-tag: .5
+title: Крокодил
+type: Звір
+tag: 0.5
 ---
-_Large beast, unaligned_
- 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 20 ft., swim 30 ft. 
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |    
+_Звір великого розміру, невизначений_  
 
-**Skills** Stealth +2    
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 20 ф, плавання 30 ф.  
 
-**Hold Breath.** The crocodile can hold its breath for 15 minutes. 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+**Навички** Непомітність +2    
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)  
+
+**Зупинка дихання.** Крокодил може зупиняти своє дихання на 15 хвилин.  
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень, і ціль схоплена (КС втечі 12). Доки це схоплення не завершиться, ціль є скутою, а крокодил не може вкусити іншу ціль.
