@@ -1,30 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Darkmantle
-type: Monstrosity
-tag: .5
+title: Темноплащ
+type: Чудовисько
+tag: 0.5
 ---
-_Small monstrosity, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 22 (5d6 + 5)    
-**Speed** 10 ft., fly 30 ft. 
+_Чудовисько малого розміру, невизначений_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 16 (+3)  | 12 (+1) | 13 (+1)  | 2 (-4)  | 10 (+0) | 0 (-3)  |
+**Клас захисту** 11    
+**Пункти здоров'я** 22 (5к6 + 5)    
+**Швидкість** 10 ф, політ 30 ф.  
 
-**Skills** Stealth +3    
-**Senses** blindsight 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 0 (-3) |
 
-**Echolocation.** The darkmantle can't use its blindsight while deafened.    
-**False Appearance.** While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite. 
+**Навички** Непомітність +3    
+**Чуття** сліпий зір 60 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)  
 
-### Actions 
-**Crush.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.    
-While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.    
-A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.    
-**Darkness Aura (1/Day).** A 15-­‐foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+**Ехолокація.** Темноплащ не може використовувати сліпий зір, коли оглушений.    
+
+**Оманливий вигляд.** Поки темноплащ зберігає непорушність, його неможливо відрізнити від печерних утворень, таких як сталактити чи сталагміти.  
+
+### Дії
+**Троща.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 6 (1к6 + 3) дробильних ушкоджень, і темноплащ прикріплюється до цілі. Якщо розмір цілі Середній або менший і темноплащ має перевагу на кидок атаки, він прикріплюється, поглинаючи голову цілі, і ціль стає осліпленою та не здатна дихати, поки темноплащ прикріплений таким чином.    
+
+Поки темноплащ прикріплений до цілі, він не може атакувати жодну іншу істоту, окрім цілі, але має перевагу на кидки атаки. Швидкість темноплаща знижується до 0, він не отримує жодних бонусів від своєї швидкості та переміщується разом із ціллю.    
+
+Істота може відкріпити темноплащ, використавши дію на перевірку Сили з КС 13. У свій хід темноплащ може відкріпитися від цілі, витративши 5 футів свого переміщення.    
+
+**Аура темряви (1/день).** Магічна темрява радіусом 15 футів поширюється від темноплаща, переміщується із ним та огортає кути. Темрява триває, поки темноплащ підтримує концентрацію, до 10 хвилин (як концентрація на чарах). Темний зір не може проникнути в цю темряву, і жодне природне світло не може її освітити. Якщо ця темрява перетинається з областю світла, створеного чарами 2 рівня або нижчими, чари створення світла розвіюються.

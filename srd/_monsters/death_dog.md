@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Death Dog
-type: Monstrosity
+title: Пес смерті
+type: Чудовисько
 tag: 1
 ---
-_Medium monstrosity, neutral evil_
 
-**Armor Class** 12    
-**Hit Points** 39 (6d8 + 12)    
-**Speed** 40 ft. 
+_Чудовисько середнього розміру, нейтральний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4)  | 13 (+1) | 6 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 39 (6к8 + 12)    
+**Швидкість** 40 ф.  
 
-**Skills** Perception +5, Stealth +4    
-**Senses** darkvision 120 ft., passive Perception 15    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (−4) | 13 (+1) | 6 (−2) |
 
-**Two-Headed.** The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious. 
+**Навички** Сприйняття +5, Непомітність +4    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 15    
+**Мови** -    
+**Небезпека** 1 (200 ПД)  
 
-### Actions 
-**Multiattack.** The dog makes two bite attacks.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0. 
+**Двоголовий.** Пес має перевагу на перевірки Мудрості (Сприйняття) та рятівні кидки проти осліплення, причарування, оглушення, залякування, приголомшення та непритомності.  
 
-### Description
-A death dog is an ugly two-headed hound that roams plains, and deserts. Hate burns in a death dog's heart, and a taste for humanoid flesh drives it to attack travelers and explorers. Death dog saliva carries a foul disease that causes a victim's flesh to slowly rot off the bone. 
+### Дії
+**Мультиатака.** Пес здійснює дві атаки укусом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень. Якщо ціль - істота, вона повинна зробити рятівний кидок Статури з КС 12 проти хвороби, або буде отруєна, доки не вилікує хворобу. Кожні 24 години, що минають, істота повинна повторювати рятівний кидок, знижуючи свій максимум пунктів здоров'я на 5 (1к10) у разі невдачі. Це зниження триває, поки хворобу не буде вилікувано. Істота вмирає, якщо її максимум пунктів здоров'я знижений до 0 внаслідок цієї хвороби.
+
+### Опис
+Пес смерті - це потворний двоголовий гінчак, що кочує по рівнинах і пустелях. У серці пса смерті палає ненависть, і смак плоті гуманоїдів зводить його до нападу на мандрівників та дослідників. Слина пса смерті приховує огидну хворобу, через яку плоть жертви повільно відгниває з її кісток. 
