@@ -1,34 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Djinni
-type: Elemental
+title: Джин
+type: Стихійник
 tag: 11
 ---
-_Large elemental, chaotic good_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 161 (14d10 + 84)    
-**Speed** 30 ft., fly 90 ft. 
+_Стихійник великого розміру, хаотичний добрий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 161 (14к10 + 84)    
+**Швидкість** 30 ф, політ 90 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
 
-**Saving Throws** Dex +6, Wis +7, Cha +9    
-**Damage Immunities** lightning, thunder    
-**Senses** darkvision 120 ft., passive Perception 13    
-**Languages** Auran    
-**Challenge** 11 (7,200 XP) 
+**Рятівні кидки** Спр +6, Мдр +7, Хар +9    
+**Імунітет до ушкоджень** блискавка, грім    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 13    
+**Мови** Ауран    
+**Небезпека** 11 (7200 ПД)  
 
-**Elemental Demise.** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.    
-**Innate Spellcasting.** The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:    
-At will: **_detect evil and good_**, **_detect magic_**, **_thunderwave_**    
-3/day each: **_create food and water_** (can create wine instead of water), **_tongues_**, **_wind walk_**    
-1/day each: **_conjure elemental_** (air elemental only), **_creation_**, **_gaseous form_**, **_invisibility_**, **_major image_**, **_plane shift_** 
+**Стихійний спадок.** Якщо джин вмирає, його тіло дезінтегрує у теплий бриз, залишаючи по собі тільки спорядження, яке джин мав при собі.    
 
-### Actions 
-**Multiattack.** The djinni makes three scimitar attacks.    
-**Scimitar.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).    
-**Create Whirlwind.** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.    
-A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+**Вроджене чарування.** Вродженою здатністю джина до чарування є Харизма (КС рятунку 17, +9 до влучання атаками чарів). Він може природно створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_виявлення зла та добра_**, **_виявлення магії_**, **_громова хвиля_**    
+3/день кожне: **_створення їжі та води_** (може створювати вино замість води), **_мови_**, **_прогулянка з вітром_**    
+1/день кожне: **_з'ява стихійника_** (тільки стихійник повітря), **_творення_**, **_газоподібна форма_**, **_невидимість_**, **_оживлений образ_**, **_планарний перехід_**
+
+### Дії
+**Мультиатака.** Джин здійснює три атаки скимитаром.    
+
+**Скимитар.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) рубаних ушкоджень плюс 3 (1к6) ушкоджень блискавкою або громом (на вибір джина).    
+
+**Створення вихору.** Вихор у вигляді циліндра радіусом 5 футів та заввишки 30 футів магічним чином утворюється у вказаній джином точці, яку він може бачити в межах 120 футів від себе. Вихор триває, поки джин підтримує концентрацію (як концентрацію на чарах). Будь-яка істота, крім джина, що входить у вихор, повинна зробити рятівний кидок Сили з КС 18, або буде скута вихором. Джин може переміщувати вихор на відстань до 60 футів дією, і істоти, скуті вихором, переміщуються разом із ним. Вихор завершується, якщо джин перестає його бачити.    
+
+Істота може використати дію, щоб звільнити істоту, скуту вихором, в тому числі себе, шляхом перевірки Сили з КС 18. Якщо перевірка успішна, істота більше не скута і переміщується до найближчого простору за межами вихору.

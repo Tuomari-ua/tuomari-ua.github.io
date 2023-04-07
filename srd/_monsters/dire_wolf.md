@@ -1,27 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Dire Wolf
-type: Beast
+title: Лютововк
+type: Звір
 tag: 1
 ---
-_Large beast, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 37 (5d10 + 10)    
-**Speed** 50 ft. 
+_Звір великого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 37 (5к10 + 10)    
+**Швидкість** 50 ф.  
 
-**Skills** Perception +3, Stealth +4    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 7 (−2) |
 
-**Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Навички** Сприйняття +3, Непомітність +4    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 1 (200 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+**Гострий нюх та слух.** Вовк має перевагу на кидки Мудрості (Сприйняття), що покладаються на слух чи нюх.    
+
+**Тактика зграї.** Вовк має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників вовка перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 13, або буде збита з ніг. 
