@@ -1,32 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Druid
-type: Humanoid (any race)
+title: Друїд
+type: Гуманоїд
 tag: 2
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 11 (16 with barkskin)    
-**Hit Points** 27 (5d8 + 5)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |   
+**Клас захисту** 11 (16 із дубовою шкірою)    
+**Пункти здоров'я** 27 (5к8 + 5)    
+**Швидкість** 30 ф.  
 
-**Skills** Medicine +4, Nature +3, Perception +4    
-**Senses** passive Perception 14    
-**Languages** Druidic plus any two languages    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
-***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:    
-Cantrips (at will): **_druidcraft, produce flame, shillelagh_**    
-1st level (4 slots): **_entangle, longstrider, speak with animals, thunderwave_**    
-2nd level (3 slots): **_animal messenger, barkskin_** 
+**Навички** Медицина +4, Природа +3, Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** друїдична плюс будь-які дві мови    
+**Небезпека** 2 (450 ПД)  
 
-### Actions 
-**Quarterstaff.** _Melee Weapon Attack:_ +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh. 
+***Чарування.*** Друїд є чаротворцем 4 рівня. Його чаротворча здібність - Мудрість (КС чарів 12, +4 до влучання атаками чарами). Він має наступні підготовлені чари друїда:    
+Замовляння (за бажанням): **_ремесло друїдів, створення вогню, кийок_**    
+1 рівень (4 чарунки): **_обплутування, скорохід, розмова з тваринами, громова хвиля_**    
+2 рівень (3 чарунки): **_тварина-посланець, дубова шкіра_**  
 
-### Description
-Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance. 
+### Дії
+**Бойовий посох.** _Атака зброєю ближнього бою:_ +2 до влучання (+4 для ударів кийком), досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к6) дробильних ушкоджень, 4 (1к8) дробильних ушкоджень, якщо тримає двома руками, або 6 (1к8 + 2) дробильних ушкоджень кийком.  
+
+### Опис
+Друїди населяють ліси та інші відокремлені місця дикої природи, де вони захищають природний світ від монстрів та посягань цивілізацій. Деякі є племінними шаманами, що зцілюють хворих, моляться до духів тварин та надають духовні настанови. 
