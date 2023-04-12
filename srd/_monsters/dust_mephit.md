@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Dust Mephit
-type: Elemental
-tag: .5
+title: Пиловий мефіт
+type: Стихійник
+tag: 0.5
 ---
-_Small elemental, neutral evil_
 
-**Armor Class** 12    
-**Hit Points** 17 (5d6)    
-**Speed** 30 ft., fly 30 ft. 
+_Стихійник малого розміру, нейтральний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 14 (+2) | 10 (+0) | 9 (−1)  | 11 (+0) | 10 (+0) |
+**Клас захисту** 12    
+**Пункти здоров'я** 17 (5к6)    
+**Швидкість** 30 ф, політ 30 ф.  
 
-**Skills** Perception +2, Stealth +4    
-**Damage Vulnerabilities.** fire    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Auran, Terran    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 5 (−3) | 14 (+2) | 10 (+0) | 9 (−1) | 11 (+0) | 10 (+0) |
 
-**Death Burst.** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_sleep_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+**Навички** Сприйняття +2, Непомітність +4    
+**Вразливість до ушкоджень** вогонь    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 12    
+**Мови** Ауран, Терран    
+**Небезпека** 1/2 (100 ПД)  
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.    
-**Blinding Breath (Recharge 6).** The mephit exhales a 15- foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Смертний вибух.** Коли мефіт вмирає, він вибухає пилом. Кожна істота в межах 5 футів від нього має зробити успішний рятівний кидок Статури з КС 10, або буде засліплена на 1 хвилину. Засліплена істота може повторювати рятівний кидок у кожний свій хід, завершуючи ефект на собі в разі успіху.    
+
+**Вроджене чарування (1/день).** Мефіт може природним чином створювати чари **_сну_**, не використовуючи жодних матеріальних складових. Його природною здібністю до чарування є Харизма.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) рубаних ушкоджень.    
+
+**Засліплювальне дихання (Відновлення 6).** Мефіт видихає 15-футовий конус засліплювального пилу. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 10, або буде осліплена на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.

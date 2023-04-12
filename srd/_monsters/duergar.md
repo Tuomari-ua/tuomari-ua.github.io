@@ -1,30 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Duergar
-type: Humanoid (dwarf)
+title: Дверґар
+type: Гуманоїд
 tag: 1
 ---
-_Medium humanoid (dwarf), lawful evil_
 
-**Armor Class** 16 (scale mail, shield)    
-**Hit Points** 26 (4d8 + 8)    
-**Speed** 25 ft. 
+_Гуманоїд середнього розміру (дворф), законний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1)  |
+**Клас захисту** 16 (луската броня, щит)    
+**Пункти здоров'я** 26 (4к8 + 8)    
+**Швидкість** 25 ф.  
 
-**Damage Resistances** poison    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** Dwarvish, Undercommon    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (−1) |
 
-**Duergar Resilience.** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.    
-**Sunlight Sensitivity.** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. 
+**Стійкість до ушкоджень** отрута    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 10    
+**Мови** дворфська, підтемна    
+**Небезпека** 1 (200 ПД)  
 
-### Actions 
-**Enlarge (Recharges after a Short or Long Rest).** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.    
-**War Pick.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged.    
-**Invisibility (Recharges after a Short or Long Rest).** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+**Дверґарська стійкість.** Дверґар має перевагу на рятівні кидки проти отрути, чарів та ілюзій, так само як до причарування та паралічу.  
+
+**Чутливість до сонячного світла.** Перебуваючи у сонячному світлі, дверґар має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Збільшення (Відновлення після короткого або тривалого відпочинку).** На 1 хвилину дверґар може магічним чином збільшитися у розмірі, разом із усім, що він має при собі. Під час цього збільшення дверґар набуває Великого розміру, подвоює кістки ушкоджень для атак зброєю, що б'є від Сили (враховано в атаках), та робить перевірки Сили та рятівні кидки Сили з перевагою. Якщо дверґару бракує місця, щоб стати Великим, він набуває максимально можливого розміру в цьому просторі.  
+
+**Клевець.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень, або 11 (2к8 + 2) колотих ушкоджень, поки збільшений.  
+
+**Сулиця** _Атака ближнього бою або далекобійна:_ +4 до влучання, досяжність 5 ф або відстань 30/120 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень, або 9 (2к6 + 2) колотих ушкоджень, поки збільшений.   
+
+**Невидимість (Відновлення після короткого або тривалого відпочинку).** Дверґар магічним чином стає невидимим, доки не атакує, не створює чари або не використовує Збільшення, або поки не перерве концентрацію, до 1 години (як при концентрації на чарах). Будь-яке спорядження, що дверґар має при собі, стає невидимим разом із ним.

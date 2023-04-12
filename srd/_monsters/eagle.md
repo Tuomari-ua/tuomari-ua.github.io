@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Eagle
-type: Beast
+title: Орел
+type: Звір
 tag: 0
 ---
-_Small beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 10 ft., fly 60 ft.
+_Звір малого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 15 (+2) | 10 (+0) | 2 (−4)  | 14 (+2) | 7 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 3 (1к6)    
+**Швидкість** 10 ф, політ 60 ф.  
 
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (−2) | 15 (+2) | 10 (+0) | 2 (−4) | 14 (+2) | 7 (−2) |
 
-**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight. 
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 0 (10 ПД)  
 
-### Actions 
-**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage. 
+**Гострий зір.** Орел має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Кігті.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) рубаних ушкоджень. 

@@ -1,35 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Dryad
-type: Fey
+title: Дріада
+type: Фея
 tag: 1
 ---
-_Medium fey, neutral_
 
-**Armor Class** 11 (16 with barkskin)    
-**Hit Points** 22 (5d8)    
-**Speed** 30 ft. 
+_Фея середнього розміру, нейтральний_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 11 (16 із дубовою шкірою)    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 30 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
 
-**Skills** Perception +4, Stealth +5    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Elvish, Sylvan    
-**Challenge** 1 (200 XP) 
+**Навички** Сприйняття +4, Непомітність +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** ельфійська, сильван    
+**Небезпека** 1 (200 ПД)  
 
-**Innate Spellcasting.** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:    
-At will: **_druidcraft_**    
-3/day each: **_entangle_**, **_goodberry_**    
-1/day each: **_barkskin_**, **_pass without trace_**, **_shillelagh_**       
-**Magic Resistance.** The dryad has advantage on saving throws against spells and other magical effects.    
-**Speak with Beasts and Plants.** The dryad can communicate with beasts and plants as if they shared a language.    
-**Tree Stride.** Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger. 
+**Вроджене чарування.** Чаротворча здібність дріади - Харизма (КС чарів 14). Дріада може природно створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_ремесло друїдів_**    
+3/день кожні: **_обплутування_**, **_доброягода_**    
+1/день кожні: **_дубова шкіра_**, **_переміщення без слідів_**, **_кийок_**  
 
-### Actions 
-**Club.** _Melee Weapon Attack:_ +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.    
-**Fey Charm.** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.    
-Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.    
-The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+**Магічна стійкість.** Дріада має перевагу на кидки атаки проти чарів та інших магічних ефектів.    
+
+**Розмова зі звірами та рослинами.** Дріада може спілкуватися зі звірами та тваринами, ніби має з ними спільну мову.    
+
+**Деревний шлях.** Один раз на свій хід дріада може використати 10 футів свого переміщення, щоб магічним чином увійти в живе дерево в межах своєї досяжності, й вийти з іншого живого дерева у межах 60 футів від першого, з'являючись у вільному просторі у межах 5 футів від другого дерева. Обидва дерева повинні мати розмір Великий або більший.
+
+### Дії
+**Палиця.** _Атака зброєю ближнього бою:_ +2 до влучання (+6 до влучання кийком), досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к4) дробильних ушкоджень, або 8 (1к8 + 4) дробильних ушкоджень кийком.    
+
+**Фейські чари.** Дріада націлюється на одного гуманоїда або звіра, якого може бачити в межах 30 футів від себе. Якщо ціль може бачити дріаду, то повинна зробити успішний рятівний кидок Мудрості з КС 14, або буде магічно причарованою. Причарована істота вважає цю дріаду своїм надійним другом, вартим довіри й захисту. Хоча ціль не під контролем дріади, вона виконує запити чи дії дріади як найбільш бажані.    
+
+Щоразу, коли дріада чи її союзники роблять цілі будь-що шкідливе, ціль може повторити рятівний кидок, завершуючи ефект на собі в разі успіху. Інакше ефект триває 24 години або поки дріада не помре, не опиниться на іншому плані існування відносно цілі, чи не завершить ефект бонусною дією. Якщо рятівний кидок цілі успішний, вона має імунітет до Фейських чарів дріади на наступні 24 години.    
+Дріада не може мати причарованими одночасно більше одного гуманоїда та до трьох звірів.
