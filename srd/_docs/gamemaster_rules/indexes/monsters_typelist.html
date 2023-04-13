@@ -8,6 +8,7 @@ title: Монстри за типом
 {% for group in groups %}
       <h3>{{ group.name }}</h3>
  <ul style="column-count: 3">
+ {% assign array =  group.items | sort: 'title' %}
     {% for item in group.items %}
            <li><a class="page-link" href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
     {%endfor%}

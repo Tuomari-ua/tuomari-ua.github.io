@@ -8,6 +8,7 @@ title: Монстри за CR
 {% for tag in tags %}
   <h3>{{ tag }}</h3>
   <ul style="column-count: 3">
+  {% assign array =  group.items | sort: 'title' %}
   {% for doc in site.monsters %}
     {% if doc.tags contains tag %}
     <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
