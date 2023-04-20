@@ -1,30 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ettercap
-type: Monstrosity
+title: Етеркап
+type: Чудовисько
 tag: 2
 ---
-_Medium monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 44 (8d8 + 8)    
-**Speed** 30 ft., climb 30 ft. 
+_Чудовисько середнього розміру, нейтральний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 44 (8к8 + 8)    
+**Швидкість** 30 ф, лазіння 30 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 14 (+2) | 15 (+2) | 13 (+1) | 7 (−2) | 12 (+1) | 8 (−1) |
 
-**Skills** Perception +3, Stealth +4, Survival +3    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+**Навички** Сприйняття +3, Непомітність +4, Виживання +3    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 2 (450 ПД)  
 
-**Spider Climb.** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.    
-**Web Walker.** The ettercap ignores movement restrictions caused by webbing. 
+**Павуче лазіння.** Етеркап може лазити по складних поверхнях, включно зі стелями догори дриґом, не потребуючи перевірок здібностей. Чуття павутини. Торкаючись павутини, етеркап знає точне розташування будь-якої іншої істоти, що торкається тієї ж павутини.    
 
-### Actions 
-**Multiattack.** The ettercap makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.    
-**Web (Recharge 5–6).** _Ranged Weapon Attack:_ +4 to hit, range 30/60 ft., one Large or smaller creature. _Hit:_ The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+**Ходець павутиною.**Етеркап ігнорує обмеження переміщень, спричинені павутиною.
+
+### Дії
+**Мультиатака.** Етеркап здійснює дві атаки: одну укусом та одну - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 футів, одна істота. _Влучання:_ 6 (1к8 +2) колотих ушкоджень плюс 4 (1к8) ушкоджень отрутою. Ціль повинна зробити рятівний кидок Статури з КС 11, або буде отруєна на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (2к4 + 2) рубаних ушкоджень.    
+
+**Павутина (Відновлення 5-6).** _Далекобійна атака зброєю:_ +4 до влучання, відстань 30/60 ф, одна істота, чий розмір Великий або менший. _Влучання:_ Істота скута павутинням. Дією скута істота може зробити перевірку Сили з КС 11, звільняючись від павутини в разі успіху. Ефект також закінчується, якщо павутиння зруйноване. Павутиння має КЗ 10, 5 пунктів здоров'я, вразлива до ушкоджень вогнем і має імунітет до дробильних ушкоджень, отрути та психічної енергії.

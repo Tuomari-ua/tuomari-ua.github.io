@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ettin
-type: Giant
+title: Еттин
+type: Велет
 tag: 4
 ---
-_Large giant, chaotic evil_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 85 (10d10 + 30)    
-**Speed** 40 ft. 
+_Велет великого розміру, хаотичний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 85 (10к10 + 30)    
+**Швидкість** 40 ф.  
+
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 21 (+5) | 8 (−1) | 17 (+3) | 6 (−2) | 10 (+0) | 8 (−1) |
 
-**Skills** Perception +4    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Giant, Orc    
-**Challenge** 4 (1,100 XP) 
+**Навички** Сприйняття +4    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** велетова, оркська    
+**Небезпека** 4 (1100 ПД)  
 
-**Two Heads.** The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.    
-**Wakeful.** When one of the ettin's heads is asleep, its other head is awake. 
+**Дві голови.** Еттин має перевагу на перевірки Мудрості (Сприйняття) та рятівні кидки проти осліплення, причарування, оглушення, залякування, приголомшення та непритомності.    
 
-### Actions 
-**Multiattack.** The ettin makes two attacks: one with its battleaxe and one with its morningstar.    
-**Battleaxe.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.    
-**Morningstar.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) piercing damage.
+**Невсипущий.** Коли одна з голів еттина спить, його друга голова пильнує.
+
+### Дії
+**Мультиатака.** Еттин здійснює дві атаки: одну бойовою сокирою, а другу - моргенштерном.    
+
+**Бойова сокира.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 14 (2к8 + 5) рубаних ушкоджень.    
+
+**Моргенштерн.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 14 (2к8 +5) колотих ушкоджень.
