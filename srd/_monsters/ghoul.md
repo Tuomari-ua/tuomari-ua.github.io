@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ghoul
-type: Undead
+title: Упир
+type: Невмерлий
 tag: 1
 ---
-_Medium undead, chaotic evil_
 
-**Armor Class** 12    
-**Hit Points** 22 (5d8)    
-**Speed** 30 ft. 
+_Невмерлий середнього розміру, хаотичний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2)  | 10 (+0) | 6 (−2)  |
+**Клас захисту** 12    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 30 ф.  
 
-**Damage Immunities** poison    
-**Condition Immunities** charmed, exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (−2) | 10 (+0) | 6 (−2) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, виснажений, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** спільна    
+**Небезпека** 1 (200 ПД)  
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 9 (2к6 + 2) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (2к4 + 2) рубаних ушкоджень. Якщо ціль - істота, яка не є ельфом або невмерлим, вона повинна зробити рятівний кидок Статури з КС 10, або буде паралізована на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.
