@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Owl
-type: Beast
-tag: .25
+title: Величезна сова
+type: Звір
+tag: 0.25
 ---
-_Large beast, neutral_
 
-**Armor Class** 12    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 5 ft., fly 60 ft. 
+_Звір великого розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 15 (+2) | 12 (+1) | 8 (−1)  | 13 (+1) | 10 (+0) |   
+**Клас захисту** 12    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 5 ф, політ 60 ф.
 
-**Skills** Perception +5, Stealth +4    
-**Senses** darkvision 120 ft., passive Perception 15    
-**Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 13 (+1) | 15 (+2) | 12 (+1) | 8 (−1) | 13 (+1) | 10 (+0) |
 
-**Flyby.** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.    
-**Keen Hearing and Sight.** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight. 
+**Навички** Сприйняття +5, Непомітність +4    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 15    
+**Мови** велетенських сов; розумію спільну, ельфійську та сильван, але не може ними говорити    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions 
-**Talons.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 1) slashing damage. 
+**Пролітання.** Сова не провокує атак при нагоді, коли вилітає за межі досяжності ворога.    
 
-### Description
-Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms. 
+**Гострий слух та зір.** Сова має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або зір.
+
+### Дії
+**Кігті.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (2к6 + 1) рубаних ушкоджень.
+
+### Опис
+Велетенські сови часто дружать із феями та іншими лісовими істотами, і є вартовими їхніх лісових володінь. 

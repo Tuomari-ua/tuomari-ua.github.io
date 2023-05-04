@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенський кабан
+title: Величезний кабан
 type: Звір
 tag: 2
 ---

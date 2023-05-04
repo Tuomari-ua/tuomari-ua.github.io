@@ -1,30 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Rat
-type: Beast
-tag: .125
+title: Величезний щур
+type: Звір
+tag: 0.125
 ---
-_Small beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 7 (2d6)    
-**Speed** 30 ft. 
+_Звір малого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 15 (+2) | 11 (+0) | 2 (−4)  | 10 (+0) | 4 (−3)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 7 (2к6)    
+**Швидкість** 30 ф.
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/8 (25 XP)    
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 7 (−2) | 15 (+2) | 11 (+0) | 2 (−4) | 10 (+0) | 4 (−3) |
 
-**Keen Smell.** The rat has advantage on Wisdom (Perception) checks that rely on smell.    
-**Pack Tactics.** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Чуття** темний зір 60 ф., пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. 
+**Гострий нюх.** Щур має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.    
 
-### Variant: Diseased Giant Rats 
-Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.     
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies. 
+**Тактика зграї.** Щур має перевагу на кидки атаки проти істоти, якщо принаймні один із союзників щура перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.  
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень.
+
+### Різновид: Заразні велетенські щурі
+Деякі величезні щурі переносять огидні хвороби, які передають своїми укусами. Заразний величезний щур має Клас небезпеки 1/8 (25 ПД) та наступні дії замість звичайної атаки укусом:  
+
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 10, або захворіє. Доки хворобу не буде вилікувано, ціль не може відновлювати пункти здоров'я, окрім як магічними способами, і максимум пунктів здоров'я цілі зменшується на 3 (1к6) кожні 24 години. Якщо максимум пунктів здоров'я цілі знижується до 0 внаслідок цієї хвороби, ціль помирає. 

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенська коза
+title: Величезна коза
 type: Звір
 tag: 0.5
 ---

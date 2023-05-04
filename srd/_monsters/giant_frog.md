@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенська жаба
+title: Величезна жаба
 type: Звір
 tag: 0.25
 ---

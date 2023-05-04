@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Shark
-type: Beast
+title: Величезна акула
+type: Звір
 tag: 5
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 126 (11d12 + 55)    
-**Speed** 0 ft., swim 50 ft.
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5)  | 10 (+0) | 5 (−3)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 126 (11к12 + 55)    
+**Швидкість** 0 ф, плавання 50 ф.
 
-**Skills** Perception +3    
-**Senses** blindsight 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (−5) | 10 (+0) | 5 (−3) |
 
-**Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The shark can breathe only underwater. 
+**Навички** Сприйняття +3    
+**Чуття** сліпий зір 60 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 5 (1,800 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage. 
+**Шал крові.** Акула має перевагу на кидки атаки ближнього бою проти будь-якої істоти, що має не всі пункти здоров'я.    
 
-### Description
-A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships. 
+**Дихання водою.** Акула може дихати тільки під водою.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 22 (3к10 + 6) колотих ушкоджень.
+
+### Опис
+Величезна акула завдовжки 30 футів і зазвичай зустрічається у глибоких океанах. Цілком безстрашна, вона полює на все, що трапляється на її шляху, включно з китами та кораблями. 

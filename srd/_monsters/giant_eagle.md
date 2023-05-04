@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенський орел
+title: Величезний орел
 type: Звір
 tag: 1
 ---

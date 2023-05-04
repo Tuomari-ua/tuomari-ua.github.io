@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенська стонога
+title: Величезна стонога
 type: Звір
 tag: 0.25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенський кажан
+title: Величезний кажан
 type: Звір
 tag: 0.25
 ---

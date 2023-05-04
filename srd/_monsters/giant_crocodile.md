@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенський крокодил
+title: Величезний крокодил
 type: Звір
 tag: 5
 ---

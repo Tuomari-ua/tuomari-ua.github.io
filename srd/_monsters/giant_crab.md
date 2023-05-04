@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Велетенський краб
+title: Величезний краб
 type: Звір
 tag: 0.125
 ---
