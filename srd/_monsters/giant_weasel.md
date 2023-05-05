@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Weasel
-type: Beast
-tag: .125
+title: Величезна ласиця
+type: Звір
+tag: 0.125
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 9 (2d8)    
-**Speed** 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 16 (+3) | 10 (+0) | 4 (−3)  | 12 (+1) | 5 (−3)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 9 (2к8)    
+**Швидкість** 40 ф.
 
-**Skills** Perception +3, Stealth +5    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 11 (+0) | 16 (+3) | 10 (+0) | 4 (−3) | 12 (+1) | 5 (−3) |
 
-**Keen Hearing and Smell.** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+**Навички** Сприйняття +3, Непомітність +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage. 
+**Гострий слух і нюх.** Ласиця має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к4 + 3) колотих ушкоджень. 

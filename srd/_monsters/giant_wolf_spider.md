@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Wolf Spider
-type: Beast
-tag: .25
+title: Величезний павук-вовк
+type: Звір
+tag: 0.25
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 40 ft., climb 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4)  | 12 (+1) | 4 (−3)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 40 ф, лазіння 40 ф.
 
-**Skills** Perception +3, Stealth +7    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (−4) | 12 (+1) | 4 (−3) |
 
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Web Sense. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.    
-**Web Walker.** The spider ignores movement restrictions caused by webbing. 
+**Навички** Сприйняття +3, Непомітність +7    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+**Павуче лазіння.** Павук може лазити по складних поверхнях, включно зі стелями догори дриґом, не потребуючи перевірок здібностей. Чуття павутини. Торкаючись павутини, павук знає точне розташування будь-якої іншої істоти, що торкається тієї ж павутини.    
 
-### Description
-Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris. 
+**Павутинний ходак.** Павук ігнорує обмеження переміщень, спричинені павутиною.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, отримуючи 7 (2к6) ушкоджень отрутою в разі невдачі, або половину цих ушкоджень за умови успіху. Якщо ушкодження отрутою знижують пункти здоров'я цілі до 0, ціль стабільна, але отруєна на 1 годину, навіть після відновлення пунктів здоров'я, і поки триває це отруєння, ціль паралізована.
+
+### Опис
+Менші за величезних павуків, величезні павуки-вовки полюють на жертв на відкритих землях або ховаються у норах та ущелинах, або в прихованих порожнинах під уламками. 

@@ -1,32 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Vulture
-type: Beast
+title: Величезний гриф
+type: Звір
 tag: 1
 ---
-_Large beast, neutral evil_
 
-**Armor Class** 10    
-**Hit Points** 22 (3d10 + 6)    
-**Speed** 10 ft., fly 60 ft. 
+_Звір великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 10 (+0) | 15 (+2) | 6 (−2)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 10    
+**Пункти здоров'я** 22 (3к10 + 6)    
+**Швидкість** 10 ф, політ 60 ф.
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** understands Common but can't speak    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 15 (+2) | 6 (−2) | 12 (+1) | 7 (−2) |
 
-**Keen Sight and Smell.** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.   
-**Pack Tactics.** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** розуміє спільну, але не може говорити    
+**Небезпека** 1 (200 ПД)
 
-### Actions 
-**Multiattack.** The vulture makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage. 
+**Гострий зір та нюх.** Гриф має перевагу на кидки Мудрості (Сприйняття), що покладаються на зір або нюх.   
 
-### Description
-A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering. 
+**Тактика зграї.** Гриф має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників грифа перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.
+
+### Дії
+**Мультиатака.** Гриф здійснює дві атаки: одну дзьобом та одну кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (2к4 + 2) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (2к6 + 2) рубаних ушкоджень.
+
+### Опис
+Величезний гриф має розвинутий інтелект та недоброзичливі нахили. На відміну від своїх менших родичів, він атакуватиме поранену істоту, щоб прискорити її смерть. Величезні грифи відомі тим, що переслідують спраглу, зголоднілу істоту цілими днями, щоб насолоджуватися її стражданнями. 

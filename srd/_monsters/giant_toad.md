@@ -1,27 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Toad
-type: Beast
+title: Величезна ропуха
+type: Звір
 tag: 1
 ---
-_Large beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 39 (6d10 + 6)    
-**Speed** 20 ft., swim 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 13 (+1) | 13 (+1) | 2 (−4)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 11    
+**Пункти здоров'я** 39 (6к10 + 6)    
+**Швидкість** 20 ф, плавання 40 ф.
 
-**Senses** darkvision 30 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1 (200 XP)    
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-**Amphibious.** The toad can breathe air and water.    
-**Standing Leap.** The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start. 
+**Чуття** темний зір 30 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1 (200 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.    
-**Swallow.** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone. 
+**Амфібія.** Ропуха може дихати повітрям і водою.    
+
+**Стрибок із місця.** Ропуха може стрибати в довжину до 20 футів, а в висоту - до 10 футів, з розбігом або без.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень плюс 5 (1к10) ушкоджень отрутою, і ціль схоплена (КС втечі 13). Доки триває цей захват, ціль скута, а ропуха не може кусати іншу ціль.    
+
+**Ковтання.** Ропуха може зробити одну атаку укусом проти цілі, чий розмір Середній або менший, і яку вона схопила. Якщо атака влучає, ціль стає проковтнутою, а захват завершується. Проковтнута ціль осліплена й скута, має повне укриття проти атак та інших ефектів ззовні ропухи, та отримує 10 (3к6) ушкоджень кислотою на початку кожного ходу ропухи. Ропуха може мати одночасно лише одну проковтнуту ціль. Якщо ропуха вмирає, проковтнута істота більше не скута і може втекти з трупа, використавши 5 футів переміщення, та опиняється на волі збитою з ніг. 
