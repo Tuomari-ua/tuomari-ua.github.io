@@ -11,7 +11,7 @@ _Medium humanoid (gnoll), chaotic evil_
 **Hit Points** 22 (5d8)    
 **Speed** 30 ft. 
 
-[Gnoll](https://www.dndbeyond.com/avatars/thumbnails/30784/505/1000/1000/638062044385041691.png "Гнол")
+![Гнол](https://www.dndbeyond.com/avatars/thumbnails/30784/505/1000/1000/638062044385041691.png)
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
