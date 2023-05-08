@@ -1,36 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gladiator
-type: Humanoid (any race)
+title: Гладіатор
+type: Гуманоїд
 tag: 5
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 16 (studded leather, shield)    
-**Hit Points** 112 (15d8 + 45)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |   
+**Клас захисту** 16 (клепана шкіра, щит)    
+**Пункти здоров'я** 112 (15к8 + 45)    
+**Швидкість** 30 ф.
 
-**Saving Throws** Str +7, Dex +5, Con +6    
-**Skills** Athletics +10, Intimidation +5    
-**Senses** passive Perception 11    
-**Languages** any one language (usually Common)    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
-**Brave.** The gladiator has advantage on saving throws against being frightened.    
-**Brute.** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack). 
+**Рятівні кидки** Сил +7, Спр +5, Ста +6    
+**Навички** Атлетика +10, Залякування +5    
+**Чуття** пасивне Сприйняття    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The gladiator makes three melee attacks or two ranged attacks.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. and range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.    
-**Shield Bash.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. 
+**Хоробрий.** Гладіатор має перевагу на рятівні кидки проти залякування.    
 
-### Reactions 
-**Parry.** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon. 
+**Жорстокий.** Зброя ближнього бою гладіатора завдає одну додаткову кістку ушкоджень при влучанні (включено в атаку).
 
-### Description
-Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death. 
+### Дії
+**Мультиатака.** Гладіатор робить три атаки ближнього бою або дві далекобійні атаки.    
+
+**Спис.** _ Атака зброєю ближнього бою або далекобійна:_ +7 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень або 13 (2к8 + 4) колотих ушкоджень, якщо використовує двома руками для атаки ближнього бою.    
+
+**Удар щитом.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (2к4 + 4) дробильних ушкоджень. Якщо ціль атаки - істота, чий розмір Середній або менший, вона має зробити рятівний кидок Сили з КС 15, або буде збита з ніг.
+
+### Реакції
+**Парирування.** Гладіатор додає 3 до свого КЗ проти однієї атаки ближнього бою, яка мала б по ньому влучити. Щоб зробити це, гладіатор повинен бачити нападника й повинен тримати зброю ближнього бою.
+
+### Опис
+Гладіатори б'ються задля розваги галасливих натовпів. Деякі гладіатори є жорстокими бійцями рингів, що вважають кожен матч боротьбою за життя або смерть, тоді як інші - професійні дуелянти, що вимагають величезних гонорарів, але рідко б'ються до смерті. 
