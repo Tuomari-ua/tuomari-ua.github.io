@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Guard
-type: Humanoid (any race)
-tag: .125
+title: Вартовий
+type: Гуманоїд
+tag: 0.125
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 16 (chain shirt, shield)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |   
+**Клас захисту** 16 (кольчужна сорочка, щит)    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф.
 
-**Skills** Perception +2    
-**Senses** passive Perception 12    
-**Languages** any one language (usually Common)    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-### Actions 
-**Spear.** _Melee_ or _Ranged Weapon Attack:_ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
+**Навички** Сприйняття +2    
+**Чуття** пасивне Сприйняття 12    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 1/8 (25 ПД)
 
-### Description
-Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles. 
+### Дії
+**Спис.** _Атака зброєю ближнього бою або далекобійна:_ +3 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень, або 5 (1к8 + 1) колотих ушкоджень, якщо використовує для атаки ближнього бою двома руками.
+
+### Опис
+До вартових можуть належати члени міської варти, охоронці цитаделі або укріпленого міста, та особиста охорона купців чи дворян. 
