@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Griffon
-type: Monstrosity
+title: Грифон
+type: Чудовисько
 tag: 2
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 59 (7d10 + 21)    
-**Speed** 30 ft., fly 80 ft. 
+_Чудовисько великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4)  | 13 (+1) | 8 (−1)  |
+**Клас захисту** 12    
+**Пункти здоров'я** 59 (7к10 + 21)    
+**Швидкість** 30 ф, політ 80 ф.
 
-**Skills** Perception +5    
-**Senses** darkvision 60 ft., passive Perception 15    
-**Languages** --    
-**Challenge** 2 (450 XP)
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 13 (+1) | 8 (−1) |
 
-**Keen Sight.** The griffon has advantage on Wisdom (Perception) checks that rely on sight. 
+![Грифон](https://www.dndbeyond.com/avatars/thumbnails/30784/568/1000/1000/638062046654629903.png)
 
-### Actions 
-**Multiattack.** The griffon makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+**Навички** Сприйняття +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 15    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
+
+**Гострий зір.** Грифон має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Мультиатака.** Грифон робить дві атаки: одну дзьобом та одну - кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к8 + 4) Ушкодження    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.
