@@ -1,33 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Horned Devil
-type: Fiend (devil)
+title: Рогатий диявол
+type: Погань
 tag: 11
 ---
-_Large fiend (devil), lawful evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 148 (17d10 + 55)    
-**Speed** 20 ft., fly 60 ft. 
+_Погань великого розміру (диявол), законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 148 (17к10 + 55)    
+**Швидкість** 20 ф, політ 60 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
-**Saving Throws** Str +10, Dex +7, Wis +7, Cha +7    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 13    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 11 (7,200 XP) 
+![Рогатий диявол](https://www.dndbeyond.com/avatars/thumbnails/30782/14/1000/1000/638061948209066036.png)
 
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Сил +10, Спр +7, Мдр +7, Хар +7    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані ушкодження від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 13    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 11 (7200 ПД)
 
-### Actions 
-**Multiattack.** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.    
-**Fork.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage.    
-**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.    
-**Hurl Flame.** Ranged Spell Attack: +7 to hit, range 150 ft., one target. _Hit:_ 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+**Диявольський зір.** Магічна темрява не впливає на темний зір диявола.    
+
+**Магічна стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Диявол здійснює три атаки ближнього бою: дві своїми вилами та одну - хвостом. Він може використати Жбурляння вогню замість будь-якої атаки ближнього бою.    
+
+**Вила.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (2к8 + 6) колотих ушкоджень.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 10 (1к8 + 6) колотих ушкоджень. Якщо ціль - істота, яка не є невмерлим чи конструктом, то повинна здійснити рятівний кидок Статури з КС 17, або втрачатиме 10 (3к6) пунктів здоров'я на початку кожного свого ходу через пекельну рану. Щоразу, коли диявол влучає по пораненій цілі атакою, ушкодження, завдані раною, зростають на 10 (3к6). Будь-яка істота може використати дію, щоб залікувати рану успішною перевіркою Мудрості (Медицина) з КС 12. Рана також закривається, якщо ціль отримує магічне зцілення.    
+
+**Жбурляння вогню.** Далекобійна атака чарами: +7 до влучання, відстань 150 ф, одна ціль. _Влучання:_ 14 (4к6) ушкоджень вогнем. Якщо ціль є займистим предметом, який ніхто не тримає при собі, він також займається.

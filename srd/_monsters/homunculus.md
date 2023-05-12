@@ -1,27 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Homunculus
-type: Construct
+title: Гомункул
+type: Конструкт
 tag: 0
 ---
-_Tiny construct, neutral_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 5 (2d4)    
-**Speed** 20 ft., fly 40 ft. 
+_Конструкт крихітного розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 5 (2к4)    
+**Швидкість** 20 ф, політ 40 ф
 
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------ | ------- | ------- | ------- | ------- | ------ |
+| 4 (−3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2) |
 
-**Telepathic Bond.** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically. 
+![Гомункул](https://www.dndbeyond.com/avatars/thumbnails/30830/721/1000/1000/638063795653833960.png)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** розуміє мову свого творця, але не може говорити    
+**Небезпека** 0 (10 ПД)
+
+**Телепатичний зв'язок.** Поки гомункул перебуває на тому ж плані існування, що й його хазяїн, він може магічним чином передавати те, що відчуває, своєму господареві, й вони обоє можуть спілкуватися телепатично.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 1 колоте ушкодження, і ціль повинна зробити рятівний кидок Статури з КС 10, або буде отруєна на 1 хвилину. Якщо рятівний кидок провалюється на 5 або більше, ціль натомість отруєна на 5 (1к10) хвилин і непритомна, допоки отруєна таким чином.
