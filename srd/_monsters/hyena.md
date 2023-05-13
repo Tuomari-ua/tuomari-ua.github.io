@@ -1,25 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hyena
-type: Beast
+title: Гієна
+type: Звір
 tag: 0
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 5 (1d8 + 1)    
-**Speed** 50 ft.
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 13 (+1) | 12 (+1) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+**Клас захисту** 11    
+**Пункти здоров'я** 5 (1к8 + 1)    
+**Швидкість** 50 ф
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 0 (10 XP)    
-**Pack Tactics.** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage. 
+![Гієна](https://www.dndbeyond.com/avatars/thumbnails/9/902/1000/1000/636334288674955736.jpeg)
+
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 0 (10 ПД)    
+
+**Тактика зграї** Гієна має перевагу на кидки атаки проти істоти, якщо принаймні один із союзників гієни перебуває в межах 5 футів від цієї істоти, і цей союзник не недієздатний.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 3 (1к6) колотих ушкоджень. 
