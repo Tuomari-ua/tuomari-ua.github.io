@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Killer Whale
-type: Beast
+title: Косатка
+type: Звір
 tag: 3
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 90 (12d12 + 12)    
-**Speed** 0 ft., swim 60 ft.
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 13 (+1) | 3 (−4)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 90 (12к12 + 12)    
+**Швидкість** 0 ф, плавання 60 ф
 
-**Skills** Perception +3    
-**Senses** blindsight 120 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 13 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
-**Echolocation.** The whale can't use its blindsight while deafened.    
-**Hold Breath.** The whale can hold its breath for 30 minutes.    
-**Keen Hearing.** The whale has advantage on Wisdom (Perception) checks that rely on hearing. 
+**Навички** Сприйняття +3    
+**Чуття** сліпий зір 120 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 3 (700 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 21 (5d6 + 4) piercing damage. 
+**Ехолокація.** Косатка не може користуватися сліпим зором, коли оглушена.    
+
+**Зупинка дихання.** Косатка може затримувати подих на 30 хвилин.    
+
+**Гострий слух.** Косатка має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 21 (5к6 + 4) колотих ушкоджень. 
