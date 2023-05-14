@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Imp
-type: Fiend (devil)
+title: Чорт
+type: Погань
 tag: 1
 ---
-_Tiny fiend (devil, shapechanger), lawful evil_
 
-**Armor Class** 13    
-**Hit Points** 10 (3d4 + 3)    
-**Speed** 20 ft., fly 40 ft. 
+_Погань крихітного розміру (диявол, перекидень), законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 13    
+**Пункти здоров'я** 10 (3к4 + 3)    
+**Швидкість** 20 ф, політ 40 ф.
+
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
 | 6 (−2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
-   
-**Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 11    
-**Languages** Infernal, Common    
-**Challenge** 1 (200 XP) 
 
-**Shapechanger.** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Devil's Sight.** Magical darkness doesn't impede the imp's darkvision.    
-**Magic Resistance.** The imp has advantage on saving throws against spells and other magical effects. 
+![Чорт](https://www.dndbeyond.com/avatars/thumbnails/30782/21/1000/1000/638061948417487055.png)
 
-### Actions 
-**Sting (Bite in Beast Form).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.    
-**Invisibility.** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+**Навички** Обман +4, Здогадливість +3, Переконливість +4, Непомітність +5    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані ушкодження від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 11    
+**Мови** пекельна, спільна    
+**Небезпека** 1 (200 ПД)
+
+**Перекидень.** Чорт може використати дію, щоб перевтілитися у звіра, форма якого нагадує щура (швидкість 20 ф), крука (20 ф, політ 60 ф), або павука (20 ф, лазіння 20 ф), або назад у свою істинну форму. Його статистика залишається однаковою в усіх формах, окрім зазначеної зміни швидкості. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається в істинну форму, якщо вмирає.    
+
+**Диявольський зір.** Магічна темрява не впливає на темний зір чорта.    
+
+**Магічна стійкість.** Чорт має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Жало. (Укус у формі звіра).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к4 + 3) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, отримуючи 10 (3к6) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Невидимість.** Чорт магічним чином стає невидимим, допоки не атакує або поки не припиниться його концентрація (як при концентрації на чарах). Будь-яке спорядження, що чорт має при собі, стає невидимим разом із ним.

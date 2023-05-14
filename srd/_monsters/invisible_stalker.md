@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Invisible Stalker
-type: Elemental
+title: Невидимий переслідувач
+type: Стихійник
 tag: 6
 ---
-_Medium elemental, neutral_
 
-**Armor Class** 14    
-**Hit Points** 104 (16d8 + 32)    
-**Speed** 50 ft., fly 50 ft. (hover) 
+_Стихійник середнього розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14    
+**Пункти здоров'я** 104 (16к8 + 32)    
+**Швидкість** 50 ф, політ 50 ф (зависання)
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
-**Skills** Perception +8, Stealth +10    
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 60 ft., passive Perception 18    
-**Languages** Auran, understands Common but doesn't speak it    
-**Challenge** 6 (2,300 XP) 
+![Невидимий переслідувач](https://www.dndbeyond.com/avatars/thumbnails/30831/81/1000/1000/638063804958813537.png)
 
-**Invisibility.** The stalker is invisible.    
-**Faultless Tracker.** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner. 
+**Навички** Сприйняття +8, Непомітність +10    
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий, непритомний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 18    
+**Мови** ауран, розуміє спільну, але не говорить нею    
+**Небезпека** 6 (2300 ПД)
 
-### Actions 
-**Multiattack.** The stalker makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.
+**Невидимість.** Переслідувач невидимий.    
+
+**Бездоганний мисливець.** Переслідувач отримує здобич від свого прикликача. Переслідувач знає напрямок до здобичі та відстань до неї, допоки вони перебувають на одному плані існування. Переслідувач також знає розташування прикликача.
+
+### Дії
+**Мультиатака.** Переслідувач здійснює дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) дробильних ушкоджень.

@@ -1,36 +1,45 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ice Devil
-type: Fiend (devil)
+title: Крижаний диявол
+type: Погань
 tag: 14
 ---
-_Large fiend (devil), lawful evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 180 (19d10 + 76)    
-**Speed** 40 ft. 
+_Погань великого розміру (диявол), законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 180 (19к10 + 76)    
+**Швидкість** 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
-**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9    
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** cold, fire, poison    
-**Condition Immunities** poisoned    
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 14 (11,500 XP) 
+![Крижаний диявол](https://www.dndbeyond.com/avatars/thumbnails/30782/19/1000/1000/638061948317576166.png)
 
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Спр +7, Ста +9, Мдр +7, Хар +9    
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** холод, вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** сліпий зір 60 ф, темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 14 (11500 ПД)
 
-### Actions 
-**Multiattack.** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.    
-**Claws.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.    
-**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.    
-**Wall of Ice (Recharge 6).** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.    
-When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.    
-The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-­foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+**Диявольський зір.** Магічна темрява не впливає на темний зір диявола.    
+
+**Магічна стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Диявол робить три атаки: одну укусом, одну пазурами та одну - хвостом.    
+**Укус.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) колотих ушкоджень плюс 10 (3к6) ушкоджень холодом.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к4 + 5) рубаних ушкоджень плюс 10 (3к6) ушкоджень холодом.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) дробильних ушкоджень плюс 10 (3к6) ушкоджень холодом.    
+
+**Стіна льоду (Відновлення 6).** Диявол магічним чином створює непрозору стіну з льоду на твердій поверхні, яку може бачити в межах 60 футів від себе. Стіна завтовшки 1 фут, завдовжки 30 ф і заввишки 10 ф, або це може бути півсферичний купол до 20 футів у діаметрі.    
+
+Коли стіна з'являється, кожна істота в її просторі виштовхується назовні найкоротшим шляхом. Істота вибирає, на якому боці стіни опинитися, хіба що істота недієздатна. Потім істота робить рятівний кидок Спритності з КС 17, отримуючи 35 (10к6) ушкоджень холодом у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+Стіна існує упродовж 1 хвилини, або поки диявол не стане недієздатним або не помре. Стіну можна пошкодити й проломити; кожна 10-футова секція має КЗ 5, 30 пунктів здоров'я, вразливість до ушкоджень вогнем та імунітет до кислоти, холоду, некротичної енергії, отрути та психічної енергії. Якщо секція зруйнована, вона залишає по собі шар холодного повітря в просторі, що займала стіна. Щоразу як істота завершує переміщення крізь це повітря у свій хід, добровільно або ні, істота повинна зробити рятівний кидок Статури з КС 17, отримуючи 17 (5е6) ушкоджень холодом у разі невдачі або половину цих ушкоджень за умови успіху. Холодне повітря розсіюється, коли зникає решта стіни.
