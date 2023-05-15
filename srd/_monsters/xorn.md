@@ -1,31 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Xorn
-type: Elemental
+title: Зорн
+type: Стихійник
 tag: 5
 ---
-_Medium elemental, neutral_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 73 (7d8 + 42)    
-**Speed** 20 ft., burrow 20 ft. 
+_Стихійник середнього розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 73 (7к8 + 42)    
+**Швидкість** 20 ф, риття 20 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
-**Skills** Perception +6, Stealth +3    
-**Damage Resistances** piercing and slashing from nonmagical attacks that aren't adamantine    
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 16    
-**Languages** Terran    
-**Challenge** 5 (1,800 XP) 
+![Зорн](https://www.dndbeyond.com/avatars/thumbnails/30836/551/1000/1000/638063939544338029.png)
 
-**Earth Glide.** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.    
-**Stone Camouflage.** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.    
-**Treasure Sense.** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it. 
+**Навички** Сприйняття +6, Непомітність +3    
+**Стійкість до ушкоджень** колоті та рубані від немагічних атак зброєю, зробленою не з адамантину    
+**Чуття** темний зір 60 ф, чуття вібрацій 60 ф, пасивне Сприйняття 16    
+**Мови** терран    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The xorn makes three claw attacks and one bite attack.    
-**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (3d6 + 3) piercing damage.
+**Підземний плин.** Зорн може рити крізь немагічну необроблену землю та камінь. Роблячи це, зорн не порушує середовище, крізь яке переміщується.    
+
+**Кам’яне маскування.** Зорн має перевагу на перевірки Спритності (Непомітність) для переховування на кам'янистій місцевості.    
+
+**Чуття скарбів.** Зорн може встановити за запахом розташування цінних металів та каменів, таких як монети та коштовності, у межах 60 футів від себе.
+
+### Дії
+**Мультиатака.** Зорн робить три атаки клешнями та одну атаку укусом.    
+
+**Клешні.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) рубаних ушкоджень.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 13 (3к6 + 3) колотих ушкоджень.
