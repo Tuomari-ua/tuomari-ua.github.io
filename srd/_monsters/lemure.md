@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Lemure
-type: Fiend (devil)
+title: Лемур
+type: Погань
 tag: 0
 ---
-_Medium fiend (devil), lawful evil_
 
-**Armor Class** 7    
-**Hit Points** 13 (3d8)    
-**Speed** 15 ft. 
+_Погань середнього розміру (диявол), законний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 7    
+**Пункти здоров'я** 13 (3к8)    
+**Швидкість** 15 ф
+
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 10 (+0) | 5 (−3) | 11 (+0) | 1 (−5) | 11 (+0) | 3 (−4) |
-  
-**Damage Resistances** cold    
-**Damage Immunities** fire, poison    
-**Condition Immunities** charmed, frightened, poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** understands Infernal but can't speak    
-**Challenge** 0 (10 XP) 
 
-**Devil's Sight.** Magical darkness doesn't impede the lemure's darkvision.    
-**Hellish Rejuvenation.** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good‐aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.  
+![Лемур](https://www.dndbeyond.com/avatars/thumbnails/30782/27/1000/1000/638061948542817137.png)
 
-### Actions 
-**Fist.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
+**Стійкість до ушкоджень** холод    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** причарований, наляканий, отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 10    
+**Мови** розуміє пекельну, але не може говорити    
+**Небезпека** 0 (10 ПД)
+
+**Диявольський зір** Магічна темрява не впливає на темний зір лемура.    
+
+**Пекельне відновлення.** Лемур, що вмирає в Дев'ятьох Пеклах, повертається до життя і усіма своїми пунктами здоров'я через 1к10 днів, хіба що його вбила істота з добрим світоглядом, що перебувала під чарами благословення, або якщо його рештки оббризкали святою водою.
+
+### Дії
+**Кулак.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к4) дробильних ушкоджень.

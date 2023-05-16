@@ -1,50 +1,60 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Lich
-type: Undead
+title: Ліч
+type: Невмерлий
 tag: 21
 ---
-_Medium undead, any evil alignment_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 135 (18d8 + 54)    
-**Speed** 30 ft. 
+_Невмерлий середнього розміру, будь-який злий світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 135 (18к8 + 54)    
+**Швидкість** 30 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
 
-**Saving Throws** Con +10, Int +12, Wis +9    
-**Skills** Arcana +18, History +12, Insight +9, Perception +9    
-**Damage Resistances** cold, lightning, necrotic    
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned    
-**Senses** truesight 120 ft., passive Perception 19    
-**Languages** Common plus up to five other languages    
-**Challenge** 21 (33,000 XP) 
+![Ліч](https://www.dndbeyond.com/avatars/thumbnails/30832/378/1000/1000/638063837085902470.png)
 
-**Legendary Resistance (3/Day).** If the lich fails a saving throw, it can choose to succeed instead.    
-**Rejuvenation.** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.    
-**Spellcasting.** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:    
-Cantrips (at will): **_mage hand, prestidigitation, ray of frost_**    
-1st level (4 slots): **_detect magic, magic missile, shield, thunderwave_**    
-2nd level (3 slots): **_acid arrow, detect thoughts, invisibility, mirror image_**    
-3rd level (3 slots): **_animate dead, counterspell, dispel magic, fireball_**    
-4th level (3 slots): **_blight, dimension door_**    
-5th level (3 slots): **_cloudkill, scrying_**    
-6th level (1 slot): **_disintegrate, globe of invulnerability_**    
-7th level (1 slot): **_finger of death, plane shift_**    
-8th level (1 slot): **_dominate monster, power word stun_**   
-9th level (1 slot): **_power word kill_**    
-**Turn Resistance.** The lich has advantage on saving throws against any effect that turns undead. 
+**Рятівні кидки** Ста +10, Інт +12, Мдр +9    
+**Навички** Аркана +18, Історія +12, Здогадливість +9, Сприйняття +9    
+**Стійкість до ушкоджень** холод, блискавка, некротична енергія    
+**Імунітет до ушкоджень** отрута; дробильні, колота та рубані від немагічних атак    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 19    
+**Мови** спільна плюс до п'яти інших мов    
+**Небезпека** 21 (33000 ПД)
 
-### Actions 
-**Paralyzing Touch.** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+**Легендарна стійкість (3/день).** Якщо ліч провалює рятівний кидок, він може натомість обрати успіх.    
 
-### Legendary Actions 
-The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.    
-**Cantrip.** The lich casts a cantrip.    
-**Paralyzing Touch (Costs 2 Actions).** The lich uses its Paralyzing Touch.    
-**Frightening Gaze (Costs 2 Actions).** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.    
-**Disrupt Life (Costs 3 Actions).** Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+**Омолодження.** Якщо він має філактерію, знищений ліч отримує нове тіло через 1к10 днів, відновлюючи всі свої пункти здоров'я та знову стаючи активним. Нове тіло з'являється у межах 5 футів від філактерії.    
+
+**Чарування.** Ліч є чаротворцем 18 рівня. Його чаротворча здібність - Інтелект (КС чарів 20, +12 до влучання атаками чарів). Ліч має підготовленими наступні чари мага:    
+Замовляння (за бажанням): **_магічна рука, штукарство, промінь холоду_**    
+1 рівень (4 чарунки): **_виявлення магії, магічний дротик, щит, громова хвиля_**    
+2 рівень (3 чарунки): **_кислотна стріла, виявлення думок, невидимість, віддзеркалення_**    
+3 рівень (3 чарунки): **_підіймання мерців, контрчари, розвіювання магії, вогнекуля_**    
+4 рівень (3 чарунки): **_усихання, двері між вимірами_**    
+5 рівень (3 чарунки): **_вбивча хмара, стеження_**    
+6 рівень (1 чарунка):**_розщеплення, сфера невразливості_**    
+7 рівень (1 чарунка): **_палець смерті, планарний перехід_**    
+8 рівень (1чарунка): **_підкорення монстра, слово сили: приголомшення_**   
+9 рівень (1 чарунка): **_слово сили: смерть_**    
+
+**Стійкість до вигнання.** Ліч має перевагу на рятівні кидки проти будь-якого ефекту, що виганяє невмерлих.
+
+### Дії
+**Паралізуючий дотик.** Атака чарами ближнього бою: +12 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (3к6) ушкоджень холодом. Ціль повинна зробити рятівний кидок Статури з КС 18, або буде паралізована на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.
+
+### Легендарні дії
+Ліч може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Ліч відновлює свої легендарні дії на початку свого ходу.    
+
+**Замовляння.** Ліч створює замовляння.    
+
+**Паралізуючий дотик (коштує 2 дії).** Ліч використовує Паралізуючий дотик.    
+
+**Моторошний погляд (коштує 2 дії).** Ліч фіксує погляд на одній істоті, яку може бачити в межах 10 футів від себе. Ціль повинна зробити рятівний кидок Мудрості з КС 18 проти цієї магії, або буде налякана на 1 хвилину. Налякана ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. Якщо рятівний кидок цілі успішний або якщо ефект для неї завершився, ціль має імунітет до погляду ліча на наступні 24 години.    
+
+**Переривання життя (коштує 3 дії).** Кожна жива істота в межах 20 футів від ліча повинна зробити рятівний кидок Статури з КС 18 проти цієї магії, отримуючи 21 (6к6) некротичних ушкоджень у разі невдачі або половину цих ушкоджень за умови успіху.
