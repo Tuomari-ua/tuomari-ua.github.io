@@ -15,7 +15,7 @@ layout: default
 | 🎲 [Забіяка](./docs/character/classes/fighter.html)                 | 🎲 [Карлик](./docs/character/races/dwarf.html)               | 
 | 🎲 [Дикун](./docs/character/classes/barbarian.html)                 | 🎲 [Дракононароджений](./docs/character/races/dragonborn.html)|
 | 🎲 [Мольфар](./docs/character/classes/druid.html)                   | 🎲 [Ельф](./docs/character/races/elf.html)                  | 
-| 🎲 [Джерер (Химородник)](./docs/character/classes/sorcerer.html)    | 🎲 [Людина](./docs/character/races/human.html)              | 
+| 🎲 [Джерер (Химородник)](./docs/character/classes/sorcerer.html)    | 🎲 [Людинолюд](./docs/character/races/human.html)              | 
 | 🎲 [Ксьондз (Панотець, Душпастир)](./docs/character/classes/cleric.html)                   | 🎲 [Людиноельф](./docs/character/races/half-elf.html)        |
 | 🎲 [Мудард](./docs/character/classes/wizard.html)                   | 🎲 [Людиноорк](./docs/character/races/half-orc.html)         |
 | 🎲 [Монах (Чернець, Схимник)](./docs/character/classes/monk.html)   | 🎲 [Півлюдець](./docs/character/races/halfling.html)        |
