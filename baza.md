@@ -16,10 +16,10 @@ layout: default
 | 🎲 [Дикун](./docs/character/classes/barbarian.html)                 | 🎲 [Дракононароджений](./docs/character/races/dragonborn.html)|
 | 🎲 [Мольфар](./docs/character/classes/druid.html)                   | 🎲 [Ельф](./docs/character/races/elf.html)                  | 
 | 🎲 [Джерер (Химородник)](./docs/character/classes/sorcerer.html)    | 🎲 [Людина](./docs/character/races/human.html)              | 
-| 🎲 [Клірик](./docs/character/classes/cleric.html)                   | 🎲 [Людиноельф](./docs/character/races/half-elf.html)        |
+| 🎲 [Ксьондз (Панотець, Душпастир)](./docs/character/classes/cleric.html)                   | 🎲 [Людиноельф](./docs/character/races/half-elf.html)        |
 | 🎲 [Мудард](./docs/character/classes/wizard.html)                   | 🎲 [Людиноорк](./docs/character/races/half-orc.html)         |
 | 🎲 [Монах (Чернець, Схимник)](./docs/character/classes/monk.html)   | 🎲 [Півлюдець](./docs/character/races/halfling.html)        |
-| 🎲 [Хрестоносець (Сторожка, Ревнитель](./docs/character/classes/paladin.html)                 | 🎲 [Глибоченець](./docs/character/races/tiefling.html)      |
+| 🎲 [Хрестоносець (Сторожка, Ревнитель)](./docs/character/classes/paladin.html)                 | 🎲 [Глибоченець](./docs/character/races/tiefling.html)      |
 | 🎲 [Шельма (Жевжик, Спритник, Масалига)](./docs/character/classes/rogue.html) |                                                   |
 | 🎲 [Дільничий (Стежкар)](./docs/character/classes/ranger.html)                |                                                             |
 | 🎲 [Війлок (Характерник, Чорнокнижник)](./docs/character/classes/warlock.html)   |                                                |
