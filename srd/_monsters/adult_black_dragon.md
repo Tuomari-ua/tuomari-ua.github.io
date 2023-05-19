@@ -1,40 +1,52 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Adult Black Dragon
-type: Dragon
+title: Дорослий чорний дракон
+type: Дракон
 tag: 14
 ---
-_Huge dragon, chaotic evil_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 195 (17d12 + 85)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+_Дракон величезного розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 195 (17к12 + 85)    
+**Швидкість** 40 ф, політ 80 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8    
-**Skills** Perception +11, Stealth +7    
-**Damage Immunities** acid    
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21    
-**Languages** Common, Draconic    
-**Challenge** 14 (11,500 XP) 
+![Дорослий чорний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/337/1000/1000/638061959000854245.png)
 
-**Amphibious.** The dragon can breathe air and water.    
-**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can choose to succeed instead. 
+**Рятівні кидки** Спр +7, Ста +10, Мдр +6, Хар +8    
+**Навички** Сприйняття +11, Непомітність +7    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 60 ф, темний зір 120 ф, пасивне Сприйняття 21    
+**Мови** спільна, драконова    
+**Небезпека** 14 (11500 ПД)
 
-### Actions 
-**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.    
-**Claw.** _Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.    
-**Tail.** _Melee Weapon Attack:_ +11 to hit, reach 15 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage.    
-**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 60-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one. 
+**Амфібія.** Дракон може дихати повітрям і водою.    
 
-### Legendary Actions 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    
-**Detect.** The dragon makes a Wisdom (Perception) check.    
-**Tail Attack.** The dragon makes a tail attack.    
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Легендарна стійкість (3/День).** Якщо дракон провалює рятівний кидок, він може натомість вибрати успіх.
+
+### Дія
+**Мультиатака.** Дракон може використовувати свою Страхітливу присутність. Потім він може зробити три атаки: одну укусом та дві пазурами.    
+
+**Укус** _Атака зброєю ближнього бою:_ +11 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 17 (2к10 + 6) колотих ушкодежнь плюс 4 (1к8) ушкоджень кислотою.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +11 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к6 + 6) рубаних ушкоджень.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +11 до влучання, досяжність 15 ф, одна ціль. _Влучання:_ 15 (2к8 + 6) дробильних ушкоджень.    
+
+**Страхітлива присутність.** Кожна істота за вибором дракона, якщо перебуває у межах 120 футів від нього і знає про нього, повинна зробити рятівний кидок Мудрості з КС 16, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. Якщо істота зробила успішний рятівний кидок і ефект для неї завершився, істота набуває імунітету до Страхітливої присутності дракона на наступні 24 години.    
+
+**Кислотне дихання (Відновлення 5-6).** Дракон видихає кислоту лінією завдовжки 60 ф та завширшки 5 ф. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 18, отримуючи 54 (12к8) ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху.
+
+### Легендарні дії
+Дракон може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Дракон відновлює використані легендарні дії на початку свого ходу.    
+
+**Пошук.** Дракон робить перевірку Мудрості (Сприйняття).    
+
+**Атака хвостом.** Дракон здійснює одну атаку хвостом.    
+
+**Атака крилами (коштує 2 дії).** Дракон б'є крилами. Кожна істота в межах 10 футів від дракона повинна зробити рятівний кидок Спритності з КС 19, або отримає 13 (цк6 + 6) дробильних ушкоджень і буде збита з ніг. Потім дракон може пролетіти до половини своєї швидкості польоту.
