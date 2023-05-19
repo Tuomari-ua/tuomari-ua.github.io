@@ -12,8 +12,8 @@ layout: default
 | Класи                                                               | Раси                                                |
 |---------------------------------------------------------------------|-----------------------------------------------------|
 | 🎲 [Кобзар (Трубадур)](./docs/character/classes/bard.html)          | 🎲 [Гном](./docs/character/races/gnome.html)                 | 
-| 🎲 [Боєць](./docs/character/classes/fighter.html)                   | 🎲 [Карлик](./docs/character/races/dwarf.html)               | 
-| 🎲 [Варвар](./docs/character/classes/barbarian.html)                | 🎲 [Дракононароджений](./docs/character/races/dragonborn.html)|
+| 🎲 [Забіяка](./docs/character/classes/fighter.html)                   | 🎲 [Карлик](./docs/character/races/dwarf.html)               | 
+| 🎲 [Дикун](./docs/character/classes/barbarian.html)                | 🎲 [Дракононароджений](./docs/character/races/dragonborn.html)|
 | 🎲 [Мольфар](./docs/character/classes/druid.html)                   | 🎲 [Ельф](./docs/character/races/elf.html)                  | 
 | 🎲 [Джерер (Химородник)](./docs/character/classes/sorcerer.html)    | 🎲 [Людина](./docs/character/races/human.html)              | 
 | 🎲 [Клірик](./docs/character/classes/cleric.html)                   | 🎲 [Напівельф](./docs/character/races/half-elf.html)        |
@@ -31,8 +31,8 @@ layout: default
 | 🎲 [Моторність](./docs/rules/abilities/dexterity.html)      |
 | 🎲 [Тілобудова](./docs/rules/abilities/constitution.html)   | 
 | 🎲 [Розумність](./docs/rules/abilities/intelligence.html)   |
-| 🎲 [Мудрість](./docs/rules/abilities/wisdom.html)           |
-| 🎲 [Харизма](./docs/rules/abilities/charisma.html)          |
+| 🎲 [Тямущість](./docs/rules/abilities/wisdom.html)           |
+| 🎲 [Краса](./docs/rules/abilities/charisma.html)          |
 
 
 - - -
