@@ -2,7 +2,7 @@
 layout: page-nontoc
 category: monsters
 title: Дорослий латунний дракон
-type: #Дракон
+type: Дракон
 tag: 13
 ---
 
