@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Medusa
-type: Monstrosity
+title: Медуза
+type: Чудовисько
 tag: 6
 ---
-_Medium monstrosity, lawful evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 127 (17d8 + 51)    
-**Speed** 30 ft. 
+_Чудовисько середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 127 (17к8 + 51)    
+**Швидкість** 30 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
-**Skills** Deception +5, Insight +4, Perception +4, Stealth +5    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Common    
-**Challenge** 6 (2,300 XP) 
+**Навички** Обман +5, Здогадливість +4, Сприйняття +4, Непомітність +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** спільна    
+**Небезпека** 6 (2300 ПД)
 
-**Petrifying Gaze.** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.    
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.    
-If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze. 
+**Скам'янілий погляд.** Якщо істота, котра може бачити очі медузи, починає хід у межах 30 футів від неї, медуза може змусити істоту зробити рятівний кидок Статури з КС 14, якщо медуза не недієздатна і може бачити істоту. Якщо рятівний кидок провалюється на 5 або більше, істота миттєво кам'яніє. В іншому випадку істота, що провалила ряткидок, починає перетворюватися на камінь і стає скутою. Скута істота повинна повторити рятівний кидок в кінці свого наступного ходу, стаючи скам'янілою у разі невдачі або завершуючи ефект за умови успіху. Скам'яніння триває, доки істота не буде звільнена чарами більшого відновлення або іншою магією.    
 
-### Actions 
-**Multiattack.** The medusa makes either three melee attacks--one with its snake hair and two with its shortsword--or two ranged attacks with its longbow.    
-**Snake Hair.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Longbow.** _Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+Якщо не захоплена зненацька, істота може відвести очі, аби уникнути рятівного кидка в свій хід. Якщо істота робить так, вона не може бачити медузу до початку свого наступного ходу, коли знову зможе відвести очі. Якщо істота в цей час погляне на медузу, то мусить зробити рятівний кидок негайно.    
+
+Якщо медуза бачить своє віддзеркалення у полірованій поверхні у межах 30 футів від себе і в області яскравого світла, то медуза, відповідно до прокляття, піддається впливу власного погляду.
+
+### Дії
+**Мультиатака.** Медуза робить три атаки ближнього бою - одну своїм зміїним волоссям та дві коротким мечем, або дві далекобійні атаки довгим луком.    
+
+**Зміїне волосся.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень плюс 14 (4к6) ушкоджень отрутою.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +5 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень плюс 7 (2к6) ушкоджень отрутою.

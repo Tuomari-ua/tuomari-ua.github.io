@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Mastiff
-type: Beast
-tag: .125
+title: Мастиф
+type: Звір
+tag: 0.125
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 5 (1d8 + 1)    
-**Speed** 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 5 (1к8 + 1)    
+**Швидкість** 40 ф
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (−4) | 12 (+1) | 7 (−2) |
 
-**Keen Hearing and Smell.** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
+**Гострий слух і нюх.** Мастиф має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.
 
-### Description
-Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts. 
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 11, або буде збита з ніг.
+
+### Опис
+Мастифи - це виняткові собаки, яких гуманоїди цінують за лояльність та гострі чуття. Мастифів можна натренувати як сторожових, мисливських або бойових псів. Напіврослики та інші гуманоїди малого розміру, їздять на них верхи. 
