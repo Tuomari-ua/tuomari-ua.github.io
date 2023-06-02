@@ -1,26 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Merfolk
-type: Humanoid (merfolk)
-tag: .125
+title: Мерфольк
+type: Гуманоїд
+tag: 0.125
 ---
-_Medium humanoid (merfolk), neutral_
 
-**Armor Class** 11    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 10 ft., swim 40 ft. 
+_Гуманоїд середнього розміру (мерфольк), нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 11    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 10 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
 
-**Skills** Perception +2    
-**Senses** passive Perception 12    
-**Languages** Aquan, Common    
-**Challenge** 1/8 (25 XP) 
+![Мерфольк](https://www.dndbeyond.com/avatars/thumbnails/30833/374/1000/1000/638063862492555953.png)
 
-**Amphibious.** The merfolk can breathe air and water. 
+**Навички** Сприйняття +2    
+**Чуття** пасивне Сприйняття 12    
+**Мови** акван, спільна    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions 
-**Spear.** _Melee or _Ranged Weapon Attack:__ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+**Амфібія.** Мерфольк може дихати повітрям і водою.
+
+### Дії
+**Спис.** _Атака зброєю ближнього бою або далекобійна:_ +2 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 3 (1к6) колотих ушкоджень, або 4 (1к8) колотих ушкоджень, якщо використовує для атаки ближнього бою двома руками.
