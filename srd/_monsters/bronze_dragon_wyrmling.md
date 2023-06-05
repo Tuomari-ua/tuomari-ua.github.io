@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bronze Dragon Wyrmling
-type: Dragon
+title: Змієня бронзового дракона
+type: Дракон
 tag: 2
 ---
-_Medium dragon, lawful good_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 32 (5d8 + 10)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft. 
+_Дракон середнього розміру, законний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 32 (5к8 + 10)    
+**Швидкість** 30 ф, політ 60 ф, плавання 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** lightning    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP) 
+![Змієня бранзового дракона](https://www.dndbeyond.com/avatars/thumbnails/16/492/1000/1000/636376306909593829.jpeg)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +2, Ста +4, Мдр +2, Хар +4    
+**Навички** Сприйняття +4, Непомітність +2    
+**Імунітет до ушкоджень** блискавка    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к10 + 3) колотих ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Дихання блискавкою.** Дракон видихає блискавку лінією завдовжки 40 ф та завширшки 5 ф. Кожна істота в цій лінії повинна здійснити рятівний кидок Спритності з КС 12, отримуючи 16 (3к10) ушкоджень блискавкою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Огидне дихання.** Дракон видихає відштовхувальну енергію 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Сили з КС 12. У разі невдачі істота відштовхується на 30 футів геть від дракона.

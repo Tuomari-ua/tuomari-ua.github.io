@@ -1,4 +1,4 @@
-]---
+---
 layout: page-nontoc
 category: monsters
 title: Древній мідний дракон
