@@ -1,29 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Copper Dragon Wyrmling
-type: Dragon
+title: Змієня мідного дракона
+type: Дракон
 tag: 1
 ---
-_Medium dragon, chaotic good_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 30 ft., climb 30 ft., fly 60 ft. 
+_Дракон середнього розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 22 (4к8 + 4)    
+**Швидкість** 30 ф, лазіння 30 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +3    
-**Damage Immunities** acid    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 1 (200 XP) 
+![Змієня мідного дракона](https://www.dndbeyond.com/avatars/thumbnails/30782/536/1000/1000/638061965633505640.png)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.    
-**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+**Рятівні кидки** Спр +3, Ста +3, Мдр +2, Хар +3    
+**Навички** Сприйняття +4, Непомітність +3    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 1 (200 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Кислотне дихання.** Дракон видихає кислоту лінією завдовжки 20 ф та завширшки 5 ф. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 11, отримуючи 18 (4к8) ушкоджень кислотою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Повільне дихання.** Дракон видихає газ 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 11. У разі невдачі істота не може використовувати реакції, її швидкість зменшена вдвічі, і вона не може здійснювати більше однієї атаки в свій хід. На додачу істота може використовувати в свій хід або дію, або бонусну дію, але не обидві. Ці ефекти тривають 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, припиняючи ефект у разі успіху.

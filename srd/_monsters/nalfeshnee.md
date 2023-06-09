@@ -1,33 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Nalfeshnee
-type: Fiend (demon)
+title: Нальфешні
+type: Погань
 tag: 13
 ---
-_Large fiend (demon), chaotic evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 184 (16d10 + 96)    
-**Speed** 20 ft., fly 30 ft. 
+_Погань великого розміру (демон), хаотичний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 184 (16к10 + 96)    
+**Швидкість** 20 ф, політ 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
-**Saving Throws** Con +11, Int +9, Wis +6, Cha +7    
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 11    
-**Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 13 (10,000 XP)   
+![Нальфешні](https://www.dndbeyond.com/avatars/thumbnails/30781/631/1000/1000/638061932026824909.png)
 
-**Magic Resistance.** The nalfeshnee has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Ста +11, Інт +9, Мдр +6, Хар +7    
+**Стійкість до ушкоджень** холод, вогонь, блискавка; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 11    
+**Мови** безоднева, телепатія 120 ф    
+**Небезпека** 13 (10000 ПД)
 
-### Actions 
-**Multiattack.** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 32 (5d10 + 5) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (3d6 + 5) slashing damage.    
-**Horror Nimbus (Recharge 5–6).** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.    
-**Teleport.** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+**Магічна стійкість.** Нальфешні має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Нальфешні використовує Німб жахів, якщо може. Потім він робить три атаки: одну укусом та дві пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 32 (5к10 + 5) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (3к6 + 5) рубаних ушкоджень.    
+
+**Німб жахів (Відновлення 5-6).** Нальфешні магічним чином випромінює іскристе, різноколірне світло. Кожна істота в межах 15 футів від нальфешні, що може бачити це світло, повинна зробити рятівний кидок Мудрості з КС 15, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. Якщо рятівний кидок істоти успішний або ефект для неї завершився, істота набуває імунітету до Німбу жахів нальфешні на наступні 24 години.    
+
+**Телепорт.** Нальфешні магічним чином телепортується, разом із усім спорядженням, що має при собі, на 120 футів у вільний простір, який може бачити.
