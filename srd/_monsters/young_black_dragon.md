@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Black Dragon
-type: Dragon
+title: Молодий чорний дракон
+type: Дракон
 tag: 7
 ---
-_Large dragon, chaotic evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 127 (15d10 + 45)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+_Дракон великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 127 (15к10 + 45)    
+**Швидкість** 40 ф, політ 80 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
- 
-**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5    
-**Skills** Perception +6, Stealth +5    
-**Damage Immunities** acid    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 7 (2,900 XP)  
 
-**Amphibious.** The dragon can breathe air and water. 
+![Молодий чорний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/342/1000/1000/638061959083794306.png)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 30­‐foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +5, Ста +6, Мдр +3, Хар +5    
+**Навички** Сприйняття +6, Непомітність +5    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 16    
+**Мови** спільна, драконова    
+**Небезпека** 7 (2900 ПД)
+
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (2к10 + 4) колотих ушкоджень плюс 4 (1к8) ушкоджень кислотою.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 +4) рубаних ушкоджень.    
+
+**Кислотний подих (Відновлення 5-6).** Дракон видихає кислоту лінією завдовжки 30 футів та завширшки 5 футів. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 14, отримуючи 49 (11к8) ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху.

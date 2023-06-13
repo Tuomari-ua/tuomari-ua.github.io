@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Green Dragon
-type: Dragon
+title: Молодий зелений дракон
+type: Дракон
 tag: 8
 ---
-_Large dragon, lawful evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 136 (16d10 + 48)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+_Дракон великого розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 136 (16к10 + 48)    
+**Швидкість** 40 ф, політ 80 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
-**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5    
-**Skills** Deception +5, Perception +7, Stealth +4    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17    
-**Languages** Common, Draconic    
-**Challenge** 8 (3,900 XP)   
+![Молодий зелений дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/387/1000/1000/638061960699154944.png)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +4, Ста +6, Мдр +4, Хар +5    
+**Навички** Обман +5, Сприйняття +7, Непомітність +4    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** сліпий зір 10 ф, темний зір 120 ф, пасивне Сприйняття 17    
+**Мови** драконова    
+**Небезпека** 8 (3900 ПД)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Poison Breath (Recharge 5–6).** The dragon exhales poisonous gas in a 30‐foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (2к10 + 4) колотих ушкоджень плюс 7 (2к6) ушкоджень отрутою.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.    
+
+**Отруйний подих (Відновлення 5-6).** Дракон видихає отруйний газ 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 14, отримуючи 42 (12к6) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.

@@ -1,31 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Copper Dragon
-type: Dragon
+title: Молодий мідний дракон
+type: Дракон
 tag: 7
 ---
-_Large dragon, chaotic good_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 119 (14d10 + 42)    
-**Speed** 40 ft., climb 40 ft., fly 80 ft. 
+_Дракон великого розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 119 (14к10 + 42)    
+**Швидкість** 40 ф, лазіння 40 ф, політ 80 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
-**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5    
-**Skills** Deception +5, Perception +7, Stealth +4    
-**Damage Immunities** acid    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17    
-**Languages** Common, Draconic    
-**Challenge** 7 (2,900 XP) 
+![Молодий мідний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/533/1000/1000/638061965515055582.png)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.    
-**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+**Рятівні кидки** Спр +4, Ста +6, Мдр +4, Хар +5    
+**Навички** Обман +5, Сприйняття +7, Непомітність +4    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 17    
+**Мови** спільна, драконова    
+**Небезпека** 7 (2900 ПД)
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 14 (2к10 + 4) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Кислотне дихання.** Дракон видихає кислоту лінією завдовжки 40 ф та завширшки 5 ф. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 14, отримуючи 40 (9к8) ушкоджень кислотою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Повільне дихання.** Дракон видихає газ 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 14. У разі невдачі істота не може використовувати реакції, її швидкість зменшена вдвічі, і вона не може здійснювати більше однієї атаки в свій хід. На додачу істота може використовувати в свій хід або дію, або бонусну дію, але не обидві. Ці ефекти тривають 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, припиняючи ефект у разі успіху.
