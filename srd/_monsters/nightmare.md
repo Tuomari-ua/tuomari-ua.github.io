@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Nightmare
-type: Fiend
+title: Кошмар
+type: Погань
 tag: 3
 ---
-_Large fiend, neutral evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 68 (8d10 + 24)    
-**Speed** 60 ft., fly 90 ft. 
+_Погань великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 68 (8к10 + 24)    
+**Швидкість** 60 ф, політ 90 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
-**Damage Immunities** fire    
-**Senses** passive Perception 11    
-**Languages** understands Abyssal, Common, and Infernal but can't speak    
-**Challenge** 3 (700 XP) 
+![Кошмар](https://www.dndbeyond.com/avatars/thumbnails/30833/688/1000/1000/638063870454021777.png)
 
-**Confer Fire Resistance.** The nightmare can grant resistance to fire damage to anyone riding it.    
-**Illumination.** The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet. 
+**Імунітет до ушкоджень** вогонь    
+**Чуття** пасивне Сприйняття 11    
+**Мови** розуміє безодневу, спільну та пекельну, але не може говорити    
+**Небезпека** 3 (700 ПД)
 
-### Actions 
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.    
-**Ethereal Stride.** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+**Наділення стійкістю до вогню.** Кошмар може надати стійкість до ушкоджень вогнем будь-кому, хто їде на ньому верхи.    
+
+**Освітлення.** Кошмар випромінює яскраве світло у радіусі 10 футів та тьмяне світло - на додаткові 10 футів.
+
+### Дії
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень плюс 7 (2к6) ушкоджень вогнем.    
+
+**Етерний хід.** Кошмар і до трьох згодних істот у межах 5 футів від нього магічним чином входять до Етерного плану з Матеріального плану, або навпаки.
