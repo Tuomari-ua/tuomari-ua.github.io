@@ -1,33 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Oni
-type: Giant
+title: Оні
+type: Велет
 tag: 7
 ---
-_Large giant, lawful evil_
-**Armor Class** 16 (chain mail)    
-**Hit Points** 110 (13d10 + 39)    
-**Speed** 30 ft., fly 30 ft. 
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+_Велет великого розміру, законний злий_ **Клас захисту** 16 (кольчуга)    
+**Пункти здоров'я** 110 ( 13к10 + 39)    
+**Швидкість** 30 ф, політ 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
-**Saving Throws** Dex +3, Con +6, Wis +4, Cha +5    
-**Skills** Arcana +5, Deception +8, Perception +4    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Common, Giant    
-**Challenge** 7 (2,900 XP)  
+**Рятівні кидки** Спр +3, Ста +6, Мдр +4, Хар +5    
+**Навички** Аркана +5, Обман +8, Сприйняття +4    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** спільна, велетова    
+**Небезпека** 7 (2900 ПД)
 
-**Innate Spellcasting.** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:    
-At will: **_darkness, invisibility_**    
-1/day each: **_charm person, cone of cold, gaseous form, sleep_**    
-**Magic Weapons.** The oni's weapon attacks are magical.    
-**Regeneration.** The oni regains 10 hit points at the start of its turn if it has at least 1 hit point. 
+**Вроджене чарування.** Вродженою чаротворчою здібністю оні є Харизма (КС чарів 13). Оні може природним чином створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_темрява, невидимість_**    
+1/день кожне: **_ причарування особи, конус холоду, газоподібна форма, сон_**    
 
-### Actions 
-**Multiattack.** The oni makes two attacks, either with its claws or its glaive.    
-**Claw (Oni Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.    
-**Glaive.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.    
-**Change Shape.** The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+**Магічна зброя.** Атаки оні зброєю є магічними.    
+
+**Регенерація.** Оні відновлює 10 пунктів здоров'я на початку кожного свого ходу, якщо має принаймні 1 пункт здоров'я.
+
+### Дії
+**Мультиатака.** Оні робить дві атаки, або своїми пазурами, або глефою.    
+
+**Пазурі (тільки у формі оні).** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к8 + 4) рубаних ушкоджень.    
+
+**Глефа.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 15 (2к10 + 4) рубаних ушкоджень або 9 (1к10 + 4) рубаних ушкоджень у формі, чий розмір Малий або Середній.    
+
+**Зміна форми.**Оні магічним чином перевтілюється на гуманоїда, чий розмір Малий або Середній, або на велета Великого розміру, або назад у свою істинну форму. Окрім розміру, його статистика залишається однаковою в кожній формі. Єдине спорядження, що змінюється - це його глефа, котра зменшується так, щоб він міг тримати її в гуманоїдній формі. Якщо оні вмирає, він обертається у свою істинну форму, і його глефа повертається до свого нормального розміру.

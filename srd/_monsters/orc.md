@@ -1,27 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Orc
-type: Humanoid (orc)
-tag: .5
+title: Орк
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (orc), chaotic evil_
 
-**Armor Class** 13 (hide armor)    
-**Hit Points** 15 (2d8 + 6)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (орк), хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2)  | 11 (+0) | 10 (+0) |
+**Клас захисту** 13 (шкура)    
+**Пункти здоров'я** 15 (2к8 + 6)    
+**Швидкість** 30 ф.
 
-**Skills** Intimidation +2    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common, Orc    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (−2) | 11 (+0) | 10 (+0) |
 
-**Aggressive**. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see. 
+**Навички** Залякування +2    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** спільна, оркська    
+Небезпека</strong> 1/2 (100 ПД)
 
-### Actions 
-**Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+**Агресивний**. Бонусною дією орк може переміститися на свою швидкість до ворожої істоти, яку може бачити.
+
+### Дії
+**Дворучна сокира.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (1к12 + 3) рубаних ушкоджень.    
+
+**Сулиця.** _Атака зброєю ближнього бою або далекобійна:_ +5 до влучання, досяжність 5 ф або відстань 30/120 ф, одна ціль.  _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.

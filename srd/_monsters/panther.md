@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Panther
-type: Beast
-tag: .25
+title: Пантера
+type: Звір
+tag: 0.25
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 13 (3d8)    
-**Speed** 50 ft., climb 40 ft.
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 15 (+2) | 10 (+0) | 3 (−4)  | 14 (+2) | 7 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 13 (3к8)    
+**Швидкість** 50 ф, лазіння 40 ф.
 
-**Skills** Perception +4, Stealth +6    
-**Senses** passive Perception 14    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 15 (+2) | 10 (+0) | 3 (−4) | 14 (+2) | 7 (−2) |
 
-**Keen Smell.** The panther has advantage on Wisdom (Perception) checks that rely on smell.   
-**Pounce.** If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action. 
+**Навички** Сприйняття +4, Непомітність +6    
+**Чуття** пасивне Сприйняття 14    
+**Мови** --    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) slashing damage. 
+**Гострий нюх.** Пантера має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.   
+
+**Напад.** Якщо пантера переміщується принаймні на 20 футів прямо до істоти й потім влучає по ній атакою пазурами в той самй хід, ця ціль повинна зробити рятівний кидок Сили з КС 12, або буде збита з ніг. Якщо ціль збита з ніг, пантера може зробити по ній одну атаку укусом бонусною дією.
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) рубаних ушкоджень. 

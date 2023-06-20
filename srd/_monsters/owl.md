@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Owl
-type: Beast
+title: Сова
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 5 ft., fly 60 ft.
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 13 (+1) | 8 (−1)  | 2 (−4)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 11    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 5 ф, політ 60 ф
 
-**Skills** Perception +3, Stealth +3    
-**Senses** darkvision 120 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 3 (−4) | 13 (+1) | 8 (−1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
-**Flyby.** The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.    
-**Keen Hearing and Sight.** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight. 
+**Навички** Сприйняття +3, Непомітність +3    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions 
-**Talons.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage. 
+**Пролітання.** Сова не провокує атак при нагоді, коли вилітає за межі досяжності ворога.    
+**Гострий слух та зір.** Сова має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або зір.
+
+### Дії
+**Кігті.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 рубане ушкодження. 
