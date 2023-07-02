@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Plesiosaurus
-type: Beast
+title: Плезіозавр
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 68 (8d10 + 24)    
-**Speed** 20 ft., swim 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 68 (8к10 + 24)    
+**Швидкість** 20 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 15 (+2) | 16 (+3) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-**Skills** Perception +3, Stealth +4    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+**Навички** Сприйняття +3, Непомітність +4    
+ґ **Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-**Hold Breath.** The plesiosaurus can hold its breath for 1 hour.    
+**Зупинка дихання.** Плезіозавр може затримувати дихання на 1 годину.
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) piercing damage.
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 14 (4к6 + 4) колотих ушкоджень.

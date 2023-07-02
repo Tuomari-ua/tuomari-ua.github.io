@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Phase Spider
-type: Monstrosity
+title: Фазовий павук
+type: Чудовисько
 tag: 3
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 32 (5d10 + 5)    
-**Speed** 30 ft., climb 30 ft.
+_Чудовисько великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 15 (+2) | 12 (+1) | 6 (−2)  | 10 (+0) | 6 (−2)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 32 (5к10 + 5)    
+**Швидкість** 30 ф, лазіння 30 ф.
 
-**Skills** Stealth +6    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 15 (+2) | 12 (+1) | 6 (−2) | 10 (+0) | 6 (−2) |
 
-**Ethereal Jaunt.** As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.    
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.    
-**Web Walker.** The spider ignores movement restrictions caused by webbing. 
+**Навички** Непомітність +6    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 3 (700 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+**Етерна прогулянка.** Бонусною дією павук може магічним чином перейти з Матеріального плану до Етерного, або навпаки.    
 
-### Description
-A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport. 
+**Павуче лазіння.** Павук може лазити по складних поверхнях, включно зі стелею догори дриґом, не потребуючи перевірок здібностей.    
+
+**Павутинний ходак.** Павук ігнорує обмеження переміщення, спричинене павутинням.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 +2) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, отримуючи 18 (4к8) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху. Якщо ушкодження отрутою знижують пункти здоров'я цілі до 0, ціль стабільна, але отруєна на 1 годину, навіть після відновлення пунктів здоров'я, і поки триває це отруєння, ціль паралізована.
+
+### Опис
+Фазовий павук має магічну здібність фазуватися з та до Етерного плану. Здається, що він з'являється нізвідки та швидко зникає після атаки. Його переміщення на Етерному плані перед поверненням на Матеріальний план виглядає так, ніби він може телепортуватися. 

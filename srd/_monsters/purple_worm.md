@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Purple Worm
-type: Monstrosity
+title: Пурпурний черв
+type: Чудовисько
 tag: 15
 ---
-_Gargantuan monstrosity, unaligned_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 247 (15d20 + 90)    
-**Speed** 50 ft., burrow 30 ft. 
+_Чудовисько гігантського розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 28 (+9) | 7 (−2)  | 22 (+6) | 1 (−5)  | 8 (−1)  | 4 (−3)  |
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 247 (15к20 + 90)    
+**Швидкість** 50 ф, риття 30 ф.
 
-**Saving Throws** Con +11, Wis +4    
-**Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 15 (13,000 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 28 (+9) | 7 (−2) | 22 (+6) | 1 (−5) | 8 (−1) | 4 (−3) |
 
-**Tunneler.** The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake. 
+**Рятівні кидки** Ста +11, Мдр +4    
+**Чуття** сліпий зір 30 ф, чуття вібрацій 60 ф, пасивне Сприйняття 9    
+**Мови** -    
+**Небезпека** 15 (13000 ПД)
 
-### Actions 
-**Multiattack.** The worm makes two attacks: one with its bite and one with its stinger.    
-**Bite.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.    
-If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.    
-**Tail Stinger.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+**Тунельник.** Черв може рити крізь твердий камінь із половиною своєї швидкості риття та залишає за собою тунель діаметром 10 футів.
+
+### Дії
+**Мультиатака.** Черв здійснює дві атаки: одну укусом та одну жалом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 22 (3к8 + 9) колотих ушкоджень. Якщо ціль атаки - істота, чий розмір Великий або менший, вона має зробити успішний рятівний кидок Спритності з КС 19, або буде проковтнута червом. Проковтнута істота осліплена та скута, має повне укриття проти атак чи інших ефектів ззовні черва і отримує 21 (6к6) ушкоджень кислотою на початку кожного ходу черва.    
+
+Якщо черв отримує 30 ушкоджень або більше в один хід від істоти всередині, черв повинен зробити рятівний кидок Статури з КС 21 в кінці цього ходу, або відригне усіх проковтнутих істот, які падають у межах 10 футів від кракена й збиті з ніг. Якщо черв вмирає, проковтнута істота більше не скута ним і може вибратися з трупа, використовуючи 20 футів переміщення, та опиняється ззовні збитою з ніг.    
+
+**Хвостове жало.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 19 (3к6 + 9) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 19, отримуючи 42 (12к6) ушкоджень отрутою в разі невдачі, або половину цих ушкоджень за умови успіху.

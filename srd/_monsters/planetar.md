@@ -1,37 +1,43 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Planetar
+title: Планетар
 tag: 16
-type: Celestial
+type: Небожитель
 ---
-_Large celestial, lawful good_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 200 (16d10 + 112)    
-**Speed** 40 ft., fly 120 ft. 
+_Небожитель великого розміру, законний добрий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 24 (+7)  | 20 (+5) | 24 (+7)  | 19 (+4) | 22 (+6) | 25 (+7) |
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 200 (16к10 + 112)    
+**Швидкість** 40 ф, політ 120 ф.
 
-**Saving Throws** Con +12, Wis +11, Cha +12    
-**Skills** Perception +11    
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Condition Immunities** charmed, exhaustion, frightened    
-**Senses** truesight 120 ft., passive Perception 21    
-**Languages** all, telepathy 120 ft.    
-**Challenge** 16 (15,000 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
 
-**Angelic Weapons.** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).    
-**Divine Awareness.** The planetar knows if it hears a lie.    
-**Innate Spellcasting.** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:    
-At will: **_detect evil and good_**, **_invisibility_** (self only)    
-3/day each: **_blade barrier_**, **_dispel evil and good_**, **_flame strike_**, **_raise dead_**    
-1/day each: **_commune_**, **_control weather_**, **_insect plague_**    
-**Magic Resistance.** The planetar has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Ста +12, Мдр +11, Хар +12    
+**Навички** Сприйняття +11    
+**Стійкість до ушкоджень** промениста енергія; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до станів** причарований, виснажений, наляканий    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 21    
+**Мови** усі, телепатія 120 ф    
+**Небезпека** 16 (15000ПД)
 
-### Actions 
-**Multiattack.** The planetar makes two melee attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.   
-**Healing Touch** (4/Day). The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
+**Янгольська зброя.** Атаки планетара зброєю є магічними. Коли планетар влучає будь-якою зброєю, ця зброя завдає додатково 5к8 променистих ушкоджень (включені в атаку).    
+
+**Божественна обізнаність.** Планетар знає, коли чує брехню.    
+
+**Вроджене чарування.** Чаротворчою здібністю планетара є Харизма (КС рятунку 20). Планетар може природно створювати наступні чари, для яких не потребує матеріальних складових:    
+За бажанням: **_виявлення зла й добра_**, **_невидимість_** (тільки на себе)    
+3/день кожні: **_клинковий бар'єр_**, **_розвіювання зла й добра_**, **_полум'яний удар_**, **_оживлення мерців_**    
+1/день кожні: **_звернення_**, **_контроль погоди_**, **_нашестя комах_**    
+
+**Магічна стійкість.** Планетар має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Планетар здійснює дві атаки ближнього бою.    
+
+**Дворучний меч.** _Атака зброєю ближнього бою:_ +12 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 21 (4к6 + 7) рубаних ушкоджень плюс 22 (5к8) ушкоджень променистою енергією.   
+
+**Цілющий дотик** (4/день). Планетар торкається іншої істоти. Ціль магічним чином відновлює 30 (6к8 + 3) пунктів здоров'я та звільняється від будь-якого прокляття, хвороби, отрути, сліпоти або глухоти.

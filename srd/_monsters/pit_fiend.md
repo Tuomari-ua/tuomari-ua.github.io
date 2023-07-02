@@ -1,37 +1,46 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Pit Fiend
-type: Fiend (devil)
+title: Пекельник
+type: Погань
 tag: 20
 ---
-_Large fiend (devil), lawful evil_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 300 (24d10 + 168)    
-**Speed** 30 ft., fly 60 ft. 
+_Погань великого розміру (диявол), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 300 (24к10 + 168)    
+**Швидкість** 30 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
-  
-**Saving Throws** Dex +8, Con +13, Wis +10    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 14    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 20 (25,000 XP) 
 
-**Fear Aura.** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.    
-**Magic Resistance.** The pit fiend has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The pit fiend's weapon attacks are magical. 
-**Innate Spellcasting.** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:   
-At will: **_detect magic, fireball 3/day each: hold monster, wall of fire_** 
+**Рятівні кидки** Спр +8, Ста +13, Мдр +10    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 14    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 20 (25000 ПД)
 
-### Actions 
-**Multiattack.** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.    
-**Bite.** _Melee Weapon Attack:_ +14 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Claw.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 17 (2d8 + 8) slashing damage.    
-**Mace.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.    
-**Tail.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 24 (3d10 + 8) bludgeoning damage.
+**Аура страху.** Будь-яка ворожа для пекельника істота, що починає свій хід у межах 20 футів від нього, повинна зробити рятівний кидок Мудрості з КС 21, хіба що пекельник недієздатний. У разі невдачі істота налякана до початку свого наступного ходу. Якщо рятівний кидок істоти успішний, істота набуває імунітету до аури страху пекельника на наступні 24 години.    
+
+**Магічна стійкість.** Пекельник має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Магічна зброя.** Атаки пекельника зброєю є магічними.   
+
+**Вроджене чарування.** Чаротворчою здібністю пекельника є Харизма (КС чарів 21). Пекельник може природним чином створювати наступні чари, не потребуючи матеріальних складових:   
+За бажанням: **_виявлення магії, вогнекуля_   
+3/день кожні: **_стримування монстра, стіна вогню_** </p>
+
+### Дії
+**Мультиатака.** Диявол робить чотири атаки: одну укусом, одну - пазурами, одну - булавою та одну - хвостом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +14 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 22 (4к6 + 8) колотих ушкоджень. Ціль повинна зробити рятівний кидок Статури з КС 21, або буде отруєна. Отруєна таким чином істота не може відновлювати пункти здоров’я, і отримує 21 (6к6) ушкоджень отрутою на початку кожного свого ходу. Отруєна ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +14 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 17 (2к8 + 8) рубаних ушкоджень.    
+
+**Булава.** _Атака зброєю ближнього бою:_ +14 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 15 (2к6 + 8) дробильних ушкоджень плюс 21 (6к6) ушкоджень вогнем.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +14 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 24 (3к10 + 8) дробильних ушкоджень.

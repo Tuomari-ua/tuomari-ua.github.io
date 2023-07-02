@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Polar Bear
-type: Beast
+title: Білий Ведмідь
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 42 (5d10 + 15)    
-**Speed** 40 ft., swim 30 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 10 (+0) | 16 (+3) | 2 (−4)  | 13 (+1) | 7 (−2)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 42 (5к10 + 15)    
+**Швидкість** 40 ф, плавання 30 ф.
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 10 (+0) | 16 (+3) | 2 (−4) | 13 (+1) | 7 (−2) |
 
-**Keen Smell.** The bear has advantage on Wisdom (Perception) checks that rely on smell. 
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Multiattack.** The bear makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d8 + 5) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage. 
+**Гострий нюх.** Ведмідь має перевагу на перевірки Мудрості (Сприйняття), що покладаються на запах.
+
+### Дії
+**Мультиатака.** Ведмідь здійснює дві атаки: одну укусом та одну пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (1к8 + 5) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) рубаних ушкоджень. 

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Убивця [Assassin]
+title: Убивця
 type: Гуманоїд
 tag: 8
 ---
