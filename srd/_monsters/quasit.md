@@ -1,32 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Quasit
-type: Fiend (demon)
+title: Квазит
+type: Погань
 tag: 1
 ---
-_Tiny fiend (demon, shapechanger), chaotic evil_
 
-**Armor Class** 13    
-**Hit Points** 7 (3d4)    
-**Speed** 40 ft. 
+_Погань крихітного розміру (диявол, перекидень), хаотичний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 13    
+**Пункти здоров'я** 7 (3к4)    
+**Швидкість** 40 ф.
+
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
 | 5 (−3) | 17 (+3) | 10 (+0) | 7 (−2) | 10 (+0) | 10 (+0) |
 
-**Skills** Stealth +5    
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** Abyssal, Common    
-**Challenge** 1 (200 XP) 
+**Навички** Непомітність +5    
+**Стійкість до ушкоджень** холод, вогонь, блискавка; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 10    
+**Мови** безоднева, спільна    
+**Небезпека** 1 (200 ПД)
 
-**Shapechanger.** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Magic Resistance.** The quasit has advantage on saving throws against spells and other magical effects. 
+**Перекидень.** Квазит може використати дію, щоб перевтілитися на звіра, форма якого нагадує кажана (швидкість 10 ф, політ 40 ф), багатоніжку (40 ф, лазіння 40 ф) або ропуху (40 ф, плавання 40 ф), або назад у свою істинну форму. Його статистика залишається однаковою в усіх формах, окрім зазначеної зміни швидкості. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається в істинну форму, якщо вмирає.    
 
-### Actions 
-**Claws (Bite in Beast Form).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Scare (1/Day).** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.    
-**Invisibility.** The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
+**Магічна стійкість.** Квазит має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Пазурі (Укус у формі звіра).** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. ***Влучання:*** 4 (1к4 + 3) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 10, або отримає 5 (2к4) ушкоджень отрутою та стане отруєною на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+
+**Переляк (1/день).** Одна істота за вибором квазита, що перебуває в межах 10 футів від нього, повинна зробити рятівний кидок Мудрості з КС 10, або буде налякана на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, з перешкодою, якщо квазит залишається в полі зору, завершуючи ефект на собі в разі успіху.    
+
+**Невидимість.** Квазит магічним чином стає невидимим, доки не атакує або не використає Переляк, або доки не завершиться його концентрація (як концентрація на чарах). Будь-яке спорядження, що квазит має при собі, стає невидимим разом із ним.
