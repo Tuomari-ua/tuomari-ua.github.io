@@ -1,29 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Specter
-type: Undead
+title: Мара
+type: Невмерлий
 tag: 1
 ---
-_Medium undead, chaotic evil_
 
-**Armor Class** 12    
-**Hit Points** 22 (5d8)    
-**Speed** 0 ft., fly 50 ft. (hover) 
+_Невмерлий середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 1 (−5)  | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) | 
+**Клас захисту** 12    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 0 ф, політ 50 ф (зависання)
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** necrotic, poison    
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** understands all languages it knew in life but can't speak    
-**Challenge** 1 (200 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 1 (−5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
-**Incorporeal Movement.** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.    
-**Sunlight Sensitivity.** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. 
+**Стійкість до ушкоджень** кислота, вогонь, блискавка, грім; дробильні, колоті та рубані ушкодження від немагічних атак    
+**Імунітет до ушкоджень** холод, некротична енергія, отрута    
+**Імунітет до станів** причарований, виснажений, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий, непритомний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** розуміє усі мови, що знав за життя, але не може говорити    
+**Небезпека** 1 (200 ПД)
 
-### Actions 
-**Life Drain.** _Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**Безтілесний рух.** Мара може переміщуватися крізь інших істот та предмети так, ніби вони є важкопрохідною місцевістю. Вона отримує 5 (1к10) ушкоджень чистою енергією, якщо завершує свій хід всередині предмета.    
+
+**Чутливість до сонячного світла.** Перебуваючи в сонячному світлі, мара має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Висотування життя.** _Атака чарами ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (3к6) некротичних ушкоджень. Ціль повинна зробити рятівний кидок Статури з КС 10, або її максимум пунктів здоров'я буде зменшено на кількість отриманих ушкоджень. Це зниження триває, поки істота не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект знизив максимум пунктів здоров'я цілі до 0.

@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Shadow
-type: Undead
-tag: .5
+title: Тінь
+type: Невмерлий
+tag: 0.5
 ---
-_Medium undead, chaotic evil_
 
-**Armor Class** 12    
-**Hit Points** 16 (3d8 + 3)    
-**Speed** 40 ft. 
+_Невмерлий середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 14 (+2) | 13 (+1) | 6 (−2)  | 10 (+0) | 8 (−1)  |
+**Клас захисту** 12     
+**Пункти здоров'я** 16 (3к8 + 3)    
+**Швидкість** 40 ф.
 
-**Skills** Stealth +4 (+6 in dim light or darkness)    
-**Damage Vulnerabilities.** radiant    
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** necrotic, poison    
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (−2) | 14 (+2) | 13 (+1) | 6 (−2) | 10 (+0) | 8 (−1) |
 
-**Amorphous.** The shadow can move through a space as narrow as 1 inch wide without squeezing.    
-**Shadow Stealth.** While in dim light or darkness, the shadow can take the Hide action as a bonus action.    
-**Sunlight Weakness.** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws. 
+**Навички** Непомітність +4 (+6 у тьмяному світлі або темряві)    
+**Вразливість до ушкоджень** промениста енергія    
+**Стійкість до ушкоджень** кислота, холод, вогонь, блискавка, грім; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** некротична енергія, отрута    
+**Імунітет до станів** виснажений, наляканий, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Strength Drain.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.    
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+**Аморфний.** Тінь може переміщуватися крізь простір завширшки 1 дюйм без стискання.    
+
+**Тіньова непомітність.** У тьмяному світлі або темряві тінь може Затаїтися бонусною дією.    
+
+**Чутливість до сонячного світла.** Перебуваючи в сонячному світлі, тінь має перешкоду на кидки атаки, перевірки здібностей та рятівні кидки.
+
+### Дії
+**Висотування Сили.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (2к6 + 2) ушкоджень некротичною енергією, і значення Сили цілі зменшується на 1к4. Ціль вмирає, якщо це зменшує її значення Сили до 0. В іншому випадку зменшення триває, доки ціль не завершить короткий або тривалий відпочинок.    
+
+Якщо не-злий гуманоїд вмирає від цієї атаки, нова тінь постає з трупа через 1к4 годин.

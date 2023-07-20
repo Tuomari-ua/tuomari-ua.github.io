@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Shield Guardian
-type: Construct
+title: Щитовий страж
+type: Конструкт
 tag: 7
 ---
-_Large construct, unaligned_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 142 (15d10 + 60)    
-**Speed** 30 ft. 
+_Конструкт великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 8 (−1)  | 18 (+4) | 7 (−2)  | 10 (+0) | 3 (−4)  |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 142 (15к10 + 60)    
+**Швидкість** 30 ф.
 
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned    
-**Languages** understands commands given in any language but can't speak    
-**Challenge** 7 (2,900 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (−1) | 18 (+4) | 7 (−2) | 10 (+0) | 3 (−4) |
 
-**Bound.** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.    
-**Regeneration.** The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.    
-**Spell Storing.** A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost. 
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 10    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, отруєний    
+**Мови** розуміє команди будь-якою мовою, але не може говорити    
+**Небезпека** 7 (2900 ПД)
 
-### Actions 
-**Multiattack.** The guardian makes two fist attacks.    
-**Fist.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. 
+**Обмежувач.** Щитовий страж магічно пов'язаний із амулетом. Поки страж та його амулет перебувають на одному плані існування, носій амулета може телепатично покликати стража мандрувати з собою, і страж знає відстань та напрям до амулета. Якщо страж перебуває в межах 60 ф від носія амулета, половина будь-яких ушкоджень, що отримує носій (округлена вгору) передається стражеві.    
 
-### Reactions 
-**Shield.** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+**Регенерація.** Щитовий страж відновлює 10 пунктів здоров'я на початку свого ходу, якщо має принаймні 1 пункт здоров'я.    
+
+**Зберігання чарів.** Чаротворець, що носить амулет щитового стража, може змусити стража зберігати одні чари 4 рівня або нижчі. Щоб зробити це, носій повинен створити чари на стража. Чари не мають ефекту, але зберігаються всередині стража. За командою носія або коли постає ситуація, визначена чаротворцем заздалегідь, страж створює збережені чари з будь-якими параметрами, встановленими початковим чаротворцем, без використання будь-яких складових. Коли чари створено або збережено нові чари, будь-які попередні збережені чари втрачаються.
+
+### Дії
+**Мультиатака** Страж здійснює дві атаки кулаками.    
+
+**Кулак.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень.
+
+### Реакції
+**Щит.** Коли істота робить атаку проти носія стражевого амулета, страж дає носієві бонус +2 до КЗ, якщо страж перебуває у межах 5 футів від носія.

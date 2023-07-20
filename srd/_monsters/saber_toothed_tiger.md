@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Saber-Toothed Tiger
-type: Beast
+title: Шаблезубий тигр
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 52 (7d10 + 14)    
-**Speed** 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 14 (+2) | 15 (+2) | 3 (−4)  | 12 (+1) | 8 (−1)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 52 (7к10 + 14)    
+**Швидкість** 40 ф.
 
-**Skills** Perception +3, Stealth +6    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 14 (+2) | 15 (+2) | 3 (−4) | 12 (+1) | 8 (−1) |
 
-**Keen Smell.** The tiger has advantage on Wisdom (Perception) checks that rely on smell.    
-**Pounce.** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action. 
+**Навички** Сприйняття +3, Непомітність +6    
+ґ **Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage. 
+**Гострий нюх.** Тигр має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.    
+
+**Напад.** Якщо тигр переміщується принаймні на 20 футів прямо до істоти й потім влучає по ній атакою пазурами в той самй хід, ця ціль повинна зробити рятівний кидок Сили з КС 14, або буде збита з ніг. Якщо ціль збита з ніг, тигр може зробити по ній одну атаку укусом бонусною дією.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (1к10 + 5) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) рубаних ушкоджень. 

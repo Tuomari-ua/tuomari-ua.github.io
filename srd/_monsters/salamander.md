@@ -1,31 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Salamander
-type: Elemental
+title: Саламандра
+type: Стихійник
 tag: 5
 ---
-_Large elemental, neutral evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 90 (12d10 + 24)    
-**Speed** 30 ft. 
+_Стихійник великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 90 (12к10 + 24)    
+**Швидкість** 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
-**Damage Vulnerabilities.** cold    
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** fire    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Ignan    
-**Challenge** 5 (1,800 XP) 
+**Вразливість до ушкоджень** холод    
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** іґнан    
+**Небезпека** 5 (1800 ПД)
 
-**Heated Body.** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.    
-**Heated Weapons.** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack). 
+**Розжарене тіло.** Істота, що торкається саламандри або влучає по ній атакою ближнього бою, перебуваючи в межах 5 футів від неї, отримує 7 (2к6) ушкоджень вогнем.    
 
-### Actions 
-**Multiattack.** The salamander makes two attacks: one with its spear and one with its tail.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.    
-**Tail.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+**Розжарена зброя.** Будь-яка металева зброя ближнього бою, яку тримає саламандра, завдає додатково 3 (1к6) ушкоджень вогнем у разі влучання (враховані в атаці).
+
+### Дії
+**Мультиатака.** Саламандра робить дві атаки: одну списом та одну - хвостом.    
+
+**Спис.** _Атака зброєю ближнього бою або _далекобійна:__ +7 до влучання, досяжність 5 ф, або відстань 20/60 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень або 13 (2к8 + 4) колотих ушкоджень, якщо використовує двома руками для атаки ближнього бою, плюс 3 (йк6) ушкоджень вогнем.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень плюс 7 (2к6) ушкоджень вогнем, і ціль схоплена (КС втечі 14). Доки це схоплення не завершиться, ціль скута, а саламандра може автоматично влучати по цілі своїм хвостом, і не може використовувати атаку хвостом проти інших цілей.

@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Scout
-type: Humanoid (any race)
-tag: .5
+title: Розвідник
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 13 (leather armor)    
-**Hit Points** 16 (3d8 + 3)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |   
+**Клас захисту** 13 (шкіряна броня)    
+**Пункти здоров'я** 16 (3к8 + 3)    
+**Швидкість** 30 ф.
 
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5    
-**Senses** passive Perception 15    
-**Languages** any one language (usually Common)    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
-**Keen Hearing and Sight.** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight. 
+**Навички** Природа +4, Сприйняття +5, Непомітність +6, Виживання +5    
+**Чуття** пасивне Сприйняття 15    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Multiattack.** The scout makes two melee attacks or two ranged attacks.    
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Longbow.** _Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. 
+**Гострий слух і зір.** Розвідник має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або зір.
 
-### Description
-Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance. 
+### Дії
+**Мультиатака.** Розвідник здійснює дві атаки ближнього бою або дві далекобійні атаки.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +4 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.
+
+### Опис
+Розвідники - досвідчені мисливці та переслідувачі, що пропонують свої послуги за плату. Більшість полює на дичину, але деякі працюють мисливцями за головами, провідниками або здійснюють військову розвідку. 

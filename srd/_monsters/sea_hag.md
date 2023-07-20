@@ -1,30 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Sea Hag
-type: Fey
+title: Морська яга
+type: Фея
 tag: 2
 ---
-_Medium fey, chaotic evil_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 52 (7d8 + 21)    
-**Speed** 30 ft., swim 40 ft. 
+_Фея середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 52 (7к8 + 21)    
+**Швидкість** 30 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** Aquan, Common, Giant    
-**Challenge** 2 (450 XP)  
+**Чуття** темний зір 60 ф, пасивне Сприйняття 11    
+**Мови** акван, спільна, велетова    
+**Небезпека** 2 (450 ПД)
 
-**Amphibious.** The hag can breathe air and water.    
-**Horrific Appearance.** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.    
-Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag. 
+**Амфібія.** Яга може дихати повітрям і водою.    
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.    
-**Death Glare.** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.    
-**Illusory Appearance.** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.    
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
+**Моторошний вигляд.** Будь-який гуманоїд, що починає свій хід у межах 30 футів від яги й може бачити її істинну форму, повинна зробити рятівний кидок Мудрості з КС 11. У разі невдачі істота налякана на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, з перешкодою, якщо яга перебуває у межах лінії огляду, завершуючи ефект на собі в разі успіху. Якщо рятівний кидок істоти успішний або ефект для неї завершився, істота набуває імунітету до Моторошного вигляду яги на наступні 24 години.    
+
+Якщо тільки ціль не захоплена зненацька або поява істинної форми яги є раптовою, ціль може відвести очі та уникнути початкового рятівного кидка. До початку свого наступного ходу істота, що відвела очі, має перешкоду на кидки атаки проти яги.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень.    
+
+**Смертний зирк.**Яга націлюється на одну налякану істоту, яку може бачити в межах 30 футів від себе. Якщо ціль може бачити ягу, то повинна зробити рятівний кидок Мудрості з КС 11 проти цієї магії або її пункти здоров'я знизяться до 0.    
+
+**Ілюзорний вигляд.** Яга вкриває себе та все, у що вдягнена та що має при собі, магічною ілюзією, яка дозволяє їй виглядати ніби потворна істота того ж розміру та гуманоїдної форми. Ефект завершується, якщо яга використовує бонусну дію для завершення, або якщо вона вмирає.    
+
+Зміни, спричинені цим ефектом, не витримує фізичного огляду. Наприклад, карга може виглядати так, ніби не має пазурів, але той, хто торкнеться її руки, відчує пазурі. В усьому іншому істота повинна використати дію, аби візуально обстежити ілюзію, та зробити успішну перевірку Інтелекту (Розслідування) з КС 16, щоб розпізнати маскування яги.

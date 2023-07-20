@@ -1,46 +1,57 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Solar
+title: Солар
 tag: 21
-type: Celestial
+type: Небожитель
 ---
-_Large celestial, lawful good_
 
-**Armor Class** 21 (natural armor)    
-**Hit Points** 243 (18d10 + 144)    
-**Speed** 50 ft., fly 150 ft. 
+_Небожитель великого розміру, законний добрий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA      |
-|----------|---------|----------|---------|---------|----------|
-| 26 (+8)  | 22 (+6) | 26 (+8)  | 25 (+7) | 25 (+7) | 30 (+10) |
+**Клас захисту** 21 (природна броня)    
+**Пункти здоров'я** 243 (18к10 + 144)    
+**Швидкість** 50 ф, політ 150 ф.
 
-**Saving Throws** Int +14, Wis +14, Cha +17    
-**Skills** Perception +14    
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** necrotic, poison    
-**Condition Immunities** charmed, exhaustion, frightened, poisoned    
-**Senses** truesight 120 ft., passive Perception 24    
-**Languages** all, telepathy 120 ft.    
-**Challenge** 21 (33,000 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР      |
+| ------- | ------- | ------- | ------- | ------- | -------- |
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
-**Angelic Weapons.** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).    
-**Divine Awareness.** The solar knows if it hears a lie.    
-**Innate Spellcasting.** The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:    
-At will: **_detect evil and good_**, **_invisibility_** (self only)    
-3/day each: **_blade barrier_**, **_dispel evil and good_**, **_resurrection_**    
-1/day each: **_commune_**, **_control weather_**    
-**Magic Resistance.** The solar has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Інт +14, Мдр +14, Хар +17    
+**Навички** Сприйняття +14    
+**Стійкість до ушкоджень** промениста енергія; дробильні, колоті та рубані під немагічних атак    
+**Імунітет до ушкоджень** некротична енергія, отрута    
+**Імунітет до станів** причарований, виснажений, наляканий, отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 24    
+**Мови** усі, телепатія 120 ф    
+**Небезпека** 21 (33000 ПД)
 
-### Actions 
-**Multiattack.** The solar makes two greatsword attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +15 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage.    
-**Slaying Longbow.** _Ranged Weapon Attack:_ +13 to hit, range 150/600 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die.   
-**Flying Sword.** The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.   
-**Healing Touch (4/Day).** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness. 
+**Янгольська зброя.** Атаки солара зброєю є магічними. Коли солар влучає будь-якою зброєю, ця зброя завдає додатково 6к8 променистих ушкоджень (включені в атаку).    
 
-### Legendary Actions 
-The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.    
-**Teleport.** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.    
-**Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Each creature of its choice in a 10-­‐foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.    
-**Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
+**Божественна обізнаність.** Солар знає, коли чує брехню.    
+
+**Вроджене чарування.** Чаротворчою здібністю планетара є Харизма (КС рятунку 25). Він може природно створювати наступні чари, для яких не потребує матеріальних складових:    
+За бажанням: **_виявлення зла й добра_**, **_невидимість_** (тільки на себе)    
+3/день кожні: **_клинковий бар'єр_**, **_розвіювання зла й добра_**, **_воскресіння_**    
+1/день кожні: **_звернення_**, **_контроль погоди_**    
+
+**Магічна стійкість.** Солар має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Солар здійснює дві атаки дворучним мечем.    
+
+**Дворучний меч.** _Атака зброєю ближнього бою:_ +15 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 22 (4к6 + 8) рубаних ушкоджень плюс 27 (6к8) ушкоджень променистою енергією.    
+
+**Вбивчий довгий лук.** _Атака зброєю ближнього бою:_ +13 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 15 (2к8 + 6) колотих ушкоджень плюс 27 (6к8) променистих ушкоджень. Якщо ціль - істота, що має 100 пунктів здоров'я або менше, вона повинна зробити рятівний кидок Статури з КС 15, або вмирає.   
+
+**Летючий меч.** Солар відпускає дворучний меч магічно висіти в вільному просторі в межах 5 футів від себе. Якщо солар може бачити меч, солар може бонусною дією наказати йому летіти на відстань до 50 футів та зробити одну атаку проти цілі, або повернутися до рук солара. Якщо завислий меч стає ціллю будь-якого ефекту, солар вважається таким, що тримає його. Завислий меч падає, якщо солар вмирає.   
+
+**Цілющий дотик (4/день).** Солар торкається іншої істоти. Ціль магічним чином відновлює 40 (8к8 + 4) пунктів здоров'я та звільняється від будь-якого прокляття, хвороби, отрути, сліпоти або глухоти.
+
+### Легендарні дії
+Солар може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Солар відновлює використані легендарні дії на початку свого ходу.    
+
+**Телепорт.** Солар магічним чином телепортується, разом із усім спорядженням, що має при собі, на відстань до 120 футів у вільний простір, який може бачити.    
+
+**Пекучий спалах (коштує 2 дії).** Солар випускає магічну, божественну енергію. Кожна істота за його вибором у 10-футовому радіусі повинна зробити рятівний кидок Спритності з КС 23, отримуючи 14 (4к6) ушкоджень вогнем плюс 14 (4к6) променистих ушкоджень у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**Сліпучий погляд (коштує 3 дії).** Солар націлюється на одну істоту, яку може бачити в межах 30 футів від себе. Якщо ціль може бачити його, то робить рятівний кидок Статури з КС 15, або буде осліплена, доки магія, подібна до чарів меншого відновлення, не прибере цю сліпоту.
