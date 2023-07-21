@@ -1,24 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Stirge
-type: Beast
-tag: .125
+title: Дзиз
+type: Звір
+tag: 0.125
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 2 (1d4)    
-**Speed** 10 ft., fly 40 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 16 (+3) | 11 (+0) | 2 (−4)  | 8 (−1)  | 6 (−2)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 2 (1к4)    
+**Швидкість** 10 ф, політ 40 ф
 
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 1/8 (25 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 4 (-3) | 16 (+3) | 11 (+0) | 2 (−4) | 8 (−1) | 6 (−2) |
 
-### Actions 
-**Blood Drain.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.    
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+**Чуття** темний зір 60 ф., пасивне Сприйняття 19    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
+
+### Дії
+**Висотування крові.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к4 + 3) колотих ушкоджень, і дзиз прикріплюється до цілі. Поки прикріплений, дзиз не атакує. Натомість на початку кожного ходу дзиза ціль втрачає 5 (1к4 + 3) пунктів здоров'я через втрату крові.    
+
+Дзиз може відкріпитися, витративши 5 футів свого переміщення. Він робить це, коли висмоктує крові на 10 пунктів здоров'я цілі або коли ціль вмирає. Істота, включно з ціллю, може використати дію, щоб відкріпити дзиза.

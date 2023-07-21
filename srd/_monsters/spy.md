@@ -1,32 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Spy
-type: Humanoid (any race)
+title: Шпигун
+type: Гуманоїд
 tag: 1
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 12    
-**Hit Points** 27 (6d8)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |   
+**Клас захисту** 12    
+**Пункти здоров'я** 27 (6к8)    
+**Швидкість** 30 ф.
 
-**Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4    
-**Senses** passive Perception 16    
-**Languages** any two languages    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
-**Cunning Action.** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action.    
-**Sneak Attack (1/Turn).** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll. 
+**Навички** Обман +5, Здогадливість +4, Розслідування +5, Сприйняття +6, Переконливість +5, Спритність рук +4, Непомітність +4    
+**Чуття** пасивне Сприйняття 16    
+**Мови** будь-які дві мови    
+**Небезпека** 1 (200 ПД)
 
-### Actions 
-**Multiattack.** The spy makes two melee attacks.    
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Hand Crossbow.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage. 
+**Підступна дія.** У кожен свій хід шпигун може використати бонусну дію, щоб виконати дію Ривок, Відступити або Затаїтися.    
 
-### Description
-Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers. 
+**Прихована атака (1/хід).** Шпигун завдає додатково 7 (2к6) ушкоджень, коли влучає по цілі атакою зброї і має перевагу на кидок атаки, або коли ціль перебуває у межах 5 футів від союзника шпигуна, цей союзник не є недієздатним і шпигун не має перешкоди на кидок атаки.
+
+### Дії
+**Мультиатака.** Шпигун здійснює дві атаки ближнього бою.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Ручний арбалет.** _Далекобійна атака зброєю:_ +4 до влучання, відстань 30/120 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.
+
+### Опис
+Правителі, дворяни, торговці, майстри гільдій та інші заможні особи використовують шпигунів для здобуття переваги у світі жорстокої політики. Шпигуни натреновані таємно збирати інформацію. Лояльні шпигуни скоріше вмруть, ніж поширять інформацію, що може скомпрометувати їх чи їхніх наймачів. 

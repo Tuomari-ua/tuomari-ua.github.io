@@ -1,35 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Spirit Naga
-type: Monstrosity
+title: Духовна нага
+type: Чудовисько
 tag: 8
 ---
-_Large monstrosity, chaotic evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 75 (10d10 + 20)    
-**Speed** 40 ft. 
+_Чудовисько великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 75 (10к10 + 20)    
+**Швидкість** 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
-**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Abyssal, Common    
-**Challenge** 8 (3,900 XP) 
+**Рятівні кидки** Спр +6, Ста +5, Мдр +5, Хар +6    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття    
+**Мови** безоднева, спільна    
+**Небезпека** 8 (3900 ПД)
 
-**Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.    
-**Spellcasting.** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:    
-Cantrips (at will): **_mage hand, minor illusion, ray of frost_**    
-1st level (4 slots): **_charm person, detect magic, sleep_**    
-2nd level (3 slots): **_detect thoughts, hold person_**    
-3rd level (3 slots): **_lightning bolt, water breathing_**    
-4th level (3 slots): **_blight, dimension door_**    
-5th level (2 slots): **_dominate person_** 
+**Омолодження.** Якщо нага помирає, вона повертається до життя через 1к6 днів та відновлює всі свої пункти здоров'я. Тільки чари бажання можуть спинити функціонування цієї риси.    
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+**Чарування.** Нага є чаротворцем 10 рівня. Її чаротворчою здібністю є Інтелект (КС чарів 14, +6 до влучання атаками чарів), і вона потребує тільки вербальної складової для чарування. Вона має наступні підготовлені чари мага:    
+Замовляння (за бажанням): **_ магічна рука, мала ілюзія, промінь холоду_**    
+1 рівень (4 чарунки): **_причарування особи, виявлення магії, сон_**    
+2 рівень (3 чарунки): **_виявлення думок, стримування особи_**    
+3 рівень (3 чарунки): **_заряд блискавки, дихання водою_**    
+4 рівень (3 чарунки): **_усихання, двері між вимірами_**    
+5 рівень (2 чарунки): **_підкорення особистості_**
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 7 (1к6 + 4) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 13, отримуючи 31 (7к8) ушкоджень отрутою в разі невдачі, або половину цих ушкоджень за умови успіху.
