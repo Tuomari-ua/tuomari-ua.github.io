@@ -1,33 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Vrock
-type: Fiend (demon)
+title: Врок
+type: Погань
 tag: 6
 ---
-_Large fiend (demon), chaotic evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 104 (11d10 + 44)    
-**Speed** 40 ft., fly 60 ft. 
+_Погань великого розміру (демон), хаотичний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 104 (11к10 + 44)    
+**Швидкість** 40 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |
 
-**Saving Throws** Dex +5, Wis +4, Cha +2    
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 11    
-**Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 6 (2,300 XP)  
+**Рятівні кидки** Спр +5, Мдр +4, Хар +2    
+**Стійкість до ушкоджень** холод, вогонь, блискавка; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 11    
+**Мови** безоднева, телепатія 120 ф    
+**Небезпека** 6 (2300 ПД)
 
-**Magic Resistance.** The vrock has advantage on saving throws against spells and other magical effects. 
+**Магічна стійкість.** Врок має перевагу на рятівні кидки проти арів та інших магічних ефектів.
 
-### Actions 
-**Multiattack.** The vrock makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.    
-**Spores (Recharge 6).** A 15­‐foot­‐radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it.    
-**Stunning Screech (1/Day).** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
+### Дії
+**Мультиатака.** Врок робить дві атаки: одну дзьобом та одну - кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 14 (2к10 + 3) рубаних ушкоджень.    
+
+**Спори (Відновлення 6).** У 15-футовому радіусі навколо врока розходиться хмара токсичних спор. Ці спори огинають кути. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 14, або буде отруєна. Отруєна таким чином істота отримує 5 (1к10) ушкоджень отрутою на початку кожного свого ходу. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. Виливання пляшечки святої води на ціль також завершує ефект на ній.    
+
+**Приголомшливий скрегіт (1/день).** Врок видає моторошний скрегіт. Кожна істота в межах 20 футів від нього, що може чути це і не є демоном, повинна зробити рятівний кидок Статури з КС 14, або буде приголомшена до кінця наступного ходу врока.

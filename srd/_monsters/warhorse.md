@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Warhorse
-type: Beast
-tag: .5
+title: Бойовий кінь
+type: Звір
+tag: 0.5
 ---
-_Large beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 60 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 12 (+1) | 13 (+1) | 2 (−4)  | 12 (+1) | 7 (−2)  |
+**Клас захисту** 11    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 60 ф.
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 12 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 7 (−2) |
 
-**Trampling Charge.** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action. 
+**Чуття** пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage. 
+**Витоптування.** Якщо кінь переміщується принаймні на 20 футів прямо до істоти і потім влучає по ній атакою копитами в тому самому ходу, ця ціль повинна зробити рятівний кидок Сили з КС 14, або буде збита з ніг. Якщо ціль збита з ніг, кінь може зробити по ній ще одну атаку копитами бонусною дією.
+
+### Дії
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень. 

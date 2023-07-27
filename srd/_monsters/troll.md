@@ -1,30 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Troll
-type: Giant
+title: Троль
+type: Велет
 tag: 5
 ---
-_Large giant, chaotic evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 84 (8d10 + 40)    
-**Speed** 30 ft.
+_Велет великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS    | CHA    |
-|---------|---------|---------|---------|--------|--------|
-| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2)  | 9 (-1) | 7 (-2) |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 84 (8к10 + 40)    
+**Швидкість** 30 ф.
 
-**Skills** Perception +2   
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Giant    
-**Challenge** 5 (1,800 XP)
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
 
-**Keen Smell.** The troll has advantage on Wisdom (Perception) checks that rely on smell.    
-**Regeneration.** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate. 
+**Навички** Сприйняття +2   
+**Чуття** темний зір 60 ф, пасивне Сприйняття 12    
+**Мови** велетова    
+**Небезпека** 5 (1800 ПД)
 
-### Actions
+**Гострий нюх.** Троль має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.    
 
-**Multiattack.** The troll makes three attacks: one with its bite and two with its claws.   
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage.   
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+**Регенерація.** Троль відновлює 10 пунктів здоров'я на початку свого ходу. Якщо троль отримує ушкодження кислотою або вогнем, ця риса не діє до початку наступного ходу троля. Троль вмирає, тільки якщо починає свій хід із 0 пунктів здоров'я і не регенерує.
+
+### Дії
+
+**Мультиатака.** Троль здійснює три атаки: одну укусом та дві - пазурами.   
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к6 + 4) колотих ушкоджень.   
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.

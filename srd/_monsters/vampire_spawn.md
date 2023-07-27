@@ -1,36 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Vampire Spawn
-type: Undead
+title: Виплодок вампіра
+type: Невмерлий
 tag: 5
 ---
-_Medium undead, neutral evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 82 (11d8 + 33)    
-**Speed** 30 ft. 
+_Невмерлий середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 82 (11к8 + 33)    
+**Швидкість** 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
-**Saving Throws** Dex +6, Wis +3    
-**Skills** Perception +3, Stealth +6    
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** the languages it knew in life    
-**Challenge** 5 (1,800 XP) 
+**Рятівні кидки** Спр +6, Мдр +3    
+**Навички** Сприйняття +3, Непомітність +6    
+**Стійкість до ушкоджень** некротична енергія; дробильні, колоті та рубані від немагічних атак    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** мови, які знав за життя    
+**Небезпека** 5 (1800 ПД)
 
-**Regeneration.** The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.    
-**Spider Climb.** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.    
-**Vampire Weaknesses.** The vampire has the following flaws:    
-_Forbiddance._ The vampire can't enter a residence without an invitation from one of the occupants.    
-_Harmed by Running Water._ The vampire takes 20 acid damage when it ends its turn in running water.    
-_Stake to the Heart._ The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.    
-_Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks. 
+**Регенерація.** Вампір відновлює 10 пунктів здоров'я на початку свого ходу, якщо має принаймні 1 пункт здоров'я і не перебуває у сонячному світлі чи проточній воді. Якщо вампір отримує променисті ушкодження або ушкодження від святої води, ця риса не діє на початку наступного ходу вампіра.    
 
-### Actions 
-**Multiattack.** The vampire makes two attacks, only one of which can be a bite attack.    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+**Павуче лазіння.** Вампір може переміщуватися по складних поверхнях, включно зі стелею догори дриґом, не потребуючи перевірок здібностей.    
+
+**Вампірські слабкості.** Вампір має наступні вади:    
+_Заборона._ Вампір не може увійти до помешкання без запрошення від одного з мешканців.    
+_Шкода від проточної води._ Вампір отримує 20 ушкоджень кислотою, коли завершує свій хід у проточній воді.    
+_Кілок к серце._ Вампір гине, якщо загострену зброю, зроблену з дерева, встромити в його серце, поки він недієздатний у місці свого відпочинку.    
+_Гіперчутливість до сонячного світла._ Вампір отримує 20 променистих ушкоджень, коли починає свій хід у сонячному світлі. Перебуваючи в сонячному світлі, він має перешкоду на кидки атаки та перевірки здібностей.
+
+### Дії
+**Мультиатака.** Вампір робить дві атаки: одну пазурами та одну укусом.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (2к4 + 3) рубаних ушкоджень. Замість завдання ушкоджень вампір може схопити ціль (КС втечі 13).    
+
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна згодна істота, або істота, схоплена вампіром, недієздатна або скута. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень плюс 7 (2к6) некротичних ушкоджень. Максимум пунктів здоров'я цілі зменшується на кількість отриманих некротичних ушкоджень, і вампір відновлює таку саму кількість пунктів здоров'я. Це зменшення триває, доки ціль не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект знизив максимум її пунктів здоров'я до 0.

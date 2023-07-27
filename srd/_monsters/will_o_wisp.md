@@ -1,32 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Will-o'-Wisp
-type: Undead
+title: Мандрівний вогник
+type: Невмерлий
 tag: 2
 ---
-_Tiny undead, chaotic evil_
 
-**Armor Class** 19    
-**Hit Points** 22 (9d4)    
-**Speed** 0 ft., fly 50 ft. (hover) 
+_Невмерлий крихітного розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 1 (−5)  | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+**Клас захисту** 19    
+**Пункти здоров'я** 22 (9к4)    
+**Швидкість** 0 ф, політ 50 ф (зависання)
 
-**Damage Immunities** lightning, poison    
-**Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 120 ft., passive Perception 12    
-**Languages** the languages it knew in life    
-**Challenge** 2 (450 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 1 (−5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
-**Consume Life.** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.    
-**Ephemeral.** The will-o'-wisp can't wear or carry anything.    
-**Incorporeal Movement.** The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.    
-**Variable Illumination.** The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action. 
+**Імунітет до ушкоджень** блискавка, отрута    
+**Стійкість до ушкоджень** кислота, вогонь, некротична енергія, грім; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до станів** виснажений, схоплений, паралізований, отруєний, збитий з ніг, скутий, непритомний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** мови, що знав за життя    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Shock.** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.    
-**Invisibility.** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+**Споживання життя.** Бонусною дією мандрівний вогник может націлитися на одну істоту, яку може бачити в межах 5 футів від себе, яка має 0 пунктів здоров'я і ще жива. Ціль повинна зробити рятівний кидок Статури з КС 10 проти цієї магії, або помре. Якщо ціль вмирає, мандрівний вогник відновлює 10 (3к6) пунктів здоров'я.    
+
+**Ефемерний.** Мандрівний вогник не може нічого мати при собі.    
+
+**Безтілесний рух.** Мандрівний вогник може переміщуватися кріз інших істот та предмети, як через важкопрохідну місцевість. Він отримує 5 (1к10) ушкоджень чистою енергією, якщо завершує свій хід усередині предмета.    
+
+**Контрольоване освітлення.** Мандрівний вогник випромінює яскраве світло радіусом від 5 до 20 футів та тьмяне світло на додаткову відстань у футах, що дорівнює вибраному радіусу. Мандрівний вогник може змінювати цей радіус бонусною дією.
+
+### Дії
+**Шок.** Атака чарами ближнього бою: +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 9 (2к8) ушкоджень блискавкою.    
+
+**Невидимість.** Мандрівний вогник та його світло магічним чином стають невидимими, доки вогник не атакує або не Споживатиме життя, або доки не завершиться його концентрація (як концентрація на чарах).

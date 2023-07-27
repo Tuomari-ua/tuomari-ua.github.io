@@ -1,28 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Rats
-type: Swarm of Tiny beasts
-tag: .25
+title: Зграя щурів
+type: Рій звірів крихітного розміру
+tag: 0.25
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 24 (7d8 − 7)    
-**Speed** 30 ft. 
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 9 (−1)  | 11 (+0) | 9 (−1)  | 2 (−4)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 10    
+**Пункти здоров'я** 24 (7к8 - 7)    
+**Швидкість** 30 ф.
 
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** darkvision 30 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 9 (−1) | 11 (+0) | 9 (−1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-**Keen Smell.** The swarm has advantage on Wisdom (Perception) checks that rely on smell.    
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points. 
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. 
+**Гострий нюх.** Зграя має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.    
+
+**Рій.** Зграя щурів може займати простір іншої істоти та навпаки, і зграя може переміщуватися крізь будь-який простір, достатньо великий для крихітного щура. Зграя щурів не відновлює пункти здоров'я і не отримує тимчасових пунктів здоров'я.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 0 ф, одна істота в просторі зграї. _Влучання:_ 7 (2к6) колотих ушкоджень, або 3 (1к6) колотих ушкоджень, якщо зграя має половину пунктів здоров'я або менше. 

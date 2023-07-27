@@ -1,29 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Tribal Warrior
-type: Humanoid (any race)
-tag: .125
+title: Воїн племені
+type: Гуманоїд
+tag: 0.125
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 12 (hide armor)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft.
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1)  | 11 (+0) | 8 (−1)  |  
+**Клас захисту** 12 (шкура)    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф.
 
-**Senses** passive Perception 10    
-**Languages** any one language    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (−1) | 11 (+0) | 8 (−1) |
 
-**Pack Tactics.** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions 
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack. 
+**Тактика зграї.** Воїн має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників воїна перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.
 
+### Дії
+**Спис.** _Атака зброєю ближнього бою або _далекобійна:__ +3 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень, або 5 (1к8 + 1) колотих ушкоджень, якщо використовує для атаки ближнього бою двома руками.
 
-### Description
-Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods. 
+### Опис
+Воїни племені живуть поза суспільством, найчастіше за рахунок рибальства та полювання. Кожне плем'я діє відповідно до бажань свого вождя, котрий є найсильнішим або найстарішим воїном племені, або благословенний богами. 

@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Insects
-type: Swarm of Tiny beasts
-tag: .5
+title: Рій комах
+type: Рій звірів крихітного розміру
+tag: 0.5
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 22 (5d8)    
-**Speed** 20 ft., climb 20 ft.
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 13 (+1) | 10 (+0) | 1 (−5)  | 7 (−2)  | 1 (−5)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 20 ф, лазіння 20 ф.
 
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** blindsight 10 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 3 (−4) | 13 (+1) | 10 (+0) | 1 (−5) | 7 (−2) | 1 (−5) |
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points. 
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. 
+**Рій.** Рій може займати простір іншої істоти й навпаки, і рій може переміщуватися крізь простір, достатньо великий для комахи Крихітного розміру. Рій не відновлює пункти здоров'я і не отримує тимчасових пунктів здоров'я.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 0 ф, одна істота в просторі рою. _Влучання:_ 10 (4к4) колотих ушкоджень, або 5 (2к4) колотих ушкоджень, якщо рій має половину пунктів здоров'я або менше. 

@@ -1,29 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Quippers
-type: Swarm of Tiny beasts
+title: Зграя квіперів
+type: Рій звірів крихітного розміру
 tag: 1
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 28 (8d8 − 8)    
-**Speed** 0 ft., swim 40 ft. 
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 16 (+3) | 9 (−1)  | 1 (−5)  | 7 (−2)  | 2 (−4)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 28 (8к8 - 8)    
+**Швидкість** 0 ф, плавання 40 ф.
 
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА    | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------ | ------ | ------ | ------ |
+| 13 (+1) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
-**Blood Frenzy.** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny quipper. The swarm can't regain hit points or gain temporary hit points.    
-**Water Breathing.** The swarm can breathe only underwater. 
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 1 (200 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer. 
+**Шал крові.** Зграя має перевагу на кидки атаки ближнього бою проти будь-якої істоти, що має не всі пункти здоров'я.    
+
+**Рій.** Зграя квіперів може займати простір іншої істоти та навпаки, і зграя може переміщуватися крізь будь-який простір, достатній для квіпера Крихітного розміру. Зграя квіперів не відновлює пункти здоров'я чи отримати тимчасові пункти здоров'я.    
+
+**Дихання водою.** Зграя може дихати тільки під водою.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 0 ф, одна істота в просторі рою. _Влучання:_ 14 (4к6) колотих ушкоджень, або 7 (2к6) колотих ушкоджень, якщо рій має половину пунктів здоров'я або менше. 

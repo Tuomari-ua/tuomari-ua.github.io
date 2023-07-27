@@ -1,27 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Wyvern
-type: Dragon
+title: Виверна
+type: Дракон
 tag: 6
 ---
-_Large dragon, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 110 (13d10 + 39)    
-**Speed** 20 ft., fly 80 ft. 
+_Дракон великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3)  | 12 (+1) | 6 (−2)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 110 (13к10 + 39)    
+**Швидкість** 20 ф, політ 80 ф.
 
-**Skills** Perception +4    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** --    
-**Challenge** 6 (2,300 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (−3) | 12 (+1) | 6 (−2) |
 
-### Actions 
-**Multiattack.** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Stinger.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+**Навички** Сприйняття +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 6 (2,300 ПД)
+
+### Дії
+**Мультиатака.** Виверна здійснює дві атаки: одну укусом та одну жалом. У польоті вона може використовувати свої кігті замість однієї з інших атак.    
+
+**Укус** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) рубаних ушкоджень.    
+
+**Жало.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень. Ціль повинна зробити рятівний кидок Статури з КС 15, отримуючи 24 (7к6) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху.
