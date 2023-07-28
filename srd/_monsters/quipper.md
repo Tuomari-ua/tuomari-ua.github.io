@@ -1,29 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Quipper
-type: Beast
+title: Квіпер
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 0 ft., swim 40 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 16 (+3) | 9 (−1)  | 1 (−5)  | 7 (−2)  | 2 (−4)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 0 ф, плавання 40 ф.
 
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 2 (−4) | 16 (+3) | 9 (−1) | 1 (−5) | 7 (−2) | 2 (−4) |
 
-**Blood Frenzy.** The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The quipper can breathe only underwater. 
+**Чуття** темний зір 60 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 
+**Шал крові.** Квіпер має перевагу на кидки атаки ближнього бою проти будь-якої істоти, що має не всі пункти здоров'я.    
 
-### Description
-A quipper is a carnivorous fish with sharp teeth. Quippers can adapt to any aquatic environment, including cold subterranean lakes. They frequently gather in swarms; the statistics for a swarm of quippers appear later in this appendix. 
+**Дихання водою.** Квіпер може дихати тільки під водою.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження.
+
+### Опис
+Квіпер - це хижа риба з гострими зубами. Квіпери можуть призвичаїтися до будь-якого водного середовища, включно з холодними підземними озерами. Вони часто збиваються у зграї; статистика для зграї квіперів наведена далі в цьому додатку. 

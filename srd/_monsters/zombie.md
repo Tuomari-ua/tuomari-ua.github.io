@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Zombie
-type: Undead
-tag: .25
+title: Зомбі
+type: Невмерлий
+tag: 0.25
 ---
-_Medium undead, neutral evil_
 
-**Armor Class** 8    
-**Hit Points** 22 (3d8 + 9)    
-**Speed** 20 ft. 
+_Невмерлий середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 6 (−2)  | 16 (+3) | 3 (−4)  | 6 (−2)  | 5 (−3)  |
+**Клас захисту** 8     
+**Пункти здоров'я** 22 (3к8 + 9)    
+**Швидкість** 20 ф.
 
-**Saving Throws** Wis +0    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** understands the languages it knew in life but can't speak    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 13 (+1) | 6 (−2) | 16 (+3) | 3 (−4) | 6 (−2) | 5 (−3) |
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead. 
+![Зомбі](https://www.dndbeyond.com/avatars/thumbnails/30836/823/1000/1000/638063945376881949.png)
 
-### Actions    
-**Slam.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
+**Рятівні кидки** Мдр +0    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 8    
+**Мови** розуміє мови, які знав за життя, але не може говорити    
+**Небезпека** 1/4 (50 ПД)
+
+**Стійкість невмерлих.** Якщо ушкодження зменшують пункти здоров'я зомбі до 0, він повинен зробити рятівний кидок Статури з КС 5 + отримані ушкодження, хіба що ушкодження від променистої енергії або від критичного влучання. У разі успіху пункти здоров'я зомбі натомість знижуються до 1.
+
+### Дії
+**Стусан.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) дробильних ушкоджень.

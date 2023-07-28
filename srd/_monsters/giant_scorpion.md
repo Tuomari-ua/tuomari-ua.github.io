@@ -1,25 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Scorpion
-type: Beast
+title: Величезний скорпіон
+type: Звір
 tag: 3
 ---
-_Large beast, unaligned_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 52 (7d10 + 14)    
-**Speed** 40 ft.
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5)  | 9 (−1)  | 3 (−4)  |  
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 52 (7к10 + 14)    
+**Швидкість** 40 ф.
 
-**Senses** blindsight 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5) | 9 (−1) | 3 (−4) |
 
-### Actions 
-**Multiattack.** The scorpion makes three attacks: two with its claws and one with its sting.    
-**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.    
-**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. 
+**Чуття** сліпий зір 60 ф, пасивне Сприйняття 9    
+**Мови** -    
+**Небезпека** 0 (700 ПД)
+
+### Дії
+**Мультиатака.** Скорпіон здійснює три атаки: дві своїми клешнями та одну - жалом.    
+
+**Клешня.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) дробильних ушкоджень, і ціль є схопленою (КС втечі 12). Скорпіон має дві клешні, кожна з яких може схопити тільки одну ціль.    
+
+**Жало.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 +2) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 12, отримуючи 22 (4к10) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху. 

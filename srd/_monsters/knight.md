@@ -1,35 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Knight
-type: Humanoid (any race)
+title: Лицар
+type: Гуманоїд
 tag: 3
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 18 (plate)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft.
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |   
+**Клас захисту** 18 (лати)    
+**Пункти здоров'я** 52 (8к8 + 16)    
+**Швидкість** 30 ф.
 
-**Saving Throws** Con +4, Wis +2    
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
-**Brave.** The knight has advantage on saving throws against being frightened. 
+**Рятівні кидки** Ста +4, Мдр +2    
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 3 (700 ПД)
 
-### Actions 
-**Multiattack.** The knight makes two melee attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage.    
-**Leadership (Recharges after a Short or Long Rest).** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated. 
+**Хоробрий.** Лицар має перевагу на рятівні кидки проти залякування.
 
-### Reactions 
-**Parry.** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon. 
+### Дії
+**Мультиатака.** Лицар здійснює дві атаки ближнього бою.    
 
-### Description
-Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners. 
+**Дворучний меч.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень.    
+
+**Важкий арбалет.** _Далекобійна атака зброєю:_ +2 до влучання, відстань 100/400 ф, одна ціль. _Влучання:_ 5 (1к10) колотих ушкоджень.    
+
+**Лідерство (Відновлення після короткого або тривалого відпочинку).** Упродовж 1 хвилини лицар може промовити особливий наказ або попередження, щоразу як неворожа істота, яку він може бачити в межах 30 футів від себе, робить кидок атаки або рятівний кидок. Істота може додати к4 до свого кидка, за умови, що може чути й розуміти лицаря. Істота може отримати привілей тільки від однієї кістки Лідерства за раз. Цей ефект завершується, якщо лицар недієздатний.
+
+### Реакції
+**Парирування.** Лицар додає 2 до свого КЗ проти однієї атаки ближнього бою, яка мала б по ньому влучити. Щоб зробити це, лицар повинен бачити нападника й повинен тримати зброю ближнього бою.
+
+### Опис
+Лицарі є воїнами, які клянуться служити правителям, релігійним орденам і благородним цілям. Світогляд лицаря визначає ступінь дотримання клятви. Незалежно від того, чи виконує він завдання, чи патрулює королівство, лицар часто подорожує у супроводі сквайрів і наймитів, які є простаками. 

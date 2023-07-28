@@ -1,29 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Mammoth
-type: Beast
+title: Мамут
+type: Звір
 tag: 6
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 126 (11d12 + 55)    
-**Speed** 40 ft. 
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 24 (+7) | 9 (−1)  | 21 (+5) | 3 (−4)  | 11 (+0) | 6 (−2)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 126 (11к12 + 55)    
+**Швидкість** 40 ф
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 6 (2,300 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 24 (+7) | 9 (−1) | 21 (+5) | 3 (−4) | 11 (+0) | 6 (−2) |
 
-**Trampling Charge.** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 6 (2,300 ПД)
 
-### Actions 
-**Gore.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 25 (4d8 + 7) piercing damage.    
-**Stomp.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone creature. _Hit:_ 29 (4d10 + 7) bludgeoning damage. 
+**Витоптування.** Якщо мамут переміщується принаймні на 20 футів прямо до істоти і потім влучає по ній атакою буцанням у тому самому ходу, ця ціль повинна зробити рятівний кидок Сили з КС 18, або буде збита з ніг. Якщо ціль збита з ніг, мамут може зробити по ній одну атаку наступанням бонусною дією.
 
-### Description
-A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical. 
+### Дії
+**Буцання.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 25 (4к8 + 7) колотих ушкоджень.    
+
+**Наступання.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна збита з ніг істота. _Влучання:_ 29 (4к10 + 7) дробильних ушкоджень.
+
+### Опис
+Мамут - це слоноподібна істота з густим хутром і довгими бивнями. Більші й лютіші за звичайних слонів, мамути живуть у широкому діапазоні кліматів, від субарктичного до субтропічного. 

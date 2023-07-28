@@ -1,33 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ghost
-type: Undead
+title: Привид
+type: Невмерлий
 tag: 4
 ---
-_Medium undead, any alignment_
 
-**Armor Class** 11    
-**Hit Points** 45 (10d8)    
-**Speed** 0 ft., fly 40 ft. (hover) 
+_Невмерлий середнього розміру, будь-який світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
+**Клас захисту** 11    
+**Пункти здоров'я** 45 (10к8)    
+**Швидкість** 0 ф, політ 40 ф (зависання)  
 
-**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** cold, necrotic, poison    
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained    
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** any languages it knew in life    
-**Challenge** 4 (1,100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 7 (−2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
-**Ethereal Sight.** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.    
-**Incorporeal Movement.** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.   
+**Стійкість до ушкоджень** кислота, вогонь, блискавка, грім; дробильні, колоті та рубані ушкодження від немагічних атак    
+**Імунітет до ушкоджень** холод, некротична енергія, отрута    
+**Імунітет до станів** причарований, виснажений, наляканий, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 11    
+**Мови** будь-які мови, що знав за життя    
+**Небезпека** 4 (1100 ПД)  
 
-### Actions 
-**Withering Touch.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.    
-**Etherealness.** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.    
-**Horrifying Visage.** Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.    
-**Possession (Recharge 6).** One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.    
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+**Етерне бачення.** Привид може бачити на 60 футів в Етерний план, коли перебуває на Матеріальному плані, та навпаки.    
+
+**Безтілесний рух.** Привид може переміщуватися крізь інших істот та предмети як через важкопрохідну місцевість. Він отримує 5 (1к10) ушкоджень чистою енергією, якщо завершує хід всередині предмета.
+
+### Дії
+**Згубний дотик.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 17 (4к6 + 3) некротичних ушкоджень.    
+
+**Етерність.** Привид входить до Етерного плану з Матеріального плану, або навпаки. Він видимий на Матеріальному плану, поки перебуває у Прикордонному етері, і навпаки, однак він не може впливати й не піддається жодному впливу з іншого плану.    
+
+**Моторошне лице.** Кожна не-невмерла істота в межах 60 футів від привида, якщо може бачити його, повинна зробити рятівний кидок Мудрості з КС 13, або буде налякана на 1 хвилину. Якщо ряткидок провалюється на 5 або більше, ціль також старішає на 1к4х10 років. Налякана ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи наляканий стан на собі в разі успіху. Якщо рятівний кидок цілі успішний, або якщо ефект для неї завершився, ціль має імунітет до Моторошного лиця цього привида на наступні 24 години. Ефект старішання може обернути чарами більшого відновлення, але тільки упродовж перших 24 годин після події.    
+
+**Одержимість (Відновлення 6).** Один гуманоїд, якого привид може бачити в межах 5 футів від себе, повинен зробити рятівний кидок Харизми з КС 13, або стане одержимий привидом; привид зникає, а ціль стає недієздатною і втрачає контроль над своїм тілом. Привид контролює тіло, але не перериває самосвідомості цілі. На привида не можна націлитися жодною атакою, чарами чи іншим ефектом, за винятком тих, що виганяють невмерлих, і він зберігає свій світогляд, Інтелект, Мудрість, Харизму, а також імунітет до причарування та залякування. В усьому іншому він використовує статистику одержимої цілі, але не має доступу до знань цілі, класових особистостей та опанованого досвіду.    
+
+Одержимість триває, поки пункти здоров'я цілі не знизяться до 0, привид не завершить її бонусною дією, або привида не виженуть чи не витурять назовні ефектами на зразок чарів розвіювання зла й добра. Коли одержимість завершується, привид з'являється у вільному просторі в межах 5 футів від тіла. Ціль має імунітет до Одержимості цього привида на 24 години після успішного рятівного кидка або після завершення одержимості.

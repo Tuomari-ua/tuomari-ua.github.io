@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Elk
-type: Beast
+title: Величезний лось
+type: Звір
 tag: 2
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 42 (5d12 + 10)    
-**Speed** 60 ft. 
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 16 (+3) | 14 (+2) | 7 (−2)  | 14 (+2) | 10 (+0) |   
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 42 (4к12 + 10)    
+**Швидкість** 60 ф.
 
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** Giant Elk, understands Common, Elvish, and Sylvan but can't speak them    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 16 (+3) | 14 (+2) | 7 (−2) | 14 (+2) | 10 (+0) |
 
-**Charge.** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone. 
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття  14  
+**Мови** велетенських лосів; розумію спільну, ельфійську та сильван, але не говорить    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.    
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (4d8 + 4) bludgeoning damage. 
+**Розгін.** Якщо лось переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній тараном у той самий хід, ціль отримує додатково 7 (2к6) ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 14, або буде збита з ніг.
 
-### Description
-The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath. 
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень.    
+
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна збита з ніг ціль. _Влучання:_ 22 (4к8 + 4) дробильних ушкоджень.
+
+### Опис
+Величний величезний лось настільки рідкісний, що його появу часто сприймають як провіщення важливої події, наприклад народження короля. Легенди розказують про богів, що набували форми величезного лося, коли відвідували Матеріальний план. Багато культур вірять, що полювати на цих істот означає напрошуватися на божий гнів. 

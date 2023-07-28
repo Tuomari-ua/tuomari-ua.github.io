@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Chimera
-type: Monstrosity
+title: Химера
+type: Чудовисько
 tag: 6
 ---
-_Large monstrosity, chaotic evil_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 114 (12d10 + 48)    
-**Speed** 30 ft., fly 60 ft. 
+_Чудовисько великого розміру, хаотичний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 19 (+4)  | 11 (+0) | 19 (+4)  | 3 (-4)  | 14 (+2) | 10 (+0) |
- 
-**Skills** Perception +8    
-**Senses** darkvision 60 ft., passive Perception 18    
-**Languages** understands Draconic but can't speak    
-**Challenge** 6 (2,300 XP) 
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 114 (12к10 + 48)    
+**Швидкість** 30 ф, політ 60 ф.  
 
-### Actions 
-**Multiattack.** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.    
-**Horns.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d12 + 4) bludgeoning damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Fire Breath (Recharge 5–6).** The dragon head exhales fire in a 15-­‐foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |
+
+**Навички** Сприйняття +8    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 18    
+**Мови** розуміє Драконову, але не може говорити    
+**Небезпека** 6 (2300 ПД)  
+
+### Дії
+**Мультиатака.** Химера здійснює три атаки: одну укусом, одну рогами та одну - пазурами. Коли доступний вогняний подих, химера використовує його замість укусу або рогів.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень.    
+
+**Роги.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (1к12 + 4) дробильних ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.    
+
+**Вогняний подих. (Відновлення 5-6).** Драконова голова видихає полум'я 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 15, отримуючи 31 (7к8) ушкоджень вогнем у випадку невдачі або половину цих пошкоджень за умови успіху.

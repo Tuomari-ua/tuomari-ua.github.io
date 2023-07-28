@@ -1,30 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hunter Shark
-type: Beast
+title: Мисливська акула
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 0 ft., swim 40 ft.
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 13 (+1) | 15 (+2) | 1 (−5)  | 10 (+0) | 4 (−3)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 45 (6к10 + 12)    
+**Швидкість** 0 ф, плавання 40 ф
 
-**Skills** Perception +2    
-**Senses** blindsight 30 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 13 (+1) | 15 (+2) | 1 (−5) | 10 (+0) | 4 (−3) |
 
-**Blood Frenzy.** The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Water Breathing.** The shark can breathe only underwater. 
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage. 
+**Навички** Сприйняття +2    
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Description
-Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long. 
+**Шал крові.** Акула має перевагу на кидки атаки ближнього бою проти будь-якої істоти, що має не всі пункти здоров'я.    
+
+**Дихання водою.** Акула може дихати тільки під водою.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) колотих ушкоджень.
+
+### Опис
+Менша за величезну акулу, але більша та лютіша за рифову акулу, мисливська акула полює в глибоких водах. Зазвичай вона полює на самоті, але численні мисливські акули харчуються в тій самій області. Доросла мисливська акула має довжину від 15 до 20 футів. 

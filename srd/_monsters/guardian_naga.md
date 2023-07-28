@@ -1,37 +1,42 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Guardian Naga
-type: Monstrosity
+title: Нага Захисниця
+type: Чудовисько
 tag: 10
 ---
-_Large monstrosity, lawful good_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 127 (15d10 + 45)    
-**Speed** 40 ft. 
+_Чудовисько великого розміру, законний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 127 (15к10 + 45)    
+**Швидкість** 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
-**Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Celestial, Common    
-**Challenge** 10 (5,900 XP) 
+![Нага Захисниця](https://www.dndbeyond.com/avatars/thumbnails/30833/678/1000/1000/638063870254701844.png)
 
-**Rejuvenation.** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.    
-**Spellcasting.** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:    
-Cantrips (at will): **_mending, sacred flame, thaumaturgy_**    
-1st level (4 slots): **_command, cure wounds, shield of faith_**    
-2nd level (3 slots): **_calm emotions, hold person_**    
-3rd level (3 slots): **_bestow curse, clairvoyance_**    
-4th level (3 slots): **_banishment, freedom of movement_**    
-5th level (2 slots): **_flame strike, geas_**    
-6th level (1 slot): **_true seeing_** 
+**Рятівні кидки** Спр +8, Ста +7, Інт +7, Мдр +8, Хар +8    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14   
+**Мови** небесна, спільна    
+**Небезпека** 10 (5900 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one creature. _Hit:_ 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.    
-**Spit Poison.** _Ranged Weapon Attack:_ +8 to hit, range 15/30 ft., one creature. _Hit:_ The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+**Омолодження.** Якщо нага помирає, вона повертається до життя через 1к6 днів та відновлює всі свої пункти здоров'я. Тільки чари бажання можуть спинити функціонування цієї риси.    
+
+**Чарування.** Нага є чаротворцем 11 рівня. Її чаротворчою здібністю є Мудрість (КС чарів 16, +8 до влучання атаками чарів), і вона потребує тільки вербальної складової для чарування. Вона має наступні підготовлені чари клірика:    
+Замовляння (за бажанням): **_лагодження, священне полум'я, чудотворення_**    
+1 рівень (4 чарунки): **_наказ, лікування ран, щит віри_**    
+2 рівень (3 чарунки): **_вгамування емоцій, стримування особи_**    
+3 рівень (3 чарунки): **_наділення прокляттям, підглядання_**    
+4 рівень (3 чарунки): **_вигнання, свобода рухів_**    
+5 рівень (2 чарунки): **_полум'яний удар, обітниця_**    
+6 рівень (1 чарунка): **_істинний зір_**
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 8 (1к8 +4) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 15, отримуючи 45 (10к8) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Отруйний плювок.** _Далекобійна атака зброєю:_ +8 до влучання, відстань 15/30 ф, одна ціль. _Влучання:_ Ціль повинна зробити рятівний кидок Статури з КС 15, отримуючи 45 (10к8) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху.

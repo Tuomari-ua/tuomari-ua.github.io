@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Weasel
-type: Beast
+title: Ласиця
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 30 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 16 (+3) | 8 (−1)  | 2 (−4)  | 12 (+1) | 3 (−4)  |
+**Клас захисту** 13    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 30 ф.
 
-**Skills** Perception +3, Stealth +5    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 3 (−4) | 16 (+3) | 8 (−1) | 2 (−4) | 12 (+1) | 3 (−4) |
 
-**Keen Hearing and Smell.** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+**Навички** Сприйняття +3, Непомітність +5    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage. 
+**Гострий слух і нюх.** Ласиця має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження. 

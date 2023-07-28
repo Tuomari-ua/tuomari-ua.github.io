@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Lizard
-type: Beast
-tag: .25
+title: Величезна ящірка
+type: Звір
+tag: 0.25
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 30 ft., climb 30 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 30 ф, лазіння 30 ф.
 
-**Senses** darkvision 30 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. 
+**Чуття** темний зір 30 ф., пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Description
-A giant lizard can be ridden or used as a draft animal. Lizardfolk also keep them as pets, and subterranean giant lizards are used as mounts and pack animals by drow, duergar, and others. 
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.
+
+### Опис
+На величезній ящірці можна їздити верхи або використовувати як тяглову тварину. Людоящери також утримують їх як домашніх улюбленців, а підземних величезних ящірок дроу, дверґари та інші використовують як їздових та зграйних тварин. 

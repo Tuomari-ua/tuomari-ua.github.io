@@ -1,29 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Grimlock
-type: Humanoid (grimlock)
-tag: .25
+title: Ґримлок
+type: Гуманоїд
+tag: 0.25
 ---
-_Medium humanoid (grimlock), neutral evil_
 
-**Armor Class** 11    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (ґримлок), нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1)  | 8 (−1)  | 6 (−2)  |
+**Клас захисту** 11     
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф.
 
-**Skills** Athletics +5, Perception +3, Stealth +3    
-**Condition Immunities** blinded    
-**Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13    
-**Languages** Undercommon    
-**Challenge** 1/4 (50 XP)    
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1) | 8 (−1) | 6 (−2) |
 
-**Blind Senses**. The grimlock can't use its blindsight while deafened and unable to smell.    
-**Keen Hearing and Smell.** The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. 
+![Ґримлок](https://www.dndbeyond.com/avatars/thumbnails/30784/270/1000/1000/638062035227436078.png)
 
-### Actions 
-**Spiked Bone Club.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+**Навички** Атлетика +5, Сприйняття +3, Непомітність +3    
+**Імунітет до станів** осліплений    
+**Чуття** сліпий зір 30 ф або 10 ф, поки оглухлий (сліпий за межами цього радіусу), пасивне Сприйняття 13    
+**Мови** підтемна    
+**Небезпека** 1/4 (50 ПД)
+
+**Сліпі чуття**. Ґримлок не може використовувати сліпий зір, поки оглухлий і нездатний нюхати.    
+
+**Гострий слух і нюх.** Ґримлок має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.    
+
+**Кам’яне маскування.** Ґримлок має перевагу на перевірки Спритності (Непомітність) для маскування на кам'янистій місцевості.
+
+### Дії
+**Палиця з загостреними кістками.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к4 + 3) дробильних ушкоджень плюс 2 (1к4) колотих ушкоджень.

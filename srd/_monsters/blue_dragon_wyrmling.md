@@ -1,27 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Blue Dragon Wyrmling
-type: Dragon
+title: Змієня синього дракона
+type: Дракон
 tag: 3
 ---
-_Medium dragon, lawful evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft., burrow 15 ft., fly 60 ft. 
+_Дракон середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 52 (8к8 + 16)    
+**Швидкість** 30 ф, риття 15 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** lightning    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 3 (700 XP) 
+![Змієня синього дракона](https://www.dndbeyond.com/avatars/thumbnails/21222/242/1000/1000/637708181281501343.jpeg)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in a 30-­foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +2, Ста +4, Мдр +2, Хар +4    
+**Навички** Сприйняття +4, Непомітність +2    
+**Імунітет до ушкоджень** блискавка    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 3 (700 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к10 +3) колотих ушкоджень плюс 3 (1к4) ушкоджень кислотою.    
+
+**Дихання блискавкою (Відновлення 5-6).** Дракон видихає блискавку лінією завдовжки 30 футів та завширшки 5 футів. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 12, отримуючи 22 (4к10) ушкоджень блискавкою в разі невдачі, або половину цих ушкоджень за умови успіху.

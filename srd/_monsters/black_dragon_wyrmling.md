@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Black Dragon Wyrmling
-type: Dragon
+title: Змієня чорного дракона
+type: Дракон
 tag: 2
 ---
-_Medium dragon, chaotic evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft. 
+_Дракон середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 33 (6к8 + 6)    
+**Швидкість** 30 ф, політ 60 ф, плавання 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +4    
-**Damage Immunities** acid    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP)    
+![Змієня чорного дракона](https://www.dndbeyond.com/avatars/thumbnails/16/496/1000/1000/636376308217017511.jpeg)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +4, Ста +3, Мдр +2, Хар +3    
+**Навички** Сприйняття +4, Непомітність +4    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.    
-**Acid Breath (Recharge 5–6).** The dragon exhales acid in a 15-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 +2) колотих ушкоджень плюс 2 (1к4) ушкоджень кислотою.    
+
+**Кислотний подих (Відновлення 5-6).** Дракон видихає кислоту лінією завдовжки 15 футів та завширшки 5 футів. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 11, отримуючи 22 (5к8) ушкоджень кислотою у разі невдачі, або половину цих ушкоджень за умови успіху.

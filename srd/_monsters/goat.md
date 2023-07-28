@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Goat
-type: Beast
+title: Коза
+type: Звір
 tag: 0
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 4 (1d8)    
-**Speed** 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 10 (+0) | 11 (+0) | 2 (−4)  | 10 (+0) | 5 (−3)  |  
+**Клас захисту** 10    
+**Пункти здоров'я** 4 (1к8)    
+**Швидкість** 40 ф.
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 10 (+0) | 11 (+0) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone.    
-**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
+**Розгін.** Якщо коза переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній тараном у той самий хід, ціль отримує додатково 2 (1к4) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 10, або буде збита з ніг.    
+
+**Впевнений крок.** Коза має перевагу на рятівні кидки Сили та Спритності проти ефектів, що можуть збити її з ніг.
+
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к4 + 1) дробильних ушкоджень.

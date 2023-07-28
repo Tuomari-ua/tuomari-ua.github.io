@@ -1,29 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Brass Dragon Wyrmling
-type: Dragon
+title: Змієня латунного дракона
+type: Дракон
 tag: 1
 ---
-_Medium dragon, chaotic good_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 16 (3d8 + 3)    
-**Speed** 30 ft., burrow 15 ft., fly 60 ft. 
+_Дракон середнього розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 16 (3к8 + 3)    
+**Швидкість** 30 ф, риття 15 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** fire    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 1 (200 XP) 
+![Змієня латунного дракона](https://www.dndbeyond.com/avatars/thumbnails/30782/475/1000/1000/638061963543984454.png)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.    
-**Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+**Рятівні кидки** Спр +2, Ста +3, Мдр +2, Хар +3    
+**Навички** Сприйняття +4, Непомітність +2    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 1 (200 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Вогняне дихання.** Дракон видихає вогонь лінією завдовжки 20 ф та завширшки 5 ф. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 11, отримуючи 14 (4к6) ушкоджень вогнем у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Снодійне дихання.** Дракон видихає снодійний газ 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 11, або знепритомніє на 1 хвилин. Цей ефекти завершується для істоти, якщо вона отримує ушкодження, або якщо хтось інший використовує дію, щоб розбудити сплячого.

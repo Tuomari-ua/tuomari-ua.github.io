@@ -1,27 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Red Dragon Wyrmling
-type: Dragon
+title: Змієня червоного дракона
+type: Дракон
 tag: 4
 ---
-_Medium dragon, chaotic evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 75 (10d8 + 30)    
-**Speed** 30 ft., climb 30 ft., fly 60 ft. 
+_Дракон середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 75 (10к8 + 30)    
+**Швидкість** 30 ф, лазіння 30 ф, політ 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** fire    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 4 (1,100 XP) 
+![Змієня червоного дракона](https://www.dndbeyond.com/avatars/thumbnails/30782/412/1000/1000/638061961411525220.png)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.    
-**Fire Breath (Recharge 5–6).** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +2, Ста +5, Мдр +2, Хар +4    
+**Навички** Сприйняття +4, Непомітність +2    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 4 (1100 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (1к10 + 4) колотих ушкоджень плюс 3 (1к6) ушкоджень вогнем.    
+
+**Вогняний подих (Відновлення 5-6).** Дракон видихає полум'я 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 13, отримуючи 24 (7к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху.

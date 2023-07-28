@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young White Dragon
-type: Dragon
+title: Молодий білий дракон
+type: Дракон
 tag: 6
 ---
-_Large dragon, chaotic evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 133 (14d10 + 56)    
-**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft. 
+_Дракон великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2)  | 11 (+0) | 12 (+1) |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 133 (14к10 + 56)    
+**Швидкість** 40 ф, риття 20 ф, політ 80 ф, плавання 40 ф.
 
-**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4    
-**Skills** Perception +6, Stealth +3    
-**Damage Immunities** cold    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 6 (2,300 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (−2) | 11 (+0) | 12 (+1) |
 
-**Ice Walk.** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment. 
+![Молодий білий дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/436/1000/1000/638061962314445590.png)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Cold Breath (Recharge 5–6).** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +3, Ста +7, Мдр +3, Хар +4    
+**Навички** Сприйняття +6, Непомітність +3    
+**Імунітет до ушкоджень** холод    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 16    
+**Мови** спільна, драконова    
+**Небезпека** 6 (2300 ПД)
+
+**Крижана хода.** Дракон може переміщуватися по крижаній поверхні та лазити по ній, не роблячи перевірку здібності. Крім того, важкопрохідна місцевість із криги та снігу не коштує йому додаткового переміщення.
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (2к10 + 4) колотих ушкоджень плюс 4 (1к8) ушкоджень холодом.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.    
+
+**Крижане дихання (Відновлення 5-6).** Дракон видихає крижаний заряд 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 15, отримуючи 45 (10к8) ушкоджень холодом у разі невдачі або половину цих ушкоджень за умови успіху.

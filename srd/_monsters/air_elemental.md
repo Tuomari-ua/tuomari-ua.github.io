@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Стихійник повітря [Air Elemental]
+title: Стихійник повітря
 type: Стихійник
 tag: 5
 ---

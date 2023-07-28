@@ -1,30 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Green Dragon Wyrmling
-type: Dragon
+title: Змієня зеленого дракона
+type: Дракон
 tag: 2
 ---
-_Medium dragon, lawful evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 38 (7d8 + 7)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft. 
+_Дракон середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 38 (7к8 + 7)    
+**Швидкість** 30 ф, політ 60 ф, плавання 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
-**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3    
-**Skills** Perception +4, Stealth +3    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP) 
+![Змієня зеленого дракона](https://www.dndbeyond.com/avatars/thumbnails/30782/393/1000/1000/638061960809474996.png)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +3, Ста +3, Мдр +2, Хар +3    
+**Навички** Сприйняття +4, Непомітність +3    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.    
-**Poison Breath (Recharge 5–6).** The dragon exhales poisonous gas in a 15‐foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень плюс 3 (1к6) ушкоджень отрутою.    
+
+**Отруйний подих (Відновлення 5-6).** Дракон видихає отруйний газ 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 11, отримуючи 21 (6к6) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.

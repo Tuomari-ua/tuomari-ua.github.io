@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Eagle
-type: Beast
+title: Величезний орел
+type: Звір
 tag: 1
 ---
-_Large beast, neutral good_
 
-**Armor Class** 13    
-**Hit Points** 26 (4d10 + 4)    
-**Speed** 10 ft., fly 80 ft.
+_Звір великого розміру, нейтральний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1)  | 14 (+2) | 10 (+0) |   
+**Клас захисту** 13    
+**Пункти здоров'я** 26 (4к10 + 4)    
+**Швидкість** 10 ф, політ 80 ф.
 
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** Giant Eagle, understands Common and Auran but can't speak them    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1) | 14 (+2) | 10 (+0) |
 
-**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that rely on sight. 
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** велетенських орлів; розуміє спільну та ауран, але не може говорити    
+**Небезпека** 1 (200 ПД)
 
-### Actions 
-**Multiattack.** The eagle makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage. Talons. _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. 
+**Гострий зір.** Орел має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
 
-### Description
-A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles). 
+### Дії
+**Мультиатака.** Орел робить дві атаки: одну дзьобом та одну - кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень. Кігті. _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень.
+
+### Опис
+Велетенський орел - це шляхена істота, що говорить власною мовою і розуміє спільну мову. Подружжя велетенських орлів зазвичай має до чотирьох яєць або молодняку в гнізді (вважайте молодняк звичайними орлами). 

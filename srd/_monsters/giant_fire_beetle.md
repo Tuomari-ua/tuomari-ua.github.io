@@ -1,28 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Fire Beetle
-type: Beast
+title: Величезний вогняний жук
+type: Звір
 tag: 0
 ---
-_Small beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 4 (1d6 + 1)    
-**Speed** 30 ft. 
+_Звір малого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 10 (+0) | 12 (+1) | 1 (−5)  | 7 (−2)  | 3 (−4)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 4 (1к6 + 1)    
+**Швидкість** 30 ф.
 
-**Senses** blindsight 30 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 8 (−1) | 10 (+0) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
-**Illumination.** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet. 
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d6 − 1) slashing damage. 
+**Ілюмінація.** Жук випромінює яскраве світло в радіусі 10 футів та тьмяне світло ще на 10 футів.
 
-### Description
-A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests. 
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +1 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к6 - 1) рубаних ушкоджень.
+
+### Опис
+Величезний вогняний жук - нічна істота, що отримала своє ім'я через пару світлових залоз, які випромінюють світло. Шахтарі та пригодники цінують цих істот, бо залози величезних вогняних жуків продовжують випромінювати світло ще 1к6 днів після смерті жука. Величезні вогняні жуки найчастіше зустрічаються під землею та в темних лісах. 

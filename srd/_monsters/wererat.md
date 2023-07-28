@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Wererat
-type: Humanoid (human, shapechanger)
+title: Щуревертень
+type: Гуманоїд
 tag: 2
 ---
-_Medium humanoid (human, shapechanger), lawful evil_
 
-**Armor Class** 12    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (людина, перекидень), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1)  |
+**Клас захисту** 12    
+**Пункти здоров'я** 33 (6к8 + 6)    
+**Швидкість** 30 ф.
 
-**Skills** Perception +2, Stealth +4    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** darkvision 60 ft. (rat form only), passive Perception 12    
-**Languages** Common (can't speak in rat form)    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (−1) |
 
-**Shapechanger.** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Smell.** The wererat has advantage on Wisdom (Perception) checks that rely on smell. 
+**Навички** Сприйняття +2, Непомітність +4    
+**Імунітет до ушкоджень** дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Чуття** темний зір 60 ф (тільки у формі щура), пасивне Сприйняття 12    
+**Мови** спільна (не може говорити у формі щура)    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Multiattack (Humanoid or Hybrid Form Only).** The wererat makes two attacks, only one of which can be a bite.    
-**Bite (Rat or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.    
-**Shortsword (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Hand Crossbow (Humanoid or Hybrid Form Only).** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**Перекидень.** Щуревертень може використати дію, щоб перевтілитися на щуро-гуманоїдного гібрида або у величезного щура, або назад до своєї істинної форми, яка є гуманоїдною. Його статистика, окрім розміру, залишається однаковою в усіх формах. Будь-яке спорядження, що вона тримає при собі, не трансформується. Він повертається в свою істинну форму, якщо вмирає.    
+
+**Гострий нюх.** Щуревертень має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.
+
+### Дії
+**Мультиатака (Тільки у формі гуманоїда або гібрида).** Щуревертень робить дві атаки, тільки одна з яких може бути укусом.    
+
+**Укус (Тільки у формі щура або гібрида).** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень. Якщо ціль є гуманоїдом, вона повинна зробити рятівний кидок Статури з КС 11, або буде проклята щурячою лікантропією.    
+
+**Короткий меч (Тільки у формі гуманоїда або гібрида).** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Ручний арбалет (Тільки у формі гуманоїда або гібрида).** _Далекобійна атака зброєю:_ +4 до влучання, відстань 30/120 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.

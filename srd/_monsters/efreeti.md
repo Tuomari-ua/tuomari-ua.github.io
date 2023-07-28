@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Efreeti
-type: Elemental
+title: Іфрит
+type: Стихійник
 tag: 11
 ---
-_Large elemental, lawful evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 200 (16d10 + 112)    
-**Speed** 40 ft., fly 60 ft. 
+_Стихійник великого розміру, законний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 200 (6к10 + 112)    
+**Швидкість** 40 ф, політ 60 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
-    
-**Saving Throws** Int +7, Wis +6, Cha +7    
-**Damage Immunities** fire    
-**Senses** darkvision 120 ft., passive Perception 12    
-**Languages** Ignan    
-**Challenge** 11 (7,200 XP) 
 
-**Elemental Demise.** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.    
-**Innate Spellcasting.** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**    
-3/day: **_enlarge/reduce_**, **_tongues_**    
-1/day each: **_conjure elemental_** (fire elemental only), **_gaseous form_**, **_invisibility_**, **_major image_**, **_plane shift_**, **_wall of fire_** 
+**Рятівні кидки** Інт +7, Мдр +6, Хар +7    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** Іґнан    
+**Небезпека** 11 (7200 ПД)  
 
-### Actions 
-**Multiattack.** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.    
-**Scimitar.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.    
-**Hurl Flame.** Ranged Spell Attack: +7 to hit, range 120 ft., one target. _Hit:_ 17 (5d6) fire damage.
+**Стихійний спадок.** Якщо іфрит вмирає, його тіло дезінтегрує у спалаху вогню та пориві диму, залишаючи по собі тільки спорядження, яке іфрит мав при собі.    
+
+**Вроджене чарування.** Вродженою здатністю іфрита до чарування є Харизма (КС рятунку 15, +7 до влучання атаками чарів). Він може природно створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням:**_виявлення магії_**    
+3/день кожне: **_збільшення/зменшення_**, **_мови_**    
+1/день кожне: **_з'ява стихійника_** (тільки стихійник вогню), **_газоподібна форма_**, **_невидимість_**, **_оживлений образ_**, **_планарний перехід_**, **_стіна вогню_**
+
+### Дії
+**Мультиатака.** Іфрит здійснює дві атаки скимитаром або двічі використовує Жбурляння вогню.    
+
+**Скимитар.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к6 + 6) рубаних ушкоджень плюс 7 (2к6) ушкоджень вогнем.    
+
+**Жбурляння вогню.** Далекобійна атака чарами: +7 до влучання, досяжність 120 ф, одна ціль. _Влучання:_ 17 (5к6) ушкоджень вогнем.

@@ -1,35 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Erinyes
-type: Fiend (devil)
+title: Еринія
+type: Погань
 tag: 12
 ---
-_Medium fiend (devil), lawful evil_
 
-**Armor Class** 18 (plate)    
-**Hit Points** 153 (18d8 + 72)    
-**Speed** 30 ft., fly 60 ft. 
+_Погань середнього розміру (диявол), законний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 18 (лати)    
+**Пункти здоров'я** 153 (18к8 + 72)    
+**Швидкість** 30 ф, політ 60 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
-    
-**Saving Throws** Dex +7, Con +8, Wis +6, Cha +8    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 12    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 12 (8,400 XP) 
 
-**Hellish Weapons.** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).    
-**Magic Resistance.** The erinyes has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Спр _7, Ста +8, Мдр +6, Хар +8    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 12 (8400 ПД)  
 
-### Actions 
-**Multiattack.** The erinyes makes three attacks.    
-**Longsword.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.    
-**Longbow.** _Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic. 
+**Пекельна зброя.** Атаки еринії зброєю є магічними і завдають додатково 13 (3к8) ушкоджень отрутою при влучанні (включені в атаку).    
 
-### Reactions 
-**Parry.** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+**Магічна стійкість.** Еринія має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Еринія здійснює три атаки.    
+
+**Довгий меч.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к8 +4) рубаних ушкоджень, або 9 (1к10 + 4) рубаних ушкоджень, якщо тримає двома руками, плюс 13 (3к8) ушкоджень отрутою.    
+
+**Довгий лук** _Далекобійна атака зброєю:_ +7 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень плюс 13 (3к8) ушкоджень отрутою, і ціль повинна зробити рятівний кидок Статури з КС 14, або буде отруєна. Отрута триває, доки її не видалять чарами меншого відновлення або подібною магією.
+
+### Реакції
+**Парирування.** Еринія додає 4 до свого КЗ проти однієї атаки ближнього бою, яка мала б по ній влучити. Щоб зробити це, еринія повинна бачити нападника й повинна тримати зброю ближнього бою.

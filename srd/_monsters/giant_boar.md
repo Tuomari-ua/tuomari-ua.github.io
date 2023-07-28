@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Boar
-type: Beast
+title: Величезний кабан
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 42 (5d10 + 15)    
-**Speed** 40 ft.
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 10 (+0) | 16 (+3) | 2 (−4)  | 7 (−2)  | 5 (−3)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 42 (5к10 + 15)    
+**Швидкість** 40 ф.
 
-**Senses** passive Perception 8    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 17 (+3) | 10 (+0) | 16 (+3) | 2 (−4) | 7 (−2) | 5 (−3) |
 
-**Charge.** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Relentless (Recharges after a Short or Long Rest).** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead. 
+**Чуття** пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Tusk.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. 
+**Розгін.** Якщо кабан переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній іклами в тому ж ходу, ціль отримує додатково 7 (2к6) рубаних ушкоджень. Якщо ціль - істота, вона повинна здійснити рятівний кидок Сили з КС 13, або буде збита з ніг.    
+
+**Непохитний (Відновлення після короткого або тривалого відпочинку).** Якщо кабан отримує 10 ушкоджень чи менше, що знижує його пункти здоров'я до 0, його пункти здоров'я натомість знижуються до 1.
+
+### Дії
+**Ікла.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф., одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень. 

@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Dretch
-type: Fiend (demon)
-tag: .25
+title: Дретч
+type: Погань
+tag: 0.25
 ---
-_Small fiend (demon), chaotic evil_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 18 (4d6 + 4)    
-**Speed** 20 ft. 
+_Погань малого розміру (демон), хаотичний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 11 (природна броня)    
+**Пункти здоров'я** 18 (4к6 + 4)    
+**Швидкість** 20 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
 | 11 (+0) | 11 (+0) | 12 (+1) | 5 (−3) | 8 (−1) | 3 (−4) |
 
-**Damage Resistances** cold, fire, lightning    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)    
-**Challenge** 1/4 (50 XP) 
+**Стійкість до ушкоджень** холод, вогонь, блискавка    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 9    
+**Мови** безоднева, телепатія 60 ф (працює тільки з істотами, що розуміють безодневу)    
+**Небезпека** 1/4 (50 ПД)  
 
-### Actions 
-**Multiattack.** The dretch makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 5 (2d4) slashing damage.    
-**Fetid Cloud (1/Day).** A 10­‐foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
+### Дії
+**Мультиатака.** Дретч здійснює дві атаки: одну укусом та одну пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к6) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (2к4) рубаних ушкоджень.    
+
+**Смердюча хмара (1/день).** У 10-футовому радіусі від дретча розходиться огидний зелений газ. Газ огинає кути й робить область слабопроглядною. Це триває 1 хвилину або допоки хмару не розвіє сильний вітер. Будь-яка істота, що починає свій хід у цій області, повинна зробити рятівний кидок Статури з КС 11, або буде отруєна до початку свого наступного ходу. Поки істота отруєна таким чином, вона може в свій хід здійснювати або дію, або бонусну дію, але не обидві, і не може виконувати реакції.

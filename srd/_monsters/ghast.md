@@ -1,30 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ghast
-type: Undead
+title: Вурдалак
+type: Невмерлий
 tag: 2
 ---
-_Medium undead, chaotic evil_
 
-**Armor Class** 13    
-**Hit Points** 36 (8d8)    
-**Speed** 30 ft. 
+_Невмерлий середнього розміру, хаотичний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1)  |
+**Клас захисту** 13    
+**Пункти здоров'я** 36 (8к8)    
+**Швидкість** 30 ф.  
 
-**Damage Resistances** necrotic    
-**Damage Immunities** poison    
-**Condition Immunities** charmed, exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1) |
 
-**Stench.** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.    
-**Turning Defiance.** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead. 
+**Стійкість до ушкоджень** некротична енергія    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** причарований, виснажений, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** спільна    
+**Небезпека** 2 (450 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 12 (2d8 + 3) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+**Сморід.** Будь-яка істота, що починає свій хід у межах 5 футів від вурдалака, повинна зробити рятівний кидок Статури з КС 10, або буде отруєна до початку свого наступного ходу. У разі успіху істота має імунітет до Смороду вурдалака на 24 години.    
+
+**Непокора вигнанню.** Вурдалак та будь-які упирі у межах 30 футів від нього мають перевагу на рятівні кидки проти ефектів, що виганяють невмерлих.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 12 (2к8 + 3) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень. Якщо ціль - не невмерла істота, вона повинна зробити рятівний кидок Статури з КС 10, або буде паралізована на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. 

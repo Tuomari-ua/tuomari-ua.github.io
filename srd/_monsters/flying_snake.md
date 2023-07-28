@@ -1,28 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Flying Snake
-type: Beast
-tag: .125
+title: Летюча змія
+type: Звір
+tag: 0.125
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 14    
-**Hit Points** 5 (2d4)    
-**Speed** 30 ft., fly 60 ft., swim 30 ft.
+_Звір крихітного розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 18 (+4) | 11 (+0) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+**Клас захисту** 14    
+**Пункти здоров'я** 5 (2к4)    
+**Швидкість** 30 ф, політ 60 ф, плавання 30 ф.  
 
-**Senses** blindsight 10 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/8 (25 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (−3) | 18 (+4) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-**Flyby.** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach. 
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)  
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage plus 7 (3d4) poison damage. 
+**Пролітання.** Змія не провокує атаки при нагоді, коли відлітає за межі досяжності ворога.  
 
-### Description
-A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils. 
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження плюс 7 (3к4) ушкоджень отрутою.  
+
+### Опис
+Летюча змія - це яскраво забарвлений крилатий плазун, що мешкає в віддалених джунглях. Племена та культисти іноді одомашнюють летючих змій, які служать посланцями для доставляння сувоїв, згорнутих у їхніх власних кільцях. 

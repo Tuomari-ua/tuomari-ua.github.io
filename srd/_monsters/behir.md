@@ -1,31 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Behir
-type: Monstrosity
+title: Бегір
+type: Чудовисько
 tag: 11
 ---
-_Huge monstrosity, neutral evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 168 (16d12 + 64)    
-**Speed** 50 ft., climb 40 ft. 
+_Чудовисько величезного розміру, нейтральний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 23 (+6)  | 16 (+3) | 18 (+4)  | 7 (-2)  | 14 (+2) | 12 (+1) |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 168 (16к12 + 64)    
+**Швидкість** 50 ф, лазіння 40 ф
 
-**Skills** Perception +6, Stealth +7    
-**Damage Immunities** lightning    
-**Senses** darkvision 90 ft., passive Perception 16    
-**Languages** Draconic    
-**Challenge** 11 (7,200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
+
+**Навички** Сприйняття +6, Непомітність +7    
+**Імунітет до ушкоджень** блискавка    
+**Чуття** Темний зір 90 ф, пасивне Сприйняття 16    
+**Мови** Драконова    
+**Небезпека** 11 (7200 ПД)
 
 
-### Actions 
-**Multiattack.** The behir makes two attacks: one with its bite and one to constrict.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.    
-**Constrict.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one Large or smaller creature. _Hit:_ 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends.    
-**Lightning Breath (Recharge 5–6).** The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Swallow.** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.    
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+### Дії
+**Мультиатака.** Бегір здійснює дві атаки: одну укусом та одну здушуванням.    
+**Укус.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 22 (3к10 + 6) колотих ушкоджень.    
+**Здушування.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна істота, чий розмір Великий або менший. _Влучання:_ 17 (2к10 + 6) дробильних ушкоджень плюс 17 (2к10 + 6) рубаних ушкоджень. Ціль схоплена (КС втечі 16), якщо бегір вже не здушує іншу істоту, і ціль скута до закінчення захвату.    
+**Подих блискавкою (Відновлення 5-6).** Бегір видихає блискавку лінією 20 ф завширшки та 5 ф завширшки. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 16, отримуючи 66 (12к10) ушкоджень блискавкою у разі невдачі або половину цих ушкоджень за умови успіху.    
+**Ковтання.** Бегір здійснює одну атаку укусом проти схопленої цілі, чий розмір Середній або менший. Якщо атака влучає, ціль також стає проковтнутою, а захват завершується. Поки ціль проковтнута, вона осліплена й скута, має повне укриття проти атак та інших ефектів ззовні бегіра, та отримує 21 (6к6) ушкоджень кислотою на початку кожного ходу бегіра. Бегір може тримати проковтнутою тільки одну істоту одночасно.    
+Якщо бегір отримує 30 або більше ушкоджень за хід від проковтнутої істоти, бегір повинен здійснити рятівний кидок Статури з КС 14 в кінці цього ходу, або відригне істоту, яка падає, збита з ніг, у межах 10 футів від бегіра. Якщо бегір вмирає, проковтнута істота більше не скута і може втекти з трупа, використавши 15 футів переміщення, та опиняється на волі збитою з ніг.

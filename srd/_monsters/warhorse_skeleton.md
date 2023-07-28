@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Warhorse Skeleton
-type: Undead
-tag: .5
+title: Скелет бойового коня
+type: Невмерлий
+tag: 0.5
 ---
-_Large undead, lawful evil_
 
-**Armor Class** 13 (barding scraps)    
-**Hit Points** 22 (3d10 + 6)    
-**Speed** 60 ft. 
+_Невмерлий великого розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 12 (+1) | 15 (+2) | 2 (−4)  | 8 (−1)  | 5 (−3)  |
+**Клас захисту** 13 (рештки обладунків)    
+**Пункти здоров'я** 22 (3к10 + 6)    
+**Швидкість** 60 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (−4) | 8 (−1) | 5 (−3) |
 
 
-**Damage Vulnerabilities.** bludgeoning    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+**Вразливість до ушкоджень** дробильні    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 9    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
+### Дії
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень.

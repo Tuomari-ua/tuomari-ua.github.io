@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Octopus
-type: Beast
+title: Восьминіг
+type: Звір
 tag: 0
 ---
-_Small beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 3 (1d6)    
-**Speed** 5 ft., swim 30 ft. 
+_Звір малого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 4 (−3)  | 15 (+2) | 11 (+0) | 3 (−4)  | 10 (+0) | 4 (−3)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 3 (1к6)    
+**Швидкість** 5 ф, лазіння 30 ф.
 
-**Skills** Perception +2, Stealth +4    
-**Senses** darkvision 30 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 4 (−3) | 15 (+2) | 11 (+0) | 3 (−4) | 10 (+0) | 4 (−3) |
 
-**Hold Breath.** While out of water, the octopus can hold its breath for 30 minutes.    
-**Underwater Camouflage.** The octopus has advantage on Dexterity (Stealth) checks made while underwater.    
-**Water Breathing.** The octopus can breathe only underwater. 
+![Восьминіг](https://www.dndbeyond.com/avatars/thumbnails/9/921/1000/1000/636334602449110996.jpeg)
 
-### Actions 
-**Tentacles.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.    
-**Ink Cloud (Recharges after a Short or Long Rest).** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action. 
+**Навички** Сприйняття +2, Непомітність +4    
+**Чуття** темний зір 30 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
+
+**Зупинка дихання.** Перебуваючи не у воді, восьминіг може затримувати дихання на 30 хвилин.    
+
+**Підводне маскування.** Восьминіг має перевагу на перевірки Спритності (Непомітність), коли робить їх під водою. **Дихання водою.** Восьминіг може дихати тільки під водою.
+
+### Дії
+**Щупальці.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 дробильне ушкодження, і ціль є схопленою (КС втечі 10). Доки триває цей захват, ціль скута, а восьминіг не може використовувати свої щупальця проти іншої цілі.    
+
+**Чорнильна хмара (Відновлення після короткого або тривалого відпочинку).** Хмара чорнила радіусом 5 футів поширюється навколо восьминога, якщо він під водою. Область стає непроглядною на 1 хвилину, хоча значна течія може розсіяти чорнило. Після випускання чорнил восьминіг може зробити Ривок бонусною дією. 

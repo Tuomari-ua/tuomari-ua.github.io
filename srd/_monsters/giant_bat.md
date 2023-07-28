@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Bat
-type: Beast
-tag: .25
+title: Величезний кажан
+type: Звір
+tag: 0.25
 ---
-_Large beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 22 (4d10)    
-**Speed** 10 ft., fly 60 ft.
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 16 (+3) | 11 (+0) | 2 (−4)  | 12 (+1) | 6 (−2)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 22 (4к10)    
+**Швидкість** 10 ф, політ 60 ф.
 
-**Senses** blindsight 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 16 (+3) | 11 (+0) | 2 (−4) | 12 (+1) | 6 (−2) |
 
-**Echolocation.** The bat can't use its blindsight while deafened.    
-**Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing. 
+**Чуття** сліпий зір 60 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage. 
+**Ехолокація.** Кажан не може користуватися сліпим зором, коли оглушений.    
+
+**Гострий слух.** Кажан має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень. 

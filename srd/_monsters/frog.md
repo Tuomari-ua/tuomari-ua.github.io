@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Frog
-type: Beast
+title: Жаба
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 20 ft., swim 20 ft. 
+_Звір крихітного розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 1 (−5)  | 13 (+1) | 8 (−1)  | 1 (−5)  | 8 (−1)  | 3 (−4)  |  
+**Клас захисту** 11    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 20 ф, плавання 20 ф.  
 
-**Skills** Perception +1, Stealth +3    
-**Senses** darkvision 30 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 0 (0 XP)   
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 1 (−5) | 13 (+1) | 8 (−1) | 1 (−5) | 8 (−1) | 3 (−4) |
 
-**Amphibious.** The frog can breathe air and water.    
-**Standing Leap.** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.    
+**Навички** Сприйняття +1, Непомітність +3    
+**Чуття** темний зір 30 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 0 (0 ПД)  
 
-A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.
+**Амфібія.** Жаба може дихати повітрям і водою.    
+
+**Стрибок із місця.** Жаба може стрибати в довжину до 10 футів, а в висоту - до 5 футів, з розбігом або без.  
+
+Жаба не має ефективних атак. Вона харчується малими комахами та типово проживає поблизу води, у заростях або під землею. Ігрова статистика жаби також можна використовувати для ропухи.

@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Hyena
-type: Beast
+title: Величезна гієна
+type: Звір
 tag: 1
 ---
-_Large beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 50 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4)  | 12 (+1) | 7 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 45 (6к10 + 12)    
+**Швидкість** 50 ф.
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4) | 12 (+1) | 7 (−2) |
 
-**Rampage.** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack. 
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття  13  
+**Мови** -    
+**Небезпека** 1 (200 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. 
+**Шал.** Коли гієна в свій хід зменшує пункти здоров'я істоти до 0 атакою ближнього бою, гієна може використати бонусну дію, щоб переміститися на половину своєї швидкості та зробити атаку укусом.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень. 

@@ -1,28 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gorgon
-type: Monstrosity
+title: Горгона
+type: Чудовисько
 tag: 5
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 114 (12d10 + 48)    
-**Speed** 40 ft. 
+_Чудовисько великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 11 (+0) | 18 (+4) | 2 (−4)  | 12 (+1) | 7 (−2)  |
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 114 (12к10 + 48)    
+**Швидкість** 40 ф.
 
-**Skills** Perception +4    
-**Condition Immunities** petrified    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** --    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 11 (+0) | 18 (+4) | 2 (−4) | 12 (+1) | 7 (−2) |
 
-**Trampling Charge.** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action. 
+![Горгона](https://www.dndbeyond.com/avatars/thumbnails/30784/711/1000/1000/638062051514524448.png)
 
-### Actions 
-**Gore.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 18 (2d12 + 5) piercing damage. Hooves. _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage.    
-**Petrifying Breath (Recharge 5–6).** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the greater restoration spell or other magic.
+**Навички** Сприйняття +4    
+**Імунітет до станів** скам'янілий    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 5 (1800 ПД)
+
+**Витоптування.** Якщо горгона переміщується принаймні на 20 футів прямо до істоти і потім влучає по ній атакою буцанням у тому самому ходу, ця ціль повинна зробити рятівний кидок Сили з КС 16, або буде збита з ніг. Якщо ціль збита з ніг, горгона може зробити по ній одну атаку копитами бонусною дією.
+
+### Дії
+**Буцання.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 18 (2к12 + 5) колотих ушкоджень. Копита. _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 16 (2к10 + 5) дробильних ушкоджень.    
+
+**Скам'янільний подих (Відновлення 5-6).** Горгона видихає скам'янільний газ 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 13. У разі невдачі істота починає перетворюватися на камінь і є скутою. Скута істота повинна повторити свій рятівний кидок в кінці свого наступного ходу. У разі успіху чари для цілі завершуються. У разі невдачі ціль стає скам'янілою, доки не буде звільнена чарами більшого відновлення або іншою магією.

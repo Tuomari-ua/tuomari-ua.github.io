@@ -1,30 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Wraith
-type: Undead
+title: Примара
+type: Невмерлий
 tag: 5
 ---
-_Medium undead, neutral evil_
 
-**Armor Class** 13    
-**Hit Points** 67 (9d8 + 27)    
-**Speed** 0 ft., fly 60 ft. (hover) 
+_Невмерлий середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+**Клас захисту** 13    
+**Пункти здоров'я** 67 (9к8 + 27)    
+**Швидкість** 0 ф, політ 60 ф (зависання)
 
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** necrotic, poison    
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** the languages it knew in life    
-**Challenge** 5 (1,800 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 6 (−2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
-**Incorporeal Movement.** The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.    
-**Sunlight Sensitivity.** While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. 
+**Стійкість до ушкоджень** кислота, холод, вогонь, грім; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** некротична енергія, отрута    
+**Імунітет до станів** причарований, виснажений, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 12    
+**Мови** мови, які знала за життя    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Life Drain.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.    
-**Create Specter.** The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
+**Безтілесний рух.** Примара може переміщуватися крізь інших істот та предмети так, ніби вони є важкопрохідною місцевістю. Вона отримує 5 (1к10) ушкоджень чистою енергією, якщо завершує свій хід всередині предмета.    
+
+**Чутливість до сонячного світла.** Перебуваючи в сонячному світлі, примара має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Висотування життя.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 21 (4к8 + 3) некротичних ушкоджень. Ціль повинна зробити рятівний кидок Статури з КС 14, або її максимум пунктів здоров'я буде зменшено на кількість отриманих ушкоджень. Це зменшення триває, доки ціль не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект зменшує максимум її пунктів здоров'я до 0.    
+
+**Створення Мари.** Примара націлюється на гуманоїда в межах 10 футів від себе, що загинув не більш як 1 хвилину тому й загинув насильницькою смертю. Дух цілі повстає як Мара в просторі свого тіла або в найближчому вільному просторі. Мара перебуває під контролем примари. Примара може мати одночасно не більше сімох мар під контролем.

@@ -1,36 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Chain Devil
-type: Fiend (devil)
+title: Ланцюговий диявол
+type: Погань
 tag: 8
 ---
-_Medium fiend (devil), lawful evil_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 85 (10d8 + 40)    
-**Speed** 30 ft. 
+_Погань середнього розміру (диявол), законний злий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 85 (10к8 + 40)    
+**Швидкість** 30 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
-  
-**Saving Throws** Con +7, Wis +4, Cha +5    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 11    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 8 (3,900 XP) 
 
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Ста +7, Мдр +4, Хар +5    
+**Стійкість до ушкоджень** холод; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 11    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 8 (3900 ПД)  
 
-### Actions 
-**Multiattack.** The devil makes two attacks with its chains.    
-**Chain.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.    
-**Animate Chains (Recharges after a Short or Long Rest).** Up to four chains the devil can see within 60 feet of it magically sprout razor-­edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.    
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies. 
+**Диявольський зір.** Магічна темрява не впливає на темний зір диявола.    
 
-### Reactions 
-**Unnerving Mask.** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+**Магічна стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Диявол здійснює дві атаки своїми ланцюгами.    
+
+**Ланцюг.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень. Ціль схоплена (КС втечі 14), якщо диявол вже не схопив іншу істоту. Доки цей захват не завершиться, ціль є скутою та отримує 7 (2к6) колотих ушкоджень на початку кожного свого ходу.    
+
+**Оживлені ланцюги (Відновлення після короткого або тривалого відпочинку).** До чотирьох ланцюгів, які диявол може бачити в межах 60 футів від себе, магічним чином випускають гострі колючки та оживають під контролем диявола, за умови, що ці ланцюги ніхто не тримає при собі.    
+
+Кожен оживлений ланцюг є предметом із КЗ 20, має 20 пунктів здоров'я, стійкість до колотих ушкоджень та імунітет до ушкоджень психічною енергією та громом. Коли диявол у свій хід використовує мультиатаку, він може змусити кожен із оживлених ланцюгів зробити одну додаткову атаку ланцюгом. Оживлений ланцюг може схопити одну істоту, але не може здійснювати атаки, поки тримає захват. Оживлений ланцюг повертається до неживого стану, коли його пункти здоров'я знижуються до нуля, або коли диявол недієздатний або помер.
+
+### Реакції
+**Бентежна маска.** Коли істота, яку диявол може бачити, починає свій хід у межах 30 футів від диявола, диявол може створити ілюзію, ніби виглядає як загибла близька істота цілі або як її запеклий ворог. Якщо істота може бачити диявола, вона повинна здійснити рятівний кидок Мудрості з КС 14, або буде налякана до кінця свого ходу.

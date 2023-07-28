@@ -1,37 +1,45 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Deva
+title: Дев
 tag: 10
-type: Celestial
+type: Небожитель
 ---
-_Medium celestial, lawful good_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 136 (16d8 + 64)    
-**Speed** 30 ft., fly 90 ft. 
+_Небожитель середнього розміру, законний добрий_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 18 (+4)  | 18 (+4) | 18 (+4)  | 17 (+3) | 20 (+5) | 20 (+5) |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 136 (16к8 + 64)    
+**Швидкість** 30 ф, політ 90 ф.  
 
-**Saving Throws** Wis +9, Cha +9    
-**Skills** Insight +9, Perception +9    
-**Damage Resistances** radiant; bludgeoning, piercing, and slashing from nonmagical attacks      
-**Condition Immunities** charmed, exhaustion, frightened    
-**Senses** darkvision 120 ft., passive Perception 19    
-**Languages** all, telepathy 120 ft.    
-**Challenge** 10 (5,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
-**Angelic Weapons.** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).   
-**Innate Spellcasting.** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:    
-At will: **_detect evil and good_**    
-1/day each: **_commune_**, **_raise dead_**    
-**Magic Resistance.** The deva has advantage on saving throws against spells and other magical effects. 
+**Рятівні кидки** Мдр +9, Хар +9    
+**Навички** Здогадливість +9, Сприйняття +9    
+**Стійкість до ушкоджень** промениста енергія; дробильні, колоті та рубані від немагічних атак      
+**Імунітет до станів** причарований, виснажений, наляканий    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 19    
+**Мови** усі, телепатія 120 ф    
+**Небезпека** 10 (5900 ПД)  
 
-### Actions 
-**Multiattack.** The deva makes two melee attacks.    
-**Mace.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.    
-**Healing Touch (3/Day).** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.    
-**Change Shape.** The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).    
-In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
+**Янгольська зброя.** Атаки дева зброєю є магічними. Коли дев влучає будь-якою зброєю, ця зброя завдає додатково 4к8 променистих ушкоджень (включені в атаку).   
+
+**Вроджене чарування.** Чаротворчою здібністю дева є Харизма (КС рятунку 17). Дев може природно створювати наступні чари, для яких потребує тільки вербальну складову:    
+
+За бажанням: **_виявлення зла та добра_**    
+1/день кожне: **_звернення_**, **_оживлення мерців_**    
+
+**Магічна стійкість.** Дев має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Дев здійснює дві атаки ближнього бою.    
+
+**Булава.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к6 + 4) дробильних ушкоджень плюс 18 (4к8) променистих ушкоджень.    
+
+**Цілющий дотик (3/день).** Дев торкається іншої істоти. Ціль магічним чином відновлює 20 (4к8 + 2) пункти здоров'я та звільняється від будь-яких проклять, хвороб, отрут, сліпоти або глухоти.    
+
+**Зміна форми.** Дев магічно перевтілюється на гуманоїда або звіра, чий клас небезпеки дорівнює або менший за його власний, або назад у свою істинну форму. Він повертається до своєї істинної форми, якщо вмирає. Будь-яке спорядження, що він тримає при собі, поглинається або залишається у нової форми (на вибір дева).    
+
+У новій формі дев зберігає свою ігрову статистику та здатність говорити, але його КЗ, можливості переміщення, Сила, Спритність та спеціальні чуття замінюються на показники нової форми, і він здобуває будь-яку статистику та властивості (крім класових особливостей, легендарних дій та дій лігва), які має нова форма, але не має дев.

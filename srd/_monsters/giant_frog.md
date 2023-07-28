@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Frog
-type: Beast
-tag: .25
+title: Величезна жаба
+type: Звір
+tag: 0.25
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 18 (4d8)    
-**Speed** 30 ft., swim 30 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 13 (+1) | 11 (+0) | 2 (−4)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 11    
+**Пункти здоров'я** 18 (4к8)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Skills** Perception +2, Stealth +3    
-**Senses** darkvision 30 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 13 (+1) | 11 (+0) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-**Amphibious.** The frog can breathe air and water.    
-**Standing Leap.** The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start. 
+**Навички** Сприйняття +2, Непомітність +3    
+**Чуття** темний зір 30 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.    
-**Swallow.** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone. 
+**Амфібія.** Жаба може дихати повітрям і водою.    
+
+**Стрибок із місця.** Жаба може стрибати в довжину до 20 футів, а в висоту - до 10 футів, з розбігом або без.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к10 + 1) колотих ушкоджень, і ціль схоплена (КС втечі 11). Доки триває цей захват, ціль скута, а жаба не може кусати іншу ціль.    
+
+**Ковтання.** Жаба може зробити одну атаку укусом проти цілі, чий розмір Малий або менший, і яку вона схопила. Якщо атака влучає, ціль стає проковтнутою, а захват завершується. Проковтнута ціль осліплена й скута, має повне укриття проти атак та інших ефектів ззовні жаби, та отримує 5 (2к4) ушкоджень кислотою на початку кожного ходу жаби. Жаба може мати одночасно лише одну проковтнуту ціль.  
+
+Якщо жаба вмирає, проковтнута істота більше не скута і може втекти з трупа, використавши 5 футів переміщення, та опиняється на волі збитою з ніг. 

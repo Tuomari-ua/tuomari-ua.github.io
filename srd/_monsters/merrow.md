@@ -1,27 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Merrow
-type: Monstrosity
+title: Водяник
+type: Чудовисько
 tag: 2
 ---
-_Large monstrosity, chaotic evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 10 ft., swim 40 ft. 
+_Чудовисько великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1)  | 10 (+0) | 9 (−1)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 45 (6к10 + 12)    
+**Швидкість** 10 ф, плавання 40 ф.
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Abyssal, Aquan    
-**Challenge** 2 (450 XP)    
-**Amphibious.** The merrow can breathe air and water. 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 10 (+0) | 15 (+2) | 8 (−1) | 10 (+0) | 9 (−1) |
 
-### Actions 
-**Multiattack.** The merrow makes two attacks: one with its bite and one with its claws or harpoon.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) slashing damage.    
-**Harpoon.** _Melee or _Ranged Weapon Attack:__ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** безоднева, акван    
+**Небезпека** 2 (450 ПД)    
+**Амфібія.** Водяник може дихати повітрям і водою.
+
+![Водяник](https://www.dndbeyond.com/avatars/thumbnails/30833/389/1000/1000/638063862754985837.png)
+
+### Дії
+**Мультиатака/** Водяник робить дві атаки: одну укусом та одну - кігтями або гарпуном.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к8 + 4) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (2к4 + 4) рубаних ушкоджень.    
+
+**Гарпун.** _ _Атака зброєю ближнього бою або далекобійна:_ +6 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень. Якщо ціль є істотою, чий розмір Величезний або менший, вона повинна зробити зустрічну перевірку Сили проти водяника, або буде підтягнута на 20 футів до водяника.

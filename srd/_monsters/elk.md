@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Elk
-type: Beast
-tag: .25
+title: Лось
+type: Звір
+tag: 0.25
 ---
-_Large beast, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 13 (2d10 + 2)    
-**Speed** 50 ft. 
+_Звір великого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4)  | 10 (+0) | 6 (−2)  |  
+**Клас захисту** 10    
+**Пункти здоров'я** 13 (2к10 + 2)    
+**Швидкість** 50 ф.  
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (−4) | 10 (+0) | 6 (−2) |
 
-**Charge.** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)  
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.    
-**Hooves.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one prone creature. _Hit:_ 8 (2d4 + 3) bludgeoning damage. 
+**Розгін.** Якщо лось переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній тараном у той самий хід, ціль отримує додатково 7 (2к6) ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 13, або буде збита з ніг.
+
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) дробильних ушкоджень.    
+
+**Копита.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна збита з ніг ціль. _Влучання:_ 8 (2к4 + 3) дробильних ушкоджень. 

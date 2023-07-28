@@ -1,28 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Ravens
-type: Swarm of Tiny beasts
-tag: .25
+title: Зграя круків
+type: Рій звірів крихітного розміру
+tag: 0.25
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 24 (7d8 − 7)    
-**Speed** 10 ft., fly 50 ft. 
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 14 (+2) | 8 (−1)  | 3 (−4)  | 12 (+1) | 6 (−2)  |
+**Клас захисту** 12    
+**Пункти здоров'я** 24 (7к8 - 7)    
+**Швидкість** 10 ф, політ 50 ф.
 
-**Skills** Perception +5    
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** passive Perception 15    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 6 (−2) | 14 (+2) | 8 (−1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points. 
+**Навички** Сприйняття +5    
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** пасивне Сприйняття 15    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions 
-**Beaks.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. 
+**Рій.** Зграя круків може займати простір іншої істоти й навпаки, і зграя може переміщуватися крізь простір, достатньо великий для крука Крихітного розміру. Зграя не відновлює пункти здоров'я і не отримує тимчасових пунктів здоров'я.
+
+### Дії
+**Дзьоби.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота в просторі зграї. _Влучання:_ 7 (2к6) колотих ушкоджень, або 3 (1к6) колотих ушкоджень, якщо зграя має половину пунктів здоров'я або менше. 

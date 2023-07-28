@@ -1,24 +1,24 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Scorpion
-type: Beast
+title: Скорпіон
+type: Звір
 tag: 0
 ---
----Scorpion 
-_Tiny beast, unaligned_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 10 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 11 (+0) | 8 (−1)  | 1 (−5)  | 8 (−1)  | 2 (−4)  |  
+**Клас захисту** 11 (природна броня)    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 10 ф
 
-**Senses** blindsight 10 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------ | ------ | ------ | ------ |
+| 2 (−4) | 11 (+0) | 8 (−1) | 1 (−5) | 8 (−1) | 2 (−4) |
 
-### Actions 
-**Sting.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one. 
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 9    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
+
+### Дії
+**Жало.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження, і ціль повинна зробити рятівний кидок Статури з КС 9, отримуючи 4 (1к8) ушкоджень отрутою в разі невдачі, або половину цих ушкоджень за умови успіху. 

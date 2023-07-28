@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Cultist
-type: Humanoid (any race)
-tag: .125
+title: Сектант
+type: Гуманоїд
+tag: 0.125
 ---
-_Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 12 (leather armor)    
-**Hit Points** 9 (2d8)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який не-добрий світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |   
+**Клас захисту** 12 (шкіряна броня)    
+**Пункти здоров'я** 9 (2к8)    
+**Швидкість** 30 ф.  
 
-**Skills** Deception +2, Religion +2    
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Dark Devotion.** The cultist has advantage on saving throws against being charmed or frightened. 
+**Навички** Обман +2, Релігія +2    
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека** 1/8 (25 ПД)  
 
-### Actions 
-**Scimitar.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage. 
+**Темна відданість.** Сектант має перевагу на рятівні кидки проти причарування та переляку.
 
-### Description
-Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices. 
+### Дії
+**Скимитар.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 4 (1к6 + 1) рубаних ушкоджень.  
+
+### Опис
+Сектанти присягають темним силам, таким як стихійні принци, демони-лорди чи архидияволи. Більшість приховує свою вірність, щоб уникнути остракізму, ув'язнення чи страти за свої переконання. На відміну від злих послідовників, сектанти часто виявляють ознаки божевілля у своїх переконаннях і практиках. 

@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Raven
-type: Beast
+title: Крук
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 10 ft., fly 50 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 14 (+2) | 8 (−1)  | 2 (−4)  | 12 (+1) | 6 (−2)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 10 ф, політ 50 ф
 
-**Skills** Perception +3    
-**Senses** passive Perception 13    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (−4) | 14 (+2) | 8 (−1) | 2 (−4) | 12 (+1) | 6 (−2) |
 
-**Mimicry.** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check. 
+**Навички** Сприйняття +3    
+**Чуття** пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions 
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
+**Наслідування.** Крук може наслідувати прості звуки, які чув, такі як шепіт особи, дитячий плач або лопотіння звірів. Істота, яка чує ці звуки, може впізнати наслідування успішною перевіркою Мудрості (Здогадливість) із КС 10.
+
+### Дії
+**Дзьоб.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження.

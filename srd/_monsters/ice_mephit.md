@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ice Mephit
-type: Elemental
-tag: .5
+title: Крижаний мефіт
+type: Стихійник
+tag: 0.5
 ---
-_Small elemental, neutral evil_
 
-**Armor Class** 11    
-**Hit Points** 21 (6d6)    
-**Speed** 30 ft., fly 30 ft. 
+_Стихійник малого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 13 (+1) | 10 (+0) | 9 (−1)  | 11 (+0) | 12 (+1) |
+**Клас захисту** 11    
+**Пункти здоров'я** 21 (6к6)    
+**Швидкість** 30 ф, політ 30 ф.
 
-**Skills** Perception +2, Stealth +3    
-**Damage Vulnerabilities.** bludgeoning, fire    
-**Damage Immunities** cold, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** Aquan, Auran    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 7 (−2) | 13 (+1) | 10 (+0) | 9 (−1) | 11 (+0) | 12 (+1) |
 
-**Death Burst.** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.    
-**False Appearance.** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_fog cloud_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+![Крижаний мефіт](https://www.dndbeyond.com/avatars/thumbnails/34175/909/1000/1000/638190241405142934.png)
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.    
-**Frost Breath (Recharge 6).** The mephit exhales a 15- foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
+**Навички** Сприйняття +2, Непомітність +3    
+**Вразливість до ушкоджень** дробильні, вогонь    
+**Імунітет до ушкоджень** холод, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 12    
+**Мови** акван, ауран    
+**Небезпека** 1/2 (100 ПД)
+
+**Смертний вибух.** Коли мефіт вмирає, він вибухає друзками криги. Кожна істота в межах 5 футів від нього повинна зробити рятівний кидок Спритності з КС 10, отримуючи 4 (1к8) рубаних ушкоджень у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Оманливий вигляд.** Поки мефіт не рухається, його неможливо відрізнити від звичайного уламку криги.    
+
+**Вроджене чарування (1/День).** Мефіт може природним чином створювати чари **_туманної хмари_**, не потребуючи матеріальних складових. Його природною здібністю до чарування є Харизма.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к4 + 1) рубаних ушкоджень плюс 2 (1к4) ушкоджень холодом.    
+
+**Крижане дихання (Відновлення 6).** Мефіт видихає 15-футовий конус холодного повітря. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 10, отримуючи 5 (2к4) ушкоджень холодом у разі невдачі, або половину цих пошкоджень за умови успіху.

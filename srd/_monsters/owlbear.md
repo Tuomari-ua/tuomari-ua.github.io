@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Owlbear
-type: Monstrosity
+title: Ведмесова
+type: Чудовисько
 tag: 3
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 59 (7d10 + 21)    
-**Speed** 40 ft. 
+_Чудовисько великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4)  | 12 (+1) | 7 (−2)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 59 (7к10 + 21)    
+**Швидкість** 40 ф.
 
-**Skills** Perception +3    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** --    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (−4) | 12 (+1) | 7 (−2) |
 
-**Keen Sight and Smell.** The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell. 
+**Навички** Сприйняття +3    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** -    
+**Небезпека** 3 (700 ПД)
 
-### Actions 
-**Multiattack.** The owlbear makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 10 (1d10 + 5) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.
+**Гострий зір і нюх.** Ведмесова має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір або нюх.
+
+### Дії
+**Мультиатака.** Ведмесова здійснює дві атаки: одну дзьобом та одну - пазурами.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 футів, одна істота. _Влучання:_ 10 (1к10 + 5) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 14 (2к8 + 5) рубаних ушкоджень.

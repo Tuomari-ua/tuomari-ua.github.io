@@ -1,28 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Berserker
-type: Humanoid (any race)
+title: Берсерк
+type: Гуманоїд
 tag: 2
 ---
-_Medium humanoid (any race), any chaotic alignment_
 
-**Armor Class** 13 (hide armor)    
-**Hit Points** 67 (9d8 + 27)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який хаотичний світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1)  | 11 (+0) | 9 (−1)  |  
+**Клас захисту** 13 (шкура)    
+**Пункти здоров'я** 67 (9к8 + 27)    
+**Швидкість** 30 ф.
 
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 11 (+0) | 9 (-1) |
 
-**Reckless.** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage. 
+**Відчайдушний.** На початку свого ходу берсерк може отримати перевагу на усі кидки атак зброєю ближнього бою в цей хід, але кидки атаки проти нього також матимуть перевагу до початку його наступного ходу.
 
-### Description
-Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it. 
+### Дії
+**Дворучна сокира.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (1к12 + 3) рубаних ушкоджень.
+
+### Опис
+Вихідці з нецивілізованих країн, непередбачувані берсерки об’єднуються у військові загони та шукають конфлікту, де тільки можуть його знайти. 

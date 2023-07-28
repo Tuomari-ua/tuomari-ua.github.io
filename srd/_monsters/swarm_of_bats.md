@@ -1,29 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Bats
-type: Swarm of Tiny beasts
-tag: .25
+title: Зграя кажанів
+type: Рій звірів крихітного розміру
+tag: 0.25
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 22 (5d8)    
-**Speed** 0 ft., fly 30 ft. 
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 15 (+2) | 10 (+0) | 2 (−4)  | 12 (+1) | 4 (−3)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 0 ф, політ 30 ф.
 
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** blindsight 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/4 (50 XP)
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 5 (−3) | 15 (+2) | 10 (+0) | 2 (−4) | 12 (+1) | 4 (−3) |
 
-**Echolocation.** The swarm can't use its blindsight while deafened.      
-**Keen Hearing.** The swarm has advantage on Wisdom (Perception) checks that rely on hearing.      
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.   
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** сліпий зір 60 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer. 
+**Ехолокація.** Зграя не може користуватися сліпим зором, коли оглухлий.      
+
+**Гострий слух.** Зграя має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух.      
+
+**Рій.** Зграя може займати простір іншої істоти та навпаки, і може переміщуватися крізь будь-який простір, достатній для крихітного кажана. Зграя не відновлює пункти здоров'я і не отримує тимчасових пунктів здоров'я.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 0 ф, одна істота в просторі рою. _Влучання:_ 5 (2к4) колотих ушкоджень, або 2 (1к4) колотих ушкоджень, якщо рій має половину пунктів здоров'я або менше. 

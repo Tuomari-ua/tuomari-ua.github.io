@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Shambling Mound
-type: Plant
+title: Плазуючий курган
+type: Рослина
 tag: 5
 ---
-_Large plant, unaligned_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 136 (16d10 + 48)    
-**Speed** 20 ft., swim 20 ft. 
+_Рослина великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 8 (−1)  | 16 (+3) | 5 (−3)  | 10 (+0) | 5 (−3)  |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 136 (16к10 + 48)    
+**Швидкість** 20 ф, плавання 20 ф.
 
-**Skills** Stealth +2    
-**Damage Resistances** cold, fire    
-**Damage Immunities** lightning    
-**Condition Immunities** blinded, deafened, exhaustion    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10    
-**Languages** --    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 18 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 10 (+0) | 5 (−3) |
 
-**Lightning Absorption.** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt. 
+**Навички** Непомітність +2    
+**Стійкість до ушкоджень** холод, вогонь    
+**Імунітет до ушкоджень** блискавка    
+**Імунітет до станів** осліплений, оглухлий, виснажений    
+**Чуття** сліпий зір 60 ф (сліпий за межами цього радіусу), пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Engulf.** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+**Вбирання блискавки.** Щоразу як плазуючий курган є ціллю ушкоджень блискавкою, він не отримує жодних ушкоджень і відновлює кількість пунктів здоров'я, що дорівнює кількості завданих ушкоджень блискавкою.
+
+### Дії
+**Мультиатака.** Плазуючий курган здійснює дві атаки стусанами. Якщо обидві атаки влучають по істоті, чий розмір Середній або менший, ціль стає схопленою (КС втечі 14), і плазуючий курган використовує на цю істоту Поглинання.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень.    
+
+**Поглинання.** Плазуючий курган поглинає схоплену істоту, чий розмір Середній або менший. Поглинута ціль осліплена, скута й не може дихати, і вона повинна зробити успішний рятівний кидок Статури з КС 14 на початку кожного ходу кургану, або отримає 13 (2к8 + 4) дробильних ушкоджень. Якщо курган переміщується, поглинута ціль переміщується разом із ним. Курган може мати одночасно лише одну поглинуту ціль.

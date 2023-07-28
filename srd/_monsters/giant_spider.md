@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Spider
-type: Beast
+title: Величезний павук
+type: Звір
 tag: 1
 ---
-_Large beast, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 26 (4d10 + 4)    
-**Speed** 30 ft., climb 30 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 16 (+3) | 12 (+1) | 2 (−4)  | 11 (+0) | 4 (−3)  |  
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 26 (4к10 + 4)    
+**Швидкість** 30 ф, лазіння 30 ф.
 
-**Skills** Stealth +7    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 1 (200 XP)   
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 16 (+3) | 12 (+1) | 2 (−4) | 11 (+0) | 4 (−3) |
 
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.    
-**Web Sense.** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.   
-**Web Walker.** The spider ignores movement restrictions caused by webbing. 
+![Величезний павук](https://www.dndbeyond.com/avatars/thumbnails/30849/299/1000/1000/638064499038216933.png)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.    
-**Web (Recharge 5–6).** _Ranged Weapon Attack:_ +5 to hit, range 30/60 ft., one creature. _Hit:_ The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage). 
+**Навички** Непомітність +7     
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1 (200 ПД)
 
-### Description
-To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims. 
+**Павуче лазіння.** Павук може лазити по складних поверхнях, включно зі стелею догори дриґом, не потребуючи перевірок здібностей.    
+
+**Чуття павутини.** Перебуваючи в контакті з павутинням, павук знає точне розташування будь-якої іншої істоти, що торкається того ж павутиння.   
+
+**Павутинний ходак.** Павук ігнорує обмеження переміщення, спричинене павутинням.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, отримуючи 9 (2к8) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху. Якщо ушкодження отрутою зменшують пункти здоров'я цілі до 0, ціль залишається стабільною, але отруєна на 1 годину, навіть після відновлення пунктів здоров'я, і паралізована, поки залишається отруєною таким чином.    
+
+**Павутиння (Відновлення 5-6).** _Далекобійна атака зброєю:_ +5 до влучання, відстань 30/60 ф, одна істота. _Влучання:_ Істота скута павутинням. Дією скута істота може зробити перевірку Сили з КС 12, звільняючись від павутини в разі успіху. Павутиння також можна атакувати й знищити (КЗ 10, ПЗ 5; вразливість до ушкоджень вогнем; імунітет до дробильних ушкоджень, ушкоджень отрутою та психічною енергією).
+
+### Опис
+Щоб уполювати свою здобич, величезний павук плете складне павутиння або вистрілює липкими пасмами павутини зі свого живота. Величезні павуки найчастіше зустрічаються під землею, влаштовуючи свої лігва на стелях або в темних, заповнених павутинням ущелинах. Такі лігва часто прикрашені павутинними коконами, де зберігаються попередні жертви. 

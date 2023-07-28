@@ -1,35 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Storm Giant
-type: Giant
+title: Штормовий велет
+type: Велет
 tag: 13
 ---
-_Huge giant, chaotic good_
 
-**Armor Class** 16 (scale mail)    
-**Hit Points** 230 (20d12 + 100)    
-**Speed** 50 ft., swim 50 ft. 
+_Велет величезного розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 16 (лускатий обладунок)    
+**Пункти здоров'я** 230 (20к12 + 100)    
+**Швидкість** 50 ф, плавання 50 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
-**Saving Throws** Str +14, Con +10, Wis +9, Cha +9    
-**Skills** Arcana +8, Athletics +14, History +8, Perception +9    
-**Damage Resistances** cold    
-**Damage Immunities** lightning, thunder    
-**Senses** passive Perception 19    
-**Languages** Common, Giant    
-**Challenge** 13 (10,000 XP)    
+**Рятівні кидки** Сил +14, Ста +10, Мдр +9, Хар +9    
+**Навички** Аркана +8, Атлетика +14, Історія +8, Сприйняття +9    
+**Стійкість до ушкоджень** холод    
+**Імунітет до ушкоджень** блискавка, грім    
+**Чуття**пасивне Сприйняття 19    
+**Мови** спільна, велетова    
+**Небезпека** 13 (10000 ПД)
 
-**Amphibious.** The giant can breathe air and water.    
-**Innate Spellcasting.** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**, **_feather fall_**, **_levitate_**, **_light_**    
-3/day each: **_control weather_**, **_water breathing_** 
+**Амфібія.** Велет може дихати повітрям і водою.    
 
-### Actions 
-**Multiattack.** The giant makes two greatsword attacks.    
-**Greatsword.** _Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 30 (6d6 + 9) slashing damage.    
-**Rock.** _Ranged Weapon Attack:_ +14 to hit, range 60/240 ft., one target. _Hit:_ 35 (4d12 + 9) bludgeoning damage.    
-**Lightning Strike (Recharge 5–6).** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+**Вроджене чарування.** Вродженою здібністю велета до чарування є Харизма (КС 17). Він може природно створювати наступні чари без використання матеріальних складових:    
+За бажанням: виявлення магії, падіння пір'їною, левітація, світло    
+3/день кожне: **_контроль погоди, дихання водою_**
+
+### Дії
+**Мультиатака.** Велет здійснює дві атаки дворучним мечем.    
+
+**Дворучний меч.** _Атака зброєю ближнього бою:_ +14 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 30 (6к6 + 9) рубаних ушкоджень.    
+
+**Брила.** _Далекобійна атака зброєю:_ +14 до влучання, відстань 60/240 ф, одна ціль. _Влучання:_ 35 (4к12 + 9) дробильних ушкоджень.    
+
+**Удар блискавки (Відновлення 5-9).** Велет кидає магічний заряд блискавки в точку, яку може бачити в межах 500 футів від себе. Кожна істота в межах 10 футів від цієї точки повинна зробити рятівний кидок Спритності з КС 19, отримуючи 54 (12к8) ушкоджень блискавкою у разі невдачі, або половина цих ушкоджень за умови успіху.

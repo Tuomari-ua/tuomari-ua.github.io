@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Grick
-type: Monstrosity
+title: Ґрик
+type: Чудовисько
 tag: 2
 ---
-_Medium monstrosity, neutral_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 27 (6d8)    
-**Speed** 30 ft., climb 30 ft. 
+_Чудовисько середнього розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4)  | 14 (+2) | 5 (−3)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 27 (6к8)    
+**Швидкість** 30 ф, лазіння 30 ф.
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Senses** darkvision 60 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (−4) | 14 (+2) | 5 (−3) |
 
-**Stone Camouflage.** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. 
+![Ґрик](https://www.dndbeyond.com/avatars/thumbnails/30784/267/1000/1000/638062035101336042.png)
 
-### Actions 
-**Multiattack.** The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.    
-**Tentacles.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage.    
-**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**Стійкість до ушкоджень** дробильні, колота та рубані від немагічних атак    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 12     
+**Мови** -    
+**Небезпека** 2 (450 ПД)
+
+**Кам’яне маскування.** Ґрик має перевагу на перевірки Спритності (Непомітність) для маскування на кам'янистій місцевості.
+
+### Дії
+**Мультиатака.** Ґрик робить одну атаку щупальцями. Якщо атака влучає, ґрик може зробити одну атаку дзьобом проти тієї ж цілі.    
+
+**Щупальці.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 9 (2к6 + 2) рубаних ушкоджень.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.

@@ -1,32 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hydra
-type: Monstrosity
+title: Гідра
+type: Чудовисько
 tag: 8
 ---
-_Huge monstrosity, unaligned_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 172 (15d12 + 75)    
-**Speed** 30 ft., swim 30 ft. 
+_Чудовисько величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4)  | 10 (+0) | 7 (−2)  |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 172 (15к12 + 75)    
+**Швидкість** 30 ф, плавання 30 ф
 
-**Skills** Perception +6    
-**Senses** darkvision 60 ft., passive Perception 16    
-**Languages** --    
-**Challenge** 8 (3,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4) | 10 (+0) | 7 (−2) |
 
-**Hold Breath.** The hydra can hold its breath for 1 hour.    
-**Multiple Heads.** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.    
-Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.    
-At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.    
-**Reactive Heads.** For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.    
-**Wakeful.** While the hydra sleeps, at least one of its heads is awake. 
+![Гідра](https://www.dndbeyond.com/avatars/thumbnails/30830/759/1000/1000/638063796594944128.png)
 
-### Actions 
-**Multiattack.** The hydra makes as many bite attacks as it has heads.    
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.
+**Навички** Сприйняття +6    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 16    
+**Мови** -    
+**Небезпека** 8 (3900 ПД)
+
+**Зупинка дихання.** Гідра може затримувати дихання на 1 годину.    
+
+**Численні голови.** Гідра має п'ять голів. Поки вона має більше однієї голови, гідра має перевагу на рятівні кидки проти осліплення, причарування, оглушення, залякування, приголомшення та непритомності.    
+Щоразу як гідра отримує 25 або більше ушкоджень в один хід, одна з її голів вмирає. Якщо вмирають усі голови, вмирає і гідра.    
+У кінці свого ходу гідра вирощує дві голови за кожну з голів, що вмерли з її останнього ходу, хіба що вона отримала в останній хід ушкодження вогнем. Гідра відновлює 10 пунктів здоров'я за кожну голову, відрощену таким способом.    
+
+**Реактивні голови.** За кожну голову після першої, що має гідра, вона отримує додаткову реакцію, яку може використати тільки для атаки при нагоді.    
+
+**Невсипуща.** Поки гідра спить, принаймні одна з її голів пильнує.
+
+### Дії
+**Мультиатака.** Гідра робить стільки атак укусом, скільки має голів.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 10 (1к10 + 5) колотих ушкоджень.

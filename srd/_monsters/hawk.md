@@ -1,26 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hawk
-type: Beast
+title: Яструб
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 13    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 10 ft., fly 60 ft.
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 16 (+3) | 8 (−1)  | 2 (−4)  | 14 (+2) | 6 (−2)  |  
+**Клас захисту** 13    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 10 ф, політ 60 ф
 
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 5 (−3) | 16 (+3) | 8 (−1) | 2 (−4) | 14 (+2) | 6 (−2) |
 
-**Keen Sight.** The hawk has advantage on Wisdom (Perception) checks that rely on sight. 
+![Яструб](https://www.dndbeyond.com/avatars/thumbnails/9/900/1000/1000/636334288270143064.jpeg) 
 
-### Actions 
-**Talons.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage. 
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 0 (10)
+
+**Гострий зір.** Яструб має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Кігті.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 рубане ушкодження. 

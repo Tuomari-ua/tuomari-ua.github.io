@@ -1,32 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Green Hag
-type: Fey
+title: Зелена яга
+type: Фея
 tag: 3
 ---
-_Medium fey, neutral evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 82 (11d8 + 33)    
-**Speed** 30 ft. 
+_Фея середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 82 (11к8 + 33)    
+**Швидкість** 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
 
-**Skills** Arcana +3, Deception +4, Perception +4, Stealth +3    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Common, Draconic, Sylvan    
-**Challenge** 3 (700 XP)  
+![Зелена яга](https://www.dndbeyond.com/avatars/thumbnails/30788/618/1000/1000/638062177566175594.png)
 
-**Amphibious.** The hag can breathe air and water.    
-**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:    
-At will: **_dancing lights_**, **_minor illusion_**, **_vicious mockery_**    
-**Mimicry.** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check. 
+**Навички** Аркана +3, Обман +4, Сприйняття +4, Непомітність +3    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** спільна, драконова, сильван    
+**Небезпека** 3 (700 ПД)
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Illusory Appearance.** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.    
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.    
-**Invisible Passage.** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+**Амфібія.** Яга може дихати повітрям і водою.    
+
+**Вроджене чарування.** Вродженою здібністю карги до чарування є Харизма (КС 12). Вона може природним чином створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_мерехтливі вогники_**, **_мала ілюзія_**, **_злісне глузування_**    
+
+**Наслідування.** Яга може наслідувати звуки тварин та голоси гуманоїдів. Істота, яка чує ці звуки, може впізнати наслідування успішною перевіркою Мудрості (Здогадливість) із КС 14.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) рубаних ушкоджень.    
+
+**Ілюзорний вигляд.** Яга вкриває себе та все, що має при собі, магічною ілюзією, щоб виглядати як інша істота загалом, того самого розміру та гуманоїдної форми. Ілюзія завершується, якщо яга використовує бонусну дію для завершення, або вмирає.    
+
+Зміни, спричинені цим ефектом, не витримують фізичного огляду. Наприклад, яга може виглядати так, ніби має гладеньку шкіру, але той, хто торкнеться її, відчує грубу плоть. І усьому іншому істота повинна використати дію для візуального обстеження ілюзії та зробити успішну перевірку Інтелекту (Розслідування) з КС 20, щоб розпізнати маскування яги.    
+
+**Невидимий перехід.** Яга магічним чином стає невидимою, доки не атакує або не створює чари, або поки не завершиться її концентрація (як при концентрації на чарах). Поки яга невидима, вона не залишає жодних фізичних доказів свого переміщення, тож її можна вистежити тільки магією. Усе спорядження, що вона має при собі, стає невидимим разом із нею.

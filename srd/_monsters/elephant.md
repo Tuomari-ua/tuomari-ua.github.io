@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Elephant
-type: Beast
+title: Слон
+type: Звір
 tag: 4
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 76 (8d12 + 24)    
-**Speed** 40 ft. 
+_Звір величезного розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 22 (+6) | 9 (−1)  | 17 (+3) | 3 (−4)  | 11 (+0) | 6 (−2)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 76 (8к12 + 24)    
+**Швидкість** 40 ф.  
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 4 (1,100 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 22 (+6) | 9 (−1) | 17 (+3) | 3 (−4) | 11 (+0) | 6 (−2) |
 
-**Trampling Charge.** If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 4 (1100 ПД)  
 
-### Actions 
-**Gore.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) piercing damage.    
-**Stomp.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.
+**Витоптування.** Якщо слон переміщується принаймні на 20 футів прямо до істоти і потім влучає по ній атакою буцання у тому самому ходу, ця ціль повинна зробити рятівний кидок Сили з КС 12, або буде збита з ніг. Якщо ціль збита з ніг, слон може зробити по ній одну атаку наступанням бонусною дією.
+
+### Дії
+**Буцання.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 19 (3к8 + 6) колотих ушкоджень.    
+
+**Наступання.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна збита з ніг ціль. _Влучання:_ 22 (3к10 + 6) дробильних ушкоджень.

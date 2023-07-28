@@ -1,34 +1,42 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Flesh Golem
-type: Construct
+title: М'ясний голем
+type: Конструкт
 tag: 5
 ---
-_Medium construct, neutral_
 
-**Armor Class** 9    
-**Hit Points** 93 (11d8 + 44)    
-**Speed** 30 ft. 
+_Конструкт середнього розміру, нейтральний_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 9 (−1)  | 18 (+4) | 6 (−2)  | 10 (+0) | 5 (−3)  |
+**Клас захисту** 9     
+**Пункти здоров'я** 93 (11к8 + 44)    
+**Швидкість** 30 ф.  
 
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 19 (+4) | 9 (−1) | 18 (+4) | 6 (−2) | 10 (+0) | 5 (−3) |
 
-**Berserk.** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.    
-The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.    
-**Aversion of Fire.** If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.    
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.     
-**Lightning Absorption.** Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.    
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The golem's weapon attacks are magical.
+**Імунітет до ушкоджень** блискавка, отрута; дробильні, колоті та рубані від немагічних атак зброєю не з адамантину    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, скам'янілий, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** розуміє мову свого творця, але не може говорити    
+**Небезпека** 5 (1800 ПД)  
 
-### Actions 
-**Multiattack.** The golem makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
+**Берсерк.** Щоразу, коли голем починає свій хід, маючи 40 пунктів здоров'я або менше, киньте к6. Якщо випала 6, голем стає берсерком. У кожен свій хід в цьому стані голем атакує найближчу істоту, яку може бачити. Якщо навколо голема немає істоти, до якої він може підійти й атакувати, він атакує предмет, надаючи перевагу предметам, меншим за нього. Коли голем стає берсерком, він продовжує ці атаки, доки не буде зруйнований або поки не відновить усі пункти здоров’я.    
+
+Творець голема, якщо перебуває у межах 60 футів від голема-берсерка, може спробувати заспокоїти його, говорячи спокійно й переконливо. Голем повинен бути здатним чути свого творця, а творець повинен використати дію, щоб зробити перевірку Харизми (Переконання) з КС 15. Якщо перевірка успішна, голем перестає бути берсерком. Якщо він отримує ушкодження, поки має 40 пунктів здоров'я або менше, голем може знову стати берсерком.    
+
+**Відраза до вогню.** Якщо голем отримує ушкодження вогнем, він має перешкоду на кидки атаки та перевірки здібностей до кінця свого наступного ходу.    
+
+**Незмінна форма.** Голем має імунітет до будь-яких чарів чи ефектів, які могли б змінити його форму.     
+
+**Поглинання блискавки.** Щоразу, як голем має отримати ушкодження блискавкою, він не отримує ушкоджень, натомість відновлює кількість пунктів здоров’я, що дорівнює завданим ушкодженням.     
+
+**Магічна стійкість.** Голем має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Магічна зброя.** Големові атаки зброєю є магічними.
+
+### Дії
+**Мультиатака.** Голем здійснює дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень.

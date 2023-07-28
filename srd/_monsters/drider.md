@@ -1,34 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Drider
-type: Monstrosity
+title: Дравук
+type: Чудовисько
 tag: 6
 ---
-_Large monstrosity, chaotic evil_
 
-**Armor Class** 19 (natural armor)    
-**Hit Points** 123 (13d10 + 52)    
-**Speed** 30 ft., climb 30 ft. 
+_Чудовисько великого розміру, хаотичний злий_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 19 (природна броня)    
+**Пункти здоров'я** 123 (13к10 + 52)    
+**Швидкість** 30 ф, лазіння 30 ф.  
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
 
-**Skills** Perception +5, Stealth +9    
-**Senses** darkvision 120 ft., passive Perception 15    
-**Languages** Elvish, Undercommon    
-**Challenge** 6 (2,300 XP) 
+**Навички** Сприйняття +5, Непомітність +9    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 15    
+**Мови** ельфійська, підтемна    
+**Небезпека** 6 (2300 ПД)  
 
-**Fey Ancestry.** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.    
-**Innate Spellcasting.** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:    
-At will: **_dancing lights_**    
-1/day each: **_darkness_**, **_faerie fire_**    
-**Spider Climb.** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Sunlight Sensitivity. While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.    
-**Web Walker.** The drider ignores movement restrictions caused by webbing. 
+**Спадщина фей.** Дравук має перевагу на рятівні кидки проти причарування, і магія не може приспати дравука.    
 
-### Actions 
-**Multiattack.** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) piercing damage plus 9 (2d8) poison damage.    
-**Longsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.    
-**Longbow.** _Ranged Weapon Attack:_ +6 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+**Вроджене чарування.** Вроджена здатність дравука до чарування - Мудрість (КС 13). Дравук може природним чином створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_мерехтливі вогники_**    
+1/день кожні: **_темрява_**, **_вогники фей_**    
+
+**Павуче лазіння.** Дравук може лазити по складних поверхнях, включно з переміщенням догори дриґом по стелях, не потребуючи перевірок здібностей. Чутливість до сонячного світла. Перебуваючи в сонячному світлі, дравук має перешкоду на кидки атак, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.    
+
+**Павутинний ходак.** Дравук ігнорує обмеження переміщення, спричинене павутинням.  
+
+### Дії
+**Мультиатака.** Дравук здійснює три атаки, або своїм довгим мечем, або довгим луком. Він може замінити одну з цих атак на атаку укусом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 2 (1к4) колотих ушкоджень плюс 9 (2к8) ушкоджень отрутою.    
+
+**Довгий меч.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) рубаних ушкоджень, або 8 (1к10 + 3) рубаних ушкоджень, якщо використовує обидві руки.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +6 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень плюс 4 (1к8) ушкоджень отрутою.

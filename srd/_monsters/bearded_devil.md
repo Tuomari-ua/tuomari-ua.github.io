@@ -1,33 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bearded Devil
-type: Fiend (devil)
+title: Бородатий диявол
+type: Погань
 tag: 3
 ---
-_Medium fiend (devil), lawful evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 52 (8d8 + 16)    
-**Speed** 30 ft. 
+_Погань середнього розміру (диявол), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |
-    
-**Saving Throws** Str +5, Con +4, Wis +2    
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** Infernal, telepathy 120 ft.    
-**Challenge** 3 (700 XP) 
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 52 (8к8 + 16)    
+**Швидкість** 30 ф
 
-**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    
-**Magic Resistance.** The devil has advantage on saving throws against spells and other magical effects.    
-**Steadfast.** The devil can't be frightened while it can see an allied creature within 30 feet of it. 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1) | 11 (+0) | 11 (+0) |
 
-### Actions 
-**Multiattack.** The devil makes two attacks: one with its beard and one with its glaive.    
-**Beard.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.    
-**Glaive.** _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+![Бородатий диявол](https://www.dndbeyond.com/avatars/thumbnails/30781/994/1000/1000/638061947703806001.png)
+
+**Рятівні кидки** Сил +5, Ста +4, Мдр +2    
+**Стійкість до ушкоджень** холод, блискавка; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 10    
+**Мови** пекельна, телепатія 120 ф    
+**Небезпека** 3 (700 ПД)
+
+**Диявольський зір.** Магічна темрява не перешкоджає темному зору диявола.    
+**Магічна  стійкість.** Диявол має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+**Непохитний.** Диявола неможливо налякати, поки він бачить союзну істоту в межах 30 футів від себе.
+
+### Дії
+**Мультиатака.** Диявол здійснює дві атаки: одну своєю бородою та одну - глефою.    
+
+**Борода.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 6 (1к8 +2) колотих ушкоджень, і ціль повинна зробити успішний рятівний кидок Статури з КС 12, або буде отруєна на 1 хвилину. Отруєна таким чином істота не може відновлювати пункти здоров'я. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект у разі успіху.    
+
+**Глефа.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 8 (1к10 + 3) рубаних ушкоджень. Якщо ціль - істота, яка не є невмерлим чи конструктом, то повинна здійснити рятівний кидок Статури з КС 12, або втрачатиме 5 (1к10) пунктів здоров'я на початку кожного свого ходу через пекельну рану. Щоразу, коли диявол влучає по пораненій цілі атакою, ушкодження, завдані раною зростають на 5 (1к10). Будь-яка істота може використати дію, щоб обробити рану успішною перевіркою Мудрості (Медицина) з КС 12. Рана також загоюється, якщо ціль отримує магічне зцілення.

@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ogre Zombie
-type: Undead
+title: Огр зомбі
+type: Невмерлий
 tag: 2
 ---
-_Large undead, neutral evil_
 
-**Armor Class** 8    
-**Hit Points** 85 (9d10 + 36)    
-**Speed** 30 ft. 
+_Невмерлий великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 6 (−2)  | 18 (+4) | 3 (−4)  | 6 (−2)  | 5 (−3)  |
+**Клас захисту** 8    
+**Пункти здоров'я** 85 (9к10 + 36)    
+**Швидкість** 30 ф.
 
-**Saving Throws** Wis +0    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** understands Common and Giant but can't speak    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 6 (−2) | 18 (+4) | 3 (−4) | 6 (−2) | 5 (−3) |
 
-**Undead Fortitude.** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead. 
+![Огр зомбі](https://www.dndbeyond.com/avatars/thumbnails/30836/792/1000/1000/638063944606051354.png)
 
-### Actions 
-**Morningstar.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
+**Рятівні кидки** Мдр +0    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 8    
+**Мови** розуміє спільну та велетову, але не може говорити    
+**Небезпека** 2 (450 ПД)
+
+**Стійкість невмерлих.** Якщо ушкодження зменшують пункти здоров'я зомбі до 0, він повинен зробити рятівний кидок Статури з КС 5 + отримані ушкодження, хіба що ці ушкодження від променистої енергії або від критичного влучання. У разі успіху пункти здоров'я зомбі натомість знижуються до 1.
+
+### Дії
+**Моргенштерн.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень.

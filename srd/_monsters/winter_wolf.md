@@ -1,33 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Winter Wolf
-type: Monstrosity
+title: Зимовий вовк
+type: Чудовисько
 tag: 3
 ---
-_Large monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 75 (10d10 + 20)    
-**Speed** 50 ft. 
+_Чудовисько великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2)  | 12 (+1) | 8 (−1)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 75 (10к10 + 20)    
+**Швидкість** 50 ф.
 
-**Skills** Perception +5, Stealth +3    
-**Damage Immunities** cold    
-**Senses** passive Perception 15    
-**Languages** Common, Giant, Winter Wolf    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (−2) | 12 (+1) | 8 (−1) |
 
-**Keen Hearing and Smell.** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.    
-**Snow Camouflage.** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain. 
+**Навички** Сприйняття +5, Непомітність +3    
+**Імунітет до ушкоджень** холод    
+**Чуття** пасивне Сприйняття 15    
+**Мови** спільна, велетова, зимових вовків    
+**Небезпека** 3 (700 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.    
-**Cold Breath (Recharge 5–6).** The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. 
+**Гострий слух та нюх.** Вовк має перевагу на кидки Мудрості (Сприйняття), що покладаються на слух чи нюх.    
 
-### Description
-The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations. 
+**Тактика зграї.** Вовк має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників вовка перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.    
+
+**Сніговий камуфляж.** Вовк має перевагу на перевірки Спритності (Непомітність), щоб сховатися в засніженій місцевості.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень. Якщо ціль - істота, вона повинна зробити рятівний кидок Сили з КС 14, або буде збита з ніг.    
+
+**Холодний подих (Відновлення 5-6).** Вовк видихає крижаний вітер 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 12, отримуючи 18 (4к8) ушкоджень холодом у випадку невдачі, або половину цих пошкоджень за умови успіху.
+
+### Опис
+Зимовий вовк живе в арктичному кліматі й завбільшки з лютововка, однак у нього сніжно-біло хутро та блідо-блакитні очі. Морозні велети використовують цих злих істот як сторожів та мисливських компаньйонів, застосовуючи смертельну дихальну зброю вовків проти своїх ворогів. Зимові вовки спілкуються між собою виттям та гавканням, але вони говорять спільною та велетовою досить добре, щоб підтримувати просту розмову. 

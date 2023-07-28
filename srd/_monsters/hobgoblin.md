@@ -1,26 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hobgoblin
-type: Humanoid (goblinoid)
-tag: .5
+title: Гобгоблін
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (goblinoid), lawful evil_
 
-**Armor Class** 18 (chain mail, shield)    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (гобліноїд), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1)  |
+**Клас захисту** 18 (кольчуга, щит)    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Common, Goblin    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (−1) |
 
-**Martial Advantage.** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated. 
+![Гобгоблін](https://www.dndbeyond.com/avatars/thumbnails/30788/731/1000/1000/638062180460224402.png)
 
-### Actions 
-**Longsword.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.    
-**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** спільна, гоблінська    
+**Небезпека** 1/2 (100 ПД)
+
+**Бойова перевага.** Один раз на хід гобгоблін завдає додаткові 7 (2к6) ушкоджень істоті, по якій влучає збройною атакою, якщо ця істота перебуває у межах 5 футів від гобгоблінового союзника, котрий не є недієздатним.
+
+### Дії
+**Довгий меч.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к8 + 1) рубаних ушкоджень, або 6 (1к10 + 1) рубаних ушкоджень, якщо використовує обидві руки.   
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +3 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 5 (1к8 + 1) колотих ушкоджень.

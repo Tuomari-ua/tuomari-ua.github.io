@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Weretiger
-type: Humanoid (human, shapechanger)
+title: Тигревертень
+type: Гуманоїд
 tag: 4
 ---
-_Medium humanoid (human, shapechanger), neutral_
 
-**Armor Class** 12    
-**Hit Points** 120 (16d8 + 48)    
-**Speed** 30 ft. (40 ft. in tiger form) 
+_Гуманоїд середнього розміру (людина, перекидень), нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 12    
+**Пункти здоров'я** 120 (16к8 + 48)    
+**Швидкість** 30 ф, (40 ф у формі тигра)
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
-**Skills** Perception +5, Stealth +4    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** darkvision 60 ft., passive Perception 15    
-**Languages** Common (can't speak in tiger form)    
-**Challenge** 4 (1,100 XP) 
+**Навички** Сприйняття +5, Непомітність +4    
+**Імунітет до ушкоджень** дробильні, колоті або рубані від немагічних атак непосрібленою зброєю    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 15    
+**Мови** спільна (не може говорити в формі тигра)    
+**Небезпека** 4 (1100 ПД)
 
-**Shapechanger.** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Hearing and Smell.** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pounce (Tiger or Hybrid Form Only).** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action. 
+**Перекидень.** Тигревертень може використати дію, щоб перевтілитися на тигро-гуманоїдного гібрида або на тигра, або назад до своєї істинної форми, яка є гуманоїдною. Його статистика, окрім розміру, залишається однаковою в усіх формах. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається до своєї істинної форми, якщо вмирає.    
 
-### Actions 
-**Multiattack (Humanoid or Hybrid Form Only).** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.    
-**Bite (Tiger or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.    
-**Claw (Tiger or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage.    
-**Scimitar (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage. Longbow (Humanoid or Hybrid Form Only). _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+**Гострий слух і нюх.** Тигревертень має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.    
+
+**Напад (тільки у формі тигра або гібрида).** Якщо тигревертень переміщується принаймні на 15 футів прямо до істоти й потім влучає по ній атакою пазурами в той самй хід, ця ціль повинна зробити рятівний кидок Сили з КС 14, або буде збита з ніг. Якщо ціль збита з ніг, тигревертень може зробити по ній одну атаку укусом бонусною дією.
+
+### Дії
+**Мультиатака (тільки у формі гуманоїда або гібрида).** У формі гуманоїда тигревертень робить дві атаки скимитаром або дві атаки з довгого лука. У формі гібрида він може атакувати як гуманоїд або зробити дві атаки пазурами.    
+
+**Укус (Тільки у формі тигра або гібрида).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к10 + 3) колотих ушкоджень. Якщо ціль є гуманоїдом, вона повинна зробити рятівний кидок Статури з КС 13, або буде проклята тигрячою лікантропією.    
+
+**Пазурі (Тільки у формі гуманоїда або тигра).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) рубаних ушкоджень.    
+
+**Скимитар (Тільки у формі гуманоїда або гібрида).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) рубаних ушкоджень. Довгий лук (Тільки у формі гуманоїда або гібрида). _Далекобійна атака зброєю:_ +4 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.

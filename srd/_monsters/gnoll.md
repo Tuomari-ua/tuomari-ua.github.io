@@ -1,27 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gnoll
-type: Humanoid (gnoll)
-tag: .5
+title: Гнол
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (gnoll), chaotic evil_
 
-**Armor Class** 15 (hide armor, shield)    
-**Hit Points** 22 (5d8)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (гнол), хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2)  | 10 (+0) | 7 (−2)  |
+**Клас захисту** 15 (шкурна броня, щит)    
+**Пункти здоров'я** 22 (5к8)    
+**Швидкість** 30 ф.
 
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Gnoll    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (−2) | 10 (+0) | 7 (−2) |
 
-**Rampage.** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack. 
+![Гнол](https://www.dndbeyond.com/avatars/thumbnails/30784/505/1000/1000/638062044385041691.png)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Spear.** _Melee_ or _Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.    
-**Longbow.** _Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
+**Чуття** темний зір 60 ф., пасивне Сприйняття 10    
+**Мови** гнолів    
+**Небезпека** 1/2 (100 ПД)
+
+**Шал.** Коли гнол у свій хід знижує пункти здоров'я істоти до 0 атакою ближнього бою, то може використати бонусну дію, щоб переміститися на половину своєї швидкості та зробити атаку укусом.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 +2) колотих ушкоджень.    
+
+**Спис.** _Атака зброєю ближнього бою або далекобійна:_ +4 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень, або 6 (1к8 + 2) колотих ушкоджень, якщо використовує обидві руки для атаки ближнього бою.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +3 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 5 (1к8 + 1) колотих ушкоджень.

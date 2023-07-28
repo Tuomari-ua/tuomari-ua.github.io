@@ -1,33 +1,42 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Iron Golem
-type: Construct
+title: Залізний голем
+type: Конструкт
 tag: 16
 ---
-_Large construct, unaligned_
 
-**Armor Class** 20 (natural armor)    
-**Hit Points** 210 (20d10 + 100)    
-**Speed** 30 ft. 
+_Конструкт великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 24 (+7) | 9 (−1)  | 20 (+5) | 3 (−4)  | 11 (+0) | 1 (−5)  |
+**Клас захисту** 20 (природна броня)    
+**Пункти здоров'я** 210 (20к10 + 100)    
+**Швидкість** 30 ф.
 
-**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned    
-**Senses** darkvision 120 ft., passive Perception 10    
-**Languages** understands the languages of its creator but can't speak    
-**Challenge** 16 (15,000 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 24 (+7) | 9 (−1) | 20 (+5) | 3 (−4) | 11 (+0) | 1 (−5) |
 
-**Fire Absorption.** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.    
-**Immutable Form.** The golem is immune to any spell or effect that would alter its form.    
-**Magic Resistance.** The golem has advantage on saving throws against spells and other magical effects.    
-**Magic Weapons.** The golem's weapon attacks are magical. 
+![Залізний голем](https://www.dndbeyond.com/avatars/thumbnails/30784/170/1000/1000/638062031423594632.png)
 
-### Actions 
-**Multiattack.** The golem makes two melee attacks.    
-**Slam.** _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.    
-**Sword.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage.    
-**Poison Breath (Recharge 6).** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+**Імунітет до ушкоджень** вогонь, отрута, психічна енергія; дробильні, колоті та рубані від немагічних атак зброєю не з адамантину.    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, скам'янілий, отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 10    
+**Мови** розумію мови свого творця, але не говорить    
+**Небезпека** 16 (15000 ПД)
+
+**Поглинання вогню.** Щоразу як голем є суб'єктом вогняних ушкоджень, він не отримує ушкоджень і натомість відновлює кількість пунктів здоров'я, що дорівнює завданим вогняним ушкодженням.    
+
+**Незмінна форма.** Голем має імунітет до будь-яких чарів чи ефектів, які могли б змінити його форму.    
+
+**Магічна стійкість.** Голем має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Магічна зброя.** Големові атаки зброєю є магічними.
+
+### Дії
+**Мультиатака.** Голем здійснює дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +13 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 20 (3к8 + 7) дробильних ушкоджень.    
+
+**Меч.** _Атака зброєю ближнього бою:_ +13 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 23 (3к10 + 7) рубаних ушкоджень.    
+
+**Отруйний подих (Відновлення 6).** Голем видихає отруйний газ 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 19, отримуючи 45 (10к8) ушкоджень отрутою у разі невдачі або половину цих ушкоджень за умови успіху.

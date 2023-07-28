@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сокиродзьоб [Axe Beak]
+title: Сокиродзьоб
 type: Звір
 tag: 0.25
 ---

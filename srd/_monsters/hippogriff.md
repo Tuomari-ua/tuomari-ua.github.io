@@ -1,28 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hippogriff
-type: Monstrosity
+title: Гіпогриф
+type: Чудовисько
 tag: 1
 ---
-_Large monstrosity, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 40 ft., fly 60 ft. 
+_Чудовисько великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4)  | 12 (+1) | 8 (−1)  |
+**Клас захисту** 11    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 40 ф, політ 60 ф
 
-**Skills** Perception +5    
-**Senses** passive Perception 15    
-**Languages** --    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (−4) | 12 (+1) | 8 (−1) |
 
-**Keen Sight.** The hippogriff has advantage on Wisdom (Perception) checks that rely on sight. 
+![Гіпогриф](https://www.dndbeyond.com/avatars/thumbnails/30788/724/1000/1000/638062180295344327.png)
 
-### Actions 
-**Multiattack.** The hippogriff makes two attacks: one with its beak and one with its claws.    
-**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
+**Навички** Сприйняття +5    
+**Чуття** пасивне Сприйняття 15    
+**Мови** -    
+**Небезпека** 1 (200 ПД)
+
+**Гострий зір.** Гіпогриф має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Мультиатака.** Гіпогриф робить дві атаки: одну дзьобом та одну - кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (1к10 + 3) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень.

@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Crab
-type: Beast
-tag: .125
+title: Величезний краб
+type: Звір
+tag: 0.125
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 13 (3d8)    
-**Speed** 30 ft., swim 30 ft.
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 15 (+2) | 11 (+0) | 1 (−5)  | 9 (−1)  | 3 (−4)  |  
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 13 (3к8)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Skills** Stealth +4    
-**Senses** blindsight 30 ft., passive Perception 9    
-**Languages** --    
-**Challenge** 1/8 (25 XP)   
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 13 (+1) | 15 (+2) | 11 (+0) | 1 (−5) | 9 (−1) | 3 (−4) |
 
-**Amphibious.** The crab can breathe air and water. 
+**Навички** Непомітність +4    
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 9    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions 
-**Claw.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+**Амфібія.** Краб може дихати повітрям і водою.
+
+### Дії
+**Клешня.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) дробильних ушкоджень, і ціль схоплена (КС втечі 11). Краб має дві клешні, кожна з яких може схопити тільки одну ціль.

@@ -1,29 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gibbering Mouther
-type: Aberration
+title: Слинявий белькотун
+type: Аберація
 tag: 2
 ---
-_Medium aberration, neutral_
 
-**Armor Class** 9    
-**Hit Points** 67 (9d8 + 27)    
-**Speed** 10 ft., swim 10 ft. 
+_Аберація середнього розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 8 (−1)  | 16 (+3) | 3 (−4)  | 10 (+0) | 6 (−2)  |
+**Клас захисту** 9    
+**Пункти здоров'я** 67 (9к8 + 27)    
+**Швидкість** 10 ф, плавання 10 ф.
 
-**Condition Immunities** prone    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 2 (450 XP)    
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 10 (+0) | 8 (−1) | 16 (+3) | 3 (−4) | 10 (+0) | 6 (−2) |
 
-**Aberrant Ground.** The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.    
-**Gibbering.** The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack. 
+**Імунітет до станів** збитий з ніг    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Multiattack.** The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle.    
-**Bite.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther.    
-**Blinding Spittle (Recharge 5–6).** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+**Непевний ґрунт.** Ґрунт у межах 10 футів навколо белькотуна є тістоподібною важкопрохідною місцевістю. Кожна істота, що починає свій хід у цій області, повинна зробити успішний рятівний кидок Сили з КС 10, або її швидкість зменшиться до 0 до початку її наступного ходу.    
+
+**Белькотання.** Белькотун нерозбірливо белькоче, поки може бачити будь-яку істоту і не є недієздатним. Кожна істота, що починає свій хід у межах 20 футів від белькотуна і чує його белькотання, повинна зробити рятівний кидок Мудрості з КС 10. У разі невдачі істота не може здійснювати реакції до початку свого наступного ходу й робить кидок к8, щоб визначити свої дії в цей хід. Від 1 до 4 істота не робить нічого. На 5 або 6 істота не виконує дії чи бонусних дій і використовує усе своє переміщення, щоб рухатися в випадковому напрямку. На 7 або 8 істота здійснює атаку ближнього бою проти випадкової істоти в межах своєї досяжності, або не робить нічого, якщо здійснення такої атаки неможливе.
+
+### Дії
+**Мультиатака.** Белькотун здійснює одну атаку укусом і, якщо може, використовує свій Сліпучий плювок.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 17 (5к6) колотих ушкоджень. Якщо розмір цілі Середній або менший, вона повинна зробити рятівний кидок Сили з КС 10, або буде збита з ніг. Якщо ціль була вбита цими ушкодженнями, белькотун поглинає її.    
+
+**Сліпучий плювок (Відновлення 5-6).** Белькотун спльовує хімічну грудку в точку, яку може бачити в межах 15 футів від себе. Грудка вибухає сліпучим спалахом світла при влучанні. Кожна істота в межах 5 футів від спалаху повинна зробити рятівний кидок Спритності з КС 13, або буде осліплена до кінця наступного ходу белькотуна.

@@ -1,24 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ogre
-type: Giant
+title: Огр
+type: Велет
 tag: 2
 ---
-_Large giant, chaotic evil_
 
-**Armor Class** 11 (hide armor)    
-**Hit Points** 59 (7d10 + 21)    
-**Speed** 40 ft. 
+_Велет великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 8 (−1)  | 16 (+3) | 5 (−3)  | 7 (−2)  | 7 (−2)  |
+**Клас захисту** 11 (шкура)    
+**Пункти здоров'я** 59 (7к10 + 21)    
+**Швидкість** 40 ф.
 
-**Senses** darkvision 60 ft., passive Perception 8    
-**Languages** Common, Giant    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 19 (+4) | 8 (−1) | 16 (+3) | 5 (−3) | 7 (−2) | 7 (−2) |
 
-### Actions 
-**Greatclub.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Javelin.** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.
+![Огр](https://www.dndbeyond.com/avatars/thumbnails/30834/129/1000/1000/638063882039265538.png)
+
+**Чуття** темний зір 60 ф, пасивне Сприйняття 8    
+**Мови** спільна, велетова    
+**Небезпека** 2 (450 ПД)
+
+### Дії
+**Дубина.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 2) дробильних ушкоджень.    
+
+**Сулиця.** _Атака зброєю ближнього бою або далекобійна:_ +6 до влучання, досяжність 5 ф, або відстань 30/120 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень.

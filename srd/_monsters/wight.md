@@ -1,33 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Wight
-type: Undead
+title: Помрець
+type: Невмерлий
 tag: 3
 ---
-_Medium undead, neutral evil_
 
-**Armor Class** 14 (studded leather)    
-**Hit Points** 45 (6d8 + 18)    
-**Speed** 30 ft. 
+_Невмерлий середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14 (клепана шкіра)    
+**Пункти здоров'я** 45 (6к8 + 18)    
+**Швидкість** 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
-**Skills** Perception +3, Stealth +4    
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 13    
-**Languages** the languages it knew in life    
-**Challenge** 3 (700 XP) 
+**Навички** Сприйняття +3, Непомітність +4    
+**Стійкість до ушкоджень** некротична енергія; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** мови, які знав за життя    
+**Небезпека** 3 (700 ПД)
 
-**Sunlight Sensitivity.** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. 
+**Чутливість до сонячного світла.** Перебуваючи в сонячному світлі, помрець має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір.
 
-### Actions 
-**Multiattack.** The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.    
-**Life Drain.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.    
-A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.    
-**Longsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.    
-**Longbow.** _Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
+### Дії
+**Мультиатака.** Помрець робить дві атаки довгим мечем або дві атаки довгим луком. Він може використати Висотування життя замість однієї атаки довгим мечем.    
+
+**Висотування життя.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 5 (1к6 + 2) некротичних ушкоджень. Ціль повинна зробити рятівний кидок Статури з КС 13, або її максимум пунктів здоров'я буде зменшено на кількість отриманих ушкоджень. Це зменшення триває, доки ціль не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект зменшує максимум її пунктів здоров'я до 0.    
+
+Гуманоїд, убитий цією атакою, постає через 24 години як зомбі під контролем помреця, хіба що гуманоїда повернуть до життя або знищать його тіло. Помрець може мати під своїм контролем одночасно не більше дванадцяти зомбі.    
+
+**Довгий меч.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) рубаних ушкоджень, або 7 (1к10 + 2) рубаних ушкоджень, якщо використовує двома руками.    
+
+**Довгий лук.** _Далекобійна атака зброєю:_ +4 до влучання, відстань 150/600 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.

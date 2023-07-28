@@ -1,34 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Glabrezu
-type: Fiend (demon)
+title: Ґлабрезу
+type: Погань
 tag: 9
 ---
-_Large fiend (demon), chaotic evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 157 (15d10 + 75)    
-**Speed** 40 ft. 
+_Погань великого розміру (демон), хаотичний злий_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |   
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 157 (5к10 + 75)    
+**Швидкість** 40 ф.
 
-**Saving Throws** Str +9, Con +9, Wis +7, Cha +7    
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** truesight 120 ft., passive Perception 13    
-**Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 9 (5,000 XP)    
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
 
-**Innate Spellcasting.** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:    
-At will: **_darkness_**, **_detect magic_**, **_dispel magic_**    
-1/day each: **_confusion_**, **_fly_**, **_power word stun_**    
-**Magic Resistance.** The glabrezu has advantage on saving throws against spells and other magical effects. 
+![Глабрезу](https://www.dndbeyond.com/avatars/thumbnails/30781/613/1000/1000/638061931338828581.png)
 
-### Actions 
-**Multiattack.** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.    
-**Pincer.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.    
-**Fist.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.
+**Рятівні кидки** Сил +9, Ста +9, Мдр +7, Хар +7    
+**Стійкість до ушкоджень** холод, вогонь, блискавка; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** істинний зір 120 ф, пасивне Сприйняття 13    
+**Мови** безоднева, телепатія 120 ф    
+**Небезпека** 9 (5000 ПД)
+
+**Вроджене чарування.** Чаротворча здібність ґлабрезу - Інтелект (КС чарів 16). Ґлабрезу може природно створювати наступні чари, для яких не потребує матеріальних складових:    
+За бажанням: **_темрява_**, **_виявлення магії_**, **_розвіювання магії_**    
+1/день кожне: **_спантеличення_**, **_політ_**, **_слово сили: приголомшення_**    
+
+**Магічна стійкість.** Ґлабрезу має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Мультиатака.** Ґлабрезу робить чотири атаки: дві своїми клешнями та дві - кулаками. Або ж він може зробити дві атаки клешнями та створити одні чари.    
+
+**Клешня.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 16 (2к10 + 5) дробильних ушкоджень. Якщо ціль є істотою, чий розмір Середній або менший, вона схоплена (КС втечі 15). Ґлабрезу має дві клешні, кожна з яких може схопити тільки одну ціль.    
+
+**Кулак.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (2к4 + 2) дробильних ушкоджень.

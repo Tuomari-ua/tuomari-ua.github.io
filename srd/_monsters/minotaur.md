@@ -1,29 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Minotaur
-type: Monstrosity
+title: Мінотавр
+type: Чудовисько
 tag: 3
 ---
-_Large monstrosity, chaotic evil_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 76 (9d10 + 27)    
-**Speed** 40 ft. 
+_Чудовисько великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2)  | 16 (+3) | 9 (−1)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 76 (19к10 + 27)    
+**Швидкість** 40 ф.
 
-**Skills** Perception +7    
-**Senses** darkvision 60 ft., passive Perception 17    
-**Languages** Abyssal    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (−2) | 16 (+3) | 9 (−1) |
 
-**Charge.** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.    
-**Labyrinthine Recall.** The minotaur can perfectly recall any path it has traveled.    
-**Reckless.** At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn. 
+![Мінотавр](https://www.dndbeyond.com/avatars/thumbnails/30833/457/1000/1000/638063864308085049.png)
 
-### Actions 
-**Greataxe.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.    
-**Gore.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
+**Навички** Сприйняття +7    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 17    
+**Мови** безоднева    
+**Небезпека** 3 (700 ПД)
+
+**Розгін.** Якщо мінотавр переміщується принаймні на 10 футів по прямій до цілі та влучає по ній атакою буцанням у тому ж ходу, ціль отримує додатково 9 (2к8) колотих ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Сили з КС 14, або буде відштовхнута на 10 футів геть та збита з ніг.    
+
+**Пам'ятання лабіринтів.** Мінотавр може досконало пригадати будь-який шлях, яким пройшов.    
+
+**Відчайдушний.** На початку свого ходу мінотавр може отримати перевагу на всі кидки атак ближнього бою, які робить у цей хід, але кидки атаки проти нього матимуть перевагу до початку його наступного ходу.
+
+### Дії
+**Дворучна сокира.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 17 (2к12 + 4) рубаних ушкоджень.    
+
+**Буцання.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) колотих ушкоджень.

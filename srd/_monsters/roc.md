@@ -1,29 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Roc
-type: Monstrosity
+title: Рух
+type: Чудовисько
 tag: 11
 ---
-_Gargantuan monstrosity, unaligned_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 248 (16d20 + 80)    
-**Speed** 20 ft., fly 120 ft. 
+_Чудовисько гігантського розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4)  | 10 (+0) | 9 (−1)  |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 248 (16к20 + 80)    
+**Швидкість** 20 ф, політ 120 ф.
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3    
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** --    
-**Challenge** 11 (7,200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (−4) | 10 (+0) | 9 (−1) |
 
-**Keen Sight.** The roc has advantage on Wisdom (Perception) checks that rely on sight. 
+**Рятівні кидки** Спр +4, Ста +9, Мдр +4, Хар +3    
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 11 (7200 ПД)
 
-### Actions 
-**Multiattack.** The roc makes two attacks: one with its beak and one with its talons.    
-**Beak.** _Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.    
-**Talons.** _Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+**Гострий зір.** Рух має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір.
+
+### Дії
+**Мультиатака.** Рух робить дві атаки: одну дзьобом та одну - кігтями.    
+
+**Дзьоб.** _Атака зброєю ближнього бою:_ +13 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 27 (4к8 + 9) колотих ушкоджень.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +13 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 23 (4к6 + 9) рубаних ушкоджень, і ціль схоплена (КС втечі 19). Доки це схоплення не завершиться, ціль є скутою, а рух не може застосувати свої кігті на іншу ціль.

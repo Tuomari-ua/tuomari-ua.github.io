@@ -1,32 +1,39 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Mimic
-type: Monstrosity (shapechanger)
+title: Мімік
+type: Чудовисько
 tag: 2
 ---
-_Medium monstrosity (shapechanger), neutral_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 58 (9d8 + 18)    
-**Speed** 15 ft. 
+_Чудовисько середнього розміру (перекидень), нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3)  | 13 (+1) | 8 (−1)  |
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 58 (9к8 + 18)    
+**Швидкість** 15 ф.
 
-**Skills** Stealth +5    
-**Damage Immunities** acid    
-**Condition Immunities** prone    
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3) | 13 (+1) | 8 (−1) |
 
-**Shapechanger.** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Adhesive (Object Form Only).** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.    
-**False Appearance (Object Form Only).** While the mimic remains motionless, it is indistinguishable from an ordinary object.    
-**Grappler.** The mimic has advantage on attack rolls against any creature grappled by it. 
+![Мімік](https://www.dndbeyond.com/avatars/thumbnails/30833/408/1000/1000/638063863232165584.png)
 
-### Actions 
-**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+**Навички** Непомітність +5    
+**Імунітет до ушкоджень** кислота    
+**Імунітет до станів** збитий з ніг    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
+
+**Перекидень.** Мімік може використати дію, щоб перевтілитися на предмет або назад у свою істинну аморфну форму. Його статистика залишається однаковою в усіх формах. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається до істинної форми, якщо вмирає.    
+
+**Липкий (Тільки у формі предмета).** Мімік прилипає до будь-чого, що його торкається. Прилипла до міміка Істота, чий розмір Величезний або менший, також схоплена ним (КС втечі 13). Перевірки здібностей для втечі з цього захвату мають перешкоду.    
+
+**Оманливий вигляд (Тільки у формі предмета).** Поки мімік залишається нерухомим, його неможливо відрізнити від звичайного предмета.    
+
+**Захоплювач.** Мімік має перевагу на кидки атаки проти істоти, яку схопив.
+
+### Дії
+**Псевдоніжка.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) дробильних ушкоджень. Якщо мімік перебуває у формі предмета, ціль віддається його рисі Липкий.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень плюс 4 (1к8) ушкоджень кислотою.

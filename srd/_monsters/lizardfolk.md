@@ -1,30 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Lizardfolk
-type: Humanoid (lizardfolk)
-tag: .5
+title: Ящеролюд
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (lizardfolk), neutral_
 
-**Armor Class** 15 (natural armor, shield)    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 30 ft., swim 30 ft. 
+_Гуманоїд середнього розміру (ящеролюд), нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2)  | 12 (+1) | 7 (−2)  |
+**Клас захисту** 15 (природна броня, щит)    
+**Пункти здоров'я** 22 (4к8 + 4)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Skills** Perception +3, Stealth +4, Survival +5    
-**Senses** passive Perception 13    
-**Languages** Draconic    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (−2) | 12 (+1) | 7 (−2) |
 
-**Hold Breath.** The lizardfolk can hold its breath for 15 minutes. 
+![Ящеролюд](https://www.dndbeyond.com/avatars/thumbnails/30832/479/1000/1000/638063839674591734.png)
 
-### Actions 
-**Multiattack.** The lizardfolk makes two melee attacks, each one with a different weapon.    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Heavy Club.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    
-**Javelin.** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Spiked Shield.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**Навички** Сприйняття +3, Непомітність +4, Виживання +5    
+**Чуття** пасивне Сприйняття 13    
+**Мови** драконова    
+**Небезпека** 1/2 (100 ПД)
+
+**Зупинка дихання.** Ящеролюд може затримувати дихання на 15 хвилин.
+
+### Дії
+**Мультиатака.** Ящеролюд робить дві атаки ближнього бою, кожну іншою зброєю.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Важка палиця.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) дробильних ушкоджень.    
+
+**Сулиця.** _ _Атака зброєю ближнього бою або далекобійна:_ +4 до влучання, досяжність 5 ф або відстань 30/120 ф, одна ціль. _Влучання:_ 5 (1к6 +2) колотих ушкоджень.    
+
+**Шипастий щит.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.

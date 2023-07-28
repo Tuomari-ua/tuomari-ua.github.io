@@ -1,43 +1,57 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ancient Copper Dragon
-type: Dragon
+title: Древній мідний дракон
+type: Дракон
 tag: 21
 ---
-_Gargantuan dragon, chaotic good_
 
-**Armor Class** 21 (natural armor)    
-**Hit Points** 350 (20d20 + 140)    
-**Speed** 40 ft., climb 40 ft., fly 80 ft. 
+_Дракон гігантського розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 21 (природна броня)    
+**Пункти здоров'я** 350 (20к20 + 140)    
+**Швидкість** 40 ф, лазіння 40 ф, політ 80 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
-**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11    
-**Skills** Deception +11, Perception +17, Stealth +8    
-**Damage Immunities** acid    
-**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27    
-**Languages** Common, Draconic    
-**Challenge** 21 (33,000 XP) 
+![Древній мідний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/525/1000/1000/638061965273435459.png)
 
-***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead. 
+**Рятівні кидки** Спр +8, Ста +14, Мдр +10, Хар +11    
+**Навички** Обман +11, Сприйняття +17, Непомітність +8    
+**Імунітет до ушкоджень** кислота    
+**Чуття** сліпий зір 60 ф, темний зір 120 ф, пасивне Сприйняття 27    
+**Мови** спільна, драконова    
+**Небезпека** 21 (33000 ПД)
 
-### Actions 
-**Multiattack.** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +15 to hit, reach 15 ft., one target. _Hit:_ 19 (2d10 + 8) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +15 to hit, reach 10 ft., one target. _Hit:_ 15 (2d6 + 8) slashing damage.    
-**Tail.** _Melee Weapon Attack:_ +15 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.    
-**Frightful Presence.** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.    
-**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.    
-**Change Shape.** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).    
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form. 
+***Легендарна стійкість (3/день).*** Якщо дракон провалює рятівний кидок, він може натомість обирати успіх.
 
-### Legendary Actions 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.    
-**Detect.** The dragon makes a Wisdom (Perception) check.    
-**Tail Attack.** The dragon makes a tail attack.    
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+### Дії
+**Мультиатака.** Дракон може використовувати свою Страхітливу присутність. Потім він може зробити три атаки: одну укусом та дві пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +15 до влучання, досяжність 15 ф, одна ціль. _Влучання:_ 19 (2к10 + 8) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +15 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 (2к6 + 8) рубаних ушкоджень.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +15 до влучання, досяжність 20 футів, одна ціль. _Влучання:_ 17 (2к8 + 8) дробильних ушкоджень.    
+
+**Страхітлива присутність.** Кожна істота за вибором дракона, якщо перебуває у межах 120 футів від нього і знає про нього, повинна зробити рятівний кидок Мудрості з КС 19, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху. Якщо істота зробила успішний рятівний кидок або ефект для неї завершився, істота набуває імунітету до Страхітливої присутності дракона на наступні 24 години.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Кислотне дихання.** Дракон видихає кислоту лінією завдовжки 90 ф та завширшки 10 ф. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 22, отримуючи 63 (14к8) ушкоджень кислотою у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Повільне дихання.** Дракон видихає газ 90-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 22. У разі невдачі істота не може використовувати реакції, її швидкість зменшена вдвічі, і вона не може здійснювати більше однієї атаки в свій хід. На додачу істота може використовувати в свій хід або дію, або бонусну дію, але не обидві. Ці ефекти тривають 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.    
+
+**Зміна форми.** Дракон магічним чином перевтілюється на гуманоїда або звіра, чий клас небезпеки не перевищує його власний, або назад у свою істинну форму. Він повертається до своєї істинної форми, якщо вмирає. Будь-яке спорядження, яке він має при собі, поглинається або залишається у нової форми (за вибором дракона).    
+У новій формі дракон зберігає свій світогляд, пункти здоров'я, кістку здоров'я, здатність говорити, досвід, Легендарну стійкість, дії лігва, а також значення Інтелекту, Мудрості та Харизми, а також і цю дію. Його статистика та можливості в усьому іншому замінені новою формою, за винятком класових особливостей чи легендарних дій цієї форми.
+
+### Легендарні дії
+Дракон може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Дракон відновлює використані легендарні дії на початку свого ходу.    
+
+**Пошук.** Дракон робить перевірку Мудрості (Сприйняття).    
+
+**Атака хвостом.** Дракон здійснює атаку хвостом.    
+
+**Атака крилами (коштує 2 дії).** Дракон б'є крилами. Кожна істота в межах 15 футів від дракона повинна зробити рятівний кидок Спритності з КС 23, або отримає 15 (2к6 + 8) дробильних ушкоджень і буде збита з ніг. Потім дракон може пролетіти до половини своєї швидкості польоту.

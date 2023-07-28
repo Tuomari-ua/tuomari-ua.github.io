@@ -1,34 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Cult Fanatic
-type: Humanoid (any race)
+title: Фанатик культу
+type: Гуманоїд
 tag: 2
 ---
-_Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 13 (leather armor)    
-**Hit Points** 33 (6d8 + 6)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який не-добрий світогляд_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |   
+**Клас захисту** 13 (шкіряна броня)    
+**Пункти здоров'я** 33 (6к8 + 2)    
+**Швидкість** 30 ф.  
 
-**Skills** Deception +4, Persuasion +4, Religion +2    
-**Senses** passive Perception 11    
-**Languages** any one language (usually Common)    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
-**Dark Devotion.** The fanatic has advantage on saving throws against being charmed or frightened.    
-**Spellcasting.** The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:    
-Cantrips (at will): **_light, sacred flame, thaumaturgy_**    
-1st level (4 slots): **_command, inflict wounds, shield of faith_**    
-2nd level (3 slots): **_hold person, spiritual weapon_** 
+**Навички** Обман +4, Переконливість +4, Релігія +2    
+**Чуття** пасивне Сприйняття 11    
+**Мови** будь-яка одна мова (зазвичай Спільна)    
+**Небезпека** 2 (450 ПД)  
 
-### Actions 
-**Multiattack.** The fanatic makes two melee attacks.    
-**Dagger.** _Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage. 
+**Темна відданість.** Фанатик має перевагу на рятівні кидки проти причарування та переляку.    
 
-### Description
-Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
+**Чарування.** Фанатик є чаротворцем 4 рівня. Його чаротворча здібність - Мудрість (КС чарів 11, +3 до влучання атаками чарів). Фанатик має наступні підготовлені чари клірика:    
+Замовляння (за бажанням): **_світло, священне полум'я, чудотворення_**    
+1 рівень (4 чарунки): **_наказ, завдання ран, щит віри_**  
+2 рівень (3 чарунки): **_стримування особи, духовна зброя_**  
+
+### Дії
+**Мультиатака.** Фанатик здійснює дві атаки ближнього бою.    
+
+**Кинджал** _ Атака зброєю ближнього бою або далекобійна:_ +4 до влучання, досяжність 5 ф або відстань 20/60 ф, одна істота. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень.  
+
+### Опис
+Фанатики часто є учасниками лідерів культу, що використовують свою харизму та настанови для впливу на слабовольну здобич. Більшість зацікавлені в особистій владі понад усе інше.

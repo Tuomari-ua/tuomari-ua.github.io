@@ -1,29 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Steam Mephit
-type: Elemental
-tag: .25
+title: Паровий мефіт
+type: Стихійник
+tag: 0.25
 ---
-_Small elemental, neutral evil_
 
-**Armor Class** 10    
-**Hit Points** 21 (6d6)    
-**Speed** 30 ft., fly 30 ft. 
+_Стихійник малого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
+**Клас захисту** 11    
+**Пункти здоров'я** 21 (6к6)    
+**Швидкість** 30 ф, політ 30 ф.
 
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Aquan, Ignan    
-**Challenge** 1/4 (50 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 5 (−3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
-**Death Burst.** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.    
-**Innate Spellcasting (1/Day)** The mephit can innately cast **_blur_**, requiring no material components. Its innate spellcasting ability is Charisma. 
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** акван, іґнан    
+**Небезпека** 1/4 (50 ПД)
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) slashing damage plus 2 (1d4) fire damage.    
-**Steam Breath (Recharge 6).** The mephit exhales a 15- foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
+**Смертний вибух.** Коли мефіт вмирає, він вибухає хмарою пари. Кожна істота в межах 5 футів від мефіта повинна зробити рятівний кидок Спритності з КС 10, або отримає 4 (1к8) ушкоджень вогнем.    
+
+**Вроджене чарування (1/день).** Мефіт може природним чином створювати чари **_розмиття_**, не потребуючи матеріальних складових. Його природною здібністю до чарування є Харизма.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 2 (1к4) рубаних ушкоджень плюс 2 (1к4) ушкоджень вогнем.    
+
+**Парове дихання (Відновлення 6).** Мефіт видихає 15-футовий конус обпікаючої пари. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 10, отримуючи 4 (1к8) ушкоджень вогнем у разі невдачі, або половину цих пошкоджень за умови успіху.

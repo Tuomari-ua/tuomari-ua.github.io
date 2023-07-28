@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Pegasus
-type: Celestial
+title: Пегас
+type: Небожитель
 tag: 2
 ---
-_Large celestial, chaotic good_
 
-**Armor Class** 12    
-**Hit Points** 59 (7d10 + 21)    
-**Speed** 60 ft., fly 90 ft. 
+_Стихійник великого розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 12    
+**Пункти здоров'я** 59 (7к10 + 21)    
+**Швидкість** 60 ф, політ 90 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
-**Saving Throws** Dex +4, Wis +4, Cha +3    
-**Skills** Perception +6    
-**Senses** passive Perception 16    
-**Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak    
-**Challenge** 2 (450 XP) 
+**Рятівні кидки** Спр +4, Мдр +4, Хар +3    
+**Навички** Сприйняття +6    
+**Чуття** пасивне Сприйняття 16    
+**Мови** розуміє небесну, спільну, ельфійську та сильван, але не може говорити    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Hooves.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage.
+### Дії
+**Копита.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 11 (2к6 + 4) дробильних ушкоджень.

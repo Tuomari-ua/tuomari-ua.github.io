@@ -1,33 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Gold Dragon
-type: Dragon
+title: Молодий золотий дракон
+type: Дракон
 tag: 10
 ---
-_Large dragon, lawful good_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 178 (17d10 + 85)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+_Дракон великого розміру, законний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 178 (17к10 + 85)    
+**Швидкість** 40 ф, політ 80 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
 
-**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9    
-**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6    
-**Damage Immunities** fire    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19    
-**Languages** Common, Draconic    
-**Challenge** 10 (5,900 XP) 
+![Молодий золотий дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/557/1000/1000/638061966281566017.png)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +6, Ста +9, Мдр +5, Хар +9    
+**Навички** Здогадливість +5, Сприйняття +9, Переконливість +9, Непомітність +6    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 19    
+**Мови** спільна, драконова    
+**Небезпека** 10 (5900 ПД)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.    
-**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 17 (2к10 + 6) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. ___Влучання:___ 13 (2к6 + 6) рубаних ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Вогняне дихання.** Дракон видихає вогонь 30-футовим конусом. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 17, отримуючи 55 (10к10) ушкоджень вогнем у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Послаблювальне дихання.** Дракон видихає газ 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Сили з КС 17, або матиме перешкоду на кидки атаки, що покладаються на Силу, перевірки та рятівні кидки Сили упродовж 1 хвилини. Істота може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.

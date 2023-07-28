@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Magma Mephit
-type: Elemental
-tag: .5
+title: Магмовий мефіт
+type: Стихійник
+tag: 0.5
 ---
-_Small elemental, neutral evil_
 
-**Armor Class** 11    
-**Hit Points** 22 (5d6 + 5)    
-**Speed** 30 ft., fly 30 ft. 
+_Стихійник малого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 12 (+1) | 12 (+1) | 7 (−2)  | 10 (+0) | 10 (+0) |
+**Клас захисту** 11    
+**Пункти здоров'я** 22 (5к6 + 5)    
+**Швидкість** 30 ф, політ 30 ф.
 
-**Skills** Stealth +3    
-**Damage Vulnerabilities.** cold    
-**Damage Immunities** fire, poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Ignan, Terran    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 8 (−1) | 12 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 10 (+0) |
 
-**Death Burst.** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.    
-**False Appearance.** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.    
-**Innate Spellcasting (1/Day).** The mephit can innately cast **_heat metal_** (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma. 
+![Магмовий мефіт](https://www.dndbeyond.com/avatars/thumbnails/31079/74/1000/1000/638074037477949301.png)
 
-### Actions    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.    
-**Fire Breath (Recharge 6).** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+**Навички** Непомітність +3    
+**Вразливість до ушкоджень** холод    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** іґнан, терран    
+**Небезпека** 1/2 (100 ПД)
+
+**Смертний вибух.** Коли мефіт вмирає, він вибухає лавою. Кожна істота в межах 5 футів від нього повинна зробити рятівний кидок Спритності з КС 11, отримуючи 7 (2к6) ушкоджень вогнем у разі невдачі або половину цих ушкоджень за умови успіху.    
+
+**Оманливий вигляд.** Поки мефіт не рухається, його неможливо відрізнити від звичайного насипу лави.    
+
+**Вроджене чарування (1/День).** Мефіт може природним чином створювати чари **_розжарення металу_** (КС чарів 10), не потребуючи матеріальних складових. Його природною здібністю до чарування є Харизма.
+
+### Дії
+**Пазурі.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к4 + 1) рубаних ушкоджень плюс 2 (1к4) ушкоджень вогнем.    
+
+**Вогняне дихання (Відновлення 6).** Мефіт видихає 15-футовий конус вогню. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 11, отримуючи 7 (2к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху.

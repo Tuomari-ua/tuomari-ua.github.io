@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 9
 classes: bard, warlock, wizard
-title: Істинний поліморф [True Polymorph]
+title: Істинне перевтілення [True Polymorph]
 ---
 
 _Перетворення, 9 рівень; бард, чаклун, маг_    

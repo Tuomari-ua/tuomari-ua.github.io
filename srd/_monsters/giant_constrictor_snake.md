@@ -1,25 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Constrictor Snake
-type: Beast
+title: Величезний удав
+type: Звір
 tag: 2
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 60 (8d12 + 8)    
-**Speed** 30 ft., swim 30 ft. 
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 19 (+4) | 14 (+2) | 12 (+1) | 1 (−5)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 18    
+**Пункти здоров'я** 60 (8к12 + 8)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Skills** Perception +2    
-**Senses** blindsight 10 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 19 (+4) | 14 (+2) | 12 (+1) | 1 (−5) | 10 (+0) | 3 (−4) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.    
-**Constrict.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target. 
+**Навички** Сприйняття +2    
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 11 (2к6 + 4) колотих ушкоджень.    
+
+**Здушування.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень, і ціль є схопленою (КС втечі 16). Доки це схоплення не завершиться, істота є скутою, а удав не може здушувати іншу ціль. 

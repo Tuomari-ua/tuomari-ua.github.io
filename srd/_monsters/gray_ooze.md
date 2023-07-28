@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gray Ooze
-type: Ooze
-tag: .5
+title: Сіра твань
+type: Твань
+tag: 0.5
 ---
-_Medium ooze, unaligned_
 
-**Armor Class** 8    
-**Hit Points** 22 (3d8 + 9)    
-**Speed** 10 ft., climb 10 ft. 
+_Твань середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 6 (−2)  | 16 (+3) | 1 (−5)  | 6 (−2) |  2 (−4)  |
+**Клас захисту** 8    
+**Пункти здоров'я** 22 (3к8 + 9)    
+**Швидкість** 10 ф, лазіння 10 ф.
 
-**Skills** Stealth +2    
-**Damage Resistances** acid, cold, fire    
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 12 (+1) | 6 (−2) | 16 (+3) | 1 (−5) | 6 (−2) | 2 (−4) |
 
-**Amorphous.** The ooze can move through a space as narrow as 1 inch wide without squeezing.    
-**Corrode Metal.** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.    
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.    
-**False Appearance.** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock. 
+![Сіра твань](https://www.dndbeyond.com/avatars/thumbnails/30834/153/1000/1000/638063882595415196.png)
 
-### Actions 
-**Pseudopod.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+**Навички** Непомітність +2    
+**Стійкість до ушкоджень** кислота, холод, вогонь    
+**Імунітет до станів** осліплений, причарований, оглухлий, виснажений, наляканий, збитий з ніг    
+**Чуття** сліпий зір 60 ф (сліпий за межами цього радіусу), пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
+
+**Аморфний.** Твань може переміщуватися крізь простір завширшки 1 дюйм, не стискаючись.    
+
+**Корозія металу.** Будь-яка немагічна зброя, зроблена з металу, іржавіє при влучанні по твані. Після завдання ушкоджень зброя отримує постійний та накопичувальний штраф -1 до кидків ушкоджень. Якщо цей штраф досягає -5, зброя руйнується. Немагічні металеві боєприпаси, що влучають по твані, руйнуються після завдання ушкоджень.    
+Твань може проїсти 2 дюйми немагічного металу за 1 раунд.    
+
+**Оманливий вигляд.** Поки твань залишається нерухомою, її неможливо відрізнити від олійної калюжі чи мокрого каменю.
+
+### Дії
+**Псевдоніжка.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) дробильних ушкоджень плюс 7 (2к6) ушкоджень кислотою, і якщо ціль носить немагічний металевий обладунок, цей обладунок частково ржавіє та отримує постійний та накопичувальний штраф -1 до наданого обладунком КЗ. Обладунки руйнуються, коли штраф знижує їхній КЗ до 10.

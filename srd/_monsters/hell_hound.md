@@ -1,29 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hell Hound
-type: Fiend
+title: Пекельний гінчак
+type: Погань
 tag: 3
 ---
-_Medium fiend, lawful evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 45 (7d8 + 14)    
-**Speed** 50 ft. 
+_Погань середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2)  | 13 (+1) | 6 (−2)  |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 45 (7к8 + 14)    
+**Швидкість** 50 ф
 
-**Skills** Perception +5    
-**Damage Immunities** fire    
-**Senses** darkvision 60 ft., passive Perception 15    
-**Languages** understands Infernal but can't speak it    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (−2) | 13 (+1) | 6 (−2) |
 
-**Keen Hearing and Smell.** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.    
-**Pack Tactics.** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+![Пекельний гінчак](https://www.dndbeyond.com/avatars/thumbnails/30788/714/1000/1000/638062180069124280.png)   
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.    
-**Fire Breath (Recharge 5–6).** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+**Навички** Сприйняття +5    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 15    
+**Мови** розуміє пекельну, але не може говорити    
+**Небезпека** 3 (700 ПД)
+
+**Гострий слух та нюх.** Гінчак має перевагу на кидки Мудрості (Сприйняття), що покладаються на слух чи нюх.    
+
+**Тактика зграї.** Гінчак має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників вовка перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень плюс 7 (2к6) ушкоджень вогнем.    
+
+**Вогняний подих (Відновлення 5-6).** Гінчак видихає полум'я 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 12, отримуючи 21 (6к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху.

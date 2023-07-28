@@ -1,28 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Pseudodragon
-type: Dragon
-tag: .25
+title: Псевдодракон
+type: Дракон
+tag: 0.25
 ---
-_Tiny dragon, neutral good_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 7 (2d4 + 2)    
-**Speed** 15 ft., fly 60 ft. 
+_Дракон крихітного розміру, нейтральний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 6 (−2)  | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 7 (2к4 + 2)    
+**Швидкість** 15 ф, політ 60 ф.
 
-**Skills** Perception +3, Stealth +4    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13    
-**Languages** understands Common and Draconic but can't speak    
-**Challenge** 1/4 (50 XP) Keen    
-**Senses**. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.    
-**Magic Resistance.** The pseudodragon has advantage on saving throws against spells and other magical effects.    
-**Limited Telepathy.** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language. 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 6 (−2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.    
-**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+**Навички** Сприйняття +3, Непомітність +4    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 13    
+**Мови** розумію спільну та драконову, але не може говорити    
+**Небезпека** 1/4 (50 ПД)    
+**Гострі чуття.** Псевдодракон має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір, слух або нюх.    
+
+**Магічна стійкість.** Псевдодракон має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Обмежена телепатія.** Псевдодракон може магічним чином телепатично передавати прості ідеї, емоції та образи будь-якій істоті в межах 100 футів від себе, якщо істота може розуміти мову.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень.    
+
+**Жало.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, або буде отруєна на 1 годину. Якщо рятівний кидок провалюється на 5 або більше, ціль непритомніє на ту саму тривалість, або поки не отримає ушкодження, або поки інша істота не використає свою дію, аби її розбудити.

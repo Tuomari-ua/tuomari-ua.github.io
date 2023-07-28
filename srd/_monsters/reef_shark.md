@@ -1,30 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Reef Shark
-type: Beast
-tag: .5
+title: Рифова акула
+type: Звір
+tag: 0.5
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 0 ft., swim 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 1 (−5)  | 10 (+0) | 4 (−3)  |  
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 22 (4к8 + 4)    
+**Швидкість** 0 ф, плавання 40 ф.
 
-**Skills** Perception +2    
-**Senses** blindsight 30 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 13 (+1) | 13 (+1) | 1 (−5) | 10 (+0) | 4 (−3) |
 
-**Pack Tactics.** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.    
-**Water Breathing.** The shark can breathe only underwater. 
+**Навички** Сприйняття +2  
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. 
+**Тактика зграї.** Акула має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників акули перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.    
 
-### Description
-Smaller than giant sharks and hunter sharks, reef sharks inhabit shallow waters and coral reefs, gathering in small packs to hunt. A full-grown specimen measures 6 to 10 feet long. 
+**Дихання водою.** Акула може дихати тільки під водою.
+
+### Дії
+**Укус** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.
+
+### Опис
+Менші за величезних та мисливських акул, рифові акули живуть на мілководді та коралових рифах, збираючись для полювання у малі зграї. Доросла особина може сягати від 6 до 10 футів у довжину. 

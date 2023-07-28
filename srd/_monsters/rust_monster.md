@@ -1,28 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Rust Monster
-type: Monstrosity
-tag: .5
+title: Іржавник
+type: Чудовисько
+tag: 0.5
 ---
-_Medium monstrosity, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 27 (5d8 + 5)    
-**Speed** 40 ft. 
+_Чудовисько середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4)  | 13 (+1) | 6 (−2)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 27 (5к8 + 5)    
+**Швидкість** 40 ф.
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 12 (+1) | 13 (+1) | 2 (−4) | 13 (+1) | 6 (−2) |
 
-**Iron Scent.** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.    
-**Rust Metal.** Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage. 
+**Чуття** темний зір 60 ф., пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.    
-**Antennae.** The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.    
-If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
+**Чуття заліза.** Іржавник може визначити за запахом розташування залізовмісних металів у межах 30 футів від себе.    
+
+**Корозія металу.** Будь-яка немагічна зброя, виготовлена з металу, іржавіє при влучанні по іржавнику. Після завдання ушкоджень зброя отримує постійний та накопичувальний штраф -1 до кидків ушкоджень. Якщо цей штраф досягає -5, зброя руйнується. Немагічні боєприпаси з металу, що влучають по іржавнику, руйнуються після завдання ушкоджень.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к8 + 1) колотих ушкоджень.    
+
+**Антена.** Іржавник спричиняє корозію немагічного залізовмісного металевого предмета, який може бачити в межах 5 футів від себе. Якщо предмет ніхто не тримає при собі, дотик знищує 1-футовий куб цього предмета. Якщо предмет тримає при собі істота, ця істота може зробити рятівний кидок Спритності з КС 11, аби уникнути дотику монстра.    
+
+Якщо предмет, котрого торкнувся іржавник, є металевим обладунком або металевим щитом, який хтось тримає при собі, такий предмет отримує постійний та накопичувальний штраф -1 до КЗ, наданого цим предметом. Обладунок, чий КЗ знижується до 10, або щит, чий захист знижується до бонусу 0, ламаються. Якщо цей предмет є металевою зброєю, яку хтось тримає, вона іржавіє, як описано в рисі Корозія металу.

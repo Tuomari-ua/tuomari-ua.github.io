@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Shrieker
-type: Plant
+title: Верескун
+type: Рослина
 tag: 0
 ---
-_Medium plant, unaligned_
 
-**Armor Class** 5    
-**Hit Points** 13 (3d8)    
-**Speed** 0 ft. 
+_Рослина середнього розміру, невизначена_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 5    
+**Пункти здоров'я** 13 (3к8)    
+**Швидкість** 0 ф
+
+| СИЛ    | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------ | ------- | ------ | ------ | ------ |
 | 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
-   
-**Condition Immunities** blinded, deafened, frightened    
-**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6    
-**Languages** --    
-**Challenge** 0 (10 XP) 
 
-**False Appearance.** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.    
+**Імунітет до станів** осліплений, оглухлий, наляканий    
+**Чуття** сліпий зір 30 ф (сліпий за межами цього радіусу), пасивне Сприйняття 6    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Reactions 
-**Shriek.** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
+**Оманливий вигляд.** Поки верескун нерухомий, його неможливо відрізнити від звичайного гриба.
+
+### Реакції
+**Вереск.** Коли в межах 30 футів від верескуна з'являється яскраве світло або істота, верескун видає вереск, який чутно за 300 футів від нього. Верескун продовжує верещати, доки порушник не вийде за межі досяжності та ще впродовж 1к4 ходів верескуна опісля.

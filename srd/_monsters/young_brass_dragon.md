@@ -1,31 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Brass Dragon
-type: Dragon
+title: Молодий латунний дракон
+type: Дракон
 tag: 6
 ---
-_Large dragon, chaotic good_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 110 (13d10 + 39)    
-**Speed** 40 ft., burrow 20 ft., fly 80 ft. 
+_Дракон великого розміру, хаотичний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 110 (13к10 + 39)    
+**Швидкість** 40 ф, риття 20 ф, політ 80 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
-**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5    
-**Skills** Perception +6, Persuasion +5, Stealth +3    
-**Damage Immunities** fire    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16    
-**Languages** Common, Draconic    
-**Challenge** 6 (2,300 XP) 
+![Молодий латунний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/471/1000/1000/638061963417224382.png)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.    
-**Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+**Рятівні кидки** Спр +3, Ста +6, Мдр +3, Хар +5    
+**Навички** Сприйняття +6, Переконливість +5, Непомітність +3    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 16    
+**Мови** спільна, драконова    
+**Небезпека** 6 (2300 ПД)
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 15 ( 2к10 + 4) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.    
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Вогняне дихання.** Дракон видихає вогонь лінією завдовжки 40 ф та завширшки 5 ф. Кожна істота в лінії повинна здійснити рятівний кидок Спритності з КС 14, отримуючи 42 (12к6) ушкоджень вогнем у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**Снодійне дихання.** Дракон видихає снодійний газ 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 14, або знепритомніє на 5 хвилин. Цей ефект завершується для істоти, якщо вона отримує ушкодження, або якщо хтось інший використовує дію, щоб розбудити сплячого.

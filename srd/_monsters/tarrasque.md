@@ -1,47 +1,59 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Tarrasque
-type: Monstrosity
+title: Тарраск
+type: Чудовисько
 tag: 30
 ---
-_Gargantuan monstrosity (titan), unaligned_
 
-**Armor Class** 25 (natural armor)   
-**Hit Points** 676 (33d20 + 330)   
-**Speed** 40ft
+_Чудовисько гігантського розміру, невизначений_
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4)  | 11 (+0) | 11 (+0) |
+**Клас захисту** 25 (природна броня)   
+**Пункти здоров'я** 676 (33к20 + 330)   
+**Швидкість** 40 ф
 
-**Saving Throws** Int +5, Wis +9, Cha +9   
-**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks   
-**Condition Immunities** charmed, frightened, paralyzed, poisoned   
-**Senses** blindsight 120ft., passive Perception 10   
-**Languages** -   
-**Challenge** 30 (155,000 XP)   
+| СИЛ      | СПР     | СТА      | ІНТ    | МДР     | ХАР     |
+| -------- | ------- | -------- | ------ | ------- | ------- |
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
-**Legendary Resistance (3/Day).** If the tarrasque fails a saving throw, it can choose to succeed instead.   
-**Magic Resistance.** The tarrasque has advantage on saving throws against spells and other magical effects.   
-**Reflective Carapace.** Any time the tarrasque is targeted by a **_magic missle_** spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.   
-**Siege Monster.** The tarrasque deals double damage to objects and structures.   
+**Рятівні кидки** Інт +5, Мдр +9, Хар +9   
+**Імунітет до ушкоджень** вогонь, отрута; дробильні, колоті та рубані від немагічних атак   
+**Імунітет до станів** причарований, наляканий, паралізований, отруєний   
+**Чуття** сліпий зір 120 ф, пасивне Сприйняття 10   
+**Мови** -  
+**Небезпека** 30 (155000 ПД)
 
-### Actions
+**Легендарна стійкість (3/день).** Якщо тарраск провалює рятівний кидок, він може натомість обрати успіх.   
 
-**Multiattack.** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.   
-**Bite.** _Melee Weapon Attack:_ +19 to hit, reach 10 ft., one target. _Hit:_ 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.   
-**Claw.** _Melee Weapon Attack:_ +19 to hit, reach 15ft., one target. _Hit:_ 28 (4d8 + 10) slashing damage.   
-**Horns.** _Melee Weapon Attack:_ +19 to hit, reach 10ft., one target. _Hit:_ 32 (4d10 + 10) piercing damage.   
-**Tail.** _Melee Weapon Attack:_ +19 to hit, reach 20ft., one target. _Hit:_ 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.   
-**Frightful Presence.** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.   
-**Swallow.** The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.    
-If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.   
+**Магічна стійкість.** Тарраск має перевагу на рятівні кидки проти чарів та інших магічних ефектів.   
 
-### Legendary Actions
+**Відбивальний панцир.** Щоразу, як тарраск є ціллю чарів **_магічний дротик_**, лінійних чарів або чарів, що потребують далекобійної атаки, киньте к6. Якщо випало від 1 до 5, тарраску байдуже. На 6 тарраску також байдуже, але ефект відбивається назад до чаротворця, ніби джерелом є тарраск, роблячи чаротворця ціллю.   
 
-The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
+**Облоговий монстр.** Тарраск завдає подвійних ушкоджень предметам та будівлям.
 
-**Attack.** The tarrasque makes one claw attack or tail attack.    
-**Move.** The tarrasque moves up to half its speed.    
-**Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow. 
+### Дії
+
+**Мультиатака.** Тарраск може використовувати свою Страхітливу присутність. Потім він робить п'ять атак: одну укусом, дві пазурами, одну рогами та одну - хвостом. Він може використати Ковтання замість Укусу.   
+
+**Укус.** _Атака зброєю ближнього бою:_ +19 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 36 (4к12 + 10) колотих ушкоджень. Якщо ціль є істотою, вона схоплена (КС втечі 20). Доки триває цей захват, ціль скута, а тарраск не може кусати іншу ціль.   
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +19 до влучання, досяжність 15 ф, одна ціль. _Влучання:_ 28 (4к8 + 10) рубаних ушкоджень.   
+
+**Роги.** _Атака зброєю ближнього бою:_ +19 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 32 (4к10 + 10) колотих ушкоджень.   
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +19 до влучання, досяжність 20 ф, одна ціль. _Влучання:_ 24 (4к6 + 10) дробильних ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Сили з КС 20, або буде збита з ніг.   
+
+**Страхітлива присутність.** Кожна істота за вибором тарраска, якщо перебуває у межах 120 футів від нього і знає про нього, повинна зробити рятівний кидок Мудрості з КС 17, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок в кінці кожного свого ходу, з перешкодою, якщо тарраск перебуває у межах лінії огляду, завершуючи ефект на собі в разі успіху. Якщо істота зробила успішний рятівний кидок і ефект для неї завершився, істота набуває імунітету до Страхітливої присутності тарраска на наступні 24 години.   
+
+**Ковтання.** Тарраск робить одну атаку проти істоти, яку схопив, чий розмір Великий або менший. Якщо атака влучає, ця істота отримує ушкодження від укусу і стає проковтнутою, а захват завершується. Поки істота проковтнута, вона осліплена та скута, має повне укриття проти атак чи інших ефектів ззовні тарраска, і отримує 56 (16к6) ушкоджень кислотою на початку кожного ходу тарраска.    
+Якщо тарраск отримує 60 ушкоджень або більше в один хід від істоти всередині, тарраск повинен зробити рятівний кидок Статури з КС 20 в кінці цього ходу, або відригне усіх проковтнутих істот, які падають у межах 10 футів від тарраска й збиті з ніг. Якщо тарраск вмирає, проковтнута істота більше не скута і може втекти з трупа, використавши 30 футів переміщення, та опиняється на волі збитою з ніг.
+
+### Легендарні дії
+
+Тарраск може використати 3 легендарні дії, вибираючи з наведених далі можливостей. Тільки одну легендарну дію можна використати за раз, і тільки в кінці ходу іншої істоти. Істота відновлює витрачені легендарні дії на початку свого ходу.
+
+**Атака.** Тарраск робить одну атаку пазурами або атаку хвостом.    
+
+**Переміщення.** Тарраск переміщується на половину своєї швидкості.    
+
+**Загризання (коштує 2 дії).** Тарраск робить одну атаку укусом або використовує Ковтання. 

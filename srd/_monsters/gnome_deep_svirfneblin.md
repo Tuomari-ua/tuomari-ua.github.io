@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gnome, Deep (Svirfneblin)
-type: Humanoid (gnome)
-tag: .5
+title: Глибинний гном (Свірфнеблін)
+type: Гуманоїд
+tag: 0.5
 ---
-_Small humanoid (gnome), neutral good_
 
-**Armor Class** 15 (chain shirt)    
-**Hit Points** 16 (3d6 + 6)    
-**Speed** 20 ft. 
+_Гуманоїд малого розміру (гном), нейтральний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1)  |
+**Клас захисту** 15 (кольчужна сорочка)    
+**Пункти здоров'я** 16 (3к6 + 6)    
+**Швидкість** 20 ф.
 
-**Skills** Investigation +3, Perception +2, Stealth +4    
-**Senses** darkvision 120 ft., passive Perception 12    
-**Languages** Gnomish, Terran, Undercommon    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (−1) |
 
-**Stone Camouflage.** The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.    
-**Gnome Cunning.** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.    
-**Innate Spellcasting.** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:    
-At will: **_nondetection_** (self only)    
-1/day each: **_blindness/deafness_**, **_blur_**, **_disguise self_** 
+![Глибинний гном](https://www.dndbeyond.com/avatars/thumbnails/9/112/1000/1000/636323610009818415.jpeg)
 
-### Actions 
-**War Pick.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.    
-**Poisoned Dart.** _Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+**Навички** Розслідування +3, Сприйняття +2, Непомітність +4    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 12    
+**Мови** гномська, терран, підтемна    
+**Небезпека** 1/2 (100 ПД)
+
+**Кам'яне маскування.** Гном має перевагу на перевірки Спритності (Непомітність) для маскування на кам'янистій місцевості.    
+
+**Гномська хитрість.** Гном має перевагу на рятівні кидки Інтелекту, Мудрості та Харизми проти магії.    
+
+**Вроджене чарування.** Вроджена здібність гномів до чарування - Інтелект (КС чарів 11). Він може природно створювати наступні чари, не потребуючи матеріальних складових:    
+За бажанням: **_невиявлення_** (тільки на себе)    
+1/день кожні: **_сліпота/глухота_**, **_розмиття_**, **_маскування_**
+
+### Дії
+**Клевець.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень.    
+
+**Отруєний дротик.** _ Далекобійна атака зброєю:_ +4 до влучання, відстань 30/120 ф, одна істота. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 12, або буде отруєна на 1 хвилину. Ціль може повторювати рятівний кидок в кінці кожного свого ходу, завершуючи ефект на собі в разі успіху.

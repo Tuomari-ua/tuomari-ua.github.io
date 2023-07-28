@@ -1,30 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Veteran
-type: Humanoid (any race)
+title: Ветеран
+type: Гуманоїд
 tag: 3
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 17 (splint)    
-**Hit Points** 58 (9d8 + 18)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |   
+**Клас захисту** 17 (бригантина)    
+**Пункти здоров'я** 58 (9к8 + 18)    
+**Швидкість** 30 ф.
 
-**Skills** Athletics +5, Perception +2    
-**Senses** passive Perception 12    
-**Languages** any one language (usually Common)    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-### Actions 
-**Multiattack.** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.    
-**Longsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage. 
+**Навички** Атлетика +5, Сприйняття +2    
+**Чуття** пасивне Сприйняття 12    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 3 (700 ПД)
 
-### Description
-Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
+### Дії
+**Мультиатака.** Ветеран здійснює дві атаки довгим мечем. Якщо він має напоготові короткий меч, то може також зробити атаку коротким мечем.    
+
+**Довгий меч** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) рубаних ушкоджень або 8 (1к10 + 3) рубаних ушкоджень, якщо використовує обома руками.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.    
+
+**Важкий арбалет.** _Далекобійна атака зброєю:_ +3 до влучання, відстань 100/400 ф, одна ціль. _Влучання:_ 6 (1к10 + 1) колотих ушкоджень.
+
+### Опис
+Ветерани - професійні бійці, що беруться за зброю заради грошей або для захисту своїх переконань та цінностей. До їхніх рядів належать солдати у відставці після тривалої служби та воїни, що ніколи не служили нікому, окрім самих себе.

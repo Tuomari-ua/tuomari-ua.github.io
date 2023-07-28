@@ -1,31 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Fire Elemental
-type: Elemental
+title: Стихійник вогню
+type: Стихійник
 tag: 5
 ---
-_Large elemental, neutral_
 
-**Armor Class** 13    
-**Hit Points** 102 (12d10 + 36)    
-**Speed** 50 ft. 
+_Стихійник великого розміру, нейтральний_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 10 (+0)  | 17 (+3) | 16 (+3)  | 6 (-2)  | 10 (+0) | 7 (-2)  |
+**Клас захисту** 13    
+**Пункти здоров'я** 102 (12к10 + 36)    
+**Швидкість** 50 ф.  
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** fire, poison    
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Ignan    
-**Challenge** 5 (1,800 XP)    
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |
 
-**Fire Form.** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.    
-**Illumination.** The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.    
-**Water Susceptibility.** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage. 
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** вогонь, отрута    
+**Імунітет до станів** виснажений, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий, непритомний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** Іґнан    
+**Небезпека** 5 (1800 ПД)  
 
-### Actions 
-**Multiattack.** The elemental makes two touch attacks.    
-**Touch.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+**Вогняна форма.** Стихійник може переміщуватися крізь простір завширшки 1 дюйм без стискання. Істота, що торкається стихійника або влучає по ньому атакою ближнього бою, перебуваючи в межах 5 футів від нього, отримує 5 (1к10) ушкоджень вогнем. Крім того, стихійник може увійти в простір ворожої істоти й зупинитися там. Коли він вперше за хід входить у простір істоти, ця істота отримує 5 (1к10) ушкоджень вогнем та займається; поки хтось не використає дію для збиття полум'я, істота отримує 5 (1к10) ушкоджень вогнем на початку кожного свого ходу.    
+
+**Ілюмінація.** Стихійник випромінює яскраве світло в радіусі 30 футів та тьмяне світло на додаткові 30 футів.    
+
+**Чутливість до води.** За кожні 5 футів, що стихійник переміщується в воді, або за кожний вилитий за нього галон води, він отримує 1 ушкодження холодом.
+
+### Дії
+**Мультиатака.** Стихійник здійснює дві атаки дотиком.    
+
+**Дотик.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 +3) ушкоджень вогнем. Якщо ціллю є істота або займистий предмет, він займається. Доки істота не використає дію, щоб згасити полум'я, ціль отримує 5 (1к10) ушкоджень вогнем на початку кожного свого ходу.

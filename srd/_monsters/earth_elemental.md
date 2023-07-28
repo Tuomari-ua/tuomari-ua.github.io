@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Earth Elemental
-type: Elemental
+title: Стихійник землі
+type: Стихійник
 tag: 5
 ---
-_Large elemental, neutral_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 126 (12d10 + 60)    
-**Speed** 30 ft., burrow 30 ft. 
+_Стихійник великого розміру, нейтральний_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 126 (12к10 + 60)    
+**Швидкість** 30 ф, риття 30 ф.  
+
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
 | 20 (+5) | 8 (−1) | 20 (+5) | 5 (−3) | 10 (+0) | 5 (−3) |
 
-**Damage Vulnerabilities** thunder    
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious    
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 10    
-**Languages** Terran    
-**Challenge** 5 (1,800 XP) 
+**Вразливість до ушкоджень** грім    
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, паралізований, скам'янілий, отруєний, непритомний    
+**Чуття** темний зір 60 ф, чуття вібрацій 60 ф, пасивне Сприйняття 10    
+**Мови** Терран    
+**Небезпека** 5 (1800 ПД)  
 
-**Earth Glide.** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.    
-**Siege Monster.** The elemental deals double damage to objects and structures. 
+**Підземний плин.** Стихійник може рити крізь немагічну необроблену землю та камінь. Роблячи це, стихійник не зрушує матеріал, крізь який переміщується.    
 
-### Actions 
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
+**Облоговий монстр.** Стихійник завдає подвійні ушкодження предметам та будівлям.
+
+### Дії
+**Мультиатака.** Стихійник завдає дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 футів, одна ціль. _Влучання:_ 14 (2к8 + 5) дробильних ушкоджень.

@@ -1,32 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Water Elemental
-type: Elemental
+title: Стихійник води
+type: Стихійник
 tag: 5
 ---
-_Large elemental, neutral_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 114 (12d10 + 48)    
-**Speed** 30 ft., swim 90 ft. 
+_Стихійник великого розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 114 (12к10 + 48)    
+**Швидкість** 30 ф, плавання 90 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
 | 18 (+4) | 14 (+2) | 18 (+4) | 5 (−3) | 10 (+0) | 8 (−1) |
 
-**Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Aquan    
-**Challenge** 5 (1,800 XP) 
+**Стійкість до ушкоджень** кислота; дробильній, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, схоплений, паралізований, скам'янілий, отруєний, збитий з ніг, скутий, непритомний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** акван    
+**Небезпека** 5 (1800 ПД)
 
-**Water Form.** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.    
-**Freeze.** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn. 
+**Водна форма.** Стихійник може увійти в простір ворожої істоти й зупинитися там. Він може рухатися крізь простір завширшки 1 дюйм без стискання.    
 
-### Actions 
-**Multiattack.** The elemental makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    
-**Whelm (Recharge 4–6).** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.    
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
+**Замерзання.** Якщо стихійник отримує ушкодження холодом, він частково замерзає; його швидкість зменшується на 20 футів до кінця його наступного ходу.
+
+### Дії
+**Мультиатака.** Стихійник завдає дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 футів, одна ціль. _Влучання:_ 13 (2к8 + 4) дробильних ушкоджень.    
+
+**Хвиля (Відновлення 4-6).** Кожна істота в просторі стихійника повинна зробити рятівний кидок Сили з КС 15. У разі невдачі ціль отримує 13 (2к8 + 4) дробильних ушкоджень. Якщо її розмір Великий або менший, вона також схоплена (КС втечі 14). Доки цей захват не закінчиться, ціль скута і не здатна дихати, хіба що вона може дихати водою. Якщо рятівний кидок успішний, ціль виштовхується з простору стихійника.    
+
+Стихійник може схопити одну Велику істоту або до двох Середній чи менших істот одночасно. На початку кожного ходу стихійника кожна схоплена ціль отримує 13 (2к8 + 4) дробильних ушкоджень. Істота в межах 5 футів від стихійника може витягнути істоту чи предмет із хвилі, використавши дію для перевірки Сили з КС 14.

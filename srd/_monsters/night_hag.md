@@ -1,34 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Night Hag
-type: Fiend
+title: Нічна яга
+type: Погань
 tag: 5
 ---
-_Medium fiend, neutral evil_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 112 (15d8 + 45)    
-**Speed** 30 ft. 
+_Погань середнього розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 112 (15к8 + 45)    
+**Швидкість** 30 ф
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
 
-**Skills** Deception +7, Insight +6, Perception +6, Stealth +6    
-**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Condition Immunities** charmed    
-**Senses** darkvision 120 ft., passive Perception 16    
-**Languages** Abyssal, Common, Infernal, Primordial    
-**Challenge** 5 (1,800 XP) 
+![Нічна яга](https://www.dndbeyond.com/avatars/thumbnails/30788/622/1000/1000/638062177695355747.png)
 
-**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:    
-At will: **_detect magic_**, **_magic missile_**    
-2/day each: **_plane shift_** (self only), **_ray of enfeeblement_**, **_sleep_**    
-**Magic Resistance.** The hag has advantage on saving throws against spells and other magical effects. 
+**Навички** Обман +7, Здогадливість +6, Сприйняття +6, Непомітність +6    
+**Стійкість до ушкоджень** холод, вогонь; дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Імунітет до станів** причарований    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 16    
+**Мови** безоднева, спільна, пекельна, первинна    
+**Небезпека** 5 (1800 ПД)
 
-### Actions    
-**Claws (Hag Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Change Shape.** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.    
-**Etherealness.** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.    
-**Nightmare Haunting (1/Day).** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
+**Вроджене чарування.** Чаротворча здібність яги - Харизма (КС чарів 14, +6 до влучання атаками чарів). Вона може природним чином створювати наступні чари, для яких не потребує матеріальних складових:    
+За бажанням: **_виявлення магії_**, **_магічний дротик_**    
+2/день кожні: **_планарний перехід_** (тільки на себе), **_промінь ослаблення_**, **_сон_**    
+
+**Магічна стійкість.** Шкорба має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
+
+### Дії
+**Пазурі (тільки у формі яги).** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13(2к8 + 4) рубаних ушкоджень.    
+
+**Зміна форми.** Яга магічним чином перевтілюється на гуманоїда жіночої статі, чий розмір Малий або Середній, або назад у свою істинну форму. Її статистика залишається однаковою в усіх формах. Будь-яке спорядження, що вона тримає при собі, не трансформується. Вона повертається до своєї істинної форми, якщо вмирає.    
+
+**Етерність.** Яга магічним чином входить до Етерного плану з Матеріального, або навпаки. Щоб зробити це, яга повинна володіти серцевим каменем.    
+
+**Переслідування в жахіттях (1/день).** Перебуваючи на Етерному плані, яга магічним чином торкається сплячого гуманоїда на Матеріальному плані. Чари захисту від зла й добра, створені на ціль, запобігають цьому контакту, як і магічне коло. Поки цей контакт існує, ціль отримує моторошні видіння. Якщо ці видіння тривають принаймні 1 годину, ціль не отримує привілеїв від свого відпочинку, і максимум її пунктів здоров'я зменшується на 5 (1к10). Якщо цей ефект знижує максимум пунктів здоров'я цілі до 0, ціль вмирає, і якщо ціль була злою, її душа потрапляє в пастку в ягиній торбинці душ. Зниження максимуму пунктів здоров'я цілі триває, поки не буде зняте чарами більшого відновлення чи подібною магією.

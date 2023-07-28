@@ -1,34 +1,40 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Gelatinous Cube
-type: Ooze
+title: Драглистий куб
+type: Твань
 tag: 2
 ---
-_Large ooze, unaligned_
 
-**Armor Class** 6    
-**Hit Points** 84 (8d10 + 40)    
-**Speed** 15 ft. 
+_Твань великого розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 3 (−4)  | 20 (+5) | 1 (−5) |  6 (−2)  | 1 (−5)  |
+**Клас захисту** 6    
+**Пункти здоров'я** 84 (8к10 + 40)    
+**Швидкість** 15 ф.  
 
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone    
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 8    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------ | ------- | ------ | ------ | ------ |
+| 14 (+2) | 3 (−4) | 20 (+5) | 1 (−5) | 6 (−2) | 1 (−5) |
 
-**Ooze Cube.** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.    
-Creatures inside the cube can be seen but have total cover.    
-A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.    
-The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.    
-**Transparent.** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube. 
+**Імунітет до станів** осліплений, причарований, оглухлий, виснажений, наляканий, збитий з ніг    
+**Чуття** сліпий зір 60 ф (сліпий за межами цього радіусу), пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 2 (450 ПД)  
 
-### Actions 
-**Pseudopod.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) acid damage.    
-**Engulf.** The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw.    
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.    
-On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.    
-An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+**Куб твані.** Куб займає увесь свій простір. Інші істоти можуть увійти в цей простір, але, роблячи це, істота також піддається Поглинанню куба і має перешкоду на рятівний кидок.    
+Істоти всередині куба видимі, але вони мають повне укриття.    
+Істота в межах 5 футів від куба може використати дію, щоб витягнути істоту чи предмет із куба. Це потребує перевірки Сили з КС 12, і істота, що робить таку спробу, отримує 10 (3к6) ушкоджень кислотою.    
+Куб може утримувати одночасно тільки одну істоту Великого розміру або до чотирьох істот Середнього розміру чи менших.    
+
+**Прозорість.** Навіть якщо куб перебуває в прямому огляді, потрібно зробити перевірку Мудрості (Сприйняття) з КС 15, щоб помітити куб, який не переміщується та не атакує. Істота, що намагається увійти в простір куба, не помітивши його, захоплена кубом зненацька.
+
+### Дії
+**Псевдоніжка.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (3к6) ушкоджень кислотою.    
+
+**Поглинання.** Куб переміщується на свою швидкість. Роблячи це, він може входити в простір істот, чий розмір Великий або менший. Щоразу, як куб входить у простір істоти, істота повинна зробити рятівний кидок Спритності з КС 12.    
+
+У разі успіху істота може обрати - відштовхнутися на 5 футів назад або убік від куба. Істота, що обирає не відштовхуватися, страждає від наслідків як при проваленому рятівному кидку.    
+
+У разі невдалого ряткидка куб входить у простір істоти, й істота отримує 10 (3к6) ушкоджень кислотою та є поглинутою. Поглинута істота не може дихати, є скутою та отримує 21 (6к6) ушкоджень кислотою на початку кожного ходу куба. Коли куб переміщується, поглинута істота переміщується разом із ним.    
+
+Поглинута істота може спробувати вибратися, зробивши дією перевірку Сили з КС 12. У разі успіху істота звільняється і входить у простір за власним вибором у межах 5 футів від куба.

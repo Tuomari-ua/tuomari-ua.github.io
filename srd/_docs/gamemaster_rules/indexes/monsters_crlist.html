@@ -4,15 +4,14 @@ title: Монстри за CR
 ---
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
-{% assign tags =  site.monsters | map: 'tags' | uniq | sort: tag %}
-{% for tag in tags %}
-  <h3>{{ tag }}</h3>
+{% assign groups = site.monsters | group_by: 'tag' | uniq | sort: 'name' %}
+{% for group in groups %}
+      <h3>{{ group.name }}</h3>
   <ul style="column-count: 3">
-  {% for doc in site.monsters %}
-    {% if doc.tags contains tag %}
-    <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.title }}</a></li>
-    {% endif %}
-  {% endfor %}
+{% assign array =  group.items | sort: 'title' %}
+    {% for item in array %}
+       <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+    {%endfor%}
   </ul>
 {% endfor %}
 </div>

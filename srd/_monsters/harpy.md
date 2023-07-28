@@ -1,28 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Harpy
-type: Monstrosity
+title: Гарпія
+type: Чудовисько
 tag: 1
 ---
-_Medium monstrosity, chaotic evil_
 
-**Armor Class** 11    
-**Hit Points** 38 (7d8 + 7)    
-**Speed** 20 ft., fly 40 ft. 
+_Чудовисько середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2)  | 10 (+0) | 13 (+1) |
+**Клас захисту** 11    
+**Пункти здоров'я** 38 (7к8 + 7)    
+**Швидкість** 20 ф, політ 40 ф
 
-**Senses** passive Perception 10    
-**Languages** Common    
-**Challenge** 1 (200 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2) | 10 (+0) | 13 (+1) |
 
-### Actions 
-**Multiattack.** The harpy makes two attacks: one with its claws and one with its club.    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.    
-**Club.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.    
-**Luring Song.** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.    
-While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.    
-A target that successfully saves is immune to this harpy's song for the next 24 hours.
+![Гарпія](https://www.dndbeyond.com/avatars/thumbnails/30788/677/1000/1000/638062178962566030.png) 
+
+**Чуття** пасивне Сприйняття 10    
+**Мови** спільна    
+**Небезпека** 1 (200 ПД)
+
+### Дії
+**Мультиатака.** Гарпія робить дві атаки: одну кігтями та одну палицею.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (2к4 + 1) рубаних ушкоджень.    
+
+**Палиця.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к4 + 1) дробильних ушкоджень.    
+
+**Спокусливий спів.** Гарпія співає магічну мелодію. Кожен гуманоїд та велет у межах 300 футів від гарпії, що може чути цю пісню, повинен зробити рятівний кидок Мудрості з КС 11, або буде причарований до кінця співу. Гарпія повинна використовувати бонусну дію у свої наступні ходи, щоб продовжувати співати. Вона може припинити спів будь-якої миті. Спів завершується, якщо гарпія недієздатна.    
+Причарована гарпією істота недієздатна та ігнорує спів інших гарпій. Якщо причарована ціль перебуває далі 5 футів від гарпії, ціль повинна в свій хід переміщуватися до гарпії найбільш прямим шляхом, намагаючись опинитися у межах 5 футів від неї. Вона не уникає атак при нагоді, але, переміщуючись до небезпечної місцевості, такої як лава або яма, і щоразу, коли отримує ушкодження від будь-якого джерела, крім гарпії, ціль може повторити рятівний кидок. Причарована ціль може також повторювати рятівний кидок в кінці кожного свого ходу. Якщо рятівний кидок успішний, ефект для цілі завершується.    
+Ціль, що успішно врятувалася, має імунітет до співу цієї гарпії на наступні 24 години.

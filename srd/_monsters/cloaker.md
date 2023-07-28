@@ -1,34 +1,43 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Cloaker
-type: Aberration
+title: Накидень
+type: Аберація
 tag: 8
 ---
-_Large aberration, chaotic neutral_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 78 (12d10 + 12)    
-**Speed** 10 ft., fly 40 ft. 
+_Аберація великого розміру, хаотичний нейтральний_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 17 (+3)  | 15 (+2) | 12 (+1)  | 13 (+1) | 12 (+1) | 14 (+2) |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 78 (12к10 + 12)     
+**Швидкість** 10 ф, політ 40 ф.  
 
-**Skills** Stealth +5    
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** Deep Speech, Undercommon    
-**Challenge** 8 (3,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
-**Damage Transfer.** While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down), and that creature takes the other half.    
-**False Appearance.** While the cloaker remains motionless without its underside exposed, it is indistinguishable from a dark leather cloak.    
-**Light Sensitivity.** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight. 
+**Навички** Непомітність +5    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 11    
+**Мови** глибинна, підтемна    
+**Небезпека** 8 (3900 ПД)  
 
-### Actions 
-**Multiattack.** The cloaker makes two attacks: one with its bite and one with its tail.    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check.    
-**Tail.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one creature. _Hit:_ 7 (1d8 + 3) slashing damage.    
-**Moan.** Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours.    
-**Phantasms (Recharges after a Short or Long Rest).** The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.    
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.    
-A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
+**Передача ушкоджень.** Поки прикріплений до істоти, накидень отримує тільки половину завданих йому ушкоджень (округлену до меншого), а іншу половину отримує ця істота.    
+
+**Оманливий вигляд.** Поки накидень нерухомий і його внутрішня частина прихована, його неможливо відрізнити від темної шкіряної накидки.    
+
+**Чутливість до світла.** Перебуваючи в яскравому світлі, накидень має перешкоду на кидки атаки та перевірки Мудрості (Сприйняття), що покладаються на зір.  
+
+### Дії
+**Мультиатака.** Накидень здійснює дві атаки: одну укусом та одну - хвостом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень, і якщо розмір цілі Великий або менший, накидень прикріплюється до неї. Якщо накидень має перевагу проти цілі, він прикріплюється до голови цілі, і ціль стає осліпленою та не може дихати, поки накидень залишається прикріпленим. Поки прикріплений, накидень може здійснювати цю атаку тільки проти цієї цілі та має перевагу на кидки атаки. Накидень може відкріпитися самостійно, витративши 5 футів свого переміщення. Істота, включно з ціллю, може витратити дію, щоб відкріпити накидня успішною перевіркою Сили з КС 16.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф., одна істота. _Влучання:_ 7 (1к8 +3) рубаних ушкоджень.    
+
+**Стогін.** Кожна істота в межах 60 футів від накидня, котра може чути його стогін і яка не є аберацією, повинна зробити рятівний кидок Мудрості з КС 13, або буде налякана до кінця наступного ходу накидня. Якщо рятівний кидок істоти успішний, істота набуває імунітету до стогону накидня на наступні 24 години.    
+
+**Фантазми (Відновлення після короткого або тривалого відпочинку).** Накидень магічним чином створює своїх ілюзорних двійників, якщо не перебуває у яскравому світлі. Двійники рухаються разом із ним та повторюють його рухи, змінюючи положення так, щоб неможливо було визначити, котрий із накиднів є справжнім. Якщо накидень опиняється в області яскравого світла, двійники зникають.    
+
+Коли будь-яка істота націлюється на накидня атакою або шкідливими чарами під час існування двійників, ця істота робить випадковий кидок, аби визначити, чи є ціль накиднем чи одним із його двійників. Цей магічний ефект не діє на істот, які не можуть бачити або які покладаються на інші органи чуття, крім зору.    
+
+Двійник має КЗ накидня та використовує його рятівні кидки. Якщо атака влучає по двійникові, або якщо двійник провалює рятівний кидок проти ефекту, що завдає ушкоджень, двійник зникає.

@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Werebear
-type: Humanoid (human, shapechanger)
+title: Ведмевертень
+type: Гуманоїд
 tag: 5
 ---
-_Medium humanoid (human, shapechanger), neutral good_
 
-**Armor Class** 10 in humanoid form, 11 (natural armor) in bear and hybrid form    
-**Hit Points** 135 (18d8 + 54)    
-**Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form) 
+_Гуманоїд середнього розміру (людина, перекидень), нейтральний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 10 у формі гуманоїда, 11 (природна броня) у формі ведмедя та гібрида    
+**Пункти здоров'я** 135 (18к8 + 54)    
+**Швидкість** 30 ф (40 ф, лазіння 30 ф. у формі ведмедя або гібрида)
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
-**Skills** Perception +7    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** passive Perception 17    
-**Languages** Common (can't speak in bear form)    
-**Challenge** 5 (1,800 XP) 
+**Навички** Сприйняття +7    
+**Імунітет до ушкоджень** дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Чуття** пасивне Сприйняття 17    
+**Мови** спільна (не може говорити у формі ведмедя)    
+**Небезпека** 5 (1800 ПД)
 
-**Shapechanger.** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Smell.** The werebear has advantage on Wisdom (Perception) checks that rely on smell. 
+**Перекидень.** Ведмевертень може використати дію, щоб перевтілитися на ведмеде-гуманоїдного гібрида Великого розміру або на ведмедя Великого розміру, або назад до своєї істинної форми, яка є гуманоїдною. Його статистика, окрім розміру та КЗ, залишається однаковою в усіх формах. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається в свою істинну форму, якщо вмирає.    
 
-### Actions 
-**Multiattack.** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.    
-**Bite (Bear or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.    
-**Claw (Bear or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.    
-**Greataxe (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 10 (1d12 + 4) slashing damage.
+**Гострий нюх.** Ведмевертень має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.
+
+### Дії
+**Мультиатака.** У формі ведмедя, ведмевертень здійснює дві атаки пазурами. У форму гуманоїда він робить дві атаки дворучною сокирою. У формі гібрида він може атакувати як ведмідь або як гуманоїд.    
+
+**Укус (Тільки у формі ведмедя чи гібрида).** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 15 (2к10 + 4) колотих ушкоджень. Якщо ціль є гуманоїдом, вона повинна зробити рятівний кидок Статури з КС 14, або буде проклята ведмежою лікантропією.    
+
+**Пазурі (Тільки у формі гуманоїда або ведмедя).** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 13 (2к8 + 4) рубаних ушкоджень.    
+
+**Дворучна сокира (Тільки у формі гуманоїда або гібрида).** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (1к12 + 4) рубаних ушкоджень.

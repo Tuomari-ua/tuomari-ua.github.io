@@ -1,34 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Priest
-type: Humanoid (any race)
+title: Священник
+type: Гуманоїд
 tag: 2
 ---
-_Medium humanoid (any race), any alignment_
 
-**Armor Class** 13 (chain shirt)    
-**Hit Points** 27 (5d8 + 5)    
-**Speed** 25 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |   
+**Клас захисту** 13 (кольчужна сорочка)    
+**Пункти здоров'я** 27 (5к8 + 6)    
+**Швидкість** 25 ф.
 
-**Skills** Medicine +7, Persuasion +3, Religion +4    
-**Senses** passive Perception 13    
-**Languages** any two languages    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
-**Divine Eminence.** As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.    
-**Spellcasting.** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:    
-Cantrips (at will): **_light, sacred flame, thaumaturgy_**    
-1st level (4 slots): **_cure wounds, guiding bolt, sanctuary_**    
-2nd level (3 slots): **_lesser restoration, spiritual weapon_**    
-3rd level (2 slots): **_dispel magic, spirit guardians_** 
+**Навички** Медицина +7, Переконливість +3, Релігія +4    
+**Чуття** пасивне Сприйняття 13    
+**Мови** будь-які дві мови    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Mace.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage. 
+**Божественне підвищення.** Бонусною дією священник може витратити чарунку, аби його атака зброєю ближнього бою магічним чином завдала додатково 10 (3к6) ушкоджень променистою енергією під час влучання по цілі. Цей привілей триває до кінця ходу. Якщо священник витрачає чарунку 2 рівня або вищу, додаткові ушкодження зростають на 1к6 за кожну чарунку вище першої.    
 
-### Description
-Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties. 
+**Чарування.** Священник є чаротворчцем 5 рівня. Його чаротворча здібність - Мудрість (КС чарів 13, +5 до влучання атаками чарів). Священник має наступні підготовлені чари клірика:    
+Замовляння (за бажанням): **_світло, священне полум'я, чудотворення_**    
+1 рівень (4 чарунки): **_лікування ран, спрямований заряд, святилище_**    
+2 рівень (3 чарунки): **_менше відновлення, духовна зброя_**    
+3 рівень (2 чарунки): **_розвіювання магії, духи захисники_**
+
+### Дії
+**Булава.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к6) дробильних ушкоджень.
+
+### Опис
+Священники несуть учення своїх богів до звичайного народу. Вони є духовними лідерами храмів та святинь і часто займають впливові позиції в своїх громадах. Злі священники можуть відкрито працювати на користь тирана, або вони можуть бути лідерами релігійних сект, схованих у тіні доброї спільноти, наглядаючи за розбещеними обрядами. Священник зазвичай має одного або більше прислужників, що допомагають на релігійних церемоніях та з іншими священними обов'язками. 

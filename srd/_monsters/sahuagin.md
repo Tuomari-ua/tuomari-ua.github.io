@@ -1,31 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Sahuagin
-type: Humanoid (sahuagin)
-tag: .5
+title: Сагваґін
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (sahuagin), lawful evil_
 
-**Armor Class** 12 (natural armor)    
-**Hit Points** 22 (4d8 + 4)    
-**Speed** 30 ft., swim 40 ft. 
+_Гуманоїд середнього розміру (сагваґін), законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1)  |
+**Клас захисту** 12 (природна броня)    
+**Пункти здоров'я** 22 (4к8 + 4)    
+**Швидкість** 30 ф, плавання 40 ф.
 
-**Skills** Perception +5    
-**Senses** darkvision 120 ft., passive Perception 15    
-**Languages** Sahuagin    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1) |
 
-**Blood Frenzy.** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.    
-**Limited Amphibiousess.** The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.    
-**Shark Telepathy.** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy. 
+**Навички** Сприйняття +5    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 15    
+**Мови** сагваґінів    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Multiattack.** The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) slashing damage.    
-**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+**Шал крові.** Сагваґін має перевагу на кидки атаки ближнього бою проти будь-якої істоти, що має не всі пункти здоров’я.    
+
+**Обмежена амфібія.** Сагваґін може дихати повітрям і водою, але потребує занурення принаймні раз на 4 години, аби уникнути ядухи.    
+
+**Акуляча телепатія.** Сагваґін може магічним чином наказувати будь-якій акулі в межах 120 футів від себе, використовуючи обмежену телепатію.
+
+### Дії
+**Мультиатака/** Сагваґін робить дві атаки ближнього бою: одну укусом та одну - кігтями або списом.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 3 (1к4 + 1) колотих ушкоджень.    
+
+**Кігті.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 (1к4 + 1) рубаних ушкоджень.    
+
+**Спис.** _ _Атака зброєю ближнього бою або далекобійна:_ +3 до влучання, досяжність 5 ф або відстань 20/60 ф, одна ціль. __Влучання: 4 (1к6 + 1) колотих ушкоджень, або 5 (1к8 + 1) колотих ушкоджень, якщо використовує для атаки ближнього бою двома руками.

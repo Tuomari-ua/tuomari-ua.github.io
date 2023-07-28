@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Crocodile
-type: Beast
+title: Величезний крокодил
+type: Звір
 tag: 5
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 85 (9d12 + 27)    
-**Speed** 30 ft., swim 50 ft. 
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 9 (−1)  | 17 (+3) | 2 (−4)  | 10 (+0) | 7 (−2)  |  
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 85 (9к12 + 27)    
+**Швидкість** 30 ф, плавання 50 ф.
 
-**Skills** Stealth +5    
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 5 (1,800 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 21 (+5) | 9 (−1) | 17 (+3) | 2 (−4) | 10 (+0) | 7 (−2) |
 
-**Hold Breath.** The crocodile can hold its breath for 30 minutes. 
+**Навички** Непомітність +5    
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The crocodile makes two attacks: one with its bite and one with its tail.    
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.    
-**Tail.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+**Зупинка дихання.** Крокодил може зупиняти своє дихання на 30 хвилин.
+
+### Дії
+**Мультиатака.** Крокодил робить дві атаки: одну укусом і одну хвостом.     
+
+**Укус.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 21 (3к10 + 5) колотих ушкоджень, і ціль схоплена (КС втечі 16). Доки триває цей захват, ціль скута, а крокодил не може кусати іншу ціль.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль, яку крокодил не схопив. _Влучання:_ 14 (2к8 + 5) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 16, або буде збита з ніг.

@@ -1,31 +1,33 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Stone Giant
-type: Giant
+title: Кам'яний велет
+type: Велет
 tag: 7
 ---
-_Huge giant, neutral_
 
-**Armor Class** 17 (natural armor)    
-**Hit Points** 126 (11d12 + 55)    
-**Speed** 40 ft. 
+_Велет величезного розміру, нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1)  |
+**Клас захисту** 17 (природна броня)    
+**Пункти здоров'я** 126 (11к12 + 55)    
+**Швидкість** 40 ф
 
-**Saving Throws** Dex +5, Con +8, Wis +4    
-**Skills** Athletics +12, Perception +4    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Giant    
-**Challenge** 7 (2,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1) |
 
-**Stone Camouflage.** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.    
+**Рятівні кидки** Спр +5, Ста +8, Мдр +4    
+**Навички** Атлетика +12, Сприйняття +4    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** велетова    
+**Небезпека** 7 (2900 ПД)
 
-### Actions 
-**Multiattack.** The giant makes two greatclub attacks. Greatclub. _Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.    
-**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone. 
+**Кам’яне маскування.** Велет має перевагу на перевірки Спритності (Непомітність) для маскування на кам'янистій місцевості.
 
-### Reactions 
-**Rock Catching.** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+### Дії
+**Мультиатака.** Велет здійснює дві атаки дубиною. Дубина. _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 15 ф, одна ціль. _Влучання:_ 19 (3к8 + 6) дробильних ушкоджень.    
+
+**Брила.** _Далекобійна атака зброєю:_ +9 до влучання, відстань 60/240 ф, одна ціль. _Влучання:_ 28 (4к10 + 6) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 17, або буде збита з ніг.
+
+### Реакції
+**Перехоплення брил.** Якщо брила або подібний предмет кидають у велета, велет може, шляхом успішного рятівного кидка Спритності з КС 10, перехопити снаряд, не отримуючи від нього жодних дробильних ушкоджень.

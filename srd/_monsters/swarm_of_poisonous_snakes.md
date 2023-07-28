@@ -1,27 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Swarm of Poisonous Snakes
-type: Swarm of Tiny beasts
+title: Рій отруйних змій
+type: Рій звірів крихітного розміру
 tag: 2
 ---
-_Medium swarm of Tiny beasts, unaligned_
 
-**Armor Class** 14    
-**Hit Points** 36 (8d8)    
-**Speed** 30 ft., swim 30 ft. 
+_Середній рій звірів крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 18 (+4) | 11 (+0) | 1 (−5)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 14    
+**Пункти здоров'я** 36 (8к8)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Damage Resistances** bludgeoning, piercing, slashing    
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned    
-**Senses** blindsight 10 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 8 (−1) | 18 (+4) | 11 (+0) | 1 (−5) | 10 (+0) | 3 (−4) |
 
-**Swarm.** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points. 
+**Стійкість до ушкоджень** дробильні, колоті, рубані    
+**Імунітет до станів** причарований, наляканий, схоплений, паралізований, скам'янілий, збитий з ніг, скутий, приголомшений    
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+**Рій.** Рій може займати простір іншої істоти й навпаки, і рій може переміщуватися крізь простір, достатньо великий для змії Крихітного розміру. Рій не відновлює пункти здоров'я і не отримує тимчасових пунктів здоров'я.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 0 ф, одна істота в просторі рою. _Влучання:_ 7 (2к6) колотих ушкоджень, або 3 (1к6) колотих ушкоджень, якщо рій має половину пунктів здоров'я або менше. Ціль повинна зробити рятівний кидок Статури з КС 10, отримуючи 14 (4к6) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху.

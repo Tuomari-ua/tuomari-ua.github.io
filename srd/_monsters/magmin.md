@@ -1,28 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Magmin
-type: Elemental
-tag: .5
+title: Магмін
+type: Стихійник
+tag: 0.5
 ---
-_Small elemental, chaotic neutral_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 9 (2d6 + 2)    
-**Speed** 30 ft. 
+_Стихійник малого розміру, хаотичний нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 7 (−2)  | 15 (+2) | 12 (+1) | 8 (−1)  | 11 (+0) | 10 (+0) |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 9 (2к6 + 2)    
+**Швидкість** 30 ф.
 
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** fire    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** Ignan    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------ | ------- | ------- | ------ | ------- | ------- |
+| 7 (−2) | 15 (+2) | 12 (+1) | 8 (−1) | 11 (+0) | 10 (+0) |
 
-**Death Burst.** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited.    
-**Ignited Illumination.** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet. 
+![Магмін](https://www.dndbeyond.com/avatars/thumbnails/30833/322/1000/1000/638063861332130639.png)
 
-### Actions    
-**Touch.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** іґнан    
+**Небезпека** 1/2 (100 ПД)
+
+**Смертний вибух.** Коли магмін вмирає, він вибухає вогнем та магмою. Кожна істота в межах 10 футів від нього повинна зробити рятівний кидок Спритності з КС 11, отримуючи 7 (2к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху. Займисті предмети в цій області, які ніхто не тримає при собі, також займаються.    
+
+**Запалене світло.** Бонусною дією магмін може зробити себе сліпучим або загасити своє полум'я. Поки магмін сліпучий, він випромінює яскраве світло в радіусі 10 футів та тьмяне світло - на додаткові 10 футів.
+
+### Дії
+**Дотик.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (2к6) ушкодження вогнем. Якщо ціль - істота або займистий предмет, вони займаються. Доки істота не використає дію, щоб згасити полум'я, ціль отримує 3 (1к6) ушкоджень вогнем на початку кожного свого ходу.

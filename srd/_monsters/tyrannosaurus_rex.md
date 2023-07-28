@@ -1,26 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Tyrannosaurus Rex
-type: Beast
+title: Тиранозавр
+type: Звір
 tag: 8
 ---
-_Huge beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 136 (13d12 + 52)    
-**Speed** 50 ft. 
+_Звір величезного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4)  | 12 (+1) | 9 (−1)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 136 (13к12 + 52)    
+**Швидкість** 50 ф
 
-**Skills** Perception +4    
-**Senses** passive Perception 14    
-**Languages** --    
-**Challenge** 8 (3,900 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 25 (+7) | 10 (+0) | 19 (+4) | 2 (−4) | 12 (+1) | 9 (−1) |
 
-### Actions 
-**Multiattack.** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target.    
-**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
+**Навички** Сприйняття +4    
+**Чуття** пасивне Сприйняття 14    
+**Мови** -    
+**Небезпека** 8 (3,900 ПД)
+
+### Дії
+**Мультиатака.** Тиранозавр здійснює дві атаки: одну укусом та одну хвостом. Він не може використати обидві атаки проти тієї самої цілі.    
+
+**Укус** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 33 (4к12 + 7) колотих ушкоджень. Якщо ціль є істотою, чий розмір Середній або менший, вона схоплена (КС втечі 17). Доки триває цей захват, ціль скута, а тиранозавр не може кусати іншу ціль.    
+
+**Хвіст.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 20 (3к8 + 7) дробильних ушкоджень.

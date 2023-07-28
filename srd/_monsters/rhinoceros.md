@@ -1,25 +1,26 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Rhinoceros
-type: Beast
+title: Носоріг
+type: Звір
 tag: 2
 ---
-_Large beast, unaligned_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 45 (6d10 + 12)    
-**Speed** 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 21 (+5) | 8 (−1)  | 15 (+2) | 2 (−4)  | 12 (+1) | 6 (−2)  |  
+**Клас захисту** 11 (природна броня)    
+**Пункти здоров'я** 45 (6к10 + 12)    
+**Швидкість** 40 ф.
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 2 (450 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------ | ------- | ------ | ------- | ------ |
+| 21 (+5) | 8 (−1) | 15 (+2) | 2 (−4) | 12 (+1) | 6 (−2) |
 
-**Charge.** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. 
+**Чуття** пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 2 (450 ПД)
 
-### Actions 
-**Gore.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage. 
+**Розгін.** Якщо носоріг переміщується принаймні на 20 футів по прямій до цілі та влучає по ній атакою буцанням у тому ж ходу, ціль отримує додатково 9 (2к8) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 15, або буде збита з ніг.
+
+### Дії
+**Буцання.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 14 (2к8 + 5) дробильних ушкоджень. 

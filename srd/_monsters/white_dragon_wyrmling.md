@@ -1,27 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: White Dragon Wyrmling
-type: Dragon
+title: Змієня білого дракона
+type: Дракон
 tag: 2
 ---
-_Medium dragon, chaotic evil_
 
-**Armor Class** 16 (natural armor)    
-**Hit Points** 32 (5d8 + 10)    
-**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft. 
+_Дракон середнього розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 10 (+0) | 14 (+2) | 5 (−3)  | 10 (+0) | 11 (+0) |
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 32 (5к8 + 10)    
+**Швидкість** 30 ф, риття 15 ф, політ 60 ф, плавання 30 ф.
 
-**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2    
-**Skills** Perception +4, Stealth +2    
-**Damage Immunities** cold    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    
-**Languages** Draconic    
-**Challenge** 2 (450 XP)
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (−3) | 10 (+0) | 11 (+0) |
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.    
-**Cold Breath (Recharge 5–6).** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +2, Ста +4, Мдр +2, Хар +2    
+**Навички** Сприйняття +4, Непомітність +2    
+**Імунітет до ушкоджень** холод    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** драконова    
+**Небезпека** 2 (450 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к10 + 2) колотих ушкоджень плюс 2 (1к4) ушкоджень холодом.    
+
+**Крижане дихання (Відновлення 5-6).** Дракон видихає крижаний заряд 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Статури з КС 12, отримуючи 22 (5к8) ушкоджень холодом у разі невдачі або половину цих ушкоджень за умови успіху.

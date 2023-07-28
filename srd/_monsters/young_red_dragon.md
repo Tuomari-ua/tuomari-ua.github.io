@@ -1,29 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Red Dragon
-type: Dragon
+title: Молодий червоний дракон
+type: Дракон
 tag: 10
 ---
-_Large dragon, chaotic evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 178 (17d10 + 85)    
-**Speed** 40 ft., climb 40 ft., fly 80 ft. 
+_Дракон великого розміру, хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 178 (17к10 + 85)    
+**Швидкість** 40 ф, лазіння 40 ф, політ 80 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8    
-**Skills** Perception +8, Stealth +4    
-**Damage Immunities** fire    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18    
-**Languages** Common, Draconic    
-**Challenge** 10 (5,900 XP) 
+![Молодий червоний дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/407/1000/1000/638061961315375227.png)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.    
-**Claw.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.    
-**Fire Breath (Recharge 5–6).** The dragon exhales fire in a 30‐foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +4, Ста +9, Мдр +4, Хар +8    
+**Навички** Сприйняття +8, Непомітність +4    
+**Імунітет до ушкоджень** вогонь    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 18    
+**Мови** спільна, драконова    
+**Небезпека** 10 (5900 ПД)
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 13 (2к10 + 6) колотих ушкоджень плюс 3 (1к6) ушкоджень вогнем.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. ___Влучання:___ 13 (2к6 + 6) рубаних ушкоджень.    
+
+**Вогняний подих. (Відновлення 5-6).** Дракон видихає полум'я 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 17, отримуючи 56 (16к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху.

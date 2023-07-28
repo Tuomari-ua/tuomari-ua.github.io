@@ -1,26 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Bat
-type: Beast
+title: Кажан
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 5 ft., fly 30 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 15 (+2) | 8 (−1)  | 2 (−4)  | 12 (+1) | 4 (−3)  |    
+**Клас захисту** 12    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 5 ф, політ 30 ф
 
-**Senses** blindsight 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
-**Echolocation.** The bat can't use its blindsight while deafened.    
-**Keen Hearing.** The bat has advantage on Wisdom (Perception) checks that rely on hearing. 
+**Чуття** Сліпий зір 60 ф, пасивне Сприйняття 11    
+**Мови** -     
+**Небезпека** 0 (10 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +0 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage.
+**Ехолокація.** Кажан не може користуватися сліпим зором, коли оглушений.    
+**Гострий слух.** Кажан має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +0 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 1 колоте ушкодження.

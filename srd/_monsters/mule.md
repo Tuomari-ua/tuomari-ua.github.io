@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Mule
-type: Beast
-tag: .125
+title: Мул
+type: Звір
+tag: 0.125
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 40 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 14 (+2) | 10 (+0) | 13 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |  
+**Клас захисту** 10     
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 40 ф.
 
-**Senses** passive Perception 10    
-**Languages** --    
-**Challenge** 1/8 (25 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 14 (+2) | 10 (+0) | 13 (+1) | 2 (−4) | 10 (+0) | 5 (−3) |
 
-**Beast of Burden.** The mule is considered to be a Large animal for the purpose of determining its carrying capacity.    
-**Sure-Footed.** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone. 
+**Чуття** пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 1/8 (25 ПД)
 
-### Actions 
-**Hooves.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) bludgeoning damage. 
+**В'ючна тварина.** Мул вважається твариною Великого розміру, коли треба визначити його вантажність.    
+
+**Впевнений крок.** Мул має перевагу на рятівні кидки Сили та Спритності проти ефектів, що можуть збити його з ніг.
+
+### Дії
+**Копита.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к4+2) дробильних ушкоджень. 

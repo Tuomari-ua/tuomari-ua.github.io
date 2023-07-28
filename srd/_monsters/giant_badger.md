@@ -1,27 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Badger
-type: Beast
-tag: .25
+title: Величезний борсук
+type: Звір
+tag: 0.25
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 10    
-**Hit Points** 13 (2d8 + 4)    
-**Speed** 30 ft., burrow 10 ft.
+_Звір середнього розміру, невизначений_  
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+_Клас захисту_ 10    
+**Пункти здоров'я** 13 (2к8 + 4)    
+**** 30 ф, риття 10 ф.  
 
-**Senses** darkvision 30 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 13 (+1) | 10 (+0) | 15 (+2) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-**Keen Smell.** The badger has advantage on Wisdom (Perception) checks that rely on smell. 
+**Чуття** темний зір 30 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)  
 
-### Actions 
-**Multiattack.** The badger makes two attacks: one with its bite and one with its claws.    
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.    
-**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage. 
+**Гострий нюх.** Борсук має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх.
+
+### Дії
+**Мультиатака.** Борсук здійснює дві атаки: одну укусом та одну пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (2к6 + 1) рубаних ушкоджень. 

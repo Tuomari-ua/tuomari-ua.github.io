@@ -1,31 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Thug
-type: Humanoid (any race)
-tag: .5 
+title: Головоріз
+type: Гуманоїд
+tag: 0.5
 ---
-_Medium humanoid (any race), any non-good alignment_
 
-**Armor Class** 11 (leather armor)    
-**Hit Points** 32 (5d8 + 10)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який не-добрий світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |   
+**Клас захисту** 11 (шкіряна броня)    
+**Пункти здоров'я** 32 (5к8 + 10)    
+**Швидкість** 30 ф.
 
-**Skills** Intimidation +2    
-**Senses** passive Perception 10    
-**Languages** any one language (usually Common)    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
 
-**Pack Tactics.** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+**Навички** Залякування +2    
+**Чуття** пасивне Сприйняття 10    
+**Мови** будь-яка одна мова (зазвичай спільна)    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Multiattack.** The thug makes two melee attacks.    
-**Mace.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +2 to hit, range 100/400 ft., one target. _Hit:_ 5 (1d10) piercing damage. 
+**Тактика зграї.** Головоріз має перевагу на кидок атаки проти істоти, якщо принаймні один із союзників головоріза перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним.
 
-### Description
-Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples. 
+### Дії
+**Мультиатака.** Головоріз здійснює дві атаки ближнього бою.    
+
+**Булава.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) дробильних ушкоджень.    
+
+**Важкий арбалет.** _Далекобійна атака зброєю:_ +2 до влучання, відстань 100/400 ф, одна ціль. _Влучання:_ 5 (1к10) колотих ушкоджень.
+
+### Опис
+Головорізи - безжальні виконавці, досвідчені в залякуванні та насильстві. Вони працюють за гроші та не відрізняються сумлінням. 

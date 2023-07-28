@@ -1,29 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Sea Horse
-type: Beast
-tag: .5
+title: Величезний морський коник
+type: Звір
+tag: 0.5
 ---
-_Large beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 16 (3d10)    
-**Speed** 0 ft., swim 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 12 (+1) | 15 (+2) | 11 (+0) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 16 (3к10)    
+**Швидкість** 0 ф, плавання 40 ф.
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 12 (+1) | 15 (+2) | 11 (+0) | 2 (−4) | 12 (+1) | 5 (−3) |
 
-**Charge.** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.    
-**Water Breathing.** The sea horse can breathe only underwater. 
+**Чуття** пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage. 
+**Розгін.** Якщо морський коник переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній тараном у той самий хід, ціль отримує додатково 7 (2к6) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 11, або буде збита з ніг.    
 
-### Description
-Like their smaller kin, giant sea horses are shy, colorful fish with elongated bodies and curled tails. Aquatic elves train them as mounts. 
+**Дихання водою.** Морський коник може дихати тільки під водою.
+
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 4 (1к6 + 1) дробильних ушкоджень.
+
+### Опис
+Як і їхні менші родичі, велетенські морські коники - сором'язливі різнокольорові риби з видовженими тілами та закрученими хвостами. Водяні ельфи тренують їх як їздових. 

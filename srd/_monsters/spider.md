@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Spider
-type: Beast
+title: Павук
+type: Звір
 tag: 0
 ---
-_Tiny beast, unaligned_
 
-**Armor Class** 12    
-**Hit Points** 1 (1d4 − 1)    
-**Speed** 20 ft., climb 20 ft. 
+_Звір крихітного розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 2 (−4)  | 14 (+2) | 8 (−1)  | 1 (−5)  | 10 (+0) | 2 (−4)  |  
+**Клас захисту** 12    
+**Пункти здоров'я** 1 (1к4 - 1)    
+**Швидкість** 20 ф, лазіння 20 ф
 
-**Skills** Stealth +4    
-**Senses** darkvision 30 ft., passive Perception 10    
-**Languages** --    
-**Challenge** 0 (10 XP) 
+| СИЛ    | СПР     | СТА    | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------ | ------ | ------- | ------ |
+| 2 (−4) | 14 (+2) | 8 (−1) | 1 (−5) | 10 (+0) | 2 (−4) |
 
-**Spider Climb.** The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.    
-**Web Sense.** While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.    
-**Web Walker.** The spider ignores movement restrictions caused by webbing. 
+**Навички** Непомітність +4    
+**Чуття** темний зір 30 ф, пасивне Сприйняття 10    
+**Мови** -    
+**Небезпека** 0 (10 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage. 
+**Павуче лазіння.** Павук може лазити по складних поверхнях, включно зі стелею догори дриґом, не потребуючи перевірок здібностей.    
+
+**Чуття павутини.** Перебуваючи в контакті з павутинням, павук знає точне розташування будь-якої іншої істоти, що торкається того ж павутиння.    
+
+**Павутинний ходак.** Павук ігнорує обмеження переміщення, спричинене павутинням.
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 колоте ушкодження, і ціль повинна зробити рятівний кидок Статури з КС 9, або отримає 2 (1к4) ушкоджень отрутою. 

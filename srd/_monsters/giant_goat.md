@@ -1,26 +1,28 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Goat
-type: Beast
-tag: .5
+title: Величезна коза
+type: Звір
+tag: 0.5
 ---
-_Large beast, unaligned_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 19 (3d10 + 3)    
-**Speed** 40 ft. 
+_Звір великого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 11 (+0) | 12 (+1) | 3 (−4)  | 12 (+1) | 6 (−2)  |  
+**Клас захисту** 11 (природна броня)    
+**Пункти здоров'я** 19 (3к10 + 3)    
+**Швидкість** 40 ф.
 
-**Senses** passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 11 (+0) | 12 (+1) | 3 (−4) | 12 (+1) | 6 (−2) |
 
-**Charge.** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Sure-Footed.** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone. 
+**Чуття** пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage. 
+**Розгін.** Якщо коза переміщується принаймні на 20 футів по прямій до цілі та якщо влучає по ній тараном у той самий хід, ціль отримує додатково 5 (2к4) дробильних ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 13, або буде збита з ніг.    
+
+**Впевнений крок.** Коза має перевагу на рятівні кидки Сили та Спритності проти ефектів, що можуть збити її з ніг.
+
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 8 (2к4 + 3) дробильних ушкоджень. 

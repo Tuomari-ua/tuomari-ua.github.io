@@ -1,28 +1,32 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Manticore
-type: Monstrosity
+title: Мантикора
+type: Чудовисько
 tag: 3
 ---
-_Large monstrosity, lawful evil_
 
-**Armor Class** 14 (natural armor)    
-**Hit Points** 68 (8d10 + 24)    
-**Speed** 30 ft., fly 50 ft. 
+_Чудовисько великого розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2)  | 12 (+1) | 8 (−1)  |
+**Клас захисту** 14 (природна броня)    
+**Пункти здоров'я** 68 (8к10 + 24)    
+**Швидкість** 30 ф, політ 50 ф.
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** Common    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (−2) | 12 (+1) | 8 (−1) |
 
-**Tail Spike Regrowth.** The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest. 
+**Чуття** темний зір 60 ф, пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 3 (700 ПД)
 
-### Actions 
-**Multiattack.** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Tail Spike.** _Ranged Weapon Attack:_ +5 to hit, range 100/200 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.
+**Відростання хвостових шипів.** Мантикора має 24 хвостові шипи. Використані шипи відростають, коли мантикора завершує тривалий відпочинок.
+
+### Дії
+**Мультиатака.** Мантикора робить три атаки: одну укусом та дві пазурами, або три атаки хвостовими шипами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) рубаних ушкоджень.    
+
+**Хвостовий шип.** _Далекобійна атака зброєю:_ +5 до влучання, відстань 100/200 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) колотих ушкоджень.

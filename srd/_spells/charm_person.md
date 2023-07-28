@@ -4,7 +4,7 @@ layout: page
 tag: Зачарування
 level: 1
 classes: bard, druid, sorcerer, warlock, wizard
-title: Причарувати особу [Charm Person]
+title: Причарування особу [Charm Person]
 ---
 
 _Зачарування, 1 рівень; бард, друїд, заклинач, чаклун, маг_     

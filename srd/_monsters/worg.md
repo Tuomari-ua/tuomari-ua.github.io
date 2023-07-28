@@ -1,29 +1,30 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Worg
-type: Monstrosity
-tag: .5
+title: Ворґ
+type: Чудовисько
+tag: 0.5
 ---
-_Large monstrosity, neutral evil_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 26 (4d10 + 4)    
-**Speed** 50 ft.
+_Чудовисько великого розміру, нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2)  | 11 (+0) | 8 (−1)  |
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 26 (4к10 + 4)    
+**Швидкість** 50 ф.
 
-**Skills** Perception +4    
-**Senses** darkvision 60 ft., passive Perception 14    
-**Languages** Goblin, Worg    
-**Challenge** 1/2 (100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2) | 11 (+0) | 8 (−1) |
 
-**Keen Hearing and Smell.** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+**Навички** Сприйняття +4    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 14    
+**Мови** гоблінська, ворґська    
+**Небезпека** 1/2 (100 ПД)
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+**Гострий слух і нюх.** Ворґ має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.
 
-### Description
-A worg is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) колотих ушкоджень. Якщо ціль атаки є істотою, то вона повинна зробити рятівний кидок Сили з КС 13, або буде збита з ніг.
+
+### Опис
+Ворґ - це злий хижак, що захоплюється полюванням та пожиранням слабкіших за себе істот. Хитрі й злісні ворґи блукають по віддалених пустках або ж їх вирощують гобліни й гобгобліни. Ці істоти використовують ворґів як скакунів, але ворґ повстане проти свого вершника, якщо відчує, що з ним погано поводяться або недогодовують. Ворґи говорять власною мовою та гоблінською, і деякі також можуть говорити спільною мовою.

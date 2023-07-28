@@ -1,30 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Mummy
-type: Undead
+title: Мумія
+type: Невмерлий
 tag: 3
 ---
-_Medium undead, lawful evil_
 
-**Armor Class** 11 (natural armor)    
-**Hit Points** 58 (9d8 + 18)    
-**Speed** 20 ft. 
+_Погань середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 16 (+3) | 8 (−1)  | 15 (+2) | 6 (−2)  | 10 (+0) | 12 (+1) |
+**Клас захисту** 11 (природна броня)    
+**Пункти здоров'я** 58 (9к8 + 18)    
+**Швидкість** 20 ф.
 
-**Saving Throws** Wis +2    
-**Damage Vulnerabilities.** fire    
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** necrotic, poison    
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned    
-**Senses** darkvision 60 ft., passive Perception 10    
-**Languages** the languages it knew in life    
-**Challenge** 3 (700 XP) 
+| СИЛ     | СПР    | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------ | ------- | ------ | ------- | ------- |
+| 16 (+3) | 8 (−1) | 15 (+2) | 6 (−2) | 10 (+0) | 12 (+1) |
 
-### Actions 
-**Multiattack.** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.    
-**Rotting Fist.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.    
-**Dreadful Glare.** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+![Мумія](https://www.dndbeyond.com/avatars/thumbnails/30833/586/1000/1000/638063867954193239.png)
+
+**Рятівні кидки** Мдр +2    
+**Вразливість до ушкоджень** вогонь    
+**Стійкість до ушкоджень** дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** некротична енергія, отрута    
+**Імунітет до станів** причарований, виснажений, наляканий, паралізований, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 10    
+**Мови** мови, які знала за життя    
+**Небезпека** 3 (700 ПД)
+
+### Дії
+**Мультиатака.** Мумія може використати свій Моторошний Зирк та зробити одну атаку гнилим кулаком.    
+
+**Гнилий кулак.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. __ 10 (2к6 + 3) дробильних ушкоджень плюс 10 (3к6) некротичних ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 12, або буде проклята гниллю мумії. Проклята ціль не може відновлювати пункти здоров'я, і максимум її пунктів здоров'я зменшується на 10 (3к6) кожні 24 години, що минають. Якщо прокляття зменшує максимум пунктів здоров'я цілі до 0, ціль вмирає, а її тіло перетворюється на пил. Прокляття триває до видалення чарами зняття проклять або іншою магією.    
+
+**Моторошний Зирк.** Мумія вицілює одну істоту, яку може бачити в межах 60 футів від себе. Якщо ціль може бачити мумію, то повинна зробити рятівний кидок Мудрості з КС 11 проти цієї магії, або буде налякана до кінця наступного ходу мумії. Якщо ціль провалює рятівний кидок на 5 або більше, вона також паралізована на ту саму тривалість. Ціль, що зробила успішний ряткидок, набуває імунітету до Моторошного Зирка усіх мумій (але не лорда мумій) на наступні 24 години.

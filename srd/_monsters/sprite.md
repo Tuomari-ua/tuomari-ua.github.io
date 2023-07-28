@@ -1,27 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Sprite
-type: Fey
-tag: .25
+title: Спрайт
+type: Фея
+tag: 0.25
 ---
-_Tiny fey, neutral good_
 
-**Armor Class** 15 (leather armor)    
-**Hit Points** 2 (1d4)    
-**Speed** 10 ft., fly 40 ft. 
+_Фея крихітного розміру, нейтральний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 3 (−4)  | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
+**Клас захисту** 15 (шкіряна броня)    
+**Пункти здоров'я** 2 (1к4)    
+**Швидкість** 10 ф, політ 40 ф
 
-**Skills** Perception +3, Stealth +8    
-**Senses** passive Perception 13    
-**Languages** Common, Elvish, Sylvan    
-**Challenge** 1/4 (50 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 3 (−4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
-### Actions 
-**Longsword.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +6 to hit, range 40/160 ft., one target. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.    
-**Heart Sight.** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.    
-**Invisibility.** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
+**Навички** Сприйняття +3, Непомітність +8    
+**Чуття** пасивне Сприйняття 13    
+**Мови** спільна, ельфійська, сильван    
+**Небезпека** 1/4 (50 ПД)
+
+### Дії
+**Довгий меч.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 1 рубане ушкодження.    
+
+**Короткий лук.** _ Далекобійна атака зброєю:_ +6 до влучання, відстань 40/160 ф, одна ціль. _Влучання:_ 1 колоте ушкодження, і ціль повинна зробити рятівний кидок Статури з КС 10, або буде отруєна на 1 хвилину. Якщо результат рятівного кидка 5 або менше, отруєна ціль падає непритомна на той самий час, або доки не отримає ушкодження, або інша істота не використає дію, щоб її розбудити.    
+
+**Чуття серцем.** Спрайт торкається істоти й магічним чином дізнається поточний емоційний стан істоти. Якщо ціль провалює рятівний кидок Харизми з КС 10, спрайт також знає світогляд істоти. Небожителі, погань та невмерлі автоматично провалюють цей рятівний кидок.    
+
+**Невидимість.** Спрайт магічним чином стає невидимим, доки не атакує або не створить чари, або доки не завершиться його концентрація (як концентрація на чарах). Будь-яке спорядження, що спрайт має при собі, стає невидимим разом із ним.

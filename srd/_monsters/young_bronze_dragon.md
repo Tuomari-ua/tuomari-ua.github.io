@@ -1,33 +1,41 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Bronze Dragon
-type: Dragon
+title: Молодий бронзовий дракон
+type: Дракон
 tag: 8
 ---
-_Large dragon, lawful good_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 142 (15d10 + 60)    
-**Speed** 40 ft., fly 80 ft., swim 40 ft. 
+_Дракон великого розміру, законний добрий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 142 (15к10 + 60)    
+**Швидкість** 40 ф, політ 80 ф, плавання 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6    
-**Skills** Insight +4, Perception +7, Stealth +3    
-**Damage Immunities** lightning    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17    
-**Languages** Common, Draconic    
-**Challenge** 8 (3,900 XP) 
+![Молодий бронзовий дракон](https://www.dndbeyond.com/avatars/thumbnails/30782/510/1000/1000/638061964683655080.png)
 
-**Amphibious.** The dragon can breathe air and water. 
+**Рятівні кидки** Спр +3, Ста +7, Мдр +4, Хар +6    
+**Навички** Здогадливість +4, Сприйняття +7, Непомітність +3    
+**Імунітет до ушкоджень** блискавка    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 17    
+**Мови** спільна, драконова    
+**Небезпека** 8 (3900 ПД)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.    
-**Breath Weapons (Recharge 5–6).** The dragon uses one of the following breath weapons.    
-**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.    
-**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+**Амфібія.** Дракон може дихати повітрям і водою.
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 16 (2к10 + 5) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +8 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 12 (2к6 + 5) рубаиих ушкоджень.    
+
+**Зброя подиху (Відновлення 5-6).** Дракон використовує один із наступних видів зброї подиху.    
+
+**Дихання блискавкою.** Дракон видихає блискавку лінією завдовжки 60 ф та завширшки 5 ф. Кожна істота в цій лінії повинна здійснити рятівний кидок Спритності з КС 15, отримуючи 55 (10к10) ушкоджень блискавкою у разі невдачі, або половину цих ушкоджень за умови успіху.    
+
+**Огидне дихання.** Дракон видихає відштовхувальну енергію 30-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Сили з КС 15. У разі невдачі істота відштовхується на 40 футів геть від дракона.

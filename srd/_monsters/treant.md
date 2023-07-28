@@ -1,32 +1,37 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Treant
-type: Plant
+title: Треант
+type: Рослина
 tag: 9
 ---
-_Huge plant, chaotic good_
 
-**Armor Class** 16 (natural armor)   
-**Hit Points** 138 (12d12 + 60)   
-**Speed** 30ft.   
+_Рослина величезного розміру, хаотичний добрий_
 
-| STR     | DEX    | CON     | INT      | WIS     | CHA     |
-|---------|--------|---------|----------|---------|---------|
-| 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1)  | 16 (+3) | 12 (+1) |
+**Клас захисту** 16 (природна броня)   
+**Пункти здоров'я** 138 (12к12 + 60)   
+**Швидкість** 30 ф
 
-**Damage Resistances** bludgeoning, piercing   
-**Damage Vulnerabilities** fire   
-**Senses** passive Perception 13   
-**Languages** Common, Druidic, Elvish, Sylvan   
-**Challenge** 9 (5,000 XP)
+| СИЛ     | СПР    | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------ | ------- | ------- | ------- | ------- |
+| 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
-**False Appearance.** While the treant remains motionless, it is indistinguishable from a normal tree.   
-**Siege Monster.** The treant deals double damage to objects and structures.
+**Стійкість до ушкоджень** дробильні, колоті   
+**Імунітет до ушкоджень** вогонь   
+**Чуття** пасивне Сприйняття 13   
+**Мови** спільна, друїдська, ельфійська, сильван   
+**Небезпека** 9 (5000 ПД)
 
-### Actions
+**Оманливий вигляд.** Поки треант нерухомий, його неможливо відрізнити від звичайного дерева.    
 
-**Multiattack.** The treant makes two slam attacks.    
-**Slam.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 16 (3d6 + 6) bludgeoning damage.   
-**Rock.** _Ranged Weapon Attack:_ +10 to hit, range 60/180 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage.   
-**Animate Trees (1/Day).** The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+**Облоговий монстр.** Треант завдає подвійні ушкодження предметам та будівлям.
+
+### Дії
+
+**Мультиатака.** Треант здійснює дві атаки стусанами.    
+
+**Стусан.** _Атака зброєю ближнього бою:_ +10 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 16 (3к6 + 6) дробильних ушкоджень.   
+
+**Брила.** _Далекобійна атака зброєю:_ +10 до влучання, відстань 60/180 ф, одна ціль. _Влучання:_ 28 (4к10 + 6) дробильних ушкоджень.   
+
+**Оживлення дерев (1/день).** Треант магічним чином оживлює одне або два дерева, які може бачити в межах 60 футів від себе. Ці дерева мають таку саму статистику, як і треант, однак їхні значення Інтелекту та Харизми дорівнюють 1, вони не можуть говорити і вони мають тільки одну атаку Стусаном. Оживлені дерева діють як союзники треанта. Дерева залишаються оживленими упродовж 1 дня або доки не загинуть; доки не загине треант або поки не опиниться далі 120 футів від дерева; або поки треант не використає бонусну дію, щоб перетворити дерево знову на неоживлене. Потім дерево вкорінюється, якщо це можливо.

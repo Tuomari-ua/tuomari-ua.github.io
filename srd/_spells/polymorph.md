@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 4
 classes: bard, druid, sorcerer, wizard
-title: Поліморф [Polymorph]
+title: Перевтілення [Polymorph]
 ---
 
 _Перетворення, 4 рівень; бард, друїд, заклинач, маг_    

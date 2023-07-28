@@ -1,29 +1,35 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Young Blue Dragon
-type: Dragon
+title: Молодий синій дракон
+type: Дракон
 tag: 9
 ---
-_Large dragon, lawful evil_
 
-**Armor Class** 18 (natural armor)    
-**Hit Points** 152 (16d10 + 64)    
-**Speed** 40 ft., burrow 20 ft., fly 80 ft. 
+_Дракон великого розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (природна броня)    
+**Пункти здоров'я** 152 (16к10 + 64)    
+**Швидкість** 40 ф, риття 20 ф, політ 80 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
-**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7    
-**Skills** Perception +9, Stealth +4    
-**Damage Immunities** lightning    
-**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19    
-**Languages** Common, Draconic    
-**Challenge** 9 (5,000 XP) 
+![Молодий синій дракон](https://www.dndbeyond.com/avatars/thumbnails/21222/251/1000/1000/637708181635241108.jpeg)
 
-### Actions 
-**Multiattack.** The dragon makes three attacks: one with its bite and two with its claws.   
-**Bite.** _Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.    
-**Claw.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.    
-**Lightning Breath (Recharge 5–6).** The dragon exhales lightning in an 60-­‐foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+**Рятівні кидки** Спр +4, Ста +8, Мдр +5, Хар +7    
+**Навички** Сприйняття +9, Непомітність +4    
+Імунітет до ушкоджень</strong> блискавка    
+**Чуття** сліпий зір 30 ф, темний зір 120 ф, пасивне Сприйняття 19    
+**Мови** спільна, драконова    
+**Небезпека** 9 (5000 ПД)
+
+### Дії
+**Мультиатака.** Дракон здійснює три атаки: одну укусом та дві - пазурами.   
+
+**Укус.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 10 ф, одна ціль. ***Влучання:*** 16 (2к10 + 5) колотих ушкоджень плюс 5 (1к10) ушкоджень блискавкою.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +9 до влучання, досяжність 5 ф, одна ціль. ***Влучання:*** 12 (2к6 +4) рубаних ушкоджень.    
+
+**Дихання блискавкою (Відновлення 5-6).** Дракон видихає блискавку лінією завдовжки 60 футів та завширшки 5 футів. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС 16, отримуючи 55 (10к10) ушкоджень блискавкою в разі невдачі, або половину цих ушкоджень за умови успіху.

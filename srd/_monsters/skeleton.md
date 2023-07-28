@@ -1,27 +1,29 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Skeleton
-type: Undead
-tag: .25
+title: Скелет
+type: Невмерлий
+tag: 0.25
 ---
-_Medium undead, lawful evil_
 
-**Armor Class** 13 (armor scraps)    
-**Hit Points** 13 (2d8 + 4)    
-**Speed** 30 ft. 
+_Погань середнього розміру, законний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2)  | 8 (−1)  | 5 (−3)  |
+**Клас захисту** 13 (рештки обладунків)    
+**Пункти здоров'я** 13 (2к8 + 4)    
+**Швидкість** 30 ф.
 
-**Damage Vulnerabilities.** bludgeoning    
-**Damage Immunities** poison    
-**Condition Immunities** exhaustion, poisoned    
-**Senses** darkvision 60 ft., passive Perception 9    
-**Languages** understands all languages it knew in life but can't speak    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------- | ------- | ------- | ------ | ------ | ------ |
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (−2) | 8 (−1) | 5 (−3) |
 
-### Actions 
-**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+**Вразливість до ушкоджень** дробильні    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** виснажений, отруєний    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 9    
+**Мови** розуміє усі мови, які знав за життя, але не може говорити    
+**Небезпека** 1/4 (50 ПД)
+
+### Дії
+**Короткий меч.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.    
+
+**Короткий лук.** _Далекобійна атака зброєю:_ +4 до влучання, відстань 80/320 ф, одна ціль. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень.

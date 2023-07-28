@@ -1,24 +1,25 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Poisonous Snake
-type: Beast
-tag: .25
+title: Величезна отруйна змія
+type: Звір
+tag: 0.25
 ---
-_Medium beast, unaligned_
 
-**Armor Class** 14    
-**Hit Points** 11 (2d8 + 2)    
-**Speed** 30 ft., swim 30 ft. 
+_Звір середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 10 (+0) | 18 (+4) | 13 (+1) | 2 (−4)  | 10 (+0) | 3 (−4)  |  
+**Клас захисту** 14    
+**Пункти здоров'я** 11 (2к8 + 2)    
+**Швидкість** 30 ф, плавання 30 ф.
 
-**Skills** Perception +2    
-**Senses** blindsight 10 ft., passive Perception 12    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------- | ------- | ------- | ------ | ------- | ------ |
+| 10 (+0) | 18 (+4) | 13 (+1) | 2 (−4) | 10 (+0) | 3 (−4) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+**Навички** Сприйняття +2    
+**Чуття** сліпий зір 10 ф, пасивне Сприйняття 12    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +6 до влучання, досяжність 10 ф, одна ціль. _Влучання:_ 6 (1к4 + 4) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, отримуючи 10 (3к6) ушкоджень отрутою у разі невдачі, або половину цих ушкоджень за умови успіху. 

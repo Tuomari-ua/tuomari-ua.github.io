@@ -1,23 +1,24 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Cockatrice
-type: Monstrosity
-tag: .5
+title: Кокатрис
+type: Чудовисько
+tag: 0.5
 ---
-_Small monstrosity, unaligned_
 
-**Armor Class** 11    
-**Hit Points** 27 (6d6 + 6)    
-**Speed** 20 ft., fly 40 ft. 
+_Чудовисько малого розміру, невизначений_  
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 6 (-2)   | 12 (+1) | 12 (+1)  | 2 (-4)  | 13 (+1) | 5 (-2)  |
+**Клас захисту** 11    
+**Пункти здоров'я** 27 (6к6 + 6)    
+**Швидкість** 20 ф, політ 40 ф.  
 
-**Senses** darkvision 60 ft., passive Perception 11    
-**Languages** --    
-**Challenge** 1/2 (100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР     | ХАР    |
+| ------ | ------- | ------- | ------ | ------- | ------ |
+| 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-2) |
 
-### Actions 
-**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+**Чуття** темний зір 60 ф., пасивне Сприйняття 11    
+**Мови** -    
+**Небезпека** 1/2 (100 ПД)  
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 3 (1к4 + 1) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11 проти магічного скам'яніння. У разі невдачі істота починає перетворюватися на камінь і є скутою. Вона повинна повторити свій рятівний кидок в кінці свого наступного ходу. У разі успіху ефект завершується. У разі невдачі істота стає скам'янілою на 24 години.

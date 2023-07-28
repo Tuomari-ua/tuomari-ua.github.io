@@ -1,32 +1,38 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Succubus/Incubus
-type: Fiend (shapechanger)
+title: Сукуб/Інкуб
+type: Погань
 tag: 4
 ---
-_Medium fiend (shapechanger), neutral evil_
 
-**Armor Class** 15 (natural armor)    
-**Hit Points** 66 (12d8 + 12)    
-**Speed** 30 ft., fly 60 ft. 
+_Погань середнього розміру (перекидень), нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 8 (−1)  | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
+**Клас захисту** 15 (природна броня)    
+**Пункти здоров'я** 66 (12к8 + 12)    
+**Швидкість** 30 ф, політ 60 ф.
 
-**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7    
-**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Senses** darkvision 60 ft., passive Perception 15    
-**Languages** Abyssal, Common, Infernal, telepathy 60 ft.    
-**Challenge** 4 (1,100 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 8 (−1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
 
-**Telepathic Bond.** The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.    
-**Shapechanger.** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
+**Навички** Обман +9, Здогадливість +5, Сприйняття +5, Переконливість +9, Непомітність +7    
+**Стійкість до ушкоджень** холод, вогонь, блискавка, отрута; дробильні, колоті та рубані від немагічних атак    
+**Чуття** темний зір 60 ф, пасивне Сприйняття 15    
+**Мови** безоднева, спільна, пекельна, телепатія 60 ф    
+**Небезпека** 4 (1100 ПД)
 
-### Actions 
-**Claw (Fiend Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.    
-**Charm.** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.    
-The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.    
-**Draining Kiss.** The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.    
-**Etherealness.** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+**Телепатичний зв'язок.** Погань ігнорує обмеження відстані для телепатії, коли спілкується з істотою, яку причарувала. Їм обом навіть не треба перебувати на одному плані існування.    
+
+**Перекидень.** Погань може використати свою дію, щоб перевтілитися у гуманоїда, чий розмір Малий або Середній, чи назад у свою істинну форму. Без крил погань втрачає свою швидкість польоту. Окрім розміру та швидкості, її статистика залишається однаковою в кожній формі. Будь-яке спорядження, що вона тримає при собі, не трансформується. Вона повертається до своєї істинної форми, якщо вмирає.
+
+### Дії
+**Пазурі (тільки у формі погані).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) рубаних ушкоджень.    
+
+**Причарування**. Один гуманоїд, якого погань може бачити в межах 30 футів від себе, повинен зробити рятівний кидок Мудрості з КС 15, або буде магічним чином причарований на 1 день. Причарована ціль підкорюється словесним та телепатичним наказам погані. Якщо ціль дістає будь-які ушкодження або отримує самовбивчий наказ, вона може повторити рятівний кидок, завершуючи ефект на собі в разі успіху. Якщо ціль зробила успішний рятунок від ефекту, або якщо ефект для неї завершився, ціль набуває імунітету до поганського Причарування на наступні 24 години.    
+
+Погань може мати тільки одну причаровану ціль одночасно. Якщо вона причаровує іншу ціль, ефект на попередній цілі завершується.    
+
+**Висушувальний цілунок.** Погань цілує причаровану істоту або згодну істоту. Ціль повинна зробити рятівний кидок Статури з КС 15 проти цієї магії, отримуючи 32 (5к10 + 5) психічних ушкоджень у разі невдачі або половину цих ушкоджень за умови успіху. Максимум пунктів здоров'я цілі зменшується на кількість отриманих ушкоджень. Це зменшення триває, доки ціль не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект зменшує максимум її пунктів здоров'я до 0.    
+
+**Етерність.** Погань магічним чином входить до Етерного плану з Матеріального, або навпаки.

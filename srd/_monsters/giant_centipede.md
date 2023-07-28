@@ -1,23 +1,24 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Giant Centipede
-type: Beast
-tag: .25
+title: Величезна стонога
+type: Звір
+tag: 0.25
 ---
-_Small beast, unaligned_
 
-**Armor Class** 13 (natural armor)    
-**Hit Points** 4 (1d6 + 1)    
-**Speed** 30 ft., climb 30 ft. 
+_Звір малого розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 5 (−3)  | 14 (+2) | 12 (+1) | 1 (−5)  | 7 (−2)  | 3 (−4)  |  
+**Клас захисту** 13 (природна броня)    
+**Пункти здоров'я** 4 (1к6 + 1)    
+**Швидкість** 30 ф, лазіння 30 ф.
 
-**Senses** blindsight 30 ft., passive Perception 8    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+| СИЛ    | СПР     | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------- | ------- | ------ | ------ | ------ |
+| 5 (−3) | 14 (+2) | 12 (+1) | 1 (−5) | 7 (−2) | 3 (−4) |
 
-### Actions    
-**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+**Чуття** сліпий зір 30 ф, пасивне Сприйняття 8    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
+
+### Дії
+**Укус.** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 4 (1к4 + 2) колотих ушкоджень, і ціль повинна зробити рятівний кидок Статури з КС 11, або отримає 10 (3к6) ушкоджень отрутою. Якщо ушкодження отрутою знижують пункти здоров'я цілі до 0, ціль стабільна, але отруєна на 1 годину, навіть після відновлення пунктів здоров'я, і поки триває це отруєння, ціль паралізована. 

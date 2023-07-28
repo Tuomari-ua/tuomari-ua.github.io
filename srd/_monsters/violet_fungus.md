@@ -1,27 +1,27 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Violet Fungus
-type: Plant
-tag: .25
+title: Фіолетовий гриб
+type: Рослина
+tag: 0.25
 ---
-_Medium plant, unaligned_
 
-**Armor Class** 5    
-**Hit Points** 18 (4d8)    
-**Speed** 5 ft. 
+_Рослина середнього розміру, невизначений_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 5    
+**Пункти здоров'я** 18 (4к8)    
+**Швидкість** 5 ф
+
+| СИЛ    | СПР    | СТА     | ІНТ    | МДР    | ХАР    |
+| ------ | ------ | ------- | ------ | ------ | ------ |
 | 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |
 
-**Condition Immunities** blinded, deafened, frightened    
-**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6    
-**Languages** --    
-**Challenge** 1/4 (50 XP) 
+**Імунітет до станів** осліплений, оглухлий, наляканий    
+**Чуття** сліпий зір 30 ф (сліпий за межами цього радіусу), пасивне Сприйняття 6    
+**Мови** -    
+**Небезпека** 1/4 (50 ПД)
 
-**False Appearance.** While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus. 
+**Оманливий вигляд.** Поки фіолетовий гриб нерухомий, його неможливо відрізнити від звичайного гриба.
 
-### Actions 
-**Multiattack.** The fungus makes 1d4 Rotting Touch attacks. 
-**Rotting Touch.** _Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature. _Hit:_ 4 (1d8) necrotic damage.
+### Дії
+**Мультиатака.** Гриб робить 1к4 атак Гнилим дотиком. **Гнилий дотик.** _Атака зброєю ближнього бою:_ +2 до влучання, досяжність 10 ф, одна істота. _Влучання:_ 4 (1к8) некротичних ушкоджень.

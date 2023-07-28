@@ -1,28 +1,31 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Satyr
-type: Fey
-tag: .5
+title: Сатир
+type: Фея
+tag: 0.5
 ---
-_Medium fey, chaotic neutral_
 
-**Armor Class** 14 (leather armor)    
-**Hit Points** 31 (7d8)    
-**Speed** 40 ft. 
+_Фея середнього розміру, хаотичний нейтральний_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 14 (шкіряна броня)    
+**Пункти здоров'я** 31 (7к8)    
+**Швидкість** 40 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
-**Skills** Perception +2, Performance +6, Stealth +5    
-**Senses** passive Perception 12    
-**Languages** Common, Elvish, Sylvan    
-**Challenge** 1/2 (100 XP)    
+**Навички** Сприйняття +2, Артистичність +6, Непомітність +5    
+**Чуття** пасивне Сприйняття 12    
+**Мови** спільна, ельфійська, сильван    
+**Небезпека** 1/2 (100 ПД)
 
-**Magic Resistance.** The satyr has advantage on saving throws against spells and other magical effects. 
+**Магічна стійкість.** Сатир має перевагу на рятівні кидки проти чарів та інших магічних ефектів.
 
-### Actions 
-**Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) bludgeoning damage.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
-**Shortbow.** _Ranged Weapon Attack:_ +5 to hit, range 80/320 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.
+### Дії
+**Таран.** _Атака зброєю ближнього бою:_ +3 до влучання, досяжність 5 ф, одна ціль. ***Влучання:*** 6 (2к4 + 1) дробильних ушкоджень.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.    
+
+**Короткий лук.** _Далекобійна атака зброєю:_ +5 до влучання, відстань 80/320 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.

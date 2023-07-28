@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Hezrou
-type: Fiend (demon)
+title: Гезро
+type: Погань
 tag: 8
 ---
-_Large fiend (demon), chaotic evil_
-**Armor Class** 16 (natural armor)    
-**Hit Points** 136 (13d10 + 65)    
-**Speed** 30 ft. 
 
-| STR      | DEX     | CON      | INT     | WIS     | CHA     |
-|----------|---------|----------|---------|---------|---------|
-| 19 (+4) | 17 (+3) | 20 (+5) | 5 (−3) | 12 (+1) | 13 (+1)  |
+_Погань великого розміру (демон), хаотичний злий_   
+**Клас захисту** 16 (природна броня)    
+**Пункти здоров'я** 136 ( 13к10 + 65)    
+**Швидкість** 30 ф
 
-**Saving Throws** Str +7, Con +8, Wis +4    
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks    
-**Damage Immunities** poison    
-**Condition Immunities** poisoned    
-**Senses** darkvision 120 ft., passive Perception 11    
-**Languages** Abyssal, telepathy 120 ft.    
-**Challenge** 8 (3,900 XP)  
+| СИЛ     | СПР     | СТА     | ІНТ    | МДР     | ХАР     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 19 (+4) | 17 (+3) | 20 (+5) | 5 (−3) | 12 (+1) | 13 (+1) |
 
-**Magic Resistance.** The hezrou has advantage on saving throws against spells and other magical effects.    
-**Stench.** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours. 
+![Гезро](https://www.dndbeyond.com/avatars/thumbnails/30781/620/1000/1000/638061931586077246.png)   
+**Рятівні кидки** Сил +7, Ста +8, Мдр +4    
+**Стійкість до ушкоджень** холод, вогонь, блискавка; дробильні, колоті та рубані від немагічних атак    
+**Імунітет до ушкоджень** отрута    
+**Імунітет до станів** отруєний    
+**Чуття** темний зір 120 ф, пасивне Сприйняття 11    
+**Мови** безоднева, телепатія 120 ф    
+**Небезпека** 8 (3900 ПД)
 
-### Actions 
-**Multiattack.** The hezrou makes three attacks: one with its bite and two with its claws.    
-**Bite.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.    
-**Claw.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
+**Магічна стійкість.** Гезро має перевагу на рятівні кидки проти чарів та інших магічних ефектів.    
+
+**Сморід.** Будь-яка істота, що починає свій хід у межах 10 футів від гезро, повинна зробити рятівний кидок Статури з КС 14, або буде отруєна до початку свого наступного ходу. При успішному ряткидку істота здобуває імунітет проти смороду гезро на 24 години.
+
+### Дії
+**Мультиатака.** Гезро здійснює три атаки: одну укусом та дві - пазурами.    
+
+**Укус.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 15 ( 2к10 + 4) колотих ушкоджень.    
+
+**Пазурі.** _Атака зброєю ближнього бою:_ +7 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 11 (2к6 + 4) рубаних ушкоджень.
