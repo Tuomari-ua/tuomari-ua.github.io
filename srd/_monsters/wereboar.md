@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Wereboar
-type: Humanoid (human, shapechanger)
+title: Вепревертень
+type: Гуманоїд
 tag: 4
 ---
-_Medium humanoid (human, shapechanger), neutral evil_
 
-**Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form    
-**Hit Points** 78 (12d8 + 24)    
-**Speed** 30 ft. (40 ft. in boar form) 
+_Гуманоїд середнього розміру (людина, перекидень), нейтральний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
-| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1)  |
+**Клас захисту** 10 у формі гуманоїда, 11 (природна броня) у формі вепра чи гібрида    
+**Пункти здоров'я** 78 (12к8 + 24)    
+**Швидкість** 30 ф (40 ф у формі вепра)
 
-**Skills** Perception +2    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** passive Perception 12    
-**Languages** Common (can't speak in boar form)    
-**Challenge** 4 (1,100 XP) 
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР    |
+| ------- | ------- | ------- | ------- | ------- | ------ |
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (−1) |
 
-**Shapechanger.** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Charge (Boar or Hybrid Form Only).** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.    
-**Relentless (Recharges after a Short or Long Rest).** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead. 
+**Навички** Сприйняття +2    
+**Імунітет до ушкоджень** дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Чуття** пасивне Сприйняття 12    
+**Мови** спільна (не може говорити у формі вепра)    
+**Небезпека** 4 (1100 ПД)
 
-### Actions 
-**Multiattack (Humanoid or Hybrid Form Only).** The wereboar makes two attacks, only one of which can be with its tusks.    
-**Maul (Humanoid or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.    
-**Tusks (Boar or Hybrid Form Only).** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+**Перекидень.** Вепревертень може використати дію, щоб перевтілитися на вепро-гуманоїдного гібрида або на вепра, або назад до своєї істинної форми, яка є гуманоїдною. Його статистика, окрім КЗ, залишається однаковою в усіх формах. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається до своєї істинної форми, якщо вмирає.    
+
+**Розгін (тільки у формі вепра або гібрида).** Якщо вепревертень переміщується принаймні на 15 футів по прямій до цілі та якщо влучає по ній іклами в тому ж ходу, ціль отримує додатково 7 (2к6) рубаних ушкоджень. Якщо ціль - істота, вона повинна здійснити рятівний кидок Сили з КС 13, або буде збита з ніг.    
+
+**Непохитний (Відновлення після короткого або тривалого відпочинку).** Якщо вепревертень отримує 14 ушкоджень чи менше, що знижує його пункти здоров'я до 0, його пункти здоров'я натомість знижуються до 1.
+
+### Дії
+**Мультиатака (тльки у формі гуманоїда або гібрида).** Вепревертень робить дві атаки, тільки одна з яких може бути іклами.    
+
+**Вершляг (тільки у формі гуманоїда або гібрида).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) дробильних ушкоджень.    
+
+**Ікла (тільки у формі вепра або гібрида).** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 10 (2к6 + 3) рубаних ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 12, або буде проклята вепровою лікантропією.

@@ -1,29 +1,34 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Half-Red Dragon Veteran
-type: Humanoid (human)
+title: Напівчервоний дракон ветеран
+type: Гуманоїд
 tag: 5
 ---
-_Medium humanoid (human), any alignment_
 
-**Armor Class** 18 (plate)    
-**Hit Points** 65 (10d8 + 20)    
-**Speed** 30 ft. 
+_Гуманоїд середнього розміру (будь-яка раса), будь-який світогляд_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 18 (лати)    
+**Пункти здоров'я** 65 (10к8 + 20)    
+**Швидкість** 30 ф.
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Skills** Athletics +5, Perception +2    
-**Damage Resistances** fire    
-**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12    
-**Languages** Common, Draconic    
-**Challenge** 5 (1,800 XP) 
+**Навички** Атлетика +5, Сприйняття +2    
+**Стійкість до ушкоджень** вогонь    
+**Чуття** сліпий зір 10 ф, темний зір 60 ф, пасивне Сприйняття 12    
+**Мови** спільна, драконова    
+**Небезпека** 5 (1800 ПД)
 
-### Actions 
-**Multiattack.** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.    
-**Longsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.    
-**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.    
-**Heavy Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., one target. _Hit:_ 6 (1d10 + 1) piercing damage.    
-**Fire Breath (Recharge 5–6).** The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+### Дії
+**Мультиатака.** Ветеран здійснює дві атаки довгим мечем. Якщо він має напоготові короткий меч, то може також зробити атаку коротким мечем.    
+
+**Довгий меч** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 7 (1к8 + 3) рубаних ушкоджень або 8 (1к10 + 3) рубаних ушкоджень, якщо використовує обома руками.    
+
+**Короткий меч.** _Атака зброєю ближнього бою:_ +5 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к6 + 3) колотих ушкоджень.    
+
+**Важкий арбалет.** _Далекобійна атака зброєю:_ +3 до влучання, відстань 100/400 ф, одна ціль. _Влучання:_ 6 (1к10 + 1) рубаних ушкоджень.    
+
+**Вогняний подих. (Відновлення 5-6).** Ветеран видихає полум'я 15-футовим конусом. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС 15, отримуючи 24 (7к6) ушкоджень вогнем у випадку невдачі, або половину цих пошкоджень за умови успіху.

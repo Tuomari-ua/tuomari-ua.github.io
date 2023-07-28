@@ -1,31 +1,36 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Werewolf
-type: Humanoid (human, shapechanger)
+title: Вовкулака
+type: Гуманоїд
 tag: 3
 ---
-_Medium humanoid (human, shapechanger), chaotic evil_
 
-**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form    
-**Hit Points** 58 (9d8 + 18)    
-**Speed** 30 ft. (40 ft. in wolf form) 
+_Гуманоїд середнього розміру (людина, перекидень), хаотичний злий_
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-|---------|---------|---------|---------|---------|---------|
+**Клас захисту** 11 у формі гуманоїда, 12 (природна броня) у формі вовка чи гібрида    
+**Пункти здоров'я** 58 (9к8 + 18)    
+**Швидкість** 30 ф (40 ф у формі вовка)
+
+| СИЛ     | СПР     | СТА     | ІНТ     | МДР     | ХАР     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
 | 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
-**Skills** Perception +4, Stealth +3    
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons    
-**Senses** passive Perception 14    
-**Languages** Common (can't speak in wolf form)    
-**Challenge** 3 (700 XP) 
+**Навички** Сприйняття +4, Непомітність +3    
+**Імунітет до ушкоджень** дробильні, колоті та рубані від немагічних атак непосрібленою зброєю    
+**Чуття** пасивне Сприйняття 14    
+**Мови** спільна (не може говорити у формі вовка)    
+**Небезпека** 3 (700 ПД)
 
-**Shapechanger.** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.    
-**Keen Hearing and Smell.** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+**Перекидень.** Вовкулака може використати дію, щоб перевтілитися на вовко-гуманоїдного гібрида або на вовка, або назад до своєї істинної форми, яка є гуманоїдною. Його статистика, окрім КЗ, залишається однаковою в усіх формах. Будь-яке спорядження, що він тримає при собі, не трансформується. Він повертається в свою істинну форму, якщо вмирає.    
 
-### Actions 
-**Multiattack. (Humanoid or Hybrid Form Only).** The werewolf makes two attacks: one with its bite and one with its claws or spear.    
-**Bite (Wolf or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.    
-**Claws. (Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.    
-**Spear (Humanoid Form Only).** _Melee or _Ranged Weapon Attack:__ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+**Гострий слух і нюх.** Вовкулака має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух або нюх.
+
+### Дії
+**Мультиатака. (тільки у формі гуманоїда або гібрида).** Вовкулака робить дві атаки: одну укусом та одну кігтями або списом.    
+
+**Укус (тільки у формі вовка або гібрида).** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна ціль. _Влучання:_ 6 (1к8 + 2) колотих ушкоджень. Якщо ціль є істотою, вона повинна зробити рятівний кидок Статури з КС 12, або буде проклята вовкулачою лікантропією.    
+
+**Пазурі. (тільки у формі гібрида).** _Атака зброєю ближнього бою:_ +4 до влучання, досяжність 5 ф, одна істота. _Влучання:_ 7 (2к4 + 2) рубаних ушкоджень.    
+
+**Спис (тільки у формі гуманоїда).** _Атака ближнього бою або далекобійна:__ +4 до влучання, досяжність 5 ф або відстань 20/60 ф, одна істота. _Влучання:_ 5 (1к6 + 2) колотих ушкоджень, або 6 (1к8 + 2) колотих ушкоджень, якщо використовує для атаки ближнього бою двома руками.
