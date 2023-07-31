@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Рій отруйних змій
+title: Рій отруйних змій [Swarm of poisonous snakes]]
 type: Рій звірів крихітного розміру
 tag: 2
 ---

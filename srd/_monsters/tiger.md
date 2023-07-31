@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Тигр
+title: Тигр [Tiger]
 type: Звір
 tag: 1
 ---

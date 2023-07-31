@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Трицератопс
+title: Трицератопс [Triceratops]
 type: Звір
 tag: 5
 ---

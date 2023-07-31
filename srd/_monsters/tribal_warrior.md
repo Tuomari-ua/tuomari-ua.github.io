@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Воїн племені
+title: Воїн племені [Tribal warrior]
 type: Гуманоїд
 tag: 0.125
 ---

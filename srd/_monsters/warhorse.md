@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бойовий кінь
+title: Бойовий кінь [Warhorse]
 type: Звір
 tag: 0.5
 ---

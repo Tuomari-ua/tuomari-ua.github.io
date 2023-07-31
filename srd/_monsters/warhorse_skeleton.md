@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Скелет бойового коня
+title: Скелет бойового коня [Warhorse skeleton]
 type: Невмерлий
 tag: 0.5
 ---

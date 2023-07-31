@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Рій комах
+title: Рій комах [Swarm of insects]
 type: Рій звірів крихітного розміру
 tag: 0.5
 ---

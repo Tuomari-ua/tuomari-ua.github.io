@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гриф
+title: Гриф [Vulture]
 type: Звір
 tag: 0
 ---

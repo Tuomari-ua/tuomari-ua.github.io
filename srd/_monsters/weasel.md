@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ласиця
+title: Ласиця [Weasel]
 type: Звір
 tag: 0
 ---

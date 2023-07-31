@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Нічна яга
+title: Нічна яга [Night hag]
 type: Погань
 tag: 5
 ---

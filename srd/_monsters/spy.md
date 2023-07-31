@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Шпигун
+title: Шпигун [Spy]
 type: Гуманоїд
 tag: 1
 ---
