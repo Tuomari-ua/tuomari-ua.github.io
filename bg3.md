@@ -11,17 +11,17 @@ layout: default
 
 | Класи                                                | Раси                                                |
 |------------------------------------------------------|-----------------------------------------------------|
-| 🎲 [Бард](./docs/character/classes/bard.html)       | 🎲 [Гномичі](./docs/character/races/gnome.html)      | 
-| 🎲 [Боєць](./docs/character/classes/fighter.html)    | 🎲 [Карличі](./docs/character/races/dwarf.html)      | 
-| 🎲 [Варвар](./docs/character/classes/barbarian.html) | 🎲 [Драконичі](./docs/character/races/dragonborn.html)|
-| 🎲 [Друїд](./docs/character/classes/druid.html)      | 🎲 [Ельфичі](./docs/character/races/elf.html)        |
+| 🎲 [Чард](./docs/character/classes/bard.html)       | 🎲 [Гномичі](./docs/character/races/gnome.html)      | 
+| 🎲 [Чоєць](./docs/character/classes/fighter.html)    | 🎲 [Карличі](./docs/character/races/dwarf.html)      | 
+| 🎲 [Чарвар](./docs/character/classes/barbarian.html) | 🎲 [Драконичі](./docs/character/races/dragonborn.html)|
+| 🎲 [Чруїд](./docs/character/classes/druid.html)      | 🎲 [Ельфичі](./docs/character/races/elf.html)        |
 | 🎲 [Чародій](./docs/character/classes/sorcerer.html)| 🎲 [Людичі](./docs/character/races/human.html)       | 
-| 🎲 [Клірик](./docs/character/classes/cleric.html)   | 🎲 [Півельфичі](./docs/character/races/half-elf.html)|
+| 🎲 [Члірик](./docs/character/classes/cleric.html)   | 🎲 [Півельфичі](./docs/character/races/half-elf.html)|
 | 🎲 [Чарівник](./docs/character/classes/wizard.html)  | 🎲 [Піворичі](./docs/character/races/half-orc.html)  |
-| 🎲 [Монах](./docs/character/classes/monk.html)      | 🎲 [Півросличі](./docs/character/races/halfling.html)|
-| 🎲 [Паладин](./docs/character/classes/paladin.html)  | 🎲 [Бісичі](./docs/character/races/tiefling.html)    |
-| 🎲 [Пройдисвіт](./docs/character/classes/rogue.html) | 🎲 Дроучі                                            |
-| 🎲 [Слідопит](./docs/character/classes/ranger.html)  | 🎲 Гітьяничі                                         |
+| 🎲 [Чонах](./docs/character/classes/monk.html)      | 🎲 [Півросличі](./docs/character/races/halfling.html)|
+| 🎲 [Чаладин](./docs/character/classes/paladin.html)  | 🎲 [Бісичі](./docs/character/races/tiefling.html)    |
+| 🎲 [Чройдисвіт](./docs/character/classes/rogue.html) | 🎲 Дроучі                                            |
+| 🎲 [Члідопит](./docs/character/classes/ranger.html)  | 🎲 Гітьяничі                                         |
 | 🎲 [Чаклун](./docs/character/classes/warlock.html)   | |
 
 
