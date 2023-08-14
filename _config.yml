@@ -1,5 +1,5 @@
 title: 5е українською
-tagline: 'Довідник з правил 5e'
+tagline: 'Довідник з правил 5e (для спільноти ІНРІУМ)'
 description: 'Переклад System Reference Document на основі Open Game License v.1.0a'
 locale: uk_UA
 google_analytics_id: G-3YDX4S83WP
@@ -22,7 +22,7 @@ collections:
     output: true
 
 # Social links
-twitter_username: 
+twitter_username: inrium_ukraine
 github_username:  
 stackoverflow_username: 
 dribbble_username: 
