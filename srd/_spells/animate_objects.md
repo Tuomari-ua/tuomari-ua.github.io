@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 5
 classes: bard, sorcerer, wizard
-title: Оживлення предметів [Aanimate objects]
+title: Оживлення предметів [Animate objects]
 ---
 _Перетворення, 5 рівень; бард, маг, чарівник_   
 **Час створення::** 1 дія   
