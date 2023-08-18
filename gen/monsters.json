@@ -1,0 +1,1273 @@
+{
+    "count": 317,
+    "results": [
+        {
+            "name": "Дорослий білий дракон",
+            "slug": "adult_white_dragon"
+        },
+        {
+            "name": "Тарраск [Tarrasque]",
+            "slug": "tarrasque"
+        },
+        {
+            "name": "Лицар",
+            "slug": "knight"
+        },
+        {
+            "name": "Скелет бойового коня [Warhorse skeleton]",
+            "slug": "warhorse_skeleton"
+        },
+        {
+            "name": "Солар",
+            "slug": "solar"
+        },
+        {
+            "name": "Врок [Vrock]",
+            "slug": "vrock"
+        },
+        {
+            "name": "Величезна ящірка",
+            "slug": "giant_lizard"
+        },
+        {
+            "name": "Величезний вогняний жук",
+            "slug": "giant_fire_beetle"
+        },
+        {
+            "name": "Морська яга",
+            "slug": "sea_hag"
+        },
+        {
+            "name": "Величезна сова",
+            "slug": "giant_owl"
+        },
+        {
+            "name": "Ведмевертень [Werebear]",
+            "slug": "werebear"
+        },
+        {
+            "name": "Летюча змія",
+            "slug": "flying_snake"
+        },
+        {
+            "name": "Невидимий переслідувач",
+            "slug": "invisible_stalker"
+        },
+        {
+            "name": "Золотисті драглі",
+            "slug": "ochre_jelly"
+        },
+        {
+            "name": "Мул",
+            "slug": "mule"
+        },
+        {
+            "name": "Лютововк",
+            "slug": "dire_wolf"
+        },
+        {
+            "name": "Зграя круків [Swarm of ravens]",
+            "slug": "swarm_of_ravens"
+        },
+        {
+            "name": "Друїд",
+            "slug": "druid"
+        },
+        {
+            "name": "Молодий червоний дракон",
+            "slug": "young_red_dragon"
+        },
+        {
+            "name": "Вартовий",
+            "slug": "guard"
+        },
+        {
+            "name": "Рифова акула",
+            "slug": "reef_shark"
+        },
+        {
+            "name": "Молодий золотий дракон",
+            "slug": "young_gold_dragon"
+        },
+        {
+            "name": "Летючий меч",
+            "slug": "flying_sword"
+        },
+        {
+            "name": "Дравук",
+            "slug": "drider"
+        },
+        {
+            "name": "Чорний слиз",
+            "slug": "black_pudding"
+        },
+        {
+            "name": "Змієня зеленого дракона",
+            "slug": "green_dragon_wyrmling"
+        },
+        {
+            "name": "Величезний скорпіон",
+            "slug": "giant_scorpion"
+        },
+        {
+            "name": "Древній золотий дракон",
+            "slug": "ancient_gold_dragon"
+        },
+        {
+            "name": "Виплодок вампіра [Vampire Spawn]",
+            "slug": "vampire_spawn"
+        },
+        {
+            "name": "Василіск",
+            "slug": "basilisk"
+        },
+        {
+            "name": "Мастиф",
+            "slug": "mastiff"
+        },
+        {
+            "name": "Молодий латунний дракон",
+            "slug": "young_brass_dragon"
+        },
+        {
+            "name": "Пробуджений кущ",
+            "slug": "awakened_shrub"
+        },
+        {
+            "name": "Мотузник",
+            "slug": "roper"
+        },
+        {
+            "name": "Химера",
+            "slug": "chimera"
+        },
+        {
+            "name": "Змієня золотого дракона",
+            "slug": "gold_dragon_wyrmling"
+        },
+        {
+            "name": "Ґримлок",
+            "slug": "grimlock"
+        },
+        {
+            "name": "Квіпер",
+            "slug": "quipper"
+        },
+        {
+            "name": "Кривавий яструб",
+            "slug": "blood_hawk"
+        },
+        {
+            "name": "Троль [Troll]",
+            "slug": "troll"
+        },
+        {
+            "name": "Спрайт [Sprite]",
+            "slug": "sprite"
+        },
+        {
+            "name": "Величезний кажан",
+            "slug": "giant_bat"
+        },
+        {
+            "name": "Гієна",
+            "slug": "hyena"
+        },
+        {
+            "name": "Сатир",
+            "slug": "satyr"
+        },
+        {
+            "name": "Іфрит",
+            "slug": "efreeti"
+        },
+        {
+            "name": "Дорослий чорний дракон",
+            "slug": "adult_black_dragon"
+        },
+        {
+            "name": "Ведмесова",
+            "slug": "owlbear"
+        },
+        {
+            "name": "Борсук",
+            "slug": "badger"
+        },
+        {
+            "name": "Тиранозавр [Tyrannosaurus Rex]",
+            "slug": "tyrannosaurus_rex"
+        },
+        {
+            "name": "Мімік",
+            "slug": "mimic"
+        },
+        {
+            "name": "Жаба",
+            "slug": "frog"
+        },
+        {
+            "name": "Кокатрис",
+            "slug": "cockatrice"
+        },
+        {
+            "name": "Берсерк",
+            "slug": "berserker"
+        },
+        {
+            "name": "Етеркап",
+            "slug": "ettercap"
+        },
+        {
+            "name": "Пурпурний черв",
+            "slug": "purple_worm"
+        },
+        {
+            "name": "Вогняний велет",
+            "slug": "fire_giant"
+        },
+        {
+            "name": "Помрець [Wight]",
+            "slug": "wight"
+        },
+        {
+            "name": "Бандит",
+            "slug": "bandit"
+        },
+        {
+            "name": "Орел",
+            "slug": "eagle"
+        },
+        {
+            "name": "Величезний кабан",
+            "slug": "giant_boar"
+        },
+        {
+            "name": "Мара [Specter]",
+            "slug": "specter"
+        },
+        {
+            "name": "Змієня срібного дракона",
+            "slug": "silver_dragon_wyrmling"
+        },
+        {
+            "name": "Фанатик культу",
+            "slug": "cult_fanatic"
+        },
+        {
+            "name": "Оживлений обладунок",
+            "slug": "animated_armor"
+        },
+        {
+            "name": "Змієня червоного дракона",
+            "slug": "red_dragon_wyrmling"
+        },
+        {
+            "name": "Оні",
+            "slug": "oni"
+        },
+        {
+            "name": "Анкеґ",
+            "slug": "ankheg"
+        },
+        {
+            "name": "Кобольд",
+            "slug": "kobold"
+        },
+        {
+            "name": "Древній латунний дракон",
+            "slug": "ancient_brass_dragon"
+        },
+        {
+            "name": "Духовна нага [Spirit Naga]",
+            "slug": "spirit_naga"
+        },
+        {
+            "name": "Скорпіон",
+            "slug": "scorpion"
+        },
+        {
+            "name": "Гайносфінкс",
+            "slug": "gynosphinx"
+        },
+        {
+            "name": "Древній срібний дракон",
+            "slug": "ancient_silver_dragon"
+        },
+        {
+            "name": "Павук",
+            "slug": "spider"
+        },
+        {
+            "name": "Дорослий зелений дракон",
+            "slug": "adult_green_dragon"
+        },
+        {
+            "name": "Бурий ведмідь",
+            "slug": "brown_bear"
+        },
+        {
+            "name": "Величезна стонога",
+            "slug": "giant_centipede"
+        },
+        {
+            "name": "Пагорбний велет",
+            "slug": "hill_giant"
+        },
+        {
+            "name": "Чорний ведмідь",
+            "slug": "black_bear"
+        },
+        {
+            "name": "Величезний восьминіг",
+            "slug": "giant_octopus"
+        },
+        {
+            "name": "Гезро",
+            "slug": "hezrou"
+        },
+        {
+            "name": "Чортик",
+            "slug": "imp"
+        },
+        {
+            "name": "Гриф [Vulture]",
+            "slug": "vulture"
+        },
+        {
+            "name": "Пекельник",
+            "slug": "pit_fiend"
+        },
+        {
+            "name": "Верескун",
+            "slug": "shrieker"
+        },
+        {
+            "name": "Вепревертень [Wereboar]",
+            "slug": "wereboar"
+        },
+        {
+            "name": "Ветеран [Veteran]",
+            "slug": "veteran"
+        },
+        {
+            "name": "Зграя кажанів [Swarm of bats]",
+            "slug": "swarm_of_bats"
+        },
+        {
+            "name": "Величезний лось",
+            "slug": "giant_elk"
+        },
+        {
+            "name": "Штормовий велет [Storm giant]",
+            "slug": "storm_giant"
+        },
+        {
+            "name": "Фазовий павук",
+            "slug": "phase_spider"
+        },
+        {
+            "name": "Верблюд",
+            "slug": "camel"
+        },
+        {
+            "name": "Бабуїн",
+            "slug": "baboon"
+        },
+        {
+            "name": "Удав",
+            "slug": "constrictor_snake"
+        },
+        {
+            "name": "Куатль",
+            "slug": "couatl"
+        },
+        {
+            "name": "Планетар",
+            "slug": "planetar"
+        },
+        {
+            "name": "Тигревертень [Weretiger]",
+            "slug": "weretiger"
+        },
+        {
+            "name": "Упир",
+            "slug": "ghoul"
+        },
+        {
+            "name": "Молодий мідний дракон",
+            "slug": "young_copper_dragon"
+        },
+        {
+            "name": "Залізний голем",
+            "slug": "iron_golem"
+        },
+        {
+            "name": "Воїн племені [Tribal warrior]",
+            "slug": "tribal_warrior"
+        },
+        {
+            "name": "Фіолетовий гриб [Violet fungus]",
+            "slug": "violet_fungus"
+        },
+        {
+            "name": "Зелена яга",
+            "slug": "green_hag"
+        },
+        {
+            "name": "Гоблін",
+            "slug": "goblin"
+        },
+        {
+            "name": "Кам'яний велет [Stone giant]",
+            "slug": "stone_giant"
+        },
+        {
+            "name": "Вовк",
+            "slug": "wolf"
+        },
+        {
+            "name": "Лемур",
+            "slug": "lemure"
+        },
+        {
+            "name": "Нічна яга [Night hag]",
+            "slug": "night_hag"
+        },
+        {
+            "name": "Дорослий золотий дракон",
+            "slug": "adult_gold_dragon"
+        },
+        {
+            "name": "Плазуючий курган",
+            "slug": "shambling_mound"
+        },
+        {
+            "name": "Молодий бронзовий дракон",
+            "slug": "young_bronze_dragon"
+        },
+        {
+            "name": "Мерехтливий пес",
+            "slug": "blink_dog"
+        },
+        {
+            "name": "Послідовник",
+            "slug": "acolyte"
+        },
+        {
+            "name": "Зграя квіперів [Swarm of quippers]",
+            "slug": "swarm_of_quippers"
+        },
+        {
+            "name": "Величезна мавпа",
+            "slug": "giant_ape"
+        },
+        {
+            "name": "Сокиродзьоб",
+            "slug": "axe_beak"
+        },
+        {
+            "name": "Слон",
+            "slug": "elephant"
+        },
+        {
+            "name": "Напівчервоний дракон ветеран [Half-red dragon veteran]",
+            "slug": "half_red_dragon_veteran"
+        },
+        {
+            "name": "Стихійник вогню",
+            "slug": "fire_elemental"
+        },
+        {
+            "name": "Трицератопс [Triceratops]",
+            "slug": "triceratops"
+        },
+        {
+            "name": "Саламандра",
+            "slug": "salamander"
+        },
+        {
+            "name": "Виверна",
+            "slug": "wyvern"
+        },
+        {
+            "name": "Архимаг",
+            "slug": "archmage"
+        },
+        {
+            "name": "Гарпія",
+            "slug": "harpy"
+        },
+        {
+            "name": "Аболет",
+            "slug": "aboleth"
+        },
+        {
+            "name": "Мамут",
+            "slug": "mammoth"
+        },
+        {
+            "name": "Сукуб/Інкуб [Succubus/Incubus]",
+            "slug": "succubusincubus"
+        },
+        {
+            "name": "Джин",
+            "slug": "djinni"
+        },
+        {
+            "name": "Зомбі",
+            "slug": "zombie"
+        },
+        {
+            "name": "Кістяний диявол",
+            "slug": "bone_devil"
+        },
+        {
+            "name": "Коза",
+            "slug": "goat"
+        },
+        {
+            "name": "Вампір [Vampire]",
+            "slug": "vampire"
+        },
+        {
+            "name": "Дорослий мідний дракон",
+            "slug": "adult_copper_dragon"
+        },
+        {
+            "name": "Глиняний голем",
+            "slug": "clay_golem"
+        },
+        {
+            "name": "Сектант",
+            "slug": "cultist"
+        },
+        {
+            "name": "Морозний велет",
+            "slug": "frost_giant"
+        },
+        {
+            "name": "Бегір",
+            "slug": "behir"
+        },
+        {
+            "name": "Бойовий кінь [Warhorse]",
+            "slug": "warhorse"
+        },
+        {
+            "name": "Магмін",
+            "slug": "magmin"
+        },
+        {
+            "name": "Пацюк",
+            "slug": "rat"
+        },
+        {
+            "name": "Бородатий диявол",
+            "slug": "bearded_devil"
+        },
+        {
+            "name": "Білий Ведмідь",
+            "slug": "polar_bear"
+        },
+        {
+            "name": "Величезний краб",
+            "slug": "giant_crab"
+        },
+        {
+            "name": "Ящеролюд",
+            "slug": "lizardfolk"
+        },
+        {
+            "name": "Магмовий мефіт",
+            "slug": "magma_mephit"
+        },
+        {
+            "name": "Драконова черепаха",
+            "slug": "dragon_turtle"
+        },
+        {
+            "name": "Тінь",
+            "slug": "shadow"
+        },
+        {
+            "name": "Гіпогриф",
+            "slug": "hippogriff"
+        },
+        {
+            "name": "Величезна ласиця",
+            "slug": "giant_weasel"
+        },
+        {
+            "name": "Іржавник",
+            "slug": "rust_monster"
+        },
+        {
+            "name": "Дорослий бронзовий дракон",
+            "slug": "adult_bronze_dragon"
+        },
+        {
+            "name": "Привид",
+            "slug": "ghost"
+        },
+        {
+            "name": "Еринія",
+            "slug": "erinyes"
+        },
+        {
+            "name": "Мериліт",
+            "slug": "marilith"
+        },
+        {
+            "name": "Пробуджене дерево",
+            "slug": "awakened_tree"
+        },
+        {
+            "name": "Лев",
+            "slug": "lion"
+        },
+        {
+            "name": "Плезіозавр",
+            "slug": "plesiosaurus"
+        },
+        {
+            "name": "Величезний удав",
+            "slug": "giant_constrictor_snake"
+        },
+        {
+            "name": "Гаргуйль",
+            "slug": "gargoyle"
+        },
+        {
+            "name": "Величезний борсук",
+            "slug": "giant_badger"
+        },
+        {
+            "name": "Древній зелений дракон",
+            "slug": "ancient_green_dragon"
+        },
+        {
+            "name": "Мінотавр",
+            "slug": "minotaur"
+        },
+        {
+            "name": "Пес смерті",
+            "slug": "death_dog"
+        },
+        {
+            "name": "Скелет мінотавра",
+            "slug": "minotaur_skeleton"
+        },
+        {
+            "name": "Кошмар",
+            "slug": "nightmare"
+        },
+        {
+            "name": "Горгона",
+            "slug": "gorgon"
+        },
+        {
+            "name": "Гомункул",
+            "slug": "homunculus"
+        },
+        {
+            "name": "Величезний павук-вовк",
+            "slug": "giant_wolf_spider"
+        },
+        {
+            "name": "Величезний щур",
+            "slug": "giant_rat"
+        },
+        {
+            "name": "Андросфінкс",
+            "slug": "androsphinx"
+        },
+        {
+            "name": "Краб",
+            "slug": "crab"
+        },
+        {
+            "name": "Стихійник повітря",
+            "slug": "air_elemental"
+        },
+        {
+            "name": "Мисливська акула",
+            "slug": "hunter_shark"
+        },
+        {
+            "name": "Косатка",
+            "slug": "killer_whale"
+        },
+        {
+            "name": "Величезний крокодил",
+            "slug": "giant_crocodile"
+        },
+        {
+            "name": "Ельф, дроу",
+            "slug": "elf_drow"
+        },
+        {
+            "name": "Змієня чорного дракона",
+            "slug": "black_dragon_wyrmling"
+        },
+        {
+            "name": "Простак",
+            "slug": "commoner"
+        },
+        {
+            "name": "Кракен",
+            "slug": "kraken"
+        },
+        {
+            "name": "Восьминіг",
+            "slug": "octopus"
+        },
+        {
+            "name": "Величезний гриф",
+            "slug": "giant_vulture"
+        },
+        {
+            "name": "Нага Захисниця",
+            "slug": "guardian_naga"
+        },
+        {
+            "name": "Дорослий срібний дракон",
+            "slug": "adult_silver_dragon"
+        },
+        {
+            "name": "Олень",
+            "slug": "deer"
+        },
+        {
+            "name": "Отруйна змія",
+            "slug": "poisonous_snake"
+        },
+        {
+            "name": "Гнол",
+            "slug": "gnoll"
+        },
+        {
+            "name": "Крижаний диявол",
+            "slug": "ice_devil"
+        },
+        {
+            "name": "Величезний морський коник",
+            "slug": "giant_sea_horse"
+        },
+        {
+            "name": "Величезна коза",
+            "slug": "giant_goat"
+        },
+        {
+            "name": "Ланцюговий диявол",
+            "slug": "chain_devil"
+        },
+        {
+            "name": "Шакал",
+            "slug": "jackal"
+        },
+        {
+            "name": "Псевдодракон",
+            "slug": "pseudodragon"
+        },
+        {
+            "name": "Їздовий кінь",
+            "slug": "riding_horse"
+        },
+        {
+            "name": "Килим ядухи",
+            "slug": "rug_of_smothering"
+        },
+        {
+            "name": "Змієня синього дракона",
+            "slug": "blue_dragon_wyrmling"
+        },
+        {
+            "name": "Лорд мумій",
+            "slug": "mummy_lord"
+        },
+        {
+            "name": "Ламія",
+            "slug": "lamia"
+        },
+        {
+            "name": "Древній бронзовий дракон",
+            "slug": "ancient_bronze_dragon"
+        },
+        {
+            "name": "Молодий зелений дракон",
+            "slug": "young_green_dragon"
+        },
+        {
+            "name": "Людиноподібна мавпа",
+            "slug": "ape"
+        },
+        {
+            "name": "Вурдалак",
+            "slug": "ghast"
+        },
+        {
+            "name": "Тигр [Tiger]",
+            "slug": "tiger"
+        },
+        {
+            "name": "Гобгоблін",
+            "slug": "hobgoblin"
+        },
+        {
+            "name": "Орк",
+            "slug": "orc"
+        },
+        {
+            "name": "Ґлабрезу",
+            "slug": "glabrezu"
+        },
+        {
+            "name": "Величезна акула",
+            "slug": "giant_shark"
+        },
+        {
+            "name": "Дзиз [Stirge]",
+            "slug": "stirge"
+        },
+        {
+            "name": "Ворґ [Worg]",
+            "slug": "worg"
+        },
+        {
+            "name": "Треант [Treant]",
+            "slug": "treant"
+        },
+        {
+            "name": "Ґрик",
+            "slug": "grick"
+        },
+        {
+            "name": "Древній мідний дракон",
+            "slug": "ancient_copper_dragon"
+        },
+        {
+            "name": "Примара [Wraith]",
+            "slug": "wraith"
+        },
+        {
+            "name": "Водяник",
+            "slug": "merrow"
+        },
+        {
+            "name": "Головоріз [Thug]",
+            "slug": "thug"
+        },
+        {
+            "name": "Панцирниця",
+            "slug": "bulette"
+        },
+        {
+            "name": "Драглистий куб",
+            "slug": "gelatinous_cube"
+        },
+        {
+            "name": "Ящірка",
+            "slug": "lizard"
+        },
+        {
+            "name": "Змієня білого дракона [White dragon wyrmling]",
+            "slug": "white_dragon_wyrmling"
+        },
+        {
+            "name": "Огр",
+            "slug": "ogre"
+        },
+        {
+            "name": "Крук",
+            "slug": "raven"
+        },
+        {
+            "name": "Ліч",
+            "slug": "lich"
+        },
+        {
+            "name": "Зорн",
+            "slug": "xorn"
+        },
+        {
+            "name": "Шляхтич",
+            "slug": "noble"
+        },
+        {
+            "name": "Лось",
+            "slug": "elk"
+        },
+        {
+            "name": "Щитовий страж",
+            "slug": "shield_guardian"
+        },
+        {
+            "name": "Змієня латунного дракона",
+            "slug": "brass_dragon_wyrmling"
+        },
+        {
+            "name": "Нальфешні",
+            "slug": "nalfeshnee"
+        },
+        {
+            "name": "Ейзер",
+            "slug": "azer"
+        },
+        {
+            "name": "Молодий срібний дракон",
+            "slug": "young_silver_dragon"
+        },
+        {
+            "name": "Дретч",
+            "slug": "dretch"
+        },
+        {
+            "name": "Паровий мефіт [Steam mephit]",
+            "slug": "steam_mephit"
+        },
+        {
+            "name": "Грифон",
+            "slug": "griffon"
+        },
+        {
+            "name": "Древній синій дракон",
+            "slug": "ancient_blue_dragon"
+        },
+        {
+            "name": "Колючий диявол",
+            "slug": "barbed_devil"
+        },
+        {
+            "name": "Молодий синій дракон",
+            "slug": "young_blue_dragon"
+        },
+        {
+            "name": "Носоріг",
+            "slug": "rhinoceros"
+        },
+        {
+            "name": "Мумія",
+            "slug": "mummy"
+        },
+        {
+            "name": "Стихійник землі",
+            "slug": "earth_elemental"
+        },
+        {
+            "name": "Кам'яний голем [Stone golem]",
+            "slug": "stone_golem"
+        },
+        {
+            "name": "Кабан",
+            "slug": "boar"
+        },
+        {
+            "name": "Ремораз",
+            "slug": "remorhaz"
+        },
+        {
+            "name": "Гідра",
+            "slug": "hydra"
+        },
+        {
+            "name": "Пиловий мефіт",
+            "slug": "dust_mephit"
+        },
+        {
+            "name": "Величезна ропуха",
+            "slug": "giant_toad"
+        },
+        {
+            "name": "Древній білий дракон",
+            "slug": "ancient_white_dragon"
+        },
+        {
+            "name": "Рогатий диявол",
+            "slug": "horned_devil"
+        },
+        {
+            "name": "Поні",
+            "slug": "pony"
+        },
+        {
+            "name": "Зграя щурів [Swarm of rats]",
+            "slug": "swarm_of_rats"
+        },
+        {
+            "name": "Мандрівний вогник [Will-o'-Wisp]",
+            "slug": "will_o_wisp"
+        },
+        {
+            "name": "Еттин",
+            "slug": "ettin"
+        },
+        {
+            "name": "М'ясний голем",
+            "slug": "flesh_golem"
+        },
+        {
+            "name": "Молодий чорний дракон",
+            "slug": "young_black_dragon"
+        },
+        {
+            "name": "Кінь, тягловий",
+            "slug": "draft_horse"
+        },
+        {
+            "name": "Величезний орел",
+            "slug": "giant_eagle"
+        },
+        {
+            "name": "Щуревертень [Wererat]",
+            "slug": "wererat"
+        },
+        {
+            "name": "Сіра твань",
+            "slug": "gray_ooze"
+        },
+        {
+            "name": "Пантера",
+            "slug": "panther"
+        },
+        {
+            "name": "Священник",
+            "slug": "priest"
+        },
+        {
+            "name": "Дріада",
+            "slug": "dryad"
+        },
+        {
+            "name": "Чууль",
+            "slug": "chuul"
+        },
+        {
+            "name": "Пекельний гінчак",
+            "slug": "hell_hound"
+        },
+        {
+            "name": "Ласиця [Weasel]",
+            "slug": "weasel"
+        },
+        {
+            "name": "Глибинний гном (Свірфнеблін)",
+            "slug": "gnome_deep_svirfneblin"
+        },
+        {
+            "name": "Зимовий вовк [Winter Wolf]",
+            "slug": "winter_wolf"
+        },
+        {
+            "name": "Рій комах [Swarm of insects]",
+            "slug": "swarm_of_insects"
+        },
+        {
+            "name": "Стихійник води [Water Elemental]",
+            "slug": "water_elemental"
+        },
+        {
+            "name": "Накидень",
+            "slug": "cloaker"
+        },
+        {
+            "name": "Кентавр",
+            "slug": "centaur"
+        },
+        {
+            "name": "Величезна жаба",
+            "slug": "giant_frog"
+        },
+        {
+            "name": "Змієня бронзового дракона",
+            "slug": "bronze_dragon_wyrmling"
+        },
+        {
+            "name": "Кажан",
+            "slug": "bat"
+        },
+        {
+            "name": "Слинявий белькотун",
+            "slug": "gibbering_mouther"
+        },
+        {
+            "name": "Величезна гієна",
+            "slug": "giant_hyena"
+        },
+        {
+            "name": "Гладіатор",
+            "slug": "gladiator"
+        },
+        {
+            "name": "Пегас",
+            "slug": "pegasus"
+        },
+        {
+            "name": "Розвідник",
+            "slug": "scout"
+        },
+        {
+            "name": "Дорослий червоний дракон",
+            "slug": "adult_red_dragon"
+        },
+        {
+            "name": "Шпигун [Spy]",
+            "slug": "spy"
+        },
+        {
+            "name": "Дев",
+            "slug": "deva"
+        },
+        {
+            "name": "Змієня мідного дракона",
+            "slug": "copper_dragon_wyrmling"
+        },
+        {
+            "name": "Величезна отруйна змія",
+            "slug": "giant_poisonous_snake"
+        },
+        {
+            "name": "Вовкулака [Werewolf]",
+            "slug": "werewolf"
+        },
+        {
+            "name": "Темноплащ",
+            "slug": "darkmantle"
+        },
+        {
+            "name": "Отьюг",
+            "slug": "otyugh"
+        },
+        {
+            "name": "чарівник",
+            "slug": "mage"
+        },
+        {
+            "name": "Молодий білий дракон",
+            "slug": "young_white_dragon"
+        },
+        {
+            "name": "Ракшаса",
+            "slug": "rakshasa"
+        },
+        {
+            "name": "Морський коник",
+            "slug": "sea_horse"
+        },
+        {
+            "name": "Квазит",
+            "slug": "quasit"
+        },
+        {
+            "name": "Кішка",
+            "slug": "cat"
+        },
+        {
+            "name": "Дверґар",
+            "slug": "duergar"
+        },
+        {
+            "name": "Єдиноріг [Unicorn]",
+            "slug": "unicorn"
+        },
+        {
+            "name": "Медуза",
+            "slug": "medusa"
+        },
+        {
+            "name": "Величезна оса",
+            "slug": "giant_wasp"
+        },
+        {
+            "name": "Шаблезубий тигр",
+            "slug": "saber_toothed_tiger"
+        },
+        {
+            "name": "Величезний павук",
+            "slug": "giant_spider"
+        },
+        {
+            "name": "Скелет",
+            "slug": "skeleton"
+        },
+        {
+            "name": "Древній червоний дракон",
+            "slug": "ancient_red_dragon"
+        },
+        {
+            "name": "Мантикора",
+            "slug": "manticore"
+        },
+        {
+            "name": "Крокодил",
+            "slug": "crocodile"
+        },
+        {
+            "name": "Мерфольк",
+            "slug": "merfolk"
+        },
+        {
+            "name": "Древній чорний дракон",
+            "slug": "ancient_black_dragon"
+        },
+        {
+            "name": "Рух",
+            "slug": "roc"
+        },
+        {
+            "name": "Капітан бандитів",
+            "slug": "bandit_captain"
+        },
+        {
+            "name": "Рій отруйних змій [Swarm of poisonous snakes]]",
+            "slug": "swarm_of_poisonous_snakes"
+        },
+        {
+            "name": "Допельгангер",
+            "slug": "doppelganger"
+        },
+        {
+            "name": "Хмарний велет",
+            "slug": "cloud_giant"
+        },
+        {
+            "name": "Сова",
+            "slug": "owl"
+        },
+        {
+            "name": "Сагваґін",
+            "slug": "sahuagin"
+        },
+        {
+            "name": "Дорослий синій дракон",
+            "slug": "adult_blue_dragon"
+        },
+        {
+            "name": "Крижаний мефіт",
+            "slug": "ice_mephit"
+        },
+        {
+            "name": "Яструб",
+            "slug": "hawk"
+        },
+        {
+            "name": "Балор",
+            "slug": "balor"
+        },
+        {
+            "name": "Дорослий латунний дракон",
+            "slug": "adult_brass_dragon"
+        },
+        {
+            "name": "Убивця",
+            "slug": "assassin"
+        },
+        {
+            "name": "Багбер",
+            "slug": "bugbear"
+        },
+        {
+            "name": "Огр зомбі",
+            "slug": "ogre_zombie"
+        }
+    ]
+}
