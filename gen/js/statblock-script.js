@@ -941,7 +941,7 @@ var InputFunctions = {
             UpdateStatblock();
             return;
         }
-        $.getJSON("https://api.open5e.com/monsters/" + name, function (jsonArr) {
+        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/jsonData/" + name + ".json", function (jsonArr) {
             GetVariablesFunctions.SetPreset(jsonArr);
             FormFunctions.SetForms();
             UpdateStatblock();
@@ -1988,7 +1988,7 @@ var ArrayFunctions = {
     // Document ready function
     $(function () {
         // Load the preset monster names
-        $.getJSON("https://api.open5e.com/monsters/?format=json&fields=slug,name&limit=1000&document__slug=wotc-srd", function (srdArr) {
+        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/jsonData/monsters.json", function (srdArr) {
             let monsterSelect = $("#monster-select");
             monsterSelect.append("<option value=''></option>");
             monsterSelect.append("<option value=''>-5e SRD-</option>");
