@@ -1995,16 +1995,6 @@ var ArrayFunctions = {
             $.each(srdArr.results, function (index, value) {
                 monsterSelect.append("<option value='" + value.slug + "'>" + value.name + "</option>");
             })
-            $.getJSON("https://api.open5e.com/monsters/?format=json&fields=slug,name&limit=1000&document__slug=tob", function (tobArr) {
-                monsterSelect.append("<option value=''></option>");
-                monsterSelect.append("<option value=''>-Tome of Beasts (Kobold Press)-</option>");
-                $.each(tobArr.results, function (index, value) {
-                    monsterSelect.append("<option value='" + value.slug + "'>" + value.name + "</option>");
-                })
-            })
-                .fail(function () {
-                    $("#monster-select-form").html("Unable to load Tome of Beasts monster presets.")
-                });
         })
             .fail(function () {
                 $("#monster-select-form").html("Unable to load monster presets.")
