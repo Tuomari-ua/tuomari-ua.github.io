@@ -2,26 +2,32 @@
 	"stats": [
 		{
 			"name": "str",
+			"localizedName": "сил",
 			"order": 0
 		},
 		{
 			"name": "dex",
+			"localizedName": "спр",
 			"order": 1
 		},
 		{
 			"name": "con",
+			"localizedName": "ста",
 			"order": 2
 		},
 		{
 			"name": "int",
+			"localizedName": "інт",
 			"order": 3
 		},
 		{
 			"name": "wis",
+			"localizedName": "муд",
 			"order": 4
 		},
 		{
 			"name": "cha",
+			"localizedName": "хар",
 			"order": 5
 		}
 	],
@@ -35,145 +41,151 @@
 	],
 	"allSkills": [
 		{
-			"name": "acrobatics",
+			"name": "акробатика",
 			"stat": "dex"
 		},
 		{
-			"name": "animal Handling",
+			"name": "приборкання тварин",
 			"stat": "wis"
 		},
 		{
-			"name": "arcana",
+			"name": "аркана",
 			"stat": "int"
 		},
 		{
-			"name": "athletics",
+			"name": "атлетика",
 			"stat": "str"
 		},
 		{
-			"name": "deception",
+			"name": "обман",
 			"stat": "cha"
 		},
 		{
-			"name": "history",
+			"name": "історія",
 			"stat": "int"
 		},
 		{
-			"name": "insight",
+			"name": "здогадливість",
 			"stat": "wis"
 		},
 		{
-			"name": "intimidation",
+			"name": "залякування",
 			"stat": "cha"
 		},
 		{
-			"name": "investigation",
+			"name": "розслідування",
 			"stat": "int"
 		},
 		{
-			"name": "medicine",
+			"name": "медицина",
 			"stat": "wis"
 		},
 		{
-			"name": "nature",
+			"name": "природа",
 			"stat": "int"
 		},
 		{
-			"name": "perception",
+			"name": "сприйняття",
 			"stat": "wis"
 		},
 		{
-			"name": "performance",
+			"name": "артистичність",
 			"stat": "cha"
 		},
 		{
-			"name": "persuasion",
+			"name": "переконливість",
 			"stat": "cha"
 		},
 		{
-			"name": "religion",
+			"name": "релігія",
 			"stat": "int"
 		},
 		{
-			"name": "sleight of Hand",
+			"name": "спритність рук",
 			"stat": "dex"
 		},
 		{
-			"name": "stealth",
+			"name": "непомітність",
 			"stat": "dex"
 		},
 		{
-			"name": "survival",
+			"name": "виживання",
 			"stat": "wis"
 		}
 	],
 	"allNormalDamageTypes": [
-		"acid",
-		"bludgeoning",
-		"cold",
-		"fire",
-		"force",
-		"lightning",
-		"necrotic",
-		"piercing",
-		"poison",
-		"psychic",
-		"radiant",
-		"slashing",
-		"thunder"
+		"кислота",
+		"дробильні",
+		"холод",
+		"вогонь",
+		"чиста енергія",
+		"блискавка",
+		"некротична енергія",
+		"колоті",
+		"отрута",
+		"психічна енергія",
+		"промениста енергія",
+		"колоті",
+		"грім"
 	],
 	"allConditions": [
-		"blinded",
-		"charmed",
-		"deafened",
-		"exhaustion",
-		"frightened",
-		"grappled",
-		"incapacitated",
-		"invisible",
-		"paralyzed",
-		"petrified",
-		"poisoned",
-		"prone",
-		"restrained",
-		"stunned",
-		"unconscious"
+		"осліплений",
+		"причарований",
+		"оглушений",
+		"виснажений",
+		"наляканий",
+		"схоплений",
+		"недієздатний",
+		"невидимий",
+		"паралізований",
+		"скам'янілий",
+		"отруєний",
+		"збитий з ніг",
+		"скутий",
+		"приголомшений",
+		"непритомний"
 	],
 	"sizes": {
 		"tiny": {
-			"hitDie": 4
+			"hitDie": 4,
+			"localizedName": "крихітного"
 		},
 		"small": {
-			"hitDie": 6
+			"hitDie": 6,
+			"localizedName": "малого"
 		},
 		"medium": {
-			"hitDie": 8
+			"hitDie": 8,
+			"localizedName": "середнього"
 		},
 		"large": {
-			"hitDie": 10
+			"hitDie": 10,
+			"localizedName": "великого"
 		},
 		"huge": {
-			"hitDie": 12
+			"hitDie": 12,
+			"localizedName": "величезного "
 		},
 		"gargantuan": {
-			"hitDie": 20
+			"hitDie": 20,
+			"localizedName": "гігантського"
 		}
 	},
 	"types": [
-		"aberration",
-		"beast",
-		"celestial",
-		"construct",
-		"dragon",
-		"elemental",
-		"fey",
-		"fiend",
-		"giant",
-		"humanoid",
-		"monstrosity",
-		"ooze",
-		"plant",
-		"undead"
+		"аберація",
+		"звір",
+		"небожитель",
+		"конструкт",
+		"дракон",
+		"стихійник",
+		"фея",
+		"погань",
+		"велет",
+		"гуманоїд",
+		"чудовисько",
+		"твань",
+		"рослина",
+		"невмерлий"
 	],
 	"crs": {
 		"0": {
@@ -314,79 +326,79 @@
 		}
 	},
 	"armors": {
-		"none": {
+		"немає": {
 			"type": "special"
 		},
-		"natural armor": {
+		"природна броня": {
 			"type": "special"
 		},
-		"mage armor": {
+		"магічна броня": {
 			"type": "special"
 		},
-		"padded armor": {
+		"гамбесон": {
 			"type": "light",
 			"ac": 11
 		},
-		"leather armor": {
+		"шкіряна броня": {
 			"type": "light",
 			"ac": 11
 		},
-		"studded leather": {
+		"шипована шкіра": {
 			"type": "light",
 			"ac": 12
 		},
-		"hide armor": {
+		"шкура": {
 			"type": "medium",
 			"ac": 12
 		},
-		"chain shirt": {
+		"кольчужна сорочка": {
 			"type": "medium",
 			"ac": 13
 		},
-		"scale mail": {
+		"луската броня": {
 			"type": "medium",
 			"ac": 14
 		},
-		"breastplate": {
+		"нагрудник": {
 			"type": "medium",
 			"ac": 14
 		},
-		"half plate": {
+		"напівлати": {
 			"type": "medium",
 			"ac": 15
 		},
-		"ring mail": {
+		"байдана": {
 			"type": "heavy",
 			"ac": 14
 		},
-		"chain mail": {
+		"кольчуга": {
 			"type": "heavy",
 			"ac": 16
 		},
-		"splint": {
+		"бригантина": {
 			"type": "heavy",
 			"ac": 17
 		},
-		"plate": {
+		"лати": {
 			"type": "heavy",
 			"ac": 18
 		},
-		"other": {
+		"інше": {
 			"type": "special"
 		}
 	},
 	"defaultPreset": {
 		"slug": "",
-		"name": "Monster",
+		"name": "Монстр",
 		"size": "Medium",
-		"type": "humanoid",
+		"type": "гуманоїд",
 		"subtype": "",
 		"group": null,
-		"alignment": "any alignment",
+		"alignment": "будь-який світогляд",
 		"armor_class": 10,
 		"armor_desc": null,
 		"hit_points": 22,
-		"hit_dice": "5d8",
+		"hit_dice": "5к8",
 		"speed": {
 			"walk": 30
 		},
@@ -431,7 +443,7 @@
 	],
 	"commonAbilities": [
 		{
-			"name": "Select Preset",
+			"name": "Оберіть преген",
 			"desc": null
 		},
 		{
@@ -439,839 +451,839 @@
 			"desc": null
 		},
 		{
-			"name": "Melee Weapon Attack (STR)",
+			"name": "Атака зброєю ближнього бою (СИЛ)",
 			"realname": "",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach ??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність ??? ф., одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee Weapon Attack (DEX)",
+			"name": "Атака зброєю ближнього бою (СПР)",
 			"realname": "",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach ??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність ??? ф., одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee Spell Attack (INT)",
+			"name": "Атака чарами ближнього бою (ІНТ)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [INT ATK] to hit, reach ??? ft., one target. _Hit:_ [INT ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [INT ATK] до влучання, досяжність ??? ф., одна ціль. _Влучання:_ [INT ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee Spell Attack (WIS)",
+			"name": "Атака чарами ближнього бою (МУД)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [WIS ATK] to hit, reach ??? ft., one target. _Hit:_ [WIS ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [WIS ATK] до влучання, досяжність ??? ф., одна ціль. _Влучання:_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee Spell Attack (CHA)",
+			"name": "Атака чарами ближнього бою (ХАР)",
 			"realname": "",
-			"desc": "_Melee Spell Attack:_ [CHA ATK] to hit, reach ??? ft., one target. _Hit:_ [CHA ???D???] ??? damage."
+			"desc": "_Атака чарами ближнього бою:_ [CHA ATK] до влучання, досяжність ??? ф., одна ціль. _Влучання:_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Ranged Weapon Attack (STR)",
+			"name": "Далекобійна атака зброєю (СИЛ)",
 			"realname": "",
-			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range ???/??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Далекобійна атака зброєю:_ [STR ATK] до влучання, відстань ???/??? ф., одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Ranged Weapon Attack (DEX)",
+			"name": "Далекобійна атака зброєю (СПР)",
 			"realname": "",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range ???/??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань ???/??? ф., одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Ranged Spell Attack (INT)",
+			"name": "Далекобійна атака чарами (ІНТ)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [INT ATK] to hit, range ???/??? ft., one target. _Hit:_ [INT ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [INT ATK] до влучання, відстань ???/??? ф., одна ціль. _Влучання:_ [INT ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Ranged Spell Attack (WIS)",
+			"name": "Далекобійна атака чарами (МУД)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [WIS ATK] to hit, range ???/??? ft., one target. _Hit:_ [WIS ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [WIS ATK] до влучання, відстань ???/??? ф., одна ціль. _Влучання:_ [WIS ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Ranged Spell Attack (CHA)",
+			"name": "Далекобійна атака чарами (ХАР)",
 			"realname": "",
-			"desc": "_Ranged Spell Attack:_ [CHA ATK] to hit, range ???/??? ft., one target. _Hit:_ [CHA ???D???] ??? damage."
+			"desc": "_Далекобійна атака чарами:_ [CHA ATK] до влучання, відстань ???/??? ф., одна ціль. _Влучання:_ [CHA ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee or Ranged Weapon Attack (STR)",
+			"name": "Атака зброєю ближнього бою або далекобійна (СИЛ)",
 			"realname": "",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach ??? ft. or range ???/??? ft., one target. _Hit:_ [STR ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність ??? ф., або відстань ???/??? ф., одна ціль. _Влучання:_ [STR ???D???] ??? ушкоджень."
 		},
 		{
-			"name": "Melee or Ranged Weapon Attack (DEX)",
+			"name": "Атака зброєю ближнього бою або далекобійна (СПР)",
 			"realname": "",
-			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] to hit, reach ??? ft. or range ???/??? ft., one target. _Hit:_ [DEX ???D???] ??? damage."
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [DEX ATK] до влучання, досяжність ??? ф., або відстань ???/??? ф., одна ціль. _Влучання:_ [DEX ???D???] ??? ушкоджень."
 		},
 		{
 			"name": "",
 			"desc": null
 		},
 		{
-			"name": "Multiattack (Action)",
-			"realname": "Multiattack",
-			"desc": "The [MON] makes two attacks."
+			"name": "Мультиатака (Дія)",
+			"realname": "Мультиатака",
+			"desc": "[MON] здійснює дві атаки."
 		},
 		{
-			"name": "Legendary Resistance",
-			"realname": "Legendary Resistance (3/day)",
-			"desc": "If the [MON] fails a saving throw, it can choose to succeed instead."
+			"name": "Легендарна стійкість",
+			"realname": "Легендарна стійкість (3/день)",
+			"desc": "Якщо [MON] робить невдалий рятівний кидок, то може натомість обрати успіх."
 		},
 		{
-			"name": "Spellcasting (INT)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"name": "Чарування (ІНТ)",
+			"realname": "Чарування",
+			"desc": "[MON] є чаротворцем ??? рівня. Чаротворча здібність [MON] - Інтелект (КС рятунку від чарів [INT SAVE], [INT ATK] до влучання чарами.). [MON] має наступні підготовлені чари:\n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1 рівня (4 чарунки): _spell, spell, spell_\n> 2 рівня (3 чарунки): _spell, spell, spell_\n> 3 рівня (2 чарунки): _spell, spell_"
 		},
 		{
-			"name": "Spellcasting (WIS)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"name": "Чарування (МУД)",
+			"realname": "Чарування",
+			"desc": "[MON] є чаротворцем ??? рівня. Чаротворча здібність [MON] - Мудрість (КС рятунку від чарів [WIS SAVE], [WIS ATK] до влучання чарами.). [MON] має наступні підготовлені чари:\n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1 рівня (4 чарунки): _spell, spell, spell_\n> 2 рівня (3 чарунки): _spell, spell, spell_\n> 3 рівня (2 чарунки): _spell, spell_"
 		},
 		{
-			"name": "Spellcasting (CHA)",
-			"realname": "Spellcasting",
-			"desc": "The [MON] is a ???-level spellcaster. Its spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). The [MON] has the following ??? spells prepared:\n\n> Cantrips (at will): _spell, spell, spell, spell_\n> 1st level (4 slots): _spell, spell, spell_\n> 2nd level (3 slots): _spell, spell, spell_\n> 3rd level (2 slots): _spell, spell_"
+			"name": "Чарування (ХАР)",
+			"realname": "Чарування",
+			"desc": "[MON] є чаротворцем ??? рівня. Чаротворча здібність [MON] - Харизма (КС рятунку від чарів [CHA SAVE], [CHA ATK] до влучання чарами.). [MON] має наступні підготовлені чари:\n\n> Замовляння (за бажанням): _spell, spell, spell, spell_\n> 1 рівня (4 чарунки): _spell, spell, spell_\n> 2 рівня (3 чарунки): _spell, spell, spell_\n> 3 рівня (2 чарунки): _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (INT)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Intelligence (spell save DC [INT SAVE], [INT ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"name": "Вроджене чарування (ІНТ)",
+			"realname": "Вроджене чарування",
+			"desc": "[MON] має вроджену здібність до чарування й використовує для цього Інтелект (КС рятунку від чарів [INT SAVE], [INT ATK] до влучання чарами.). Може створювати наступні чари, без потреби в матеріальних складових:\n\n> За бажанням: _spell, spell, spell_\n> 3/день кожне: _spell, spell, spell_\n> 1/день кожне: _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (WIS)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Wisdom (spell save DC [WIS SAVE], [WIS ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"name": "Вроджене чарування (МУД)",
+			"realname": "Вроджене чарування",
+			"desc": "[MON] має вроджену здібність до чарування й використовує для цього Мудрість (КС рятунку від чарів [WIS SAVE], [WIS ATK] до влучання чарами.). Може створювати наступні чари, без потреби в матеріальних складових:\n\n> За бажанням: _spell, spell, spell_\n> 3/день кожне: _spell, spell, spell_\n> 1/день кожне: _spell, spell_"
 		},
 		{
-			"name": "Innate Spellcasting (CHA)",
-			"realname": "Innate Spellcasting",
-			"desc": "The [MON]'s innate spellcasting ability is Charisma (spell save DC [CHA SAVE], [CHA ATK] to hit with spell attacks). It can innately cast the following spells, requiring no material components:\n\n> At will: _spell, spell, spell_\n> 3/day each: _spell, spell, spell_\n> 1/day each: _spell, spell_"
+			"name": "Вроджене чарування (ХАР)",
+			"realname": "Вроджене чарування",
+			"desc": "[MON] має вроджену здібність до чарування й використовує для цього Харизму (КС рятунку від чарів [CHA SAVE], [CHA ATK] до влучання чарами.). Може створювати наступні чари, без потреби в матеріальних складових:\n\n> За бажанням: _spell, spell, spell_\n> 3/день кожне: _spell, spell, spell_\n> 1/день кожне: _spell, spell_"
 		},
 		{
 			"name": "",
 			"desc": null
 		},
 		{
-			"name": "Aggressive",
-			"desc": "As a bonus action, the [MON] can move up to its speed toward a hostile creature that it can see."
+			"name": "Агресивний",
+			"desc": "Бонусною дією [MON] може переміститися на відстань своєї швидкості до ворожої істоти, яку може бачити."
 		},
 		{
-			"name": "Ambusher",
-			"desc": "The [MON] has advantage on attack rolls against any creature it has surprised."
+			"name": "Майстер засідок",
+			"desc": "[MON] має перевагу на кидки атаки проти будь-яких істот, кого захопив зненацька."
 		},
 		{
-			"name": "Amorphous",
-			"desc": "The [MON] can move through a space as narrow as 1 inch wide without squeezing."
+			"name": "Аморфність",
+			"desc": "[MON] може переміщуватися крізь простір завширшки 1 дюйм без стискання."
 		},
 		{
-			"name": "Amphibious",
-			"desc": "The [MON] can breathe air and water."
+			"name": "Амфібія",
+			"desc": "[MON] може дихати у воді й повітрі."
 		},
 		{
-			"name": "Angelic Weapons",
-			"desc": "The [MON]'s weapon attacks are magical. When the [MON] hits with any weapon, the weapon deals an extra [???D???] radiant damage (included in the attack)."
+			"name": "Янгольська зброя",
+			"desc": "Атаки, які [MON] робить зроєю, магічні. Коли [MON] влучає будь-якою зброєю, зброя додатково завдає [???D???] променистих ушкоджень (включено в атаку)."
 		},
 		{
-			"name": "Animal Telepathy",
-			"realname": "??? Telepathy",
-			"desc": "The [MON] can magically command any ??? within 120 feet of it, using a limited telepathy."
+			"name": "Тваринна телепатія",
+			"realname": "??? телепатія",
+			"desc": "[MON] може магічним чином наказувати будь-яким ??? у межах 120 футів навколо себе, використовуючи обмежену телепатію."
 		},
 		{
-			"name": "Antimagic Susceptibility",
-			"desc": "The [MON] is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the [MON] must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute."
+			"name": "Чутливість до антимагії",
+			"desc": "[MON] недієздатний, поки перебуває в област антимагічної сфери. Обраний ціллю чарів _розвіювання магії_, [MON] повинен зробити успішний рятівний кидок Статури проти КС чаротворця або стане непритомним на 1 хвилину."
 		},
 		{
-			"name": "Assassinate",
-			"desc": "During its first turn, the [MON] has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the [MON] scores against a surprised creature is a critical hit."
+			"name": "Убивство",
+			"desc": "У свій перший хід [MON] має перевагу на кидки атаки проти будь-яких істот, які ще не зробили свій хід. Якщо [MON] здійснює будь-яке влучання проти істоти, захопленої зненацька, це влучання стає критичним."
 		},
 		{
-			"name": "Attack (Legendary Action)",
-			"realname": "??? Attack",
-			"desc": "The [MON] makes a ??? attack."
+			"name": "Атака (Легендарна дія)",
+			"realname": "??? атака",
+			"desc": "[MON] здійснює ??? атаку."
 		},
 		{
-			"name": "Aversion to Damage",
-			"realname": "Aversion to ???",
-			"desc": "If the [MON] takes ??? damage, it has disadvantage on attack rolls and ability checks until the end of its next turn."
+			"name": "Відраза до ушкоджень",
+			"realname": "Відраза до ???",
+			"desc": "Якщо [MON] отримує ??? ушкоджень, він має перешкоду на кидки атаки та перевірки здібностей до кінця свого наступного ходу."
 		},
 		{
-			"name": "Beast of Burden",
-			"desc": "The [MON] is considered to be a ??? animal for the purpose of determining its carrying capacity."
+			"name": "В'ючна тварина",
+			"desc": "[MON] вважається ??? твариною для визначення його вантажності."
 		},
 		{
-			"name": "Berserk",
-			"desc": "Whenever the [MON] starts its turn with ??? hit points or fewer, roll a d6. On a 6, the [MON] goes berserk. On each of its turns while berserk, the [MON] attacks the nearest creature it can see. If no creature is near enough to move to and attack, the [MON] attacks an object, with preference for an object smaller than itself. Once the [MON] goes berserk, it continues to do so until it is destroyed or regains all its hit points."
+			"name": "Берсерк",
+			"desc": "Щоразу, коли [MON] починає свій хід, маючи ??? пунктів здоров'я або менше, киньте d6. Якщо випаде 6, [MON] стає берсерком. У кожний свій хід у цьому стані [MON] атакує найближчу істоту, яку може бачити. Якщо поблизу немає істоти, до якої можна підійти та вдарити, [MON] атакує предмети, обираючи ті, що менші за нього. Щойно [MON] став берсерком, він продовжує робити це, поки не загине або поки не відновить усі свої пункти здоров'я."
 		},
 		{
-			"name": "Blind Senses",
-			"desc": "The [MON] can't use its blindsight while deafened and unable to smell."
+			"name": "Сліпі чуття",
+			"desc": "[MON] не може використовувати свій сліпий зір, поки оглух, і нездатний принюхуватися."
 		},
 		{
-			"name": "Blood Frenzy",
-			"desc": "The [MON] has advantage on melee attack rolls against any creature that doesn't have all its hit points."
+			"name": "Шал крові",
+			"desc": "[MON] має перевагу на атаки ближнього бою проти істот, які мають не всі пункти здоров'я."
 		},
 		{
-			"name": "Brave",
-			"desc": "The [MON] has advantage on saving throws against being frightened."
+			"name": "Хоробрість",
+			"desc": "[MON] має перевагу на рятівні кидки проти страху."
 		},
 		{
-			"name": "Breath Weapon (Cone, Action)",
-			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot cone. Each creature in that area must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"name": "Зброя подиху (конус, дія)",
+			"realname": "Зброя подиху (Перезарядка ???)",
+			"desc": "[MON] видихає ??? у вигляді ???-футового конуса. Кожна істота в цій області повинна зробити рятівний кидок Спритності з КС ???, отримуючи [???D???] ??? ушкоджень у разі невдачі або половину цих ушкоджень у разі успіху."
 		},
 		{
-			"name": "Breath Weapon (Line, Action)",
-			"realname": "Breath Weapon (Recharge ???)",
-			"desc": "The [MON] exhales ??? in a ???-foot line that is ??? feet wide. Each creature in that line must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"name": "Зброя подиху (лінія, дія)",
+			"realname": "Зброя подиху (Перезарядка ???)",
+			"desc": "[MON] видихає ??? у вигляді ???-футової лінії завширшки ??? футів. Кожна істота в цій лінії повинна зробити рятівний кидок Спритності з КС ???, отримуючи [???D???] ??? ушкоджень у разі невдачі або половину цих ушкоджень у разі успіху."
 		},
 		{
-			"name": "Brute",
-			"desc": "A melee weapon deals one extra die of its damage when the [MON] hits with it (included in the attack)."
+			"name": "Грубість",
+			"desc": "Зброя ближнього бою завдає одну додаткову кістку ушкоджень, коли [MON] влучає цією зброєю (включено в атаку)."
 		},
 		{
-			"name": "Camouflage",
-			"realname": "??? Camouflage",
-			"desc": "The [MON] has advantage on Dexterity (Stealth) checks made to hide in ??? terrain."
+			"name": "Камуфляж",
+			"realname": "??? Камуфляж",
+			"desc": "[MON] має перевагу на перевірки Спритності (Непомітність), коли ховається на території ???."
 		},
 		{
-			"name": "Change Shape (Dragon, Action)",
-			"realname": "Change Shape",
-			"desc": "The [MON] magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the [MON]'s choice).\nIn a new form, the [MON] retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form."
+			"name": "Зміна форми (Дракон, дія)",
+			"realname": "Зміна форми",
+			"desc": "[MON] магічним чином перетворюється на гуманоїда або звіра із класом небезпеки не більшим, ніж його власний, або в свою істинну форму. Він повертається до своєї істинної форми, якщо помирає. Будь-яке спорядження, яке він має при собі, або поглинається, або залишається у нової форми (вирішує [MON]). У новій формі [MON] зберігає свій світогляд, пункти здоров'я, кістки здоров'я, здатність говорити, опановані навички, легендарну стійкість, дії лігва, значення Інтелекту, Мудрості та Харизми, а також свої дії. Його статистика та можливості в усьому іншому замінені новою формою, за винятком класових особливостей чи легендарних дій цієї форми."
 		},
 		{
-			"name": "Change Shape (Humanoid, Action)",
-			"realname": "Change Shape",
-			"desc": "The [MON] magically polymorphs into a small or medium humanoid, or back into its true form. Its statistics are the same in each form. Any equipment the [MON] is wearing or carrying isn't transformed. If the [MON] dies, it reverts to its true form."
+			"name": "Зміна форми (Гуманоїд, дія)",
+			"realname": "Зміна форми",
+			"desc": "[MON] магічним чином перетворюється на гуманоїда малого або середнього розміру, або у свою істинну форму. Його ігрова статистика залишається незмінною в усіх формах. Будь-яке спорядження, яке [MON] має при собі, не перетворюється. Якщо [MON] вмирає, він повертається до своєї істинної форми."
 		},
 		{
-			"name": "Charge",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone."
+			"name": "Набіг",
+			"desc": "Якщо [MON] переміщується принаймні на ??? футів прямо перед ціллю і потім влучає по ній атакою ??? у той самий хід, ця атака завдає додатково [???D???] ??? ушкоджень. Якщо ціллю є істота, вона повинна зробити успішний рятівний кидок Сили з КС ???, або буде збита з ніг."
 		},
 		{
-			"name": "Confer Resistance",
-			"realname": "Confer ??? Resistance",
-			"desc": "The [MON] can grant resistance to ??? damage to anyone riding it."
+			"name": "Наділення стійкістю",
+			"realname": "Наділення стійкістю до ??? ",
+			"desc": "[MON] може надати стійкість до ??? ушкоджень будь-якому своєму вершнику."
 		},
 		{
-			"name": "Constrict (Action)",
-			"realname": "Constrict",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one creature. _Hit:_ [STR ???D???] bludgeoning damage, and the target is grappled (escape DC ???). Until this grapple ends, the creature is restrained, and the [MON] can't constrict another target."
+			"name": "Здушення (дія)",
+			"realname": "Здушення",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна істота. _Влучання:_ [STR ???D???] дробильних ушкоджень, і ціль схоплена (КС втечі ???). Поки схоплення не завершиться, істота скута, і [MON] не може здушити іншу істоту."
 		},
 		{
-			"name": "Corrode Metal",
-			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing damage.\nThe [MON] can eat through 2-inch-thick, nonmagical metal in 1 round."
+			"name": "Корозія металу",
+			"desc": "Будь-яка немагічна зброя, якою [MON] зазнає удару, псується. Після завдання ушкоджень зброя отримує постійний і накопичувальний штраф -1 до кидків ушкоджень. Коли штраф досягає -5, зброя руйнується. Немагічні снаряди з металу, які влучають по [MON], руйнуються після завдання ушкоджень.\n[MON] може проїсти немагічний метал завтовши до 2 дюймів за 1 раунд."
 		},
 		{
-			"name": "Cunning Action",
-			"desc": "On each of its turns, the [MON] can use a bonus action to take the Dash, Disengage, or Hide action."
+			"name": "Швидка дія",
+			"desc": "У кожен свій хід [MON] може використати бонусну дію, щоб зробити Ривок, Відступити або Сховатися."
 		},
 		{
-			"name": "Damage Absorption",
-			"realname": "??? Absorption",
-			"desc": "Whenever the [MON] is subjected to ??? damage, it takes no damage and instead regains a number of hit points equal to the ??? damage dealt."
+			"name": "Вбирання ушкоджень",
+			"realname": "Вбирання ???",
+			"desc": "Коли [MON] піддається ??? ушкодженням, він не отримує ушкоджень і натомість відновлює кількість пунктів здоров'я, що дорівнює ??? завданих ушкоджень."
 		},
 		{
-			"name": "Damage Transfer",
-			"desc": "While it is grappling a creature, the [MON] takes only half the damage dealt to it, and the creature grappled by the [MON] takes the other half."
+			"name": "Передавання ушкоджень",
+			"desc": "Поки [MON] утримує схоплену істоту, йому можна завдати тільки половину ушкоджень від атаки, а друга половина ушкоджень дістається істоті, яку [MON] схопив."
 		},
 		{
-			"name": "Dark Devotion",
-			"desc": "The [MON] has advantage on saving throws against being charmed or frightened."
+			"name": "Темна відданість",
+			"desc": "[MON] має перевагу на рятівні кидки проти причарування та залякування."
 		},
 		{
-			"name": "Death Burst",
-			"desc": "When the [MON] dies, it explodes in a burst of ???. Each creature within ??? ft. of it must make a DC ??? Dexterity saving throw, taking [???D???] ??? damage on a failed save, or half as much damage on a successful one."
+			"name": "Посмертний вибух",
+			"desc": "Коли [MON] вмирає, він вибухає ???. Кожна істота у межах ??? ф. від нього повинна зробити рятівний кидок Спритності з КС ???, отримуючи [???D???] ??? ушкоджень у разі невдачі або половину цих ушкоджень у разі успіху."
 		},
 		{
-			"name": "Detect (Legendary Action)",
-			"realname": "Detect",
-			"desc": "The [MON] makes a Wisdom (Perception) check."
+			"name": "Пошук (Легендарна дія)",
+			"realname": "Пошук",
+			"desc": "[MON] робить перевірку Мудрості (Сприйняття)."
 		},
 		{
-			"name": "Devil's Sight",
-			"desc": "Magical darkness doesn't impede the devil's darkvision."
+			"name": "Диявольський зір",
+			"desc": "Магічна темрява не обмежує диявольський зір."
 		},
 		{
-			"name": "Divine Awareness",
-			"desc": "The [MON] knows if it hears a lie."
+			"name": "Божественне усвідомлення",
+			"desc": "[MON] знає, коли до нього промовляють брехню."
 		},
 		{
-			"name": "Divine Eminence",
-			"desc": "As a bonus action, the [MON] can expend a spell slot to cause its melee weapon attacks to magically deal an extra [???D???] radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the [MON] expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st."
+			"name": "Божественне підвищення",
+			"desc": "Бонусною дією [MON] може витратити одну чарунку, щоб його атака зброєю ближнього бою магічним чином завдавала цілі додатково [???D???] ушкоджень променистою енергією при влучанні. Цей привілей триває до кінця ходу. Якщо [MON] витрачає чарунку 2 рівня або вищу, додаткові ушкодження зростають на 1к6 за кожний рівень чарунки вище першої."
 		},
 		{
-			"name": "Duergar Resilience",
-			"desc": "The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed."
+			"name": "Дверґарська стійкість",
+			"desc": "Дверґар має перевагу на рятівні кидки проти отрути, чарів та ілюзій, так само як до протидії причаруванню та паралічу."
 		},
 		{
-			"name": "Dwarven Resilience",
-			"desc": "The dwarf has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed."
+			"name": "Дворфійська стійкість",
+			"desc": "Дворф має перевагу на рятівні кидки проти отрути, чарів та ілюзій, так само як до протидії причаруванню та паралічу.."
 		},
 		{
-			"name": "Earth Glide",
-			"desc": "The [MON] can burrow through nonmagical, unworked earth and stone. While doing so, the [MON] doesn't disturb the material it moves through."
+			"name": "Підземний плин",
+			"desc": "[MON] може рити крізь немагічну необроблену землю та камінь. Роблячи це, [MON] не зрушує матеріал, крізь який переміщується."
 		},
 		{
-			"name": "Echolocation",
-			"desc": "The [MON] can't use its blindsight while deafened."
+			"name": "Ехолокація",
+			"desc": "[MON] не може користуватися сліпим зором, поки оглушений."
 		},
 		{
-			"name": "Elemental Demise",
-			"desc": "If the [MON] dies, its body disintegrates into ???, leaving behind only equipment the [MON] was wearing or carrying."
+			"name": "Стихійні рештки",
+			"desc": "Якщо [MON] вмирає, його тіло руйнується до ???, залишаючи по собі тільки спорядження, яке [MON] мав при собі."
 		},
 		{
-			"name": "Elemental Form",
+			"name": "Стихійна форма",
 			"realname": "??? Form",
-			"desc": "The [MON] can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing."
+			"desc": "[MON] може увійти в простір ворожої істоти й зупинитися там. Він може переміщуватися крізь простір завширшки 1 дюйм без стискання."
 		},
 		{
-			"name": "Ephemeral",
-			"desc": "The [MON] can't wear or carry anything."
+			"name": "Ефемерність",
+			"desc": "[MON] не може нічого нести або носити."
 		},
 		{
-			"name": "Etherealness (Action)",
-			"realname": "Etherealness",
-			"desc": "The [MON] magically enters the Ethereal Plane from the Material Plane, or vice versa."
+			"name": "Етерність (дія)",
+			"realname": "Етерність",
+			"desc": "[MON] магічним чином входить до Етерного плану з Матеріального, та навпаки."
 		},
 		{
-			"name": "Ethereal Jaunt",
-			"desc": "As a bonus action, the [MON] can magically shift from the Material Plane to the Ethereal Plane, or vice versa."
+			"name": "Етерний стрибок",
+			"desc": "Бонусною дією [MON] може магічно перекинутися з Матеріального плану до Етерного плану, або навпаки."
 		},
 		{
-			"name": "Ethereal Sight",
-			"desc": "The [MON] can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa."
+			"name": "Етерний зір",
+			"desc": "[MON] може бачити на 60 футів у Етерний план, коли перебуває на Матеріальному плані, і навпаки."
 		},
 		{
-			"name": "Evasion",
-			"desc": "If the [MON] is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the [MON] instead takes no damage if it succeeds on the saving throw, and only half damage if it fails."
+			"name": "Ухилення",
+			"desc": "Якщо [MON] є ціллю ефекта, який дозволяє зробити рятівний кидок Спритності для отримання половини ушкоджень, [MON] натомість зовсім не отримує ушкоджень за умови успішного рятівного кидка, і отримує половину, якщо зазнає невдачі."
 		},
 		{
-			"name": "False Appearance",
-			"desc": "While the [MON] remains motionless, it is indistinguishable from ???."
+			"name": "Фальшива зовнішність",
+			"desc": "Поки [MON] залишається непорушним, його неможливо відрізнити від ???."
 		},
 		{
-			"name": "Fear Aura",
-			"desc": "Any creature hostile to the [MON] that starts its turn within ??? feet of the [MON] must make a DC ??? Wisdom saving throw, unless the [MON] is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the [MON]'s Fear Aura for the next 24 hours."
+			"name": "Аура страху",
+			"desc": "Будь-яка істота, ворожа до [MON], що починає свій хід у межах ??? футів від [MON], повинна зробити рятівний кидок Мудрості з КС ???, якщо тільки [MON] не недієздатний. У разі невдачі істот налякана до кінця свого наступного ходу. Якщо рятівний кидок успішний, істота має імунітет до аури страху [MON] на наступні 24 години."
 		},
 		{
-			"name": "Fey Ancestry",
-			"desc": "The [MON] has advantage on saving throws against being charmed, and magic can't put the [MON] to sleep."
+			"name": "Спадщина фей",
+			"desc": "[MON] має перевагу на рятівні кидки проти причарування, і магія не може приспати [MON]."
 		},
 		{
-			"name": "Flyby",
-			"desc": "The [MON] doesn't provoke opportunity attacks when it flies out of an enemy's reach."
+			"name": "Пролітання",
+			"desc": "[MON] не провокує атаки при нагоді, коли відлітає за межі досяжності ворога."
 		},
 		{
-			"name": "Freedom of Movement",
-			"desc": "The [MON] ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled."
+			"name": "Свобода рухів",
+			"desc": "[MON] ігнорує важкопрохідну місцевість, і магічні ефекти не можуть зменшити його швидкість чи зробити його скутим. Він може витратити 5 футів переміщення, щоб уникнути магічних пут чи схоплення."
 		},
 		{
-			"name": "Frightful Presence (Action)",
-			"realname": "Frightful Presence",
-			"desc": "Each creature of the [MON]'s choice that is within 120 feet of the [MON] and aware of it must succeed on a DC ??? Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the [MON]'s Frightful Presence for the next 24 hours."
+			"name": "Загрозлива присутність (дія)",
+			"realname": "Загрозлива присутність",
+			"desc": "Кожна істота за вибором [MON], що перебуває у межах 120 футів від [MON] і свідома його присутності, повинна зробити рятівний кидок Мудрості з КС ???, або буде налякана на 1 хвилину. Істота може повторювати рятівний кидок у кінці кожного свого ходу, завершуючи ефект в разі успіху. Якщо рятівний кидок істоти успішний або ефект для неї завершився, ця істота отримує імунітет до загрозливої присутності [MON] на наступні 24 години."
 		},
 		{
-			"name": "Gnome Cunning",
-			"desc": "The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic."
+			"name": "Гномська хитрість",
+			"desc": "Гном має перевагу на рятівні кидки Інтелекту, Мудрості та Харизми проти магії."
 		},
 		{
-			"name": "Grappler",
-			"desc": "The [MON] has advantage on attack rolls against any creature grappled by it."
+			"name": "Схоплювач",
+			"desc": "[MON] має перевагу на кидки атаки проти будь-якої істоти, яку схопив."
 		},
 		{
-			"name": "Healing Touch (Action)",
-			"realname": "Healing Touch (???/day)",
-			"desc": "The [MON] touches another creature. The target magically regains [???D??? + ???] hit points and is freed from any curse, disease, poison, blindness, or deafness."
+			"name": "Цілющий дотик (дія)",
+			"realname": "Цілющий дотик (???/день)",
+			"desc": "[MON] торкається іншої істоти. Ціль магічним чином відновлює [???D??? + ???] пунктів здоров'я і звільняється від будь-якого прокляття, хвороби, отрути, сліпоти чи глухоти."
 		},
 		{
-			"name": "Halfling Nimbleness",
-			"desc": "The halfling can move through the space of any creature that is of a size larger than its own."
+			"name": "Моторність напіврослика",
+			"desc": "Напіврослик може переміщуватися крізь простір будь-якої істоти, чий розмір більший за його."
 		},
 		{
-			"name": "Heated Body",
-			"desc": "A creature that touches the [MON] or hits it with a melee attack while within ??? feet of it takes [???D???] fire damage."
+			"name": "Гаряче тіло",
+			"desc": "Істота, яка торкається [MON] чи влучає по ньому атакою ближнього бою, перебуваючи у межах ??? футів, отримує [???D???] ушкоджень вогнем."
 		},
 		{
-			"name": "Heated Weapons",
-			"desc": "Any metal melee weapon the [MON] wields deals an extra [???D???] fire damage on a hit (included in the attack)."
+			"name": "Гаряча зброя",
+			"desc": "Будь-яка металева зброя ближнього бою, яку тримає [MON], завдає додатково [???D???] ушкоджень вогнем у разі влучання (включені в атаку)."
 		},
 		{
-			"name": "Hellish Weapons",
-			"desc": "The [MON]'s weapon attacks are magical and deal an extra [???D???] poison damage on a hit (included in the attacks)."
+			"name": "Пекельна зброя",
+			"desc": "Атаки [MON] зброєю є магічними та завдають додатково [???D???] ушкоджень отрутою у разі влучання (включені в атаку)."
 		},
 		{
-			"name": "Hold Breath",
-			"desc": "The [MON] can hold its breath for ???."
+			"name": "Затримка дихання",
+			"desc": "[MON] може затримувати дихання на ???."
 		},
 		{
-			"name": "Ice Walk",
-			"desc": "The [MON] can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
+			"name": "Крижана хода",
+			"desc": "[MON] може рухатися через та сходити по крижаних поверхнях без потреби в перевірках здібностей. Крім того, важкопрохідна місцевість із криги чи снігу не коштує для нього додаткового переміщення."
 		},
 		{
-			"name": "Illumination",
-			"desc": "The [MON] sheds bright light in a ???-foot radius and dim light in an additional ??? ft."
+			"name": "Освітлення",
+			"desc": "[MON] випромінює яскраве світло у радіусі ??? футів та тьмяне світло на додаткові ??? ф."
 		},
 		{
-			"name": "Illusory Appearance (Action)",
-			"realname": "Illusory Appearance",
-			"desc": "The [MON] covers itself and anything it is wearing or carrying with a magical illusion that makes it look like another creature of its general size and shape. The effect ends if the [MON] takes a bonus action to end it or if it dies.\nThe changes wrought by this effect fail to hold up to physical inspection. For example, the [MON] could appear to have no claws, but someone touching its hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC ??? Intelligence (Investigation) check to discern that the [MON] is disguised."
+			"name": "Ілюзорний вигляд (дія)",
+			"realname": "Ілюзорний вигляд",
+			"desc": "[MON] приховує себе та все, що має при собі, магічною ілюзією, завдяки якій виглядає як інша істота того ж розміру та форми. Ефект завершується, якщо [MON] застосовує бонусну дію, щоб завершити її або якщо він вмирає.\nЗміни, створені цим ефектом, не витримують фізичного огляду. Наприклад, [MON] може зробити вигляд, що не має пазурів, але вони будуть відчутні, якщо до його рук доторкнуться. В усьому іншому істота повинна витратити дію, щоб візуально обстежити ілюзію та досягти успіху в перевірці Інтелекту (Розслідування) з КС ???, аби визначити, що [MON] замаскувався."
 		},
 		{
-			"name": "Immutable Form",
-			"desc": "The [MON] is immune to any spell or effect that would alter its form."
+			"name": "Незмінна форма",
+			"desc": "[MON] має імунітет до будь-яких чарів чи ефектів, які могли б змінити його форму."
 		},
 		{
-			"name": "Incorporeal",
-			"desc": "The [MON] can move through other creatures and objects as if they were difficult terrain. It takes [???D???] force damage if it ends its turn inside an object."
+			"name": "Безтілесність",
+			"desc": "[MON] може проходити крізь інших істот та предмети, як крізь важкопрохідну місцевість. Він отримує [???D???] ушкоджень чистою енергією, якщо завершує свій хід всередині предмета."
 		},
 		{
-			"name": "Innate Spellcasting (Single Spell)",
-			"realname": "Innate Spellcasting (???/Day)",
-			"desc": "The [MON] can innately cast ??? (spell save DC ???), requiring no material components. Its innate spellcasting ability is ???."
+			"name": "Вроджене чарування (одні чари)",
+			"realname": "Вроджене чарування (???/день)",
+			"desc": "[MON] може вроджено створити ??? (КС рятунку від чарів ???), без потреби в матеріальних складових. Його здібністю для вродженого чарування є ???."
 		},
 		{
-			"name": "Inscrutable",
-			"desc": "The [MON] is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the [MON]'s intentions or sincerity have disadvantage."
+			"name": "Непроникність",
+			"desc": "[MON] має імунітет до будь-якого ефекта, який дозволив би відчути його емоції чи прочитати думки, так само як і до чарів віщування, які він відхиляє. Перевірка Мудрості (Здогадливість) для розпізнання намірів [MON] чи його щирості має перешкоду."
 		},
 		{
-			"name": "Invisibility (Action)",
-			"realname": "Invisibility",
-			"desc": "The [MON] magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the [MON] wears or carries is invisible with it."
+			"name": "Невидимість (дія)",
+			"realname": "Невидимість",
+			"desc": "[MON] магічним чином стає невидимим, допоки не здійснить атаку або не створить чари, або допоки не завершиться концентрація (як при концентрації на чарах). Усе спорядження, яке [MON] має при собі, також стає невидимим."
 		},
 		{
-			"name": "Invisibility (Permanent)",
-			"realname": "Invisibility",
-			"desc": "The [MON] is invisible."
+			"name": "Невидимість (постійна)",
+			"realname": "Невидимість",
+			"desc": "[MON] невидимий."
 		},
 		{
-			"name": "Keen Hearing",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on hearing."
+			"name": "Гострий слух",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух."
 		},
 		{
-			"name": "Keen Sight",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on sight."
+			"name": "Гострий зір",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір."
 		},
 		{
-			"name": "Keen Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on smell."
+			"name": "Гострий нюх",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на нюх."
 		},
 		{
-			"name": "Keen Hearing and Sight",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on hearing or sight."
+			"name": "Гострий слух і зір",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух чи зір."
 		},
 		{
-			"name": "Keen Hearing and Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on hearing or smell."
+			"name": "Гострий слух і нюх",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на слух чи нюх."
 		},
 		{
-			"name": "Keen Sight and Smell",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks that rely on sight or smell."
+			"name": "Гострий зір і нюх",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття), що покладаються на зір чи нюх."
 		},
 		{
-			"name": "Labyrinthine Recall",
-			"desc": "The [MON] can perfectly recall any path it has traveled."
+			"name": "Пам'ять лабіринтів",
+			"desc": "[MON] може ідеально відтворити будь-який пройдений шлях."
 		},
 		{
-			"name": "Leadership (Action)",
-			"realname": "Leadership (Recharges after a Short or Long Rest)",
-			"desc": "For 1 minute, the [MON] can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the [MON]. A creature can benefit from only one Leadership die at a time. This effect ends if the [MON] is incapacitated."
+			"name": "Лідерство (дія)",
+			"realname": "Лідерство (Відновлюється після короткого або тривалого відпочинку)",
+			"desc": "На 1 хвилину [MON] може промовити спеціальну команду чи попередження, коли неворожа істота, яку він може бачити у межах 30 футів робить кидок атаки чи рятівний кидок. Істота може додати d4 до свого кидка, за умови, що могла чути та зрозуміти [MON]. Істота може отримати цей привілей тільки від однієї кістки лідерства за раз. Цей ефект завершується, якщо [MON] недієздатний."
 		},
 		{
-			"name": "Life Drain (Action)",
-			"realname": "Life Drain",
-			"desc": "_Melee Spell Attack:_ +??? to hit, reach ??? ft., one creature. _Hit:_ [???D??? + ???] necrotic damage. The target must succeed on a DC ??? Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0."
+			"name": "Висмокутвання життя (дія)",
+			"realname": "Висмоктування життя",
+			"desc": "_Атака чарами ближнього бою:_ +??? до влучання, досяжність ??? ф., одна дія. _Влучання:_ [???D??? + ???] ушкоджень некротичною енергією. Ціль повинна зробити успішний рятівний кидок Статури з КС ??? або її максимум пунктів здоров'я буде зменшено на кількість отриманих ушкоджень. Це зменшення триває, допоки істота не завершить тривалий відпочинок. Ціль вмирає, якщо цей ефект зменшує максимум пунктів здоров'я цілі до 0."
 		},
 		{
-			"name": "Limited Amphibiousness",
-			"desc": "The [MON] can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating."
+			"name": "Часткова амфібія",
+			"desc": "[MON] може дихати повітрям і водою, але потребує спливання принаймні 1 раз кожні 4 години, щоб уникнути удушення."
 		},
 		{
-			"name": "Limited Magic Immunity",
-			"desc": "The [MON] can't be affected or detected by spells of ??? level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects."
+			"name": "Частковий імунітет до магії",
+			"desc": "[MON] не може зазнати впливу чи бути визначеним чарами ??? рівня або нижчими, якщо тільки сам цього не захоче. Він має перевагу на рятівні кидки проти усіх інших чарів та магічних ефектів."
 		},
 		{
-			"name": "Limited Telepathy",
-			"desc": "The [MON] can magically communicate simple ideas, emotions, and images telepathically with any creature within ??? ft. of it."
+			"name": "Часткова телепатія",
+			"desc": "[MON] може магічним чином передавати прості ідеї, емоції та образ телепатично до будь-якої істоти в межах ??? ф. від себе."
 		},
 		{
-			"name": "Lucky",
-			"desc": "When the [MON] rolls a 1 on the d20 for an attack roll, ability check, or saving throw, it can reroll the die and must use the new roll."
+			"name": "Щасливець",
+			"desc": "Коли [MON] викидає 1 на d20 на кидку атаки, перевірці здібностей чи рятівному кидку, він може перекинути цю кістку й повинен використовувати новий результат."
 		},
 		{
-			"name": "Magic Resistance",
-			"desc": "The [MON] has advantage on saving throws against spells and other magical effects."
+			"name": "Магічна стійкість",
+			"desc": "[MON] має перевагу на рятівні кидки проти чарів та інших магічних ефектів."
 		},
 		{
-			"name": "Magic Weapons",
-			"desc": "The [MON]'s weapon attacks are magical."
+			"name": "Магічна зброя",
+			"desc": "Атаки [MON] зброєю є магічними."
 		},
 		{
-			"name": "Martial Advantage",
-			"desc": "Once per turn, the [MON] can deal an extra [???D???] damage to a creature it hits with a weapon attack if that creature is within 5 ft. of an ally of the [MON] that isn't incapacitated."
+			"name": "Бойова перевага",
+			"desc": "Один раз у хід [MON] може завдати додатково [???D???] ушкоджень істоті, по якій влучив атакою зброї, якщо ця істота перебуває у межах 5 футів від союзника [MON], котрий не є недієздатним."
 		},
 		{
-			"name": "Mimicry",
-			"desc": "The [MON] can mimic ??? sounds it has heard. A creature that hears the sounds can tell they are imitations with a successful DC ??? Wisdom (Insight) check."
+			"name": "Мімікрія",
+			"desc": "[MON] може підробляти ??? звуки, які чув. Істота, яка чує ці звуки, може визначити, що це підробка, успішною перевіркою Мудрості (Здогадливість) з КС ???."
 		},
 		{
-			"name": "Naturally Stealthy",
-			"desc": "The [MON] can attempt to hide even when it is obscured only by a creature that is at least one size larger than itself."
+			"name": "Природна непомітність",
+			"desc": "[MON] може спробувати сховатися, навіть якщо його закриває тільки істота, що всього на один розмір більша за нього."
 		},
 		{
-			"name": "Nimble Escape",
-			"desc": "The [MON] can take the Disengage or Hide action as a bonus action on each of its turns."
+			"name": "Тиха втеча",
+			"desc": "[MON] може Відступити та Сховатися бонусною дією у кожен свій хід."
 		},
 		{
-			"name": "Pack Tactics",
-			"desc": "The [MON] has advantage on an attack roll against a creature if at least one of the [MON]'s allies is within 5 ft. of the creature and the ally isn't incapacitated."
+			"name": "Тактика зграї",
+			"desc": "[MON] має перевагу на кидки атаки проти істоти, якщо принаймні один із союзників [MON] перебуває у межах 5 футів від істоти, і цей союзник не є недієздатним."
 		},
 		{
-			"name": "Parry (Reaction)",
-			"realname": "Parry",
-			"desc": "The [MON] adds ??? to its AC against one melee attack that would hit it. To do so, the [MON] must see the attacker and be wielding a melee weapon."
+			"name": "Парирування (реакція)",
+			"realname": "Парирування",
+			"desc": "[MON] додає ??? до свого КЗ проти однієї атаки ближнього бою, яка мала б по ньому влучити. Щоб зробити це, [MON] повинен бачити нападника і повинен тримати зброю ближнього бою."
 		},
 		{
-			"name": "Petrifying Gaze",
-			"desc": "If a creature starts its turn within ??? ft. of the [MON] and the two of them can see each other, the [MON] can force the creature to make a DC ??? Constitution saving throw if the [MON] isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.\nA creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the [MON] until the start of its next turn, when it can avert its eyes again. If it looks at the [MON] in the meantime, it must immediately make the save.\nIf the [MON] sees its reflection within ??? ft. of it in bright light, it is affected by its own gaze."
+			"name": "Скам'янілий погляд",
+			"desc": "Якщо істота починає свій хід у межах ??? футів від [MON], і вони можуть бачити одне одного, [MON] може змусити істоту зробити рятівний кидок Статури з КС ???, якщо [MON] не недієздатний. У разі невдачі, істота магічним чином починає перетворюватися на камінь і є скутою. Істота має повторити рятівний кидок в кінці свого наступного ходу. В разі успіху ефект завершується. У разі невдачі істота скам'яніла, допоки її не звільнять покращеним відновленням чи іншою магією.\nІстота, яка не захоплена зненацька, може відвести погляд, щоб уникнути ряткидка на початку свого ходу. Якщо вона робить це, то не може бачити [MON] до початку свого наступного ходу, коли знову може відвести очі. Якщо вона подивиться на [MON] в цей час, то повинна негайно зробити рятівний кидок.\nЯкщо [MON] бачить своє відображення у межах ??? ф від себе у яскравому світлі, то піддається впливу власного погляду."
 		},
 		{
-			"name": "Pounce",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
+			"name": "Відскік",
+			"desc": "Якщо [MON] переміщується принаймні на ??? ф. прямо до цілі й потім влучає по ній атакою ??? в той самий хід, ціль отримує додатково [???D???] ??? ушкоджень. Якщо ціль - істота, вона повинна зробити рятівний кидок Сили з КС ??? або буде збита з ніг. Якщо істота збита з ніг, [MON] може зробити ще одну атаку ??? проти цілі за бонусну дію."
 		},
 		{
-			"name": "Rampage",
-			"desc": "When the [MON] reduces a creature to 0 hit points with a melee attack on its turn, the [MON] can take a bonus action to move up to half its speed and make a ??? attack."
+			"name": "Шаленство",
+			"desc": "Коли [MON] зменшує пункти здоров'я істоти до 0 атакою ближнього бою в свій хід, [MON] може застосувати бонусну дію, щоб переміститися на половину своєї швидкості та здійснити атаку ???."
 		},
 		{
-			"name": "Reactive",
-			"desc": "The [MON] can take one reaction on every turn in combat."
+			"name": "Реактивний",
+			"desc": "[MON] може здійснювати одну реакцію під час кожного ходу в бою."
 		},
 		{
-			"name": "Read Thoughts (Action)",
-			"realname": "Read Thoughts",
-			"desc": "The [MON] magically reads the surface thoughts of one creature within ??? ft. of it. The effect can penetrate barriers, but 3 ft. of wood or dirt, 2 ft. of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the [MON] can continue reading its thoughts, as long as the [MON]'s concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the [MON] has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target."
+			"name": "Читання думок (дія)",
+			"realname": "Читання думок",
+			"desc": "[MON] магічним чином читає поверхневі думки однієї істоти в межах ??? ф. від себе. Цей ефект долає бар'єри, але 3 фути дерева або грунту, 2 фути каменя, 2 дюйми метали чи тонкий листсвинцю блокує його. Поки ціль залишається в межах відстані, [MON] може продовжувати читати її думки, допоки концентрація [MON] не перерветься (як концентрація на чарах). Читаючи думки цілі, [MON] має перевагу на перевірки Мудрості (Здогадливість) та Харизми (Обман, Залякування та Переконливість) проти цілі."
 		},
 		{
-			"name": "Reckless",
-			"desc": "At the start of its turn, the [MON] can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn."
+			"name": "Відчайдушність",
+			"desc": "На початку свого ходу [MON] може здобути перевагу на всі атаки зброєю ближнього бою, які робить у цьому ходу, але кидки атаки проти нього також матимуть перевагу до початку його наступного ходу."
 		},
 		{
-			"name": "Regeneration",
-			"desc": "The [MON] regains ??? hit points at the start of its turn if it has at least 1 hit point."
+			"name": "Регенерація",
+			"desc": "[MON] відновлює ??? пунктів здоров'я на початку свого ходу, якщо має принаймні 1 ПЗ."
 		},
 		{
-			"name": "Regeneration (Troll)",
-			"realname": "Regeneration",
-			"desc": "The [MON] regains ??? hit points at the start of its turn. If the [MON] takes acid or fire damage, this trait doesn't function at the start of the [MON]'s next turn. The [MON] dies only if it starts its turn with 0 hit points and doesn't regenerate."
+			"name": "Регенерація (троль)",
+			"realname": "Регенерація",
+			"desc": "[MON] відновлює ??? пунктів здоров'я на початку свого ходу. Якщо [MON] отримує ушкодження кислотою чи вогнем, ця особливість не працює на початку його наступного ходу. [MON] вмирає, тільки якщо на початку свого ходу має 0 пунктів здоров'я і не може регенерувати."
 		},
 		{
-			"name": "Relentless",
-			"realname": "Relentless (Recharges after a Short or Long Rest)",
-			"desc": "If the [MON] takes ??? damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead."
+			"name": "Непохитність",
+			"realname": "Непохитність (Відновлюється після короткого або тривалого відпочинку)",
+			"desc": "Якщо [MON] отримує ??? ушкоджень або менше, що знизить його пункти здоров'я до 0, його ПЗ натомість знижуються до 1."
 		},
 		{
-			"name": "Rust Metal",
-			"desc": "Any nonmagical weapon made of metal that hits the [MON] corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Non magical ammunition made of metal that hits the [MON] is destroyed after dealing damage."
+			"name": "Іржа металу",
+			"desc": "Будь-яка немагічна зброя, яка влучає по [MON], псується. Після завдання ушкоджень зброя отримує постійний і накопичувальний штраф -1 до кидків ушкоджень. Коли цей штраф досягає -5, зброя руйнується. Немагічні снаряди, зроблені з металу, руйнуються після завдання ушкоджень [MON]."
 		},
 		{
-			"name": "Savage Attacks",
-			"desc": "When the [MON] scores a critical hit with a melee weapon attack, it can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit."
+			"name": "Дикі атаки",
+			"desc": "Коли [MON] завдає критичного влучання атакою зброї ближнього бою, він може кинути одну з кісток ушкоджень зброї один додатковий раз і додати ці додакові ушкодження до критичного влучання."
 		},
 		{
-			"name": "Sense Magic",
-			"desc": "The [MON] senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical."
+			"name": "Чуття магії",
+			"desc": "[MON] відчуває магію у межах 120 футів за бажанням. Ця особливість в усьому іншому працює, як чари визначення магії, але сама не є магічною."
 		},
 		{
-			"name": "Shadow Stealth",
-			"desc": "While in dim light or darkness, the [MON] can take the Hide action as a bonus action."
+			"name": "Непомітність у тінях",
+			"desc": "У тьмяному світлі або темряві [MON] може Сховатися бонусною дією."
 		},
 		{
-			"name": "Shapechanger",
-			"desc": "The [MON] can use its action to polymorph into a ???, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+			"name": "Перекидень",
+			"desc": "[MON] може використати дію, щоб перетворитися на ???, або назад у свою істинну форму. Його статистика, за винятком розміру, є тією самою в кожній формі. Будь-яке спорядження, яке було при ньому, не перетворюється. Він повертається до істинної форми, коли вмирає."
 		},
 		{
-			"name": "Shapechanger (Lycanthrope)",
-			"realname": "Shapechanger",
-			"desc": "The [MON] can use its action to polymorph into a ???-humanoid hybrid or into a ???, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+			"name": "Перекидень (Лікантроп)",
+			"realname": "Перекидень",
+			"desc": "[MON] може використати дію, щоб перетворитися на гібрида ???-гуманоїда або на ???, чи назад у свою істинну форму, яка є гуманоїдною. Його статистика, за винятком КЗ, є тією ж у кожній формі. Будь-яке спорядження, яке було при ньому, не перетворюється. Він повертається до істинної форми, коли вмирає."
 		},
 		{
-			"name": "Shielded Mind",
-			"desc": "The [MON] is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location."
+			"name": "Захищений розум",
+			"desc": "[MON] має імунітет до стеження та будь-яких ефектів, які відчувають його емоції, читають думки або визначають розташування."
 		},
 		{
-			"name": "Siege Monster",
-			"desc": "The [MON] deals double damage to objects and structures."
+			"name": "Облоговий монстр",
+			"desc": "[MON] завдає подвійних ушкоджень предметам та будівлям."
 		},
 		{
-			"name": "Sneak Attack",
-			"realname": "Sneak Attack (1/Turn)",
-			"desc": "The [MON] deals an extra [???D???] damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 ft. of an ally of the [MON] that isn't incapacitated and the [MON] doesn't have disadvantage on the attack roll."
+			"name": "Прихована атака",
+			"realname": "Прихована атака (1/хід)",
+			"desc": "[MON] завдає додатково [???D???] ушкоджень, коли влучає по цілі атакою зброї і має перевагу на кидок атаки, або коли у межах 5 футів від цілі є союзник [MON], котрий не є недієздатним, і [MON] не має перешкоди на кидок атаки."
 		},
 		{
-			"name": "Speak With Plants and Beasts",
-			"desc": "The [MON] can communicate with beasts and plants as if they shared a language."
+			"name": "Розмова з рослинами й тваринами",
+			"desc": "[MON] може спілкуватися зі звірами та рослинами, ніби вони мають спільну мову."
 		},
 		{
-			"name": "Spider Climb",
-			"desc": "The [MON] can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check."
+			"name": "Павуче лазіння",
+			"desc": "[MON] може сходити по складних поверхнях, включно з переміщенням догори ногами та по стелі, без потреби в перевірці здібностей."
 		},
 		{
-			"name": "Split (Reaction)",
-			"realname": "Split",
-			"desc": "When a [MON] that is Medium or larger is subjected to lightning or slashing damage, it splits into two new [MON] if it has at least 10 hit points. Each new [MON] has hit points equal to half the original [MON]'s, rounded down. New [MON] are one size smaller than the original [MON]."
+			"name": "Поділ (реакція)",
+			"realname": "Поділ",
+			"desc": "Коли [MON], чий розмір Середній або більший, є ціллю рубаних ушкоджень або блискавки, він розділяється на два нових [MON], якщо має принаймні 10 пунктів здоров'я. Кожен новий [MON] має пункти здоров'я, що дорівнюють половині початковаого [MON], округленим донизу. Нові [MON] є на один розмір меншими, ніж початковий [MON]."
 		},
 		{
-			"name": "Standing Leap",
-			"desc": "The [MON]'s long jump is up to ??? ft. and its high jump is up to ??? ft., with or without a running start."
+			"name": "Стрибок з місця",
+			"desc": "Стрибок [MON] у довжину складає до ??? ф., а його стрибок у висоту - до ??? ф, з розбігом або без нього."
 		},
 		{
-			"name": "Steadfast",
-			"desc": "The [MON] can't be frightened while it can see an allied creature within 30 feet of it."
+			"name": "Непохитний",
+			"desc": "[MON] не може бути наляканий, поки бачить союзну істоту в межах 30 футів від себе."
 		},
 		{
-			"name": "Sunlight Sensitivity",
-			"desc": "While in sunlight, the [MON] has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+			"name": "Чутливість до сонячного світла",
+			"desc": "Перебуваючи у сонячному світлі, [MON] має перешкоду на кидки атаки, а також на перевірки Мудрості (Сприйняття), що покладаються на зір."
 		},
 		{
-			"name": "Sure-Footed",
-			"desc": "The [MON] has advantage on Strength and Dexterity saving throws made against effects that would knock it prone."
+			"name": "Врівноважений",
+			"desc": "[MON] має перевагу на рятівні кидки Сили та Спритності проти ефектів, які збивають з ніг."
 		},
 		{
-			"name": "Surprise Attack",
-			"desc": "If the [MON] surprises a creature and hits it with an attack during the first round of combat, the target takes an extra [???D???] damage from the attack."
+			"name": "Атака зненацька",
+			"desc": "Якщо [MON] захоплює істоту зненацька й влучає по ній атакою під час першого раунду бою, ціль отримує додатково [???D???] ушкоджень від атаки."
 		},
 		{
-			"name": "Swarm",
-			"desc": "The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a ???. The swarm can't regain hit points or gain temporary hit points."
+			"name": "Рій",
+			"desc": "Рій може займати простір іншої істоти, і навпаки, а також може переміщуватися крізь будь-який отвір завбільшки ???. Рій не може відновлювати пункти здоров'я чи мати тимчасові пункти здоров'я."
 		},
 		{
-			"name": "Teleport (Action or Legendary Action)",
-			"realname": "Teleport",
-			"desc": "The [MON] magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
+			"name": "Телепорт (дія або легендарна дія)",
+			"realname": "Телепорт",
+			"desc": "[MON] магічним чином телепортується, разом із усім спорядженням, що має при собі, на відстань до 120 футів у простір, який може бачити."
 		},
 		{
-			"name": "Trampling Charge",
-			"desc": "If the [MON] moves at least ??? ft. straight toward a target and then hits it with a ??? attack on the same turn, the target takes an extra [???D???] ??? damage. If the target is a creature, it must succeed on a DC ??? Strength saving throw or be knocked prone. If the target is prone, the [MON] can make another ??? attack against it as a bonus action."
+			"name": "Витоптування",
+			"desc": "Якщо [MON] переміщується принамйні на ??? ф. прямо до цілі і потім влучає по ній атакою ??? в той самий хід, ціль отримує додатково [???D???] ??? пошкоджень. Якщо ціль - істота, вона повинна зробити рятівний кидок Сили з КС ??? або буде збита з ніг. Якщо істота збита з ніг, [MON] може зробити ще одну атаку ??? проти цілі за бонусну дію."
 		},
 		{
-			"name": "Tunneler",
-			"desc": "The [MON] can burrow through solid rock at half its burrow speed and leaves a ???-foot-diameter tunnel in its wake."
+			"name": "Тунельник",
+			"desc": "[MON] може рити крізь твердий камінь з половиною своєю швидкості риття і залишити по собі тунель діаметром ???-футів."
 		},
 		{
-			"name": "Turn Resistance",
-			"desc": "The [MON] has advantage on saving throws against any effect that turns undead."
+			"name": "Стійкість до вигнання",
+			"desc": "[MON] має перевагу на рятівні кидки проти будь-яких ефектів, які виганяють невмерлих."
 		},
 		{
-			"name": "Two-Headed",
-			"desc": "The [MON] has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious."
+			"name": "Двоголовий",
+			"desc": "[MON] має перевагу на перевірки Мудрості (Сприйняття) та на рятівні кидки проти осліплення, оглушення, причарування, залякування, приголомшення та непритомності."
 		},
 		{
-			"name": "Undead Fortitude",
-			"desc": "If damage reduces the [MON] to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the [MON] drops to 1 hit point instead."
+			"name": "Витривалість невмерлих",
+			"desc": "Якщо ушкодження знижують пункти здоров'я [MON] до 0, він повинен зробити рятівний кидок Статури з КС отримані ушкодження +5, якщо тільки це не ушкодження променистою енергіює або критичне влучання. У разі успіху ПЗ [MON] знижуються до 1."
 		},
 		{
-			"name": "Water Breathing",
-			"desc": "The [MON] can breathe only underwater."
+			"name": "Водне дихання",
+			"desc": "[MON] може дихати тільки під водою."
 		},
 		{
-			"name": "Web Sense",
-			"desc": "While in contact with a web, the [MON] knows the exact location of any other creature in contact with the same web."
+			"name": "Чуття павутиння",
+			"desc": "Перебуваючи в контакті з павутинням, [MON] знає точне розташування будь-яких інших істот, які торкаються цього павутиння."
 		},
 		{
-			"name": "Web Walker",
-			"desc": "The [MON] ignores movement restrictions caused by webbing."
+			"name": "Павуча хода",
+			"desc": "[MON] ігнорує обмеження на переміщення, створені павутинням."
 		},
 		{
-			"name": "Wing Attack (Legendary Action)",
-			"realname": "Wing Attack (Costs 2 Actions)",
-			"desc": "The [MON] beats its wings. Each creature within ??? ft. of the [MON] must succeed on a DC ??? Dexterity saving throw or take [STR ???D???] bludgeoning damage and be knocked prone. The [MON] can then fly up to half its flying speed."
+			"name": "Атака крилами (легендарна дія)",
+			"realname": "Атака крилами (варта 2 дій)",
+			"desc": "[MON] б'є крилами. Кожна істота у межах ??? ф. від [MON] повинна зробити успішних рятівний кидок Спритності з ???, або отримає [STR ???D???] дробильних ушкоджень і буде збита з ніг. [MON] може відлетіти на половину своєї швидкості польоту."
 		},
 		{
 			"name": "",
 			"desc": null
 		},
 		{
-			"name": "Battleaxe",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"name": "Бойова сокира",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] рубаних ушкоджень, або [STR 1D10] рубаних ушкоджень, якщо тримає двома руками."
 		},
 		{
-			"name": "Blowgun",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 25/100 ft., one target. _Hit:_ [DEX 1] piercing damage."
+			"name": "Духова трубка",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 25/100 ф., одна ціль. _Влучання:_ [DEX 1] колотих ушкоджень."
 		},
 		{
-			"name": "Club",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
+			"name": "Кийок",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D4] дробильних ушкоджень."
 		},
 		{
-			"name": "Dagger (STR)",
-			"realname": "Dagger",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D4] piercing damage."
+			"name": "Кинджал (СИЛ)",
+			"realname": "Кинджал",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D4] колотих ушкоджень."
 		},
 		{
-			"name": "Dagger (DEX)",
-			"realname": "Dagger",
-			"desc": "_Melee or Ranged Weapon Attack:_ [DEX ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [DEX 1D4] piercing damage."
+			"name": "Кинджал (СПР)",
+			"realname": "Кинджал",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [DEX ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
-			"name": "Dart (STR)",
-			"realname": "Dart",
-			"desc": "_Ranged Weapon Attack:_ [STR ATK] to hit, range 20/60 ft., one target. _Hit:_ [STR 1D4] piercing damage."
+			"name": "Дротик (СИЛ)",
+			"realname": "Дротик",
+			"desc": "_Далекобійна атака зброєю:_ [STR ATK] до влучання, відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D4] колотих ушкоджень."
 		},
 		{
-			"name": "Dart (DEX)",
-			"realname": "Dart",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 20/60 ft., one target. _Hit:_ [DEX 1D4] piercing damage."
+			"name": "Дротик (СПР)",
+			"realname": "Дротик",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 20/60 ф., одна ціль. _Влучання:_ [DEX 1D4] колотих ушкоджень."
 		},
 		{
-			"name": "Flail",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"name": "Ціп",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] дробильних ушкоджень."
 		},
 		{
-			"name": "Glaive",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"name": "Глефа",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [STR 1D10] рубаних ушкоджень."
 		},
 		{
-			"name": "Greataxe",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D12] slashing damage."
+			"name": "Дворучна сокира",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D12] рубаних ушкоджень."
 		},
 		{
-			"name": "Greatclub",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage."
+			"name": "Дубина",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] дробильних ушкоджень."
 		},
 		{
-			"name": "Greatsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] slashing damage."
+			"name": "Дворучний меч",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 2D6] рубаних ушкоджень."
 		},
 		{
-			"name": "Halberd",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] slashing damage."
+			"name": "Алебарда",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [STR 1D10] рубаних ушкоджень."
 		},
 		{
-			"name": "Handaxe",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] slashing damage."
+			"name": "Ручна сокира",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D6] рубаних ушкоджень."
 		},
 		{
-			"name": "Hand Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"name": "Ручний арбалет",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 30/120 ф., одна ціль. _Влучання:_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
-			"name": "Heavy Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 100/400 ft., one target. _Hit:_ [DEX 1D10] piercing damage."
+			"name": "Важкий арбалет",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 100/400 ф., одна ціль. _Влучання:_ [DEX 1D10] колотих ушкоджень."
 		},
 		{
-			"name": "Javelin",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ [STR 1D6] piercing damage."
+			"name": "Метальний спис",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 30/120 ф., одна ціль. _Влучання:_ [STR 1D6] колотих ушкоджень."
 		},
 		{
-			"name": "Lance",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D12] piercing damage."
+			"name": "Кавалерійський спис",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [STR 1D12] колотих ушкоджень."
 		},
 		{
-			"name": "Light Crossbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"name": "Легкий арбалет",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 80/320 ф., одна ціль. _Влучання:_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Light Hammer",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D4] bludgeoning damage."
+			"name": "Легкий молот",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D4] дробильних ушкоджень."
 		},
 		{
-			"name": "Longbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 150/600 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"name": "Довгий лук",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 150/600 ф., одна ціль. _Влучання:_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Longsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] slashing damage, or [STR 1D10] slashing damage if used with two hands."
+			"name": "Довгий меч",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] рубаних ушкоджень, або [STR 1D10] рубаних ушкоджень, якщо тримає двома руками."
 		},
 		{
-			"name": "Mace",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage."
+			"name": "Булава",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] дробильних ушкоджень."
 		},
 		{
-			"name": "Maul",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 2D6] bludgeoning damage."
+			"name": "Вершляг",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 2D6] дробильних ушкоджень."
 		},
 		{
-			"name": "Morningstar",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"name": "Моргенштерн",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Net",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 5/15 ft., one Large or smaller creature. _Hit:_ The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net."
+			"name": "Сітка",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 5/15 ft., одна істота, чий розмір Великий або менший. _Влучання:_ Ціль скута. Істота може використатю свою дію для перевірки Сили з КС 10, щоб звільнити себе чи іншу істоту з сітки, завершуючи ефект в разу успіху. Завдання сітці 5 рубаних ушкоджень (КЗ 10) безболісно звільняє ціль і руйнує сітку."
 		},
 		{
-			"name": "Pike",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D10] piercing damage."
+			"name": "Піка",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [STR 1D10] колотих ушкоджень."
 		},
 		{
-			"name": "Quarterstaff",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] bludgeoning damage, or [STR 1D8] bludgeoning damage if used with two hands."
+			"name": "Бойовий посох",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] дробильних ушкоджень, або [STR 1D8] дробильних ушкоджень, якщо тримає двома руками."
 		},
 		{
-			"name": "Rapier (STR)",
-			"realname": "Rapier",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"name": "Рапіра (СИЛ)",
+			"realname": "Рапіра",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Rapier (DEX)",
-			"realname": "Rapier",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D8] piercing damage."
+			"name": "Рапіра (СПР)",
+			"realname": "Рапіра",
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Scimitar (STR)",
-			"realname": "Scimitar",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] slashing damage."
+			"name": "Скимитар (СИЛ)",
+			"realname": "Скимитар",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] рубаних ушкоджень."
 		},
 		{
-			"name": "Scimitar (DEX)",
-			"realname": "Scimitar",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] slashing damage."
+			"name": "Скимитар (СПР)",
+			"realname": "Скимитар",
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D6] рубаних ушкоджень."
 		},
 		{
-			"name": "Shortbow",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 80/320 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"name": "Короткий лук",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 80/320 ф., одна ціль. _Влучання:_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
-			"name": "Shortsword (STR)",
-			"realname": "Shortsword",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D6] piercing damage."
+			"name": "Короткий меч (СИЛ)",
+			"realname": "Короткий меч",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D6] колотих ушкоджень."
 		},
 		{
-			"name": "Shortsword (DEX)",
-			"realname": "Shortsword",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 5 ft., one target. _Hit:_ [DEX 1D6] piercing damage."
+			"name": "Короткий меч (СПР)",
+			"realname": "Короткий меч",
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [DEX 1D6] колотих ушкоджень."
 		},
 		{
-			"name": "Sickle",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"name": "Серп",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D4] рубаних ушкоджень."
 		},
 		{
-			"name": "Sling",
-			"desc": "_Ranged Weapon Attack:_ [DEX ATK] to hit, range 30/120 ft., one target. _Hit:_ [DEX 1D4] bludgeoning damage."
+			"name": "Праща",
+			"desc": "_Далекобійна атака зброєю:_ [DEX ATK] до влучання, відстань 30/120 ф., одна ціль. _Влучання:_ [DEX 1D4] дробильних ушкоджень."
 		},
 		{
-			"name": "Spear",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] piercing damage, or [STR 1D8] piercing damage if used with two hands to make a melee attack."
+			"name": "Спис",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D6] колотих ушкоджень, або [STR 1D8] колотих ушкоджень, якщо тримає двома руками для атаки ближнього бою."
 		},
 		{
-			"name": "Trident",
-			"desc": "_Melee or Ranged Weapon Attack:_ [STR ATK] to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ [STR 1D6] piercing damage, or [STR 1D8] piercing damage if used with two hands to make a melee attack."
+			"name": "Тризуб",
+			"desc": "_Атака зброєю ближнього бою або далекобійна:_ [STR ATK] до влучання, досяжність 5 ф., або відстань 20/60 ф., одна ціль. _Влучання:_ [STR 1D6] колотих ушкоджень, або [STR 1D8] колотих ушкоджень, якщо тримає двома руками для атаки ближнього бою."
 		},
 		{
-			"name": "Unarmed Strike",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1] bludgeoning damage."
+			"name": "Беззбройний удар",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1] дробильних ушкоджень."
 		},
 		{
-			"name": "Warhammer",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] bludgeoning damage, or [STR 1D10] bludgeoning damage if used with two hands."
+			"name": "Бойовий молот",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] дробильних ушкоджень, або [STR 1D10] дробильних ушкоджень, якщо тримає двома руками."
 		},
 		{
-			"name": "War Pick",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 5 ft., one target. _Hit:_ [STR 1D8] piercing damage."
+			"name": "Клевець",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 5 ф., одна ціль. _Влучання:_ [STR 1D8] колотих ушкоджень."
 		},
 		{
-			"name": "Whip (STR)",
-			"realname": "Whip",
-			"desc": "_Melee Weapon Attack:_ [STR ATK] to hit, reach 10 ft., one target. _Hit:_ [STR 1D4] slashing damage."
+			"name": "Батіг (СИЛ)",
+			"realname": "Батіг",
+			"desc": "_Атака зброєю ближнього бою:_ [STR ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [STR 1D4] рубаних ушкоджень."
 		},
 		{
-			"name": "Whip (DEX)",
-			"realname": "Whip",
-			"desc": "_Melee Weapon Attack:_ [DEX ATK] to hit, reach 10 ft., one target. _Hit:_ [DEX 1D4] slashing damage."
+			"name": "Батіг (СПР)",
+			"realname": "Батіг",
+			"desc": "_Атака зброєю ближнього бою:_ [DEX ATK] до влучання, досяжність 10 ф., одна ціль. _Влучання:_ [DEX 1D4] рубаних ушкоджень."
 		}
 	]
 }
