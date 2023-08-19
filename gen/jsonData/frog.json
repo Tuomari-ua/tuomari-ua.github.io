@@ -1,1 +1,53 @@
-{"damage_resistances":"","reactions":[],"subtype":"","senses":"темний зір 30 ф, пасивна Увага 11","languages":"-","dexterity_save":"","strength":"1","condition_immunities":"","alignment":"невизначений","name":"Жаба","charisma_save":"","charisma":"1","hit_points":"1","intelligence":"1","constitution":"8","skills":{"сприйняття":"1","непомітність":"3"},"damage_vulnerabilities":"","wisdom":"8","speed":{"walk":"20 ф","swim":"20 ф."},"strength_save":"","hit_dice":"1к4 - 1","wisdom_save":"","slug":"frog","special_abilities":[],"armor_desc":"","intelligence_save":"","size":"tiny","type":"Звір","constitution_save":"","dexterity":"13","armor_class":"","challenge_rating":"0","actions":[],"legendary_desc":"","legendary_actions":"","damage_immunities":""}
+{
+    "actions": [],
+    "alignment": "невизначений",
+    "armor_class": "",
+    "armor_desc": "",
+    "challenge_rating": "0",
+    "charisma": "1",
+    "charisma_save": "",
+    "condition_immunities": "",
+    "constitution": "8",
+    "constitution_save": "",
+    "damage_immunities": "",
+    "damage_resistances": "",
+    "damage_vulnerabilities": "",
+    "dexterity": "13",
+    "dexterity_save": "",
+    "hit_dice": "1к4 - 1",
+    "hit_points": "1",
+    "intelligence": "1",
+    "intelligence_save": "",
+    "languages": "-",
+    "legendary_actions": "",
+    "legendary_desc": "",
+    "name": "Жаба",
+    "reactions": [],
+    "senses": "темний зір 30 ф, пасивна Увага 11",
+    "size": "tiny",
+    "skills": {
+        "непомітність": "3",
+        "сприйняття": "1"
+    },
+    "slug": "frog",
+    "special_abilities": [
+        {
+            "desc": "Жаба може дихати повітрям і водою.",
+            "name": "Амфібія"
+        },
+        {
+            "desc": "Жаба може стрибати в довжину до 10 футів, а в висоту - до 5 футів, з розбігом або без.",
+            "name": "Стрибок із місця"
+        }
+    ],
+    "speed": {
+        "swim": "20 ф.",
+        "walk": "20 ф"
+    },
+    "strength": "1",
+    "strength_save": "",
+    "subtype": "",
+    "type": "Звір",
+    "wisdom": "8",
+    "wisdom_save": ""
+}
