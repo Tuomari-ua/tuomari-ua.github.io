@@ -50,7 +50,7 @@
             <div id="monster-select-form">Налаштування монстра: <select id="monster-select">
                     <!-- <option value="">-Виберіть-</option> -->
                     <option value="default">Скинути все</option>
-                </select> <button type="button" id="monster-select-button" onclick="InputFunctions.GetPreset()">Застосувати</button></div>
+                </select> <button type="button" id="monster-select-button" onclick="InputFunctions.GetPreset()">Скинути все</button></div>
             <br>
 
             <!-- The Actual Stat Block -->
@@ -230,7 +230,7 @@
                                         id="shield-input" type="checkbox">)</label></div>
                         </td>
                         <td colspan="2">
-                            <div id="natarmor-prompt"><label for="natarmor-input">Бонус натуральної броні:<br><input
+                            <div id="natarmor-prompt"><label for="natarmor-input">Бонус природної броні:<br><input
                                         type="number" id="natarmor-input" min="1" max="99" value="3"></label></div>
                             <div id="otherarmor-prompt">
                                 <label for="otherarmor-input">Опис: <input id="otherarmor-input" type="text"
@@ -332,7 +332,7 @@
 								<option value="природа">Природа</option>
 								<option value="релігія">Релігія</option>
 								<option value="розслідування">Розслідування</option>
-                                <option value="сприйняття">Сприйняття</option>
+                                <option value="сприйняття">Увага</option>
 								<option value="спритність рук">Спритність рук</option>
                             </select>
                             <button type="button" onclick="InputFunctions.AddSkillInput()">Опановані</button>
@@ -482,7 +482,7 @@
                         <label for="custom-cr-input">КН: <input id="custom-cr-input" type="text" value="1 (200 XP)"
                                 placeholder="Leave blank to hide" style="width: 16rem;"></label>
                         <br>
-                        <label for="custom-prof-input">Бонус досвіду: <input type="number" id="custom-prof-input"
+                        <label for="custom-prof-input">Бонус майстерсності: <input type="number" id="custom-prof-input"
                                 min="-99" max="99" value="2"></label>
                     </div>
                     <br>
@@ -502,7 +502,7 @@
                     </tr>
                     <tr>
                         <td>
-                            <label for="plural-name-input" style="text-align: right; width: 100%;">Shortened Plural:</label>
+                            <label for="plural-name-input" style="text-align: right; width: 100%;">Скорочено в множині:</label>
                         </td>
                         <td>
                             <input id="plural-name-input" type="text" value="" placeholder="None" style="width: 30%;">
@@ -550,10 +550,10 @@
                 </div>
                 <div id="regional-actions-form">
                     <br>
-                    <b>Regional Effects Description:</b>
+                    <b>Опис ефектів місцевості:</b>
                     <div><label for="regional-descsection-input" style="width: 100%"><textarea
                                 id="regional-descsection-input" rows="4"></textarea></label></div>
-                    <b>Regional Effects End Note Description:</b>
+                    <b>Опис кінцевої примітки до ефектів місцевості:</b>
                     <div><label for="regional-end-descsection-input" style="width: 100%"><textarea
                                 id="regional-end-descsection-input" rows="4"></textarea></label></div>
                     <div><button type="button" onclick="InputFunctions.RegionalDescriptionDefaultInput()">Скинути до замовчання</button></div>
@@ -634,7 +634,7 @@
             </div>
             <div class="footer"><a href="https://github.com/Tetra-cube/Tetra-cube.github.io">Генератор взято тут</a>, перекладено українською @Olha_Tuomari за сприяння @Mokeiev для cпільноти ІНРІУМ
             <br><a href="http://5esrd.kyiv.ua/"><b>Повернутися на сайт із перекладом SRD</b></a>
-            <</div>
+            </div>
         </div>
     </div>
 </body>

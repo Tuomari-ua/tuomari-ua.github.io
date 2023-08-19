@@ -1711,11 +1711,11 @@ var StringFunctions = {
         if (mon.truesight > 0) sensesDisplayArr.push("істинний зір " + mon.truesight + " ф.");
 
         // Passive Perception
-        let ppData = ArrayFunctions.FindInList(mon.skills, "Сприйняття"),
+        let ppData = ArrayFunctions.FindInList(mon.skills, "Увага"),
             pp = 10 + MathFunctions.PointsToBonus(mon.wisPoints);
         if (ppData != null)
             pp += CrFunctions.GetProf() * (ppData.hasOwnProperty("note") ? 2 : 1);
-        sensesDisplayArr.push("пасивне Сприйняття " + pp);
+        sensesDisplayArr.push("пасивна Увага " + pp);
         return sensesDisplayArr.join(", ");
     },
 
