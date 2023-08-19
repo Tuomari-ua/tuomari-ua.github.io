@@ -941,7 +941,7 @@ var InputFunctions = {
             UpdateStatblock();
             return;
         }
-        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/jsonData/" + name + ".json", function (jsonArr) {
+        $.getJSON("https://raw.githubusercontent.com/Tuomari-ua/tuomari-ua.github.io/main/gen/jsonData/" + name + ".json", function (jsonArr) {
             GetVariablesFunctions.SetPreset(jsonArr);
             FormFunctions.SetForms();
             UpdateStatblock();
@@ -1988,7 +1988,7 @@ var ArrayFunctions = {
     // Document ready function
     $(function () {
         // Load the preset monster names
-        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/monsters.json", function (srdArr) {
+        $.getJSON("https://raw.githubusercontent.com/Tuomari-ua/tuomari-ua.github.io/main/gen/monsters.json", function (srdArr) {
             let monsterSelect = $("#monster-select");
             monsterSelect.append("<option value=''></option>");
             monsterSelect.append("<option value=''>-5e SRD-</option>");
