@@ -164,7 +164,7 @@
 		},
 		"huge": {
 			"hitDie": 12,
-			"localizedName": "величезного "
+			"localizedName": "величезного"
 		},
 		"gargantuan": {
 			"hitDie": 20,
