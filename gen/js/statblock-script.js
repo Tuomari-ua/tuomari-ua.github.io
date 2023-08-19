@@ -1988,7 +1988,7 @@ var ArrayFunctions = {
     // Document ready function
     $(function () {
         // Load the preset monster names
-        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/jsonData/monsters.json", function (srdArr) {
+        $.getJSON("https://raw.githubusercontent.com/IevgenMokeiev/test-statgen/main/gen/monsters.json", function (srdArr) {
             let monsterSelect = $("#monster-select");
             monsterSelect.append("<option value=''></option>");
             monsterSelect.append("<option value=''>-5e SRD-</option>");
