@@ -11,18 +11,18 @@ layout: default
 
 | Класи                                         | Раси                                                |Інше
 |-----------------------------------------------|-----------------------------------------------------|----------------------------------------------|
-| 🇺🇦 [Бард](./docs/character/classes/bard.html) | 🇺🇦 [Гном](./docs/character/races/gnome.html)                | 🇺🇦 [Світогляд](./docs/character/alignment.html)     |
+| 🇺🇦 [Бард](./docs/character/classes/bard.html)    | 🇺🇦 [Гном](./docs/character/races/gnome.html)                | 🇺🇦 [Світогляд](./docs/character/alignment.html)     |
 | 🇺🇦 [Боєць](./docs/character/classes/fighter.html)| 🇺🇦 [Дворф](./docs/character/races/dwarf.html)               | 🇺🇦 [Передісторії](./docs/character/backgrounds.html)|   
-| 🇺🇦 [Варвар](./docs/character/classes/barbarian.html)| 🇺🇦 [Драконороджений](./docs/character/races/dragonborn.html)| 🇺🇦 [Мови](./docs/character/languages.html)          |
-| 🇺🇦 [Друїд](./docs/character/classes/druid.html)| 🇺🇦 [Ельф](./docs/character/races/elf.html)                  | 🇺🇦 [Пантеони](./docs/character/fantasy-historical_pantheons.html)  |
-| 🇺🇦 [Заклинач](./docs/character/classes/sorcerer.html)| 🇺🇦 [Людина](./docs/character/races/human.html)              | |
-| 🇺🇦 [Клірик](./docs/character/classes/cleric.html)    | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)        | |
-| 🇺🇦 [Маг](./docs/character/classes/wizard.html)       | 🇺🇦 [Напіворк](./docs/character/races/half-orc.html)         | |
-| 🇺🇦 [Монах](./docs/character/classes/monk.html)       | 🇺🇦 [Напіврослик](./docs/character/races/halfling.html)      | |
-| 🇺🇦 [Паладин](./docs/character/classes/paladin.html)  | 🇺🇦 [Тифлінґ](./docs/character/races/tiefling.html)          | |
-| 🇺🇦 [Пройдисвіт](./docs/character/classes/rogue.html) | | |
-| 🇺🇦 [Рейнджер](./docs/character/classes/ranger.html)  | | |
-| 🇺🇦 [Чаклун](./docs/character/classes/warlock.html)   | | |
+| 🇺🇦 [Варвар](./docs/character/classes/barbarian.html)| 🇺🇦 [Драконородний](./docs/character/races/dragonborn.html)| 🇺🇦 [Мови](./docs/character/languages.html)          |
+| 🇺🇦 [Друїд](./docs/character/classes/druid.html)  | 🇺🇦 [Ельф](./docs/character/races/elf.html)                  | 🇺🇦 [Пантеони](./docs/character/fantasy-historical_pantheons.html)  |
+| 🇺🇦 [Клірик](./docs/character/classes/cleric.html)| 🇺🇦 [Людина](./docs/character/races/human.html)              | |
+| 🇺🇦 [Маг](./docs/character/classes/sorcerer.html) | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)        | |
+| 🇺🇦 [Монах](./docs/character/classes/monk.html)   | 🇺🇦 [Напіворк](./docs/character/races/half-orc.html)         | |
+| 🇺🇦 [Паладин](./docs/character/classes/paladin.html) | 🇺🇦 [Піврослик](./docs/character/races/halfling.html)      | |
+| 🇺🇦 [Пройдисвіт](./docs/character/classes/rogue.html)| 🇺🇦 [Тифлін](./docs/character/races/tiefling.html)          | |
+| 🇺🇦 [Рейнджер](./docs/character/classes/ranger.html) | | |
+| 🇺🇦 [Чаклун](./docs/character/classes/warlock.html)  | | |
+| 🇺🇦 [Чарівник](./docs/character/classes/wizard.html) | | |
 
 # Здібності
 
@@ -52,7 +52,7 @@ layout: default
 |---------------------------------------------------------|---------------------------------------------------------|
 | 🇺🇦 [Підвищення рівня](./docs/rules/leveling_up.html)           | 🇺🇦 [Перевага та перешкода](./docs/rules/advantage_and_disadvantage.html) |
 | 🇺🇦 [Мультиклас](./docs/rules/multiclassing.html)               | 🇺🇦 [Стани](./docs/rules/conditions.html)|
-| 🇺🇦 [Бонус досвіду](./docs/rules/proficiency_bonus.html)        | 🇺🇦 [Натхнення](./docs/rules/inspiration.html)  |
+| 🇺🇦 [Бонус майстерності](./docs/rules/proficiency_bonus.html)   | 🇺🇦 [Натхнення](./docs/rules/inspiration.html)  |
 | 🇺🇦 [Уміння](/docs/rules/feats.html)                            | 🇺🇦 [Витрати](./docs/rules/expenses.html) |
 
 # Бій
@@ -67,23 +67,23 @@ layout: default
 
 | Чарування                                   | Списки чарів                           | Списки чарів за класами                   |
 |------------------------------------------------|----------------------------------------|-------------------------------------------|
-| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [🇺🇦 Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard)         |
-| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [🇺🇦 Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)     |
+| [🇺🇦 Створення чарів](./docs/spellcasting/casting_a_spell.html)| [🇺🇦 Чари за рівнями](./docs/spellcasting/indexes/index_all_level.html) | [Бард](./docs/spellcasting/indexes/index_all_class.html#bard) |
+| [🇺🇦 Що таке чари?](./docs/spellcasting/what_is_a_spell.html) | [🇺🇦 Чари за назвами](./docs/spellcasting/indexes/index_all_list.html)   | [Клірик](./docs/spellcasting/indexes/index_all_class.html#cleric)|
 |                                                | [🇺🇦 Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
 |                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
 |                                                |                                        | [Рейнджер](./docs/spellcasting/indexes/index_all_class.html#ranger)     |
-|                                                |                                        | [Заклинач](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
+|                                                |                                        | [Маг](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
 |                                                |                                        | [Чаклун](./docs/spellcasting/indexes/index_all_class.html#warlock)   |
-|                                                |                                        | [Маг](./docs/spellcasting/indexes/index_all_class.html#wizard)     |
+|                                                |                                        | [Чарівник](./docs/spellcasting/indexes/index_all_class.html#wizard)     |
 
 
 # Правила Майстра
 
 | Додаткові обставини                            | Списки предметів                       | Списки монстрів                                   |
 |------------------------------------------------|----------------------------------------|---------------------------------------------------|
-| [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)   | [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
+| [🇺🇦 Хвороби](./docs/gamemaster_rules/diseases.html)| [Предмети за назвою](./docs/gamemaster_rules/indexes/items_alllist.html) | [Монстри за назвою](./docs/gamemaster_rules/indexes/monsters_alllist.html) |
 | [🇺🇦 Легендарні істоти](./docs/gamemaster_rules/legendary_creatures.html)| [Предмети за типом](./docs/gamemaster_rules/indexes/items_typelist.html) | [Монстри за типом](./docs/gamemaster_rules/indexes/monsters_typelist.html) |
-| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)     | [Предмети за рідкісністю](./docs/gamemaster_rules/indexes/items_raritylist.html)                                  | [Монстри за КН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
+| [🇺🇦 Божевілля](./docs/gamemaster_rules/madness.html)| [Предмети за рідкісністю](./docs/gamemaster_rules/indexes/items_raritylist.html)| [Монстри за КН](./docs/gamemaster_rules/indexes/monsters_crlist.html)     |
 | [🇺🇦 Магічні предмети](./docs/gamemaster_rules/magic_items.html)|                                   | 👉 [Генератор монстрів](./gen/)                                                  |
 | [🇺🇦 Правила монстрів](./docs/gamemaster_rules/monster_rules.html) |                               |                                                   |
 | [🇺🇦 Негральні персонажі](./docs/gamemaster_rules/nonplayer_characters.html)|                       |                                                   |
