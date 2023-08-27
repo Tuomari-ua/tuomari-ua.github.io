@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 2
 classes: druid, ranger
-title: Переміщення без слідів [Pass without Trace]
+title: Переміщення без сліду [Pass without Trace]
 ---
 
 _Перешкоджання, 2 рівень; друїд, рейнджер_  
