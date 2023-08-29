@@ -4,7 +4,7 @@ layout: page
 tag: Перетворення
 level: 0
 classes: cleric
-title: Чудотворення [Thaumaturgy]
+title: Дивотворство [Thaumaturgy]
 ---
 
 _Перетворення, замовляння; клірик_    
