@@ -24,5 +24,6 @@ layout: page
 - Shakigen
 - Євген Мокеєв
 - Helene Serpens
+- Олег Акві
 
 Cписок доповнюється
