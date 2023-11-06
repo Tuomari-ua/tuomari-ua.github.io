@@ -4,7 +4,7 @@ layout: page
 tag: Перешкоджання
 level: 1
 classes: sorcerer, wizard
-title: Обладунок чарівника [Mage Armor]
+title: Обладунок мага [Mage Armor]
 ---
 
 _Перешкоджання, 1 рівень; заклинач, чарівник_    
