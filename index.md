@@ -16,7 +16,7 @@ layout: default
 | 🇺🇦 [Варвар](./docs/character/classes/barbarian.html)| 🇺🇦 [Драконородний](./docs/character/races/dragonborn.html)| 🇺🇦 [Мови](./docs/character/languages.html)          |
 | 🇺🇦 [Друїд](./docs/character/classes/druid.html)  | 🇺🇦 [Ельф](./docs/character/races/elf.html)                  | 🇺🇦 [Пантеони](./docs/character/fantasy-historical_pantheons.html)  |
 | 🇺🇦 [Клірик](./docs/character/classes/cleric.html)| 🇺🇦 [Людина](./docs/character/races/human.html)              | |
-| 🇺🇦 [Маг](./docs/character/classes/sorcerer.html) | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)        | |
+| 🇺🇦 [Заклинач](./docs/character/classes/sorcerer.html) | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)        | |
 | 🇺🇦 [Монах](./docs/character/classes/monk.html)   | 🇺🇦 [Напіворк](./docs/character/races/half-orc.html)         | |
 | 🇺🇦 [Паладин](./docs/character/classes/paladin.html) | 🇺🇦 [Піврослик](./docs/character/races/halfling.html)      | |
 | 🇺🇦 [Пройдисвіт](./docs/character/classes/rogue.html)| 🇺🇦 [Тифлін](./docs/character/races/tiefling.html)          | |
@@ -72,7 +72,7 @@ layout: default
 |                                                | [🇺🇦 Чари за школами](./docs/spellcasting/indexes/index_all_school.html) | [Друїд](./docs/spellcasting/indexes/index_all_class.html#druid)       |
 |                                                |                                        | [Паладин](./docs/spellcasting/indexes/index_all_class.html#paladin)   |
 |                                                |                                        | [Рейнджер](./docs/spellcasting/indexes/index_all_class.html#ranger)     |
-|                                                |                                        | [Маг](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
+|                                                |                                        | [Заклинач](./docs/spellcasting/indexes/index_all_class.html#sorcerer) |
 |                                                |                                        | [Чаклун](./docs/spellcasting/indexes/index_all_class.html#warlock)   |
 |                                                |                                        | [Чарівник](./docs/spellcasting/indexes/index_all_class.html#wizard)     |
 
