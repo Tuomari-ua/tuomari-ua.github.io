@@ -1,7 +1,7 @@
-]---
+---
 layout: page-nontoc
 category: monsters
-title: Маг
+title: Маг [Mage]
 type: Гуманоїд
 tag: 6
 ---
