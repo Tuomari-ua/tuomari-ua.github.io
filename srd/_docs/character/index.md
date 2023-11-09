@@ -16,7 +16,7 @@ title: Персонаж
 * [Боєць](/docs/character/classes/fighter.html)
 * [Варвар](/docs/character/classes/barbarian.html)
 * [Друїд](/docs/character/classes/druid.html)
-* [Маг](/docs/character/classes/sorcerer.html)
+* [Заклинач](/docs/character/classes/sorcerer.html)
 * [Клірик](/docs/character/classes/cleric.html)
 * [Чарівник](/docs/character/classes/wizard.html)
 * [Монах](/docs/character/classes/monk.html)

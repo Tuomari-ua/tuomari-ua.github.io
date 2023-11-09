@@ -23,6 +23,6 @@ title: Чарування
 * [Друїд](/docs/spellcasting/indexes/index_all_class.html#druid)
 * [Паладин](/docs/spellcasting/indexes/index_all_class.html#paladin)
 * [Рейнджер](/docs/spellcasting/indexes/index_all_class.html#ranger)
-* [Маг](/docs/spellcasting/indexes/index_all_class.html#sorcerer)
+* [Заклинач](/docs/spellcasting/indexes/index_all_class.html#sorcerer)
 * [Чаклун](/docs/spellcasting/indexes/index_all_class.html#warlock)
 * [Чарівник](/docs/spellcasting/indexes/index_all_class.html#wizard)
