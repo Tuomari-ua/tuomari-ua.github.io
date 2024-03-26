@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий латунний дракон
+title: Дорослий латунний дракон [Adult brass dragon]
 type: Дракон
 tag: 13
 ---

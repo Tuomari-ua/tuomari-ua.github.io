@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лицар
+title: Лицар [Knight]
 type: Гуманоїд
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пурпурний черв
+title: Пурпурний черв [Purple worm]
 type: Чудовисько
 tag: 15
 ---

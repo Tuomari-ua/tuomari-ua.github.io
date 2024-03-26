@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий срібний дракон
+title: Молодий срібний дракон [Young silver dragon]
 type: Дракон
 tag: 9
 ---

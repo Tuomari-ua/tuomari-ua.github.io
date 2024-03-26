@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мумія
+title: Мумія [Mummy]
 type: Невмерлий
 tag: 3
 ---

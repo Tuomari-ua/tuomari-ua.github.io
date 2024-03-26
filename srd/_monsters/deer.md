@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Олень
+title: Олень [Deer]
 type: Звір
 tag: 0
 ---

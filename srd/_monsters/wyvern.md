@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Виверна
+title: Виверна [Vyvern]
 type: Дракон
 tag: 6
 ---

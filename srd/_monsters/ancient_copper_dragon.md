@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній мідний дракон
+title: Древній мідний дракон [Ancient copper dragon]
 type: Дракон
 tag: 21
 ---

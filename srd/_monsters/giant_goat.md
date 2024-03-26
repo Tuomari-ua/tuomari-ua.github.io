@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна коза
+title: Величезна коза [Giant goat]
 type: Звір
 tag: 0.5
 ---

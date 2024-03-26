@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна сова
+title: Величезна сова [Giant owl]
 type: Звір
 tag: 0.25
 ---

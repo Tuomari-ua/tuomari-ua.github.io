@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Еринія
+title: Еринія [Erinyes]
 type: Погань
 tag: 12
 ---

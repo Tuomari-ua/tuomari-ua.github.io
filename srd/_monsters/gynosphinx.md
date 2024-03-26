@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гайносфінкс
+title: Гайносфінкс [Gynosphinx]
 type: Чудовисько
 tag: 11
 ---

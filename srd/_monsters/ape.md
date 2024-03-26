@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Людиноподібна мавпа
+title: Людиноподібна мавпа [Ape]
 type: Звір
 tag: 0.5
 ---

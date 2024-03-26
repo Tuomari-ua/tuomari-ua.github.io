@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Колючий диявол
+title: Колючий диявол [Barbed devil]
 type: Погань
 tag: 5
 ---

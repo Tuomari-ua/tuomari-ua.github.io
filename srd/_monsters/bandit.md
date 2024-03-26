@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бандит
+title: Бандит [Bandit]
 type: Гуманоїд
 tag: 0.125
 ---

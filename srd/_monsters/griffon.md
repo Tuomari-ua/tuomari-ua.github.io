@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Грифон
+title: Грифон [Griffon]
 type: Чудовисько
 tag: 2
 ---

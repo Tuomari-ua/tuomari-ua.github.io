@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мастиф
+title: Мастиф [Mastiff]
 type: Звір
 tag: 0.125
 ---

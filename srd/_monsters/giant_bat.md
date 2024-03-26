@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний кажан
+title: Величезний кажан [Giant bat]
 type: Звір
 tag: 0.25
 ---

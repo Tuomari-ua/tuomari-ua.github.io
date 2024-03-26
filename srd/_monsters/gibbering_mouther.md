@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Слинявий белькотун
+title: Слинявий белькотун [Gibbering mouther]
 type: Аберація
 tag: 2
 ---

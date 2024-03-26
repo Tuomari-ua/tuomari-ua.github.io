@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гарпія
+title: Гарпія [Harpy]
 type: Чудовисько
 tag: 1
 ---

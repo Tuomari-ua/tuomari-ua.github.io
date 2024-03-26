@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мерехтливий пес
+title: Мерехтливий пес [Blink dog]
 type: Фея
 tag: 0.25
 ---

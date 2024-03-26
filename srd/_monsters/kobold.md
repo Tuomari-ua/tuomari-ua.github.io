@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кобольд
+title: Кобольд [Kobold]
 type: Гуманоїд
 tag: 0.125
 ---

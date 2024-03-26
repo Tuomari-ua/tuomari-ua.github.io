@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дверґар
+title: Дверґар [Duergar]
 type: Гуманоїд
 tag: 1
 ---

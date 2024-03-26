@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кінь, тягловий
+title: Кінь, тягловий [Draft horse]
 type: Звір
 tag: 0.25
 ---

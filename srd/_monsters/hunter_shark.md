@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мисливська акула
+title: Мисливська акула [Hunter shark]
 type: Звір
 tag: 2
 ---

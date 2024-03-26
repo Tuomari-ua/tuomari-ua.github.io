@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Квіпер
+title: Квіпер [Quipper]
 type: Звір
 tag: 0
 ---

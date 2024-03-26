@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пантера
+title: Пантера [Panther]
 type: Звір
 tag: 0.25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кішка
+title: Кішка [Cat]
 type: Звір
 tag: 0
 ---

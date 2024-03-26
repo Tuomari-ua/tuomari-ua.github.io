@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ракшаса
+title: Ракшаса [Rakshasa]
 type: Погань
 tag: 13
 ---

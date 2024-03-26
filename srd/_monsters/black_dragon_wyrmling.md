@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня чорного дракона
+title: Змієня чорного дракона [Black Dragon Wyrmling]
 type: Дракон
 tag: 2
 ---

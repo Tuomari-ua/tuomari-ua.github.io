@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Летючий меч
+title: Летючий меч [Flying sword]
 type: Конструкт
 tag: 0.25
 ---

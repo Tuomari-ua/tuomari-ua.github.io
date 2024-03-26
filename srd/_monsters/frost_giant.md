@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Морозний велет
+title: Морозний велет [Frost giant]
 type: Велет
 tag: 8
 ---

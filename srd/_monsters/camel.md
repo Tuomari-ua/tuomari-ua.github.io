@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Верблюд
+title: Верблюд [Camel]
 type: Звір
 tag: 0.125
 ---

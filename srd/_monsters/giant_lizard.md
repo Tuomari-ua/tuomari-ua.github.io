@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна ящірка
+title: Величезна ящірка [Giant lizard]
 type: Звір
 tag: 0.25
 ---

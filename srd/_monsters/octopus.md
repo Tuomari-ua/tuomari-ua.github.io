@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Восьминіг
+title: Восьминіг [Octopus]
 type: Звір
 tag: 0
 ---

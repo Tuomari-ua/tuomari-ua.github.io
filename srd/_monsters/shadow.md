@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Тінь
+title: Тінь [Shadow]
 type: Невмерлий
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня зеленого дракона
+title: Змієня зеленого дракона [Green Dragon Wyrmling]
 type: Дракон
 tag: 2
 ---

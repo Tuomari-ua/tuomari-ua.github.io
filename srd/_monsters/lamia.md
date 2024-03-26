@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ламія
+title: Ламія [Lamia]
 type: Чудовисько
 tag: 4
 ---

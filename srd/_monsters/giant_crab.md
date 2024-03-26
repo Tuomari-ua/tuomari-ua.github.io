@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний краб
+title: Величезний краб [Giant crab]
 type: Звір
 tag: 0.125
 ---

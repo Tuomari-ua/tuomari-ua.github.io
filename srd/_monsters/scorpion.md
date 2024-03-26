@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Скорпіон
+title: Скорпіон [Scorpion]
 type: Звір
 tag: 0
 ---

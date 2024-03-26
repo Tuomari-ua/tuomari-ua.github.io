@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дравук
+title: Дравук [Drider]
 type: Чудовисько
 tag: 6
 ---

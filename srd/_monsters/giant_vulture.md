@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний гриф
+title: Величезний гриф [Giant vulture]
 type: Звір
 tag: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Архимаг
+title: Архимаг [Archmage]
 type: Гуманоїд
 tag: 12
 ---

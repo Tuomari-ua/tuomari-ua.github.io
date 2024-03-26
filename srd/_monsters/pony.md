@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Поні
+title: Поні [Pony]
 type: Звір
 tag: 0.125
 ---

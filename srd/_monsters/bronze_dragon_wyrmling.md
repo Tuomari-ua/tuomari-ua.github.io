@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня бронзового дракона
+title: Змієня бронзового дракона [Bronze Dragon Wyrmling]
 type: Дракон
 tag: 2
 ---

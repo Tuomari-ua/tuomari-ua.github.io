@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пробуджений кущ
+title: Пробуджений кущ [Awakened shrub]
 type: Рослина
 tag: 0
 ---

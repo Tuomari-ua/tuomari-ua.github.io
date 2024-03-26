@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Вурдалак
+title: Вурдалак [Ghast]
 type: Невмерлий
 tag: 2
 ---

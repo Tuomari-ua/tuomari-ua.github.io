@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Послідовник
+title: Послідовник [Acolyte]
 type: Гуманоїд
 tag: 0.25
 ---

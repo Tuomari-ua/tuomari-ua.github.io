@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній червоний дракон
+title: Древній червоний дракон [Ancient red dragon]
 type: Дракон
 tag: 24
 ---

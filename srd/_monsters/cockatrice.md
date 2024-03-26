@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кокатрис
+title: Кокатрис [Cockatrice]
 type: Чудовисько
 tag: 0.5
 ---

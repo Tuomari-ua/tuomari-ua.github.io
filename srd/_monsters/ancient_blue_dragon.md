@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній синій дракон
+title: Древній синій дракон [Ancient blue dragon]
 type: Дракон
 tag: 23
 ---

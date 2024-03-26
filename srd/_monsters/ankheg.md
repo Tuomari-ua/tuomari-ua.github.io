@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Анкеґ
+title: Анкеґ [Ankheg]
 type: Чудовисько
 tag: 2
 ---

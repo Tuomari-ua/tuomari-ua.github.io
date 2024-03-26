@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Невидимий переслідувач
+title: Невидимий переслідувач [Invisible stalker]
 type: Стихійник
 tag: 6
 ---

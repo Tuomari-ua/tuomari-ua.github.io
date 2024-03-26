@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна стонога
+title: Величезна стонога [Giant centipede]
 type: Звір
 tag: 0.25
 ---

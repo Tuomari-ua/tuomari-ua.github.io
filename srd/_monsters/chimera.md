@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Химера
+title: Химера [Chimera]
 type: Чудовисько
 tag: 6
 ---

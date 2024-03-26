@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Отьюг
+title: Отьюг [Otyugh]
 type: Аберація
 tag: 5
 ---

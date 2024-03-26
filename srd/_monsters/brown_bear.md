@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бурий ведмідь
+title: Бурий ведмідь [Brown bear]
 type: Звір
 tag: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий золотий дракон
+title: Дорослий золотий дракон [Adult gold dragon]
 type: Дракон
 tag: 17
 ---

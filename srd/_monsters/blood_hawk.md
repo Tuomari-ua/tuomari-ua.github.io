@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кривавий яструб
+title: Кривавий яструб [Blood hawk]
 type: Звір
 tag: 0.125
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий мідний дракон
+title: Молодий мідний дракон [Young copper dragon]
 type: Дракон
 tag: 7
 ---

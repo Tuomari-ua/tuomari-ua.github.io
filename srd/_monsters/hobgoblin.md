@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гобгоблін
+title: Гобгоблін [Hobgoblin]
 type: Гуманоїд
 tag: 0.5
 ---

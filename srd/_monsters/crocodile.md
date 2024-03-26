@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Крокодил
+title: Крокодил [Crocodile]
 type: Звір
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній золотий дракон
+title: Древній золотий дракон [Ancient gold dragon]
 type: Дракон
 tag: 24
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Орел
+title: Орел [Eagle]
 type: Звір
 tag: 0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний скорпіон
+title: Величезний скорпіон [Giant scorpion]
 type: Звір
 tag: 3
 ---

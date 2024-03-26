@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Водяник
+title: Водяник [Merrow]
 type: Чудовисько
 tag: 2
 ---

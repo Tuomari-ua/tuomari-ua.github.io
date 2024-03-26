@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сагваґін
+title: Сагваґін [Sahuagin]
 type: Гуманоїд
 tag: 0.5
 ---

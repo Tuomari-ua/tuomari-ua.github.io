@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Плезіозавр
+title: Плезіозавр [Plesiosaurus]
 type: Звір
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сіра твань
+title: Сіра твань [Gray ooze]
 type: Твань
 tag: 0.5
 ---

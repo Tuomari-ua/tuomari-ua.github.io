@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Накидень
+title: Накидень [Cloacker]
 type: Аберація
 tag: 8
 ---

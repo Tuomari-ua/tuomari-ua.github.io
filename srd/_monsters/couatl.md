@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Куатль
+title: Куатль [Couatl]
 type: Небожитель
 tag: 4
 ---

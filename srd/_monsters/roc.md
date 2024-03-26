@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Рух
+title: Рух [Roc]
 type: Чудовисько
 tag: 11
 ---

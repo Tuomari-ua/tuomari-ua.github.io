@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний вогняний жук
+title: Величезний вогняний жук [Giant fire beetle]
 type: Звір
 tag: 0
 ---

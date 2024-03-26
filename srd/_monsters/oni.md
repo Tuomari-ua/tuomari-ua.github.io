@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Оні
+title: Оні [Oni]
 type: Велет
 tag: 7
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Фазовий павук
+title: Фазовий павук [Phase spider]
 type: Чудовисько
 tag: 3
 ---

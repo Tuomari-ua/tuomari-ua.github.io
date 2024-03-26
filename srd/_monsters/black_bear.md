@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Чорний ведмідь
+title: Чорний ведмідь [Black bear]
 type: Звір
 tag: 0.5
 ---

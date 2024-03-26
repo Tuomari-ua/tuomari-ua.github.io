@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий мідний дракон
+title: Дорослий мідний дракон [Adult copper dragon]
 type: Дракон
 tag: 14
 ---

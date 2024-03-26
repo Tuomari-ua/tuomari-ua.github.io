@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ґримлок
+title: Ґримлок [Grimlock]
 type: Гуманоїд
 tag: 0.25
 ---

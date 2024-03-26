@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Привид
+title: Привид [Ghost]
 type: Невмерлий
 tag: 4
 ---

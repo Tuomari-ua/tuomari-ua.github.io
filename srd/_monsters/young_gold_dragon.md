@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий золотий дракон
+title: Молодий золотий дракон [Young gold dragon]
 type: Дракон
 tag: 10
 ---

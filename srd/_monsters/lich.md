@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ліч
+title: Ліч [Lich]
 type: Невмерлий
 tag: 21
 ---

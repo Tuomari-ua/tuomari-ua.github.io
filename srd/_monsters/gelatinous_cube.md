@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Драглистий куб
+title: Драглистий куб [Gelatinous cube]
 type: Твань
 tag: 2
 ---

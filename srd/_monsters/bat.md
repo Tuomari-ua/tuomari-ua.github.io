@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кажан
+title: Кажан [Bat]
 type: Звір
 tag: 0
 ---

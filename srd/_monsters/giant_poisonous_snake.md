@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна отруйна змія
+title: Величезна отруйна змія [Giant poisonous snake]
 type: Звір
 tag: 0.25
 ---

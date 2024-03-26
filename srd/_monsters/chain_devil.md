@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ланцюговий диявол
+title: Ланцюговий диявол [Chain devil]
 type: Погань
 tag: 8
 ---

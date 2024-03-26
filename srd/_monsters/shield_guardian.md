@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Щитовий страж
+title: Щитовий страж [Shield guardian]
 type: Конструкт
 tag: 7
 ---

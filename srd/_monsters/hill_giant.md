@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пагорбний велет
+title: Пагорбний велет [Hill giant]
 type: Велет
 tag: 5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Удав
+title: Удав [Constrictor snake]
 type: Звір
 tag: 0.25
 ---

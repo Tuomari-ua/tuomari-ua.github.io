@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Темноплащ
+title: Темноплащ [Darkmantle]
 type: Чудовисько
 tag: 0.5
 ---

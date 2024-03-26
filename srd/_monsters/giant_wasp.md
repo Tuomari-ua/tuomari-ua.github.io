@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна оса
+title: Величезна оса [Giant wasp]
 type: Звір
 tag: 0.5
 ---

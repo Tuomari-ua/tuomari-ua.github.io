@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Морський коник
+title: Морський коник [Sea horse]
 type: Звір
 tag: 0
 ---

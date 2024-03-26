@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кістяний диявол
+title: Кістяний диявол [Bone devil]
 type: Погань
 tag: 9
 ---

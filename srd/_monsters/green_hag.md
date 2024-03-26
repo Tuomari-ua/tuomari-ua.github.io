@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Зелена яга
+title: Зелена яга [Green Hag]
 type: Фея
 tag: 3
 ---

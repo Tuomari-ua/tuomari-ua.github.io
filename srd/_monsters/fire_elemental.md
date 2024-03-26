@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Стихійник вогню
+title: Стихійник вогню [Fire elemental]
 type: Стихійник
 tag: 5
 ---

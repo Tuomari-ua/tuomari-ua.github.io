@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний лось
+title: Величезний лось [Giant elk]
 type: Звір
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний павук-вовк
+title: Величезний павук-вовк [Giant wolf spider]
 type: Звір
 tag: 0.25
 ---

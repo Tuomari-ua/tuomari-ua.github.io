@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Павук
+title: Павук [Spider]
 type: Звір
 tag: 0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гладіатор
+title: Гладіатор [Gladiator]
 type: Гуманоїд
 tag: 5
 ---

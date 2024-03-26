@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Слон
+title: Слон [Elephant]
 type: Звір
 tag: 4
 ---

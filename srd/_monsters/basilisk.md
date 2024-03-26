@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Василіск
+title: Василіск [Basilisk]
 type: Чудовисько
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний борсук
+title: Величезний борсук [Giant badger]
 type: Звір
 tag: 0.25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Магмін
+title: Магмін [Magmin]
 type: Стихійник
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Панцирниця
+title: Панцирниця [Bulette]
 type: Чудовисько
 tag: 5
 ---

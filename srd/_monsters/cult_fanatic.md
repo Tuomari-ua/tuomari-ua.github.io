@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Фанатик культу
+title: Фанатик культу [Cult fanatic]
 type: Гуманоїд
 tag: 2
 ---

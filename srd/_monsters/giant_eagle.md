@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний орел
+title: Величезний орел [Giant eagle]
 type: Звір
 tag: 1
 ---

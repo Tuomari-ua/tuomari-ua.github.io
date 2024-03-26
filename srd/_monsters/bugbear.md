@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Багбер
+title: Багбер [Bugbear]
 type: Гуманоїд
 tag: 1
 ---

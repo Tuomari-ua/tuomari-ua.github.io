@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий червоний дракон
+title: Дорослий червоний дракон [Adult red dragon]
 type: Дракон
 tag: 17
 ---

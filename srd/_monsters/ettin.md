@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Еттин
+title: Еттин [Ettin]
 type: Велет
 tag: 4
 ---

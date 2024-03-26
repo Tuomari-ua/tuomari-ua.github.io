@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Орк
+title: Орк [Orc]
 type: Гуманоїд
 tag: 0.5
 ---

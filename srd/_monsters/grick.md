@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ґрик
+title: Ґрик [Grick]
 type: Чудовисько
 tag: 2
 ---

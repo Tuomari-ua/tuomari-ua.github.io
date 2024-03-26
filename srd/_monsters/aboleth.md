@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Аболет
+title: Аболет [Aboleth]
 type: Аберація
 tag: 10
 ---

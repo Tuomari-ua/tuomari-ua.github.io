@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Борсук
+title: Борсук [Badger]
 type: Звір
 tag: 0
 ---

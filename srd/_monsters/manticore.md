@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мантикора
+title: Мантикора [Manticore]
 type: Чудовисько
 tag: 3
 ---

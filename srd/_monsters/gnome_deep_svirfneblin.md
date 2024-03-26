@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Глибинний гном (Свірфнеблін)
+title: Глибинний гном (Свірфнеблін) [Deep gnome svirfneblin]
 type: Гуманоїд
 tag: 0.5
 ---

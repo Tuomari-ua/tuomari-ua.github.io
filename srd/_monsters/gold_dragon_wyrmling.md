@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня золотого дракона
+title: Змієня золотого дракона [Gold Dragon Wyrmling]
 type: Дракон
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Краб
+title: Краб [Crab]
 type: Звір
 tag: 0
 ---

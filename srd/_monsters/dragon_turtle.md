@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Драконова черепаха
+title: Драконова черепаха [Dragon turtle]
 type: Дракон
 tag: 17
 ---

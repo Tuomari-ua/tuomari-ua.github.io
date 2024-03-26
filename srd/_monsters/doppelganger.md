@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Допельгангер
+title: Допельгангер [Doppelganger]
 type: Чудовисько
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кентавр
+title: Кентавр [Centaur]
 type: Чудовисько
 tag: 2
 ---

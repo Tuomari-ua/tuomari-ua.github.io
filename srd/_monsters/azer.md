@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ейзер
+title: Ейзер [Azer]
 type: Стихійник
 tag: 2
 ---

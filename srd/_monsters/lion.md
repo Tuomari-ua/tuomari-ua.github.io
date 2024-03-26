@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лев
+title: Лев [Lion]
 type: Звір
 tag: 1
 ---

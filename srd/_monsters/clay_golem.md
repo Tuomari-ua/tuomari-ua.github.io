@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Глиняний голем
+title: Глиняний голем [Clay golem]
 type: Конструкт
 tag: 9
 ---

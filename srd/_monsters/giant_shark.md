@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна акула
+title: Величезна акула [Giant shark]
 type: Звір
 tag: 5
 ---

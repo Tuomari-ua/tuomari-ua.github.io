@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня червоного дракона
+title: Змієня червоного дракона [Red dragon wyrmling]
 type: Дракон
 tag: 4
 ---

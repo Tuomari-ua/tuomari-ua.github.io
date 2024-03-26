@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пекельник
+title: Пекельник [Pit fiend]
 type: Погань
 tag: 20
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Верескун
+title: Верескун [Shrieker]
 type: Рослина
 tag: 0
 ---

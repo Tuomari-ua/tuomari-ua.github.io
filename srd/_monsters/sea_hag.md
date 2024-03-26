@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Морська яга
+title: Морська яга [Sea hag]
 type: Фея
 tag: 2
 ---

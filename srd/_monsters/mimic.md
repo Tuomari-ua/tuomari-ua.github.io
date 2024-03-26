@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мімік
+title: Мімік [Mimic]
 type: Чудовисько
 tag: 2
 ---

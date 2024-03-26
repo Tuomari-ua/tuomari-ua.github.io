@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна ласиця
+title: Величезна ласиця [Gian weasel]
 type: Звір
 tag: 0.125
 ---

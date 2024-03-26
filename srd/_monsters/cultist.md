@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сектант
+title: Сектант [Cultist]
 type: Гуманоїд
 tag: 0.125
 ---

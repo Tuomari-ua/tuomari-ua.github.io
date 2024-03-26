@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Хмарний велет
+title: Хмарний велет [Cloud giant]
 type: Велет
 tag: 9
 ---

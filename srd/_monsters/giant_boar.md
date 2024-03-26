@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний кабан
+title: Величезний кабан [Giant boar]
 type: Звір
 tag: 2
 ---

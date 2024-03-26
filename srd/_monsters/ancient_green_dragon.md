@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній зелений дракон
+title: Древній зелений дракон [Ancient green dragon]
 type: Дракон
 tag: 22
 ---

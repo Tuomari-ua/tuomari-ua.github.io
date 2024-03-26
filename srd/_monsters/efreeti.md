@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Іфрит
+title: Іфрит [Efreeti]
 type: Стихійник
 tag: 11
 ---

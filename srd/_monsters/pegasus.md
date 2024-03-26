@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пегас
+title: Пегас [Pegasus]
 type: Небожитель
 tag: 2
 ---

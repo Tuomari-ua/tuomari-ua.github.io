@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Коза
+title: Коза [Goat]
 type: Звір
 tag: 0
 ---

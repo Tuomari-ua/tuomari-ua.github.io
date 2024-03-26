@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бородатий диявол
+title: Бородатий диявол [Bearded devil]
 type: Погань
 tag: 3
 ---

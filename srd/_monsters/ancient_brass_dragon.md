@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній латунний дракон
+title: Древній латунний дракон [Ancient brass dragon]
 type: Дракон
 tag: 20
 ---

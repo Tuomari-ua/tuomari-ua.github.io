@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня синього дракона
+title: Змієня синього дракона [Blue Dragon wyrmling]
 type: Дракон
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний щур
+title: Величезний щур [Giant rat]
 type: Звір
 tag: 0.125
 ---

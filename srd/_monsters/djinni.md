@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Джин
+title: Джин [Djinni]
 type: Стихійник
 tag: 11
 ---

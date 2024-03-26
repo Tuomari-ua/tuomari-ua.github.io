@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Етеркап
+title: Етеркап [Ettercap]
 type: Чудовисько
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний морський коник
+title: Величезний морський коник [Giant sea horse]
 type: Звір
 tag: 0.5
 ---

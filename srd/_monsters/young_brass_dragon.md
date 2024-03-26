@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий латунний дракон
+title: Молодий латунний дракон [Young brass dragon]
 type: Дракон
 tag: 6
 ---

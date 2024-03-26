@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий чорний дракон
+title: Молодий чорний дракон [Young black dragon]
 type: Дракон
 tag: 7
 ---

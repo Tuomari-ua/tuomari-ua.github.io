@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Шакал
+title: Шакал [Jackal]
 type: Звір
 tag: 0
 ---

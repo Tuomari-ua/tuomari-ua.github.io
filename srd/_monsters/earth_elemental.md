@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Стихійник землі
+title: Стихійник землі [Earth elemental]
 type: Стихійник
 tag: 5
 ---

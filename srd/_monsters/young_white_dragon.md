@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий білий дракон
+title: Молодий білий дракон [Young white dragon]
 type: Дракон
 tag: 6
 ---

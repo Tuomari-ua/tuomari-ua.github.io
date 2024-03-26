@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Планетар
+title: Планетар [Planetar]
 tag: 16
 type: Небожитель
 ---

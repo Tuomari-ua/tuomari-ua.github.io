@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній срібний дракон
+title: Древній срібний дракон [Adult silver dragon]
 type: Дракон
 tag: 23
 ---

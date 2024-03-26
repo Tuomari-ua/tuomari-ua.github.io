@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Носоріг
+title: Носоріг [Rhinoceros]
 type: Звір
 tag: 2
 ---

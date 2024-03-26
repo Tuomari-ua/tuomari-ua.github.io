@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бабуїн
+title: Бабуїн [Baboon]
 type: Звір
 tag: 0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Скелет
+title: Скелет [Skeleton]
 type: Невмерлий
 tag: 0.25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гаргуйль
+title: Гаргуйль [Gargoyle]
 type: Стихійник
 tag: 2
 ---

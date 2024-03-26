@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна жаба
+title: Величезна жаба [Giant frog]
 type: Звір
 tag: 0.25
 ---

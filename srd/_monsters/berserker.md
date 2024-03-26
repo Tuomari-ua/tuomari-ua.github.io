@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Берсерк
+title: Берсерк [Berserk]
 type: Гуманоїд
 tag: 2
 ---

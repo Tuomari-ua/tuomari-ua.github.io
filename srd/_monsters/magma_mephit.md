@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Магмовий мефіт
+title: Магмовий мефіт [Magma mephit]
 type: Стихійник
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний крокодил
+title: Величезний крокодил [Giant crocodile]
 type: Звір
 tag: 5
 ---

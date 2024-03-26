@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Шаблезубий тигр
+title: Шаблезубий тигр [Sabertoothed tiger]
 type: Звір
 tag: 2
 ---

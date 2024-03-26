@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дріада
+title: Дріада [Dryad]
 type: Фея
 tag: 1
 ---

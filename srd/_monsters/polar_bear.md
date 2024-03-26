@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Білий Ведмідь
+title: Білий Ведмідь [Polar bear]
 type: Звір
 tag: 2
 ---

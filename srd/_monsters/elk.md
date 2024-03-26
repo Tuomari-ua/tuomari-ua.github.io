@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лось
+title: Лось [Elk]
 type: Звір
 tag: 0.25
 ---

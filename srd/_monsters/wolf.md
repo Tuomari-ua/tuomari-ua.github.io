@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Вовк
+title: Вовк [Wolf]
 type: Звір
 tag: 0.25
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Шляхтич
+title: Шляхтич [Noble]
 type: Гуманоїд
 tag: 0.125
 ---

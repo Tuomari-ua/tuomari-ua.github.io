@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лорд мумій
+title: Лорд мумій [Mummy lord]
 type: Невмерлий
 tag: 15
 ---

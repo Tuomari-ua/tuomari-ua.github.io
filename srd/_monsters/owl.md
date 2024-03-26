@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сова
+title: Сова [Owl]
 type: Звір
 tag: 0
 ---

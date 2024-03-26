@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Залізний голем
+title: Залізний голем [Iron golem]
 type: Конструкт
 tag: 16
 ---

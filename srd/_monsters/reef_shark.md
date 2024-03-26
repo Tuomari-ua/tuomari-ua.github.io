@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Рифова акула
+title: Рифова акула [Reef shark]
 type: Звір
 tag: 0.5
 ---

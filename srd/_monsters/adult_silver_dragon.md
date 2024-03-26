@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий срібний дракон
+title: Дорослий срібний дракон [Adult silver dragon]
 type: Дракон
 tag: 16
 ---

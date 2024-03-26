@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кошмар
+title: Кошмар [Nightmare]
 type: Погань
 tag: 3
 ---

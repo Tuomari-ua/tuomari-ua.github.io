@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна мавпа
+title: Величезна мавпа [Giant ape]
 type: Звір
 tag: 7
 ---

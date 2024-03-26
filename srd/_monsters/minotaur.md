@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мінотавр
+title: Мінотавр [Minotaur]
 type: Чудовисько
 tag: 3
 ---

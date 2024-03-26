@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Нага Захисниця
+title: Нага Захисниця [Guarding Naga]
 type: Чудовисько
 tag: 10
 ---

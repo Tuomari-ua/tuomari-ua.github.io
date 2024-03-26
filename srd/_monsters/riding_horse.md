@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Їздовий кінь
+title: Їздовий кінь [Riding horse]
 type: Звір
 tag: 0.25
 ---

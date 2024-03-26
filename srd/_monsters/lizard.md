@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ящірка
+title: Ящірка [Lizard]
 type: Звір
 tag: 0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня мідного дракона
+title: Змієня мідного дракона [Copper Dragon Wyrmling]
 type: Дракон
 tag: 1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Іржавник
+title: Іржавник [Rust monster]
 type: Чудовисько
 tag: 0.5
 ---

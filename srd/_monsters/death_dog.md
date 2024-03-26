@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пес смерті
+title: Пес смерті [Death dog]
 type: Чудовисько
 tag: 1
 ---

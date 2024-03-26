@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гідра
+title: Гідра [Hydra]
 type: Чудовисько
 tag: 8
 ---

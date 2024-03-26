@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Саламандра
+title: Саламандра [Salamandra]
 type: Стихійник
 tag: 5
 ---

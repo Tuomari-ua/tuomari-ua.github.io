@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ґлабрезу
+title: Ґлабрезу [Glabrezu]
 type: Погань
 tag: 9
 ---

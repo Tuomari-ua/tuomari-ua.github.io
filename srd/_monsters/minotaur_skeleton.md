@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Скелет мінотавра
+title: Скелет мінотавра [Minotaur skeleton]
 type: Невмерлий
 tag: 2
 ---

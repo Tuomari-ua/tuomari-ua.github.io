@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Вартовий
+title: Вартовий [Guard]
 type: Гуманоїд
 tag: 0.125
 ---

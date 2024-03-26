@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Сатир
+title: Сатир [Satyr]
 type: Фея
 tag: 0.5
 ---

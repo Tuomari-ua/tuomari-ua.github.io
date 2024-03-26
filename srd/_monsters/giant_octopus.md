@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний восьминіг
+title: Величезний восьминіг [Giant octopus]
 type: Звір
 tag: 1
 ---

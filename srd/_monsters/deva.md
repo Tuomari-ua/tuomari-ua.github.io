@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дев
+title: Дев [Deva]
 tag: 10
 type: Небожитель
 ---

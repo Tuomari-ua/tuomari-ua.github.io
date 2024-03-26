@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Балор
+title: Балор [Balor]
 type: Погань
 tag: 19
 ---

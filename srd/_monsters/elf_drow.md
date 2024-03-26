@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ельф, дроу
+title: Ельф, дроу [Elf, drow]
 type: Гуманоїд
 tag: 0.25
 ---

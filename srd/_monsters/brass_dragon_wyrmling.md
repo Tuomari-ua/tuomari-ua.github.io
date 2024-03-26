@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня латунного дракона
+title: Змієня латунного дракона [Brass Dragon Wyrmling]
 type: Дракон
 tag: 1
 ---

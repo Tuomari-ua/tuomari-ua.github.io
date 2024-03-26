@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мотузник
+title: Мотузник [Roper]
 type: Чудовисько
 tag: 5
 ---

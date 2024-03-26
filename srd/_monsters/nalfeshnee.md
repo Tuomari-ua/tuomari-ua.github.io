@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Нальфешні
+title: Нальфешні [Nalfeshnee]
 type: Погань
 tag: 13
 ---

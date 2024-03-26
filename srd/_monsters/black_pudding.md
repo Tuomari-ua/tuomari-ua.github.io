@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Чорний слиз
+title: Чорний слиз [Black pudding]
 type: Твань
 tag: 4
 ---

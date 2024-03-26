@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гомункул
+title: Гомункул [Homunculus]
 type: Конструкт
 tag: 0
 ---

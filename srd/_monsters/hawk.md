@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Яструб
+title: Яструб [Hawk]
 type: Звір
 tag: 0
 ---

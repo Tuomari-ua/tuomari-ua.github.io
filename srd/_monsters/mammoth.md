@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мамут
+title: Мамут [Mammoth]
 type: Звір
 tag: 6
 ---

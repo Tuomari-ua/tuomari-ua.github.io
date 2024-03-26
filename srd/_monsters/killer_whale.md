@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Косатка
+title: Косатка [Killer whale]
 type: Звір
 tag: 3
 ---

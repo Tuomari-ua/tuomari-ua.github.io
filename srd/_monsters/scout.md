@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Розвідник
+title: Розвідник [Scout]
 type: Гуманоїд
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кабан
+title: Кабан [Boar]
 type: Звір
 tag: 0.25
 ---

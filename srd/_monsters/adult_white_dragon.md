@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий білий дракон
+title: Дорослий білий дракон [Adult white dragon]
 type: Дракон
 tag: 13
 ---

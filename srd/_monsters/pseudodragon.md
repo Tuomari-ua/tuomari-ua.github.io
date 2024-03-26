@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Псевдодракон
+title: Псевдодракон [Pseudodragon]
 type: Дракон
 tag: 0.25
 ---

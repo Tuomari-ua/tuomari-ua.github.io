@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна ропуха
+title: Величезна ропуха [Giant toad]
 type: Звір
 tag: 1
 ---

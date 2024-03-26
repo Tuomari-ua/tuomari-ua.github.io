@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лемур
+title: Лемур [Lemure]
 type: Погань
 tag: 0
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Летюча змія
+title: Летюча змія [Flying snake]
 type: Звір
 tag: 0.125
 ---

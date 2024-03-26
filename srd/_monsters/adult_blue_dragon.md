@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий синій дракон
+title: Дорослий синій дракон [Adult blue dragon]
 type: Дракон
 tag: 16
 ---

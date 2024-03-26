@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Чортик
+title: Чортик [Imp]
 type: Погань
 tag: 1
 ---

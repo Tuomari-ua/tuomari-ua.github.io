@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мериліт
+title: Мериліт [Marilith]
 type: Погань
 tag: 16
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Чууль
+title: Чууль [Chuul]
 type: Аберація
 tag: 4
 ---

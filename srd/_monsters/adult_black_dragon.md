@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий чорний дракон
+title: Дорослий чорний дракон [Adult black dragon]
 type: Дракон
 tag: 14
 ---

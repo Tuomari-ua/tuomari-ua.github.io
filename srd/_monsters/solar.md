@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Солар
+title: Солар [Solar]
 tag: 21
 type: Небожитель
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Золотисті драглі
+title: Золотисті драглі [Ochre jelly]
 type: Твань
 tag: 2
 ---

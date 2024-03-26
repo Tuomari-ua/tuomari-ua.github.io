@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гієна
+title: Гієна [Hyena]
 type: Звір
 tag: 0
 ---

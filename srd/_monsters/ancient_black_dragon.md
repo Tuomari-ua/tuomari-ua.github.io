@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній чорний дракон
+title: Древній чорний дракон [Ancient black dragon]
 type: Дракон
 tag: 21
 ---

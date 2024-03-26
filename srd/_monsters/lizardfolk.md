@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ящеролюд
+title: Ящеролюд [Lizardfolk]
 type: Гуманоїд
 tag: 0.5
 ---

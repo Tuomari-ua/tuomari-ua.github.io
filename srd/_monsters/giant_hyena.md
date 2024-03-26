@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезна гієна
+title: Величезна гієна [Giant hyena]
 type: Звір
 tag: 1
 ---

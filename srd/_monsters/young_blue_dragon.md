@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий синій дракон
+title: Молодий синій дракон [Young blue dragon]
 type: Дракон
 tag: 9
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний удав
+title: Величезний удав [Giant constrictor snake]
 type: Звір
 tag: 2
 ---

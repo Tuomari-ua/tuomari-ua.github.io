@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Зомбі
+title: Зомбі [Zombie]
 type: Невмерлий
 tag: 0.25
 ---

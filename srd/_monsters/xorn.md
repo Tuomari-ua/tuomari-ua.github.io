@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Зорн
+title: Зорн [Xorn]
 type: Стихійник
 tag: 5
 ---

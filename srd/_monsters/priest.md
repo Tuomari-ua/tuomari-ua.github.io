@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Священник
+title: Священник [Priest]
 type: Гуманоїд
 tag: 2
 ---

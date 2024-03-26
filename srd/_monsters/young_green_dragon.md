@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий зелений дракон
+title: Молодий зелений дракон [Young green dragon]
 type: Дракон
 tag: 8
 ---

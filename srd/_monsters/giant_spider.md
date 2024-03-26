@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Величезний павук
+title: Величезний павук [Giant spider]
 type: Звір
 tag: 1
 ---

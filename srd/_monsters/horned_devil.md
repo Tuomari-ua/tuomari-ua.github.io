@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Рогатий диявол
+title: Рогатий диявол [Horned devil]
 type: Погань
 tag: 11
 ---

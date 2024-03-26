@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пиловий мефіт
+title: Пиловий мефіт [Dust mephit]
 type: Стихійник
 tag: 0.5
 ---

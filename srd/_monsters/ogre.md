@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Огр
+title: Огр [Ogre]
 type: Велет
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гезро
+title: Гезро [Hezrou]
 type: Погань
 tag: 8
 ---

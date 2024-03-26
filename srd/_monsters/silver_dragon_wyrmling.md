@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Змієня срібного дракона
+title: Змієня срібного дракона [Silver dragon wyrmling]
 type: Дракон
 tag: 2
 ---

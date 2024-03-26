@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Упир
+title: Упир [Ghoul]
 type: Невмерлий
 tag: 1
 ---

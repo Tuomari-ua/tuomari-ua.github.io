@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пробуджене дерево
+title: Пробуджене дерево [Awakened tree]
 type: Рослина
 tag: 2
 ---

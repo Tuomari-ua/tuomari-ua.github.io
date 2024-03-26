@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий зелений дракон
+title: Дорослий зелений дракон [Adult green dragon]
 type: Дракон
 tag: 15
 ---

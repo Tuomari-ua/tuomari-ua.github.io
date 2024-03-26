@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Плазуючий курган
+title: Плазуючий курган [Shambling mound]
 type: Рослина
 tag: 5
 ---

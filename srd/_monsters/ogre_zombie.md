@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Огр зомбі
+title: Огр зомбі [Ogre zombie]
 type: Невмерлий
 tag: 2
 ---

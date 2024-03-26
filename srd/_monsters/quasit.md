@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Квазит
+title: Квазит [Quasit]
 type: Погань
 tag: 1
 ---

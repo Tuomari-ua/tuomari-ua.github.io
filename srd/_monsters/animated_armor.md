@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Оживлений обладунок
+title: Оживлений обладунок [Animated armor]
 type: Конструкт
 tag: 1
 ---

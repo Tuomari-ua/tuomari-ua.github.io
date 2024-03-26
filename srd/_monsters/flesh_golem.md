@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: М'ясний голем
+title: М'ясний голем [Flesh golem]
 type: Конструкт
 tag: 5
 ---

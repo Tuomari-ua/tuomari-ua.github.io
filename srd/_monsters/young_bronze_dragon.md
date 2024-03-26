@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий бронзовий дракон
+title: Молодий бронзовий дракон [Young bronze dragon]
 type: Дракон
 tag: 8
 ---

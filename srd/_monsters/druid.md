@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Друїд
+title: Друїд [Druid]
 type: Гуманоїд
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Крук
+title: Крук [Raven]
 type: Звір
 tag: 0
 ---

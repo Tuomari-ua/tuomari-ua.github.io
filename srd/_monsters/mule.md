@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мул
+title: Мул [Mule]
 type: Звір
 tag: 0.125
 ---

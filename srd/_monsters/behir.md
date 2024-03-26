@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Бегір
+title: Бегір [Behir]
 type: Чудовисько
 tag: 11
 ---

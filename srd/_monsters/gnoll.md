@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гнол
+title: Гнол [Gnoll]
 type: Гуманоїд
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пацюк
+title: Пацюк [Rat]
 type: Звір
 tag: 0
 ---

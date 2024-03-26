@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Гіпогриф
+title: Гіпогриф [Hippogriff]
 type: Чудовисько
 tag: 1
 ---

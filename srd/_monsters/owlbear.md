@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ведмесова
+title: Ведмесова [Owlbear]
 type: Чудовисько
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Андросфінкс
+title: Андросфінкс [Androsphinx]
 type: Чудовисько
 tag: 17
 ---

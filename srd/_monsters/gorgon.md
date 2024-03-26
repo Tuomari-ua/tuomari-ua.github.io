@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Горгона
+title: Горгона [Gorgon]
 type: Чудовисько
 tag: 5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Жаба
+title: Жаба [Frog]
 type: Звір
 tag: 0
 ---

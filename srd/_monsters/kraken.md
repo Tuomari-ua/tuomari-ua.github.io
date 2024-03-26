@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Кракен
+title: Кракен [Kraken]
 type: Чудовисько
 tag: 23
 ---

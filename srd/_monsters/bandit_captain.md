@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Капітан бандитів
+title: Капітан бандитів [Bandit captain]
 type: Гуманоїд
 tag: 2
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Лютововк
+title: Лютововк [Dire wolf]
 type: Звір
 tag: 1
 ---

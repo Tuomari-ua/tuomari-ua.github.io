@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Медуза
+title: Медуза [Medusa]
 type: Чудовисько
 tag: 6
 ---

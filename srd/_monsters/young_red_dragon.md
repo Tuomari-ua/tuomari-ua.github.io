@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Молодий червоний дракон
+title: Молодий червоний дракон [Young red dragon]
 type: Дракон
 tag: 10
 ---

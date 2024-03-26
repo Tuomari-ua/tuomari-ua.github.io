@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Отруйна змія
+title: Отруйна змія [Poisonous snake]
 type: Звір
 tag: 0.125
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Дорослий бронзовий дракон
+title: Дорослий бронзовий дракон [Adult bronze dragon]
 type: Дракон
 tag: 15
 ---

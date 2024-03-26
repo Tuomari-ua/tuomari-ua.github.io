@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Крижаний диявол
+title: Крижаний диявол [Ice devil]
 type: Погань
 tag: 14
 ---

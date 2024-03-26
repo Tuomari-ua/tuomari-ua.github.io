@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Пекельний гінчак
+title: Пекельний гінчак [Hell hound]
 type: Погань
 tag: 3
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Вогняний велет
+title: Вогняний велет [Fire giant]
 type: Велет
 tag: 9
 ---

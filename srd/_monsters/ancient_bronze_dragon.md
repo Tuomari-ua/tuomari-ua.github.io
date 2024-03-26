@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Древній бронзовий дракон
+title: Древній бронзовий дракон [Ancient bronze dragon]
 type: Дракон
 tag: 22
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Ремораз
+title: Ремораз [Remorhaz]
 type: Чудовисько
 tag: 11
 ---

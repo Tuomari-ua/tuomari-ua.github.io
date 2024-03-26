@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Мерфольк
+title: Мерфольк [Merfolk]
 type: Гуманоїд
 tag: 0.125
 ---

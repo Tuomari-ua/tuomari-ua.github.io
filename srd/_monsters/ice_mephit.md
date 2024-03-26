@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Крижаний мефіт
+title: Крижаний мефіт [Ice mephit]
 type: Стихійник
 tag: 0.5
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-nontoc
 category: monsters
-title: Килим ядухи
+title: Килим ядухи [Rug of Smothering]
 type: Конструкт
 tag: 2
 ---
