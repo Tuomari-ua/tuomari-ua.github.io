@@ -1,7 +1,3 @@
-name: Wand of the War Mage, +1, +2, or +3
-type: wand
-
-# Wand of the War Mage, +1, +2, or +3 
 ---
 category: items
 layout: page
