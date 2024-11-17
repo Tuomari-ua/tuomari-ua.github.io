@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-type: Рідкісний
+type: rare
 tag: staff
 title: Staff of Healing
 --- 

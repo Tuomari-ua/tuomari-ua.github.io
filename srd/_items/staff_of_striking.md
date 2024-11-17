@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Staff of Striking
+type: very rare
 tag: staff
 title: Staff of Striking
 ---

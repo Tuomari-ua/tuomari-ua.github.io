@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Wings of Flying
+type: rare
 tag: item
 title: Wings of Flying 
 ---

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Winged Boots 
+type: uncommon
 tag: item
 title: Winged Boots 
 ---

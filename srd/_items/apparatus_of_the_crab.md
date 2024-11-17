@@ -21,8 +21,9 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table. 
 
 ### Apparatus of the Crab Levers
-| Lever | Up                                                                                                                               | Down                                                                                                                                        |
-|-------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Lever | Up                                         | Down                                                                                                                  |
+|-------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | 1     | Legs and tail extend, allowing the apparatus to walk and swim.                                                                   | Legs and tail retract, reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.                           |
 | 2     | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
 | 3     | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |

@@ -1,7 +1,7 @@
 ---
 category: items
 layout: page
-name: Talisman of Pure Good
+type: legendary
 tag: item
 title: Talisman of Pure Good
 ---
