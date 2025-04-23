@@ -11,7 +11,7 @@ layout: default
 
 # Персонаж
 
-| Класи, походження, види 2024                  | Класи та раси 2014                                  |
+| Класи 2024    | Класи 2014                                  |
 |-----------------------------------------------|-----------------------------------------------------|
 | Варвар        | 🇺🇦 [Бард](./docs/character/classes/bard.html)|
 | Бард          | 🇺🇦 [Боєць](./docs/character/classes/fighter.html)|
@@ -25,6 +25,9 @@ layout: default
 | Заклинач      | 🇺🇦 [Рейнджер](./docs/character/classes/ranger.html) |
 | Чаклун        | 🇺🇦 [Чаклун](./docs/character/classes/warlock.html)  |
 | Чарівник      | 🇺🇦 [Чарівник](./docs/character/classes/wizard.html) |
+
+|Види 2024 | Раси 2014         |
+|----------|-------------------|
 | Драконородний | 🇺🇦 [Гном](./docs/character/races/gnome.html)                |
 | Дворф         | 🇺🇦 [Дворф](./docs/character/races/dwarf.html)               | 
 | Ельф          | 🇺🇦 [Драконородний](./docs/character/races/dragonborn.html)|
