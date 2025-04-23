@@ -6,25 +6,40 @@ layout: default
 ## Довідник з правил 5e
  [Ліцензія на поширення Open Game License  1.0a ](./license.html) 
  
- **Правила гри 2024 року будуть доступні в українському перекладі після виходу SRD5.2 - очікуємо вихід документа в найближчі тижні, + близько місяця на переклад.** До того часу, на жаль, ліцензійні вимоги не дозволяють публікувати переклади навіть Free Rules нової версії.
+ **Розпочато роботу над перекладом SRD5.2 за правилами 2024 року. [Підтримати перекладацьку роботу можна на цій банці.](https://send.monobank.ua/jar/Z4PzGDzMb)**
 
 
 # Персонаж
 
-| Класи                                         | Раси                                                |Інше
-|-----------------------------------------------|-----------------------------------------------------|----------------------------------------------|
-| 🇺🇦 [Бард](./docs/character/classes/bard.html)    | 🇺🇦 [Гном](./docs/character/races/gnome.html)                | 🇺🇦 [Світогляд](./docs/character/alignment.html)     |
-| 🇺🇦 [Боєць](./docs/character/classes/fighter.html)| 🇺🇦 [Дворф](./docs/character/races/dwarf.html)               | 🇺🇦 [Передісторії](./docs/character/backgrounds.html)|   
-| 🇺🇦 [Варвар](./docs/character/classes/barbarian.html)| 🇺🇦 [Драконородний](./docs/character/races/dragonborn.html)| 🇺🇦 [Мови](./docs/character/languages.html)          |
-| 🇺🇦 [Друїд](./docs/character/classes/druid.html)  | 🇺🇦 [Ельф](./docs/character/races/elf.html)                  | 🇺🇦 [Пантеони](./docs/character/fantasy-historical_pantheons.html)  |
-| 🇺🇦 [Клірик](./docs/character/classes/cleric.html)| 🇺🇦 [Людина](./docs/character/races/human.html)              | |
-| 🇺🇦 [Заклинач](./docs/character/classes/sorcerer.html) | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)        | |
-| 🇺🇦 [Монах](./docs/character/classes/monk.html)   | 🇺🇦 [Напіворк](./docs/character/races/half-orc.html)         | |
-| 🇺🇦 [Паладин](./docs/character/classes/paladin.html) | 🇺🇦 [Піврослик](./docs/character/races/halfling.html)      | |
-| 🇺🇦 [Пройдисвіт](./docs/character/classes/rogue.html)| 🇺🇦 [Тифлін](./docs/character/races/tiefling.html)          | |
-| 🇺🇦 [Рейнджер](./docs/character/classes/ranger.html) | | |
-| 🇺🇦 [Чаклун](./docs/character/classes/warlock.html)  | | |
-| 🇺🇦 [Чарівник](./docs/character/classes/wizard.html) | | |
+| Класи, походження, види 2024                  | Класи та раси 2014                                  |
+|-----------------------------------------------|-----------------------------------------------------|
+| Варвар        | 🇺🇦 [Бард](./docs/character/classes/bard.html)|
+| Бард          | 🇺🇦 [Боєць](./docs/character/classes/fighter.html)|
+| Клірик        | 🇺🇦 [Варвар](./docs/character/classes/barbarian.html)|
+| Друїд         | 🇺🇦 [Друїд](./docs/character/classes/druid.html)  |
+| Боєць         | 🇺🇦 [Клірик](./docs/character/classes/cleric.html)|
+| Монах         | 🇺🇦 [Заклинач](./docs/character/classes/sorcerer.html) |
+| Паладин       | 🇺🇦 [Монах](./docs/character/classes/monk.html)   |
+| Рейнджер      | 🇺🇦 [Паладин](./docs/character/classes/paladin.html) |
+| Пройдисвіт    | 🇺🇦 [Пройдисвіт](./docs/character/classes/rogue.html)|
+| Заклинач      | 🇺🇦 [Рейнджер](./docs/character/classes/ranger.html) |
+| Чаклун        | 🇺🇦 [Чаклун](./docs/character/classes/warlock.html)  |
+| Чарівник      | 🇺🇦 [Чарівник](./docs/character/classes/wizard.html) |
+| Драконородний | 🇺🇦 [Гном](./docs/character/races/gnome.html)                |
+| Дворф         | 🇺🇦 [Дворф](./docs/character/races/dwarf.html)               | 
+| Ельф          | 🇺🇦 [Драконородний](./docs/character/races/dragonborn.html)|
+| Гном          | 🇺🇦 [Ельф](./docs/character/races/elf.html)                  |
+| Голіаф        | 🇺🇦 [Людина](./docs/character/races/human.html)              |
+| Піврослик     | 🇺🇦 [Напівельф](./docs/character/races/half-elf.html)    |
+| Людина        | 🇺🇦 [Напіворк](./docs/character/races/half-orc.html)         |
+| Орк           | 🇺🇦 [Піврослик](./docs/character/races/halfling.html)      |
+| Тифлін        | 🇺🇦 [Тифлін](./docs/character/races/tiefling.html)          |
+|               | 🇺🇦 [Світогляд](./docs/character/alignment.html)|
+|               | 🇺🇦 [Передісторії](./docs/character/backgrounds.html)|
+|               | 🇺🇦 [Мови](./docs/character/languages.html)  |
+|               | 🇺🇦 [Пантеони](./docs/character/fantasy-historical_pantheons.html)|
+ 
+
 
 # Здібності
 
